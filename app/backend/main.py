@@ -180,62 +180,45 @@ def _retrieve_context(query: str, max_docs: int = 5, max_chars: int = 6000) -> s
         total += len(block)
     return "".join(buf).strip()
 
+import logging
+
+logger = logging.getLogger("uvicorn")  # already configured by Uvicorn
+
 def _assistant_reply(user_text: str, lang: str, context: Optional[str]) -> str:
-    """
-    Returns a short assistant reply.
-    If ENABLE_VERTEX=0 (or vertexai missing), we return a safe fallback.
-    """
-    # Fallback path (keeps the demo alive if Vertex is off)
+    if not user_text:
+        return "I didn’t catch that. Please try again."
+
+    USE_VERTEX = os.getenv("ENABLE_VERTEX", "0") == "1"
+
     if not USE_VERTEX:
-        if not user_text:
-            return "I didn’t catch that. Please try again."
+        logger.info("ASSIST: using FALLBACK (ENABLE_VERTEX=0)")
         return f"You said: {user_text}. How can I help next?"
 
     # --- Vertex AI Gemini call ---
     try:
-        # Lazy import so local dev without the lib still runs the server
         from vertexai import init as vertex_init
-        from vertexai.generative_models import GenerativeModel
+        from vertexai.generative_models import GenerativeModel, SafetySetting
 
         project = os.getenv("GCP_PROJECT")
         location = os.getenv("VERTEX_LOCATION", "europe-west1")
         vertex_init(project=project, location=location)
-
-        # Optional: compact domain context from local chunks (if you have rag.py/_retrieve_context)
-        domain_context = None
-        try:
-            domain_context = _retrieve_context(user_text, max_docs=6, max_chars=6000)  # noqa: F821
-        except Exception:
-            pass
-
-        system_instruction = (
-            (context or "") + "\n\n" + (domain_context or "")
-            if (context or domain_context)
-            else "You are a concise banking voice assistant. Use the provided context when relevant."
-        )
-
         model = GenerativeModel("gemini-1.5-flash")
-        prompt = f"{system_instruction}\n\nUser ({lang}): {user_text}"
 
-        resp = model.generate_content(
-            prompt,
-            generation_config={"temperature": 0.3, "max_output_tokens": 200},
-        )
-        text = (resp.text or "").strip()
-        if not text:
-            text = "I’m here."
+        # (optional) build compact context from your chunks
+        # doc_context = _retrieve_context(user_text, max_docs=6, max_chars=6000)
+
+        sys_prompt = context or "You are a concise banking voice assistant. Answer briefly and helpfully."
+        prompt = f"{sys_prompt}\n\nUser ({lang}): {user_text}"
+
+        logger.info(f"ASSIST: using GEMINI model=gemini-1.5-flash region={location}")
+        resp = model.generate_content(prompt, safety_settings=[
+            SafetySetting(category=SafetySetting.HARM_CATEGORY_HATE_SPEECH, threshold=SafetySetting.HarmBlockThreshold.BLOCK_ONLY_HIGH),
+        ])
+        text = (resp.text or "").strip() or "I’m here."
         return text
-
-    except ModuleNotFoundError:
-        # vertexai not installed in the environment -> fallback
-        if not user_text:
-            return "I didn’t catch that. Please try again."
+    except Exception as e:
+        logger.exception(f"ASSIST: Gemini error, falling back: {e}")
         return f"You said: {user_text}. How can I help next?"
-    except Exception:
-        # Any runtime/permission issue -> graceful fallback
-        if not user_text:
-            return "I didn’t catch that. Please try again."
-        return f"(fallback) You said: {user_text}. How can I help next?"
 
 
 @app.post("/assist", response_model=AssistOut, tags=["Assistant"])
