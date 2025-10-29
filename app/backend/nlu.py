@@ -29,6 +29,8 @@ class ChatBot(genai.Client):
                 category="HARM_CATEGORY_HARASSMENT",
                 threshold="OFF"
                 )]
+            self.chat_history = []
+            self.end_convo = False
         except:
             raise
 
@@ -110,9 +112,9 @@ class ChatBot(genai.Client):
                 "Query for their account balance"
                 "Query for details about their transactions", #
                 "Get more information about the bank's product", #infomational
-                "Block or stop a transaction or card", #
-                "Speak to a human or create appointment at the branch", #
-                "Something else"
+                "Block or unblock or card", #
+                "Speak to a human or create appointment at the branch",  #infomational
+                "Something else"  #infomational
             ]
             },
             "summary": {
@@ -202,39 +204,118 @@ class ChatBot(genai.Client):
     # def auth_dummy_response(self): ### Change to Dutch
     #     return "Thank you, you have been successfully authenticated."
     
-    # def create_payload(intent,):
-    #     payload_mapping = {
-
-    #             "Update customer information", #
-    #             "Query for details about their existing product", #
-    #             "Query for details about their transactions", #
-    #             "Get more information about the bank's product", #infomational
-    #             "Block or stop a transaction or card", #
-    #             "Speak to a human or create appointment at the branch", #
-    #             "Something else"
-    #         "Query for their account balance": {
-    #             api: "/intent/balances.get",
-    #             "payload": '{
-    #                 "customer_id":"str",
-    #                 "account_type":"str"
-    #             }
-
-    #     }
+    def _create_payload_prompt(self, intent):
+        payload_mapping = {
+            "Query for their account balance": {
+                "api": "/intent/balances.get",
+                "payload": '''{
+                    "customer_id":STRING,
+                    "account_type":STRING
+                }'''
+                },
+            "Update customer information": {
+                "api": "/intent/card.update",
+                "payload": '''{
+                    "customer_id":STRING,
+                    "action":ENUM["block", "unblock"]
+                }'''
+            }, #
+            "Query for details about their existing product":{
+                "api": "/intent/customer.lookup",
+                "payload": '''{
+                    "customer_name":STRING,
+                    "dob":STRING (YYY-MM-DD)
+                }'''
+            }, #
+            "Query for details about their transactions":{
+                "api": "/intent/transactions.filter",
+                "payload": '''{
+                    "customer_id":STRING,
+                    "accounts":LIST[
+                    {"product_id": "STRING",
+                    "product_name": "",}
+                    ]
+                }'''
+            }, #
+            "Block or unblock or card":{
+                "api": "/intent/card.update",
+                "payload": '''{
+                    "customer_id":STRING,
+                    "action":ENUM["block", "unblock"]
+                }'''
+            }, #
+        }
+        prompt = f"""Ask the customer for information we need to create the payload:
+        {payload_mapping.get(intent).get("payload")}
+        """
+        return prompt
 
     def start_convo(self, query):
         info, relevant_docs = self.retrieve_grounded_info(query)
         intent_js = self._parse_json( self.classify_intent(query) )
-
+        reply = f"{info}\n{'I need more information from you:\n'+intent_js.get('questions') if intent_js.get('questions') is not None else ''}"
+        self.chat_history = [
+            types.Content(
+            role="user",
+            parts=[query]
+            ),
+            types.Content(
+            role="model",
+            parts=[reply]
+            )
+        ]
         if (intent_js.get("intent", None) == "Something else") or (intent_js.get("intent", None) is None):
-            return "Please try again I can help you with X Y Z"
+            reply = "Please try again so that I can help you."
+            return reply, None, intent_js
         
         elif intent_js.get('auth_required'):
-            return info,relevant_docs,intent_js
+            return reply,relevant_docs,intent_js
         
-        elif intent_js.get('auth_required'):
-            return info,relevant_docs,intent_js
+        elif intent_js.get('intent') in ["Get more information about the bank's product", "Speak to a human or create appointment at the branch"]: 
+            #### TO-DO just reply with information and end convo
+            return reply,relevant_docs,intent_js
         
         else:
-            return "exception"
-    
-    
+            return reply,relevant_docs,intent_js
+
+    def continue_convo(self, user_reply, intent):
+        
+        sys_instruct = f"""You are a helpful banking assistant. {self._create_payload_prompt(intent)}. If you do not get the information you need, rephrase your question and try again.
+        Once you have enough information to create the payload, say exactly 'Thank you for your cooperation, I will now proceed with your request.'"""
+        generate_content_config = types.GenerateContentConfig(
+            temperature = 1,
+            top_p = 1,
+            seed = 0,
+            max_output_tokens = 65535,
+            safety_settings = self.SAFETY_SETTINGS,
+            response_mime_type = "application/json",
+            system_instruction=[types.Part.from_text(text=sys_instruct)],
+        )
+
+        content = self.chat_history.copy()
+        content.append(
+            types.Content(
+            role="user",
+            parts=[
+                types.Part.from_text(text=user_reply)
+            ])
+        )
+
+        for chunk in self._api_client.models.generate_content_stream(
+            model = self.model,
+            contents = content,
+            config = generate_content_config,
+            ):
+            reply = chunk.text
+            if reply.contains('Thank you for your cooperation, I will now proceed with your request'):
+                self.end_convo = True
+            else:
+                self.chat_history.append(
+                    types.Content(
+                    role="user",
+                    parts=[
+                        types.Part.from_text(text=reply)
+                    ])
+                )
+
+        return reply
