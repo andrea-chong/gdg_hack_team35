@@ -1,14 +1,19 @@
-# --- Frontend build (Vite/React) ---
 FROM node:20-alpine AS frontend
 WORKDIR /app/frontend
 
-# Copy only package files first for better caching
 COPY app/frontend/package*.json ./
 RUN npm ci
 
-# Copy the rest of the frontend and build
 COPY app/frontend/ ./
+
+# --- Windows → Linux line-endings & execute bit fix ---
+RUN chmod +x node_modules/.bin/vite && \
+    sed -i 's/\r$//' node_modules/.bin/vite && \
+    sed -i 's/\r$//' node_modules/vite/bin/vite.js
+
+# Build
 RUN npm run build
+
 
 # --- Backend runtime (FastAPI) ---
 FROM python:3.11-slim AS backend
@@ -18,6 +23,8 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PIP_NO_CACHE_DIR=1
 
 WORKDIR /app
+
+ENV PYTHONPATH=/app
 
 # System deps for Google SDKs (grpc, build essentials)
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -38,5 +45,5 @@ COPY --from=frontend /app/frontend/dist ./app/frontend/dist
 
 # If your FastAPI app file is app/backend/main.py:
 EXPOSE 8080
-CMD ["uvicorn", "app.backend.main:app", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["python","-m","uvicorn","app.backend.main:app","--host","0.0.0.0","--port","${PORT:-8080}","--loop","asyncio","--http","h11"]
 

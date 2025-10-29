@@ -1,0 +1,43 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: ing-voice
+spec:
+  template:
+    metadata:
+      annotations:
+        run.googleapis.com/ingress: all
+        autoscaling.knative.dev/minScale: "1"
+        run.googleapis.com/execution-environment: gen2
+        run.googleapis.com/startup-cpu-boost: "true"
+    spec:
+      containerConcurrency: 80
+      timeoutSeconds: 300
+      containers:
+        - image: europe-west1-docker.pkg.dev/ing-voice-team35/ing-voice/ing-voice:latest
+          command: ["python"]
+          args:
+            - "-m"
+            - "uvicorn"
+            - "app.backend.main:app"
+            - "--host=0.0.0.0"
+            - "--port=8080"
+            - "--loop=asyncio"
+            - "--http=h11"
+            - "--workers=1"
+            - "--log-level=debug"
+          env:
+            - name: GCP_PROJECT
+              value: "ing-voice-team35"
+            - name: VERTEX_LOCATION
+              value: "europe-west1"
+            - name: DATA_ROOT
+              value: "/app/data"
+            - name: CHUNKS_ROOT
+              value: "/app/data/chunks"
+            - name: SYNTHETIC_ROOT
+              value: "/app/data/synthetic_data"
+            - name: CHUNKS_LANG_PRIORITY
+              value: "nl,fr,en"
+          ports:
+            - containerPort: 8080
