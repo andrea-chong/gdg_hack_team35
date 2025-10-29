@@ -195,3 +195,68 @@ def assist(body: AssistIn):
     # 3) TTS back
     answer_b64 = _tts_text_to_b64mp3(answer, body.lang or "en-GB")
     return AssistOut(text=answer, audio=answer_b64)
+
+# ---- ASSIST: audio(base64) -> STT -> reply -> TTS ----
+from pydantic import BaseModel
+from typing import Optional
+import base64
+
+class AssistIn(BaseModel):
+    audio: str              # base64 from MediaRecorder (webm/opus)
+    lang: Optional[str] = "en-GB"
+
+class AssistOut(BaseModel):
+    text: str               # assistant's text reply
+    audio: str              # base64 MP3 of the reply
+
+def _stt_bytes_to_text(audio_bytes: bytes, lang: str) -> str:
+    from google.cloud import speech
+    client = speech.SpeechClient()
+    audio = speech.RecognitionAudio(content=audio_bytes)
+    cfg = speech.RecognitionConfig(
+        encoding=speech.RecognitionConfig.AudioEncoding.ENCODING_UNSPECIFIED,
+        language_code=lang,
+        enable_automatic_punctuation=True,
+        model="latest_short",
+    )
+    try:
+        resp = client.recognize(config=cfg, audio=audio)
+    except Exception:
+        # fallback assume MP3 44.1k
+        cfg2 = speech.RecognitionConfig(
+            encoding=speech.RecognitionConfig.AudioEncoding.MP3,
+            sample_rate_hertz=44100,
+            language_code=lang,
+            enable_automatic_punctuation=True,
+            model="latest_short",
+        )
+        resp = client.recognize(config=cfg2, audio=audio)
+    return " ".join([r.alternatives[0].transcript for r in resp.results if r.alternatives]).strip()
+
+def _tts_text_to_b64mp3(text: str, lang: str) -> str:
+    from google.cloud import texttospeech
+    voice_map = {
+        "en-GB": ("en-GB", "en-GB-Neural2-C"),
+        "nl-BE": ("nl-BE", "nl-BE-Standard-A"),
+        "fr-BE": ("fr-BE", "fr-BE-Standard-A"),
+    }
+    language_code, voice_name = voice_map.get(lang, ("en-GB","en-GB-Neural2-C"))
+    tts_client = texttospeech.TextToSpeechClient()
+    resp = tts_client.synthesize_speech(
+        input=texttospeech.SynthesisInput(text=text),
+        voice=texttospeech.VoiceSelectionParams(language_code=language_code, name=voice_name),
+        audio_config=texttospeech.AudioConfig(audio_encoding=texttospeech.AudioEncoding.MP3),
+    )
+    return base64.b64encode(resp.audio_content).decode("utf-8")
+
+@app.post("/assist", response_model=AssistOut, tags=["Assistant"])
+def assist(body: AssistIn):
+    # 1) STT
+    user_text = _stt_bytes_to_text(base64.b64decode(body.audio), body.lang or "en-GB")
+    # 2) “Assistant” reply (simple, but works for demo)
+    reply_text = f"You said: {user_text}. How can I help next?"
+    if not user_text:
+        reply_text = "I didn’t catch that. Please try again."
+    # 3) TTS back
+    reply_audio_b64 = _tts_text_to_b64mp3(reply_text, body.lang or "en-GB")
+    return AssistOut(text=reply_text, audio=reply_audio_b64)
