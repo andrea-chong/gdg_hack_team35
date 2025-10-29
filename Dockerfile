@@ -1,49 +1,21 @@
-FROM node:20-alpine AS frontend
-WORKDIR /app/frontend
-
-COPY app/frontend/package*.json ./
-RUN npm ci
-
-COPY app/frontend/ ./
-
-# --- Windows → Linux line-endings & execute bit fix ---
-RUN chmod +x node_modules/.bin/vite && \
-    sed -i 's/\r$//' node_modules/.bin/vite && \
-    sed -i 's/\r$//' node_modules/vite/bin/vite.js
-
-# Build
-RUN npm run build
-
-
-# --- Backend runtime (FastAPI) ---
-FROM python:3.11-slim AS backend
+# Dockerfile
+FROM python:3.11-slim
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
-    PYTHONUNBUFFERED=1 \
-    PIP_NO_CACHE_DIR=1
+    PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
-ENV PYTHONPATH=/app
-
-# System deps for Google SDKs (grpc, build essentials)
+# System deps (optional but useful for Google libs)
 RUN apt-get update && apt-get install -y --no-install-recommends \
-      build-essential ca-certificates curl \
-    && rm -rf /var/lib/apt/lists/*
+    ca-certificates curl && rm -rf /var/lib/apt/lists/*
 
-# Python deps
 COPY requirements.txt .
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy backend code and data
-COPY app/backend ./app/backend
-COPY app/data ./app/data
+# Copy the whole repo (so app/backend is present)
+COPY . .
 
-# Copy built frontend (served as static files by backend if you do that),
-# or just to keep in the image for Nginx/static middleware later.
-COPY --from=frontend /app/frontend/dist ./app/frontend/dist
-
-# If your FastAPI app file is app/backend/main.py:
-EXPOSE 8080
-CMD ["python","-m","uvicorn","app.backend.main:app","--host","0.0.0.0","--port","${PORT:-8080}","--loop","asyncio","--http","h11"]
+# Start FastAPI (IMPORTANT: backend path)
+CMD ["python","-m","uvicorn","app.backend.main:app","--host","0.0.0.0","--port","8080"]
 
