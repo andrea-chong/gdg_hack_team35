@@ -10,6 +10,7 @@ from pydantic import BaseModel
 # Google Cloud clients
 from google.cloud import texttospeech
 from google.cloud import speech
+from google.cloud import aiplatform
 
 app = FastAPI(title="ING Voice API", version="1.0.0")
 
