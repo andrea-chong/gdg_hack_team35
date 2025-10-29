@@ -181,7 +181,11 @@ def _retrieve_context(query: str, max_docs: int = 5, max_chars: int = 6000) -> s
     return "".join(buf).strip()
 
 def _assistant_reply(user_text: str, lang: str, context: Optional[str]) -> str:
-    # If Vertex disabled, keep the old safe reply
+    """
+    Returns a short assistant reply.
+    If ENABLE_VERTEX=0 (or vertexai missing), we return a safe fallback.
+    """
+    # Fallback path (keeps the demo alive if Vertex is off)
     if not USE_VERTEX:
         if not user_text:
             return "I didn’t catch that. Please try again."
@@ -189,46 +193,49 @@ def _assistant_reply(user_text: str, lang: str, context: Optional[str]) -> str:
 
     # --- Vertex AI Gemini call ---
     try:
+        # Lazy import so local dev without the lib still runs the server
         from vertexai import init as vertex_init
-        from vertexai.generative_models import GenerativeModel, SafetySetting
+        from vertexai.generative_models import GenerativeModel
 
         project = os.getenv("GCP_PROJECT")
         location = os.getenv("VERTEX_LOCATION", "europe-west1")
         vertex_init(project=project, location=location)
 
-        model = GenerativeModel("gemini-1.5-flash")
-
-        # Fetch compact domain context from local chunks
-        doc_context = _retrieve_context(user_text, max_docs=6, max_chars=6000)
+        # Optional: compact domain context from local chunks (if you have rag.py/_retrieve_context)
+        domain_context = None
+        try:
+            domain_context = _retrieve_context(user_text, max_docs=6, max_chars=6000)  # noqa: F821
+        except Exception:
+            pass
 
         system_instruction = (
-            context
-            or "You are a concise banking voice assistant. Use the provided context when relevant. "
-               "Cite facts from [DOC: ...] when you use them. Keep answers short and actionable."
+            (context or "") + "\n\n" + (domain_context or "")
+            if (context or domain_context)
+            else "You are a concise banking voice assistant. Use the provided context when relevant."
         )
 
-        prompt = (
-            f"{system_instruction}\n\n"
-            f"### Conversation\nUser ({lang}): {user_text}\n\n"
-            f"### Context (may be partial):\n{doc_context or '(no additional context found)'}\n\n"
-            f"### Task\nReply helpfully and briefly in {lang}. If uncertain, ask a clarifying question."
-        )
+        model = GenerativeModel("gemini-1.5-flash")
+        prompt = f"{system_instruction}\n\nUser ({lang}): {user_text}"
 
-        resp = model.generate_content(prompt)
-        text = (getattr(resp, "text", None) or "").strip()
+        resp = model.generate_content(
+            prompt,
+            generation_config={"temperature": 0.3, "max_output_tokens": 200},
+        )
+        text = (resp.text or "").strip()
         if not text:
-            # some SDK versions return candidates list
-            cands = getattr(resp, "candidates", []) or []
-            if cands and getattr(cands[0], "content", None) and getattr(cands[0].content, "parts", None):
-                parts = cands[0].content.parts
-                text = "".join(getattr(p, "text", "") for p in parts).strip()
+            text = "I’m here."
+        return text
 
-        return text or "I’m here."
-    except Exception as e:
-        # Fallback so the API never breaks during judging
+    except ModuleNotFoundError:
+        # vertexai not installed in the environment -> fallback
         if not user_text:
             return "I didn’t catch that. Please try again."
-        return f"(Vertex fallback) You said: {user_text}. How can I help next?"
+        return f"You said: {user_text}. How can I help next?"
+    except Exception:
+        # Any runtime/permission issue -> graceful fallback
+        if not user_text:
+            return "I didn’t catch that. Please try again."
+        return f"(fallback) You said: {user_text}. How can I help next?"
 
 
 @app.post("/assist", response_model=AssistOut, tags=["Assistant"])
