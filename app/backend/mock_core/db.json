@@ -1,0 +1,6 @@
+﻿{
+  "actions": [],
+  "beneficiaries": [],
+  "limits": { "single_transfer_limit_eur": 2500, "daily_limit_eur": 5000 },
+  "otp": { "last_code": "123456" }
+}
