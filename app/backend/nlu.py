@@ -29,6 +29,46 @@ class ChatBot(genai.Client):
                 category="HARM_CATEGORY_HARASSMENT",
                 threshold="OFF"
                 )]
+            self.payload_mapping = payload_mapping = {
+                "Query for their account balance": {
+                    "api": "/intent/balances.get",
+                    "payload": '''{
+                        "customer_id":STRING,
+                        "account_type":STRING
+                    }'''
+                    },
+                "Update customer information": {
+                    "api": "/intent/card.update",
+                    "payload": '''{
+                        "customer_id":STRING,
+                        "action":ENUM["block", "unblock"]
+                    }'''
+                }, #
+                "Query for details about their existing product":{
+                    "api": "/intent/customer.lookup",
+                    "payload": '''{
+                        "customer_name":STRING,
+                        "dob":STRING (YYY-MM-DD)
+                    }'''
+                }, #
+                "Query for details about their transactions":{
+                    "api": "/intent/transactions.filter",
+                    "payload": '''{
+                        "customer_id":STRING,
+                        "accounts":LIST[
+                        {"product_id": "STRING",
+                        "product_name": "",}
+                        ]
+                    }'''
+                }, #
+                "Block or unblock or card":{
+                    "api": "/intent/card.update",
+                    "payload": '''{
+                        "customer_id":STRING,
+                        "action":ENUM["block", "unblock"]
+                    }'''
+                }, #
+            }
             self.chat_history = []
             self.end_convo = False
         except:
@@ -207,48 +247,8 @@ class ChatBot(genai.Client):
     #     return "Thank you, you have been successfully authenticated."
     
     def _create_payload_prompt(self, intent):
-        payload_mapping = {
-            "Query for their account balance": {
-                "api": "/intent/balances.get",
-                "payload": '''{
-                    "customer_id":STRING,
-                    "account_type":STRING
-                }'''
-                },
-            "Update customer information": {
-                "api": "/intent/card.update",
-                "payload": '''{
-                    "customer_id":STRING,
-                    "action":ENUM["block", "unblock"]
-                }'''
-            }, #
-            "Query for details about their existing product":{
-                "api": "/intent/customer.lookup",
-                "payload": '''{
-                    "customer_name":STRING,
-                    "dob":STRING (YYY-MM-DD)
-                }'''
-            }, #
-            "Query for details about their transactions":{
-                "api": "/intent/transactions.filter",
-                "payload": '''{
-                    "customer_id":STRING,
-                    "accounts":LIST[
-                    {"product_id": "STRING",
-                    "product_name": "",}
-                    ]
-                }'''
-            }, #
-            "Block or unblock or card":{
-                "api": "/intent/card.update",
-                "payload": '''{
-                    "customer_id":STRING,
-                    "action":ENUM["block", "unblock"]
-                }'''
-            }, #
-        }
         prompt = f"""Formulate questions to ask the customer for details you need to fill in this payload:
-        {payload_mapping.get(intent).get("payload")}
+        {self.payload_mapping.get(intent).get("payload")}
         """
         return prompt
 
@@ -281,11 +281,10 @@ class ChatBot(genai.Client):
         else:
             return None,None,None
 
-    def continue_convo(self, user_reply, intent):
+    def continue_convo_auth(self, user_reply, intent):
         
-        sys_instruct = f"""You are a helpful banking assistant. {self._create_payload_prompt(intent)}.
-        Once you have enough information to create the payload, say exactly 'Thank you for your cooperation, I will now proceed with your request.'
-        Only reply the customer with natural language."""
+        sys_instruct = f"""You are a helpful banking assistant. Given that the customer wants to do {intent},
+        {self._create_payload_prompt(intent)}. Only reply the customer with natural language."""
         generate_content_config = types.GenerateContentConfig(
             temperature = 1,
             top_p = 1,
@@ -311,22 +310,46 @@ class ChatBot(genai.Client):
             config = generate_content_config,
             ):
             reply = chunk.text
-            self.chat_history.append(
+            self.chat_history = content
+
+        if self.evaluate_chat_history(intent) in ['True', 'true']:
+            self.end_convo = True
+            return "Thank you for you cooperation. I have all the information I need. I will proceed with your request"
+        else:
+            return "I still need more information frorm you"
+    
+    def evaluate_chat_history(self, intent):
+        all_history = "\n".join([pt.text for pt in [utter.parts[0] for utter in self.chat_history]])
+
+        generate_content_config = types.GenerateContentConfig(
+            temperature = 1,
+            top_p = 1,
+            seed = 0,
+            max_output_tokens = 65535,
+            safety_settings = self.SAFETY_SETTINGS,
+            response_mime_type = "application/json",
+            system_instruction=[types.Part.from_text(text=f"""You are an expert in writing API requests. Given the above conversation, evaluate if we have sufficient details to proceed with writing the API request with this payload:
+                                                     {self.payload_mapping.get(intent)}. Return your result in boolean format.""")],
+            thinking_config=types.ThinkingConfig(
+            thinking_budget=-1,
+            ),
+        )
+
+        response = []
+        for chunk in self._api_client.models.generate_content_stream(
+            model = self.MODEL,
+            contents = [
                 types.Content(
                 role="user",
                 parts=[
-                    types.Part.from_text(text=user_reply)
-                ])
-            )
-            if 'Thank you for your cooperation, I will now proceed with your request' in reply:
-                print(reply)
-                self.end_convo = True
-            else:
-                self.chat_history.append(
-                    types.Content(
-                    role="model",
-                    parts=[
-                        types.Part.from_text(text=reply)
-                    ])
-                )
-        return reply
+                    types.Part.from_text(text=all_history)
+                ]
+                ),
+            ],
+            config = generate_content_config,
+            ):
+            if not chunk.candidates or not chunk.candidates[0].content or not chunk.candidates[0].content.parts:
+                continue
+            response.append(chunk.text)
+        
+        return "\n".join(response)
