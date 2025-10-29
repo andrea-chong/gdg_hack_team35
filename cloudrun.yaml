@@ -21,6 +21,8 @@ spec:
             value: "ing-voice-team35"
           - name: VERTEX_LOCATION
             value: "europe-west1"
+          - name: ENABLE_VERTEX
+            value: "1" 
           - name: DATA_ROOT
             value: "/app/data"
           - name: CHUNKS_ROOT
