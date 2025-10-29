@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Voice Assistant — Minimal</title>
+  <style>
+    :root { --bg:#0b0d10; --fg:#e9eef5; --accent:#ff6a00; --accent2:#ff9a3c; }
+    html,body{height:100%;margin:0}
+    body{
+      display:flex;align-items:center;justify-content:center;flex-direction:column;
+      background:var(--bg);color:var(--fg);font-family:ui-sans-serif,system-ui
+    }
+    #btn{
+      width:180px;height:180px;border-radius:9999px;border:none;cursor:pointer;
+      background: radial-gradient(110px 110px at 35% 35%, var(--accent2), var(--accent));
+      box-shadow: 0 20px 50px rgba(255,106,0,.25), inset 0 0 30px rgba(0,0,0,.25);
+      color:#111;font-size:20px;font-weight:700;letter-spacing:.3px
+    }
+    #btn:active{transform:scale(.97)}
+    #status{margin-top:18px;opacity:.8;font-size:14px}
+    .hidden{display:none}
+  </style>
+</head>
+<body>
+  <button id="btn">Hold to talk 🎤</button>
+  <div id="status">Ready</div>
+  <audio id="player" class="hidden"></audio>
+
+<script>
+const API = "https://ing-voice-307966155885.europe-west1.run.app"; // <-- your Cloud Run URL
+const LANG = "en-GB"; // change to "nl-BE" or "fr-BE" if you want
+
+let mediaRecorder, chunks = [], stream;
+
+const btn = document.getElementById("btn");
+const statusEl = document.getElementById("status");
+const player = document.getElementById("player");
+
+async function getMic() {
+  if (!stream) stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+  return stream;
+}
+
+function startRecording() {
+  chunks = [];
+  const mime = MediaRecorder.isTypeSupported("audio/webm;codecs=opus")
+    ? "audio/webm;codecs=opus"
+    : "audio/webm";
+  mediaRecorder = new MediaRecorder(stream, { mimeType: mime });
+  mediaRecorder.ondataavailable = (e) => { if (e.data.size) chunks.push(e.data) };
+  mediaRecorder.onstop = onStop;
+  mediaRecorder.start();
+  statusEl.textContent = "Recording… release to send";
+}
+
+async function stopRecording() {
+  if (mediaRecorder && mediaRecorder.state !== "inactive") mediaRecorder.stop();
+}
+
+async function onStop() {
+  statusEl.textContent = "Thinking…";
+  const blob = new Blob(chunks, { type: "audio/webm" });
+  const buf = await blob.arrayBuffer();
+  const b64 = btoa(String.fromCharCode(...new Uint8Array(buf)));
+
+  try {
+    const res = await fetch(`${API}/assist`, {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({ audio: b64, lang: LANG })
+    });
+    if (!res.ok) throw new Error(await res.text());
+    const data = await res.json();
+
+    // play voice reply
+    player.src = "data:audio/mpeg;base64," + data.audio;
+    await player.play();
+    statusEl.textContent = "Reply playing. Hold to talk again.";
+  } catch (err) {
+    statusEl.textContent = "Error: " + err.message;
+  }
+}
+
+// mouse
+btn.addEventListener("mousedown", async () => { await getMic(); startRecording(); });
+btn.addEventListener("mouseup", stopRecording);
+btn.addEventListener("mouseleave", () => { if (mediaRecorder && mediaRecorder.state === "recording") stopRecording(); });
+
+// touch (mobile)
+btn.addEventListener("touchstart", async (e) => { e.preventDefault(); await getMic(); startRecording(); }, {passive:false});
+btn.addEventListener("touchend", async (e) => { e.preventDefault(); await stopRecording(); }, {passive:false});
+</script>
+</body>
+</html>
