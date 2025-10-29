@@ -1,0 +1,13 @@
+# ING Save Up for minors - Save your change as a child - ING Belgium - ING Save Up for the under 18s
+
+## Save even faster with the savings accelerator
+
+Activate the savings accelerator and they’ll save even more. Every time money is rounded up and transferred from their current account to their savings account with ING Save Up, the amount is tripled.
+Here’s an example. If your child buys a drink for €2.40, regular ING Save Up rounds it up to €3.00 and they save €0.60. If they turn on the savings accelerator, the amount transferred to their savings account is tripled to €1.80.
+START TABLE IN MARKDOWN
+| Transaction with current account | Round up to next euro | Savings accelerator | Saved to savings account |
+| - | - | - | - |
+| €2.40 | €0.60 | x1 | €0.60 |
+| €2.40 | €0.60 | x3 | €1.80 (= €0.60 x 3) |
+END TABLE IN MARKDOWN
+ING Save Up Terms and Conditions Activate ING Save Up for your child

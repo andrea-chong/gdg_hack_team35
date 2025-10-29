@@ -1,0 +1,19 @@
+# Apple Pay: Betaal in een handomdraai! - ING België
+
+## Instellen van Apple Pay (2 opties)
+
+### Optie 1: Activeer Apple Pay via de ING Banking-app
+
+Log in > Ga naar 'Diensten' > 'Instellingen' > 'Apple Pay' > Selecteer uw ING debet- of kredietkaart > Volg de instructies
+
+### Optie 2: Activeer Apple Pay via Apple Wallet
+
+Open Apple Wallet > Druk op + en volg de instructies om uw ING debet- of kredietkaart toe te voegen.
+* Voor uw Apple Watch : voeg eerst uw ING debet- of kredietkaart toe aan uw Apple Wallet. Selecteer de debet- of kredietkaart die u wilt gebruiken met uw Apple Watch via de Apple Watch-app.
+* Voor uw iPad: de installatie is net als op een iPhone. Zorg er alleen voor dat u de ING Bank-app op uw iPad hebt geïnstalleerd.
+* Voor uw Mac : ga naar 'Systeemvoorkeuren', klik op 'Wallet(portemonee) en Apple Pay' en volg de instructies. Hier wordt u niet doorverwezen naar de ING Bank-app, en moet u uw debetkaartgegevens handmatig invoeren en bevestigen.
+
+## Video
+
+Omdat een paar foto’s meer zeggen dan een lange tekst...
+Hoe mobiel betalen ?

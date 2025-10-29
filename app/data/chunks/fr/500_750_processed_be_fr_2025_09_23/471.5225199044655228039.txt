@@ -1,0 +1,7 @@
+# Payconiq by Bancontact pour vos paiements mobiles - ING Belgique
+
+## Comment payer avec Payconig by Bancontact ?
+
+### Comment modifier le compte lié à mes paiements mobiles ?
+
+Depuis l’onglet « Aperçu », appuyez sur « Services » en bas à droite de votre écran. Sélectionnez ensuite l’option « Paramètres ». Choisissez ensuite « Paiements mobiles » et appuyez sur « Comptes liés » pour sélectionner un autre compte.

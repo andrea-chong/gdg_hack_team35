@@ -1,0 +1,18 @@
+# Comment utiliser itsme® pour les services bancaires en ligne - ING Belgique - Tout savoir sur itsme®
+
+## Questions fréquemment posées
+
+### Que dois-je faire en cas de perte ou de vol de mon téléphone ?
+
+Pas de panique, itsme® ne peut pas être utilisé sans votre code PIN personnel ou sans vos données biométriques. Par sécurité, nous vous recommandons de bloquer votre compte itsme® via le site internet d’itsme® . N’oubliez pas qu’une fois que votre compte est bloqué, vous ne pourrez plus l’utiliser pour accéder aux services associés à votre compte itsme®, à moins que vous ne le débloquiez. Nous vous recommandons également de bloquer votre profil de l’app ING Banking via Home’Bank ou Business’Bank.
+
+### J'ai un nouveau numéro de téléphone. Comment changer celui qui est lié à mon compte itsme® ?
+
+Pour modifier le numéro de téléphone mobile associé à votre compte itsme®, contactez le support client itsme® pour réinitialiser votre compte. Vous pourrez alors réinstaller l’app itsme® sur votre smartphone et créer un nouveau compte.
+Veuillez noter que votre compte itsme® est basé sur la combinaison unique de votre smartphone, de votre carte SIM et de votre code itsme®. Pour votre propre sécurité, il n’est donc pas possible d’utiliser le même compte itsme® avec plusieurs numéros de téléphone mobile au même temps.
+
+### Ma carte eID a été renouvelée. Comment mettre à jour mon profil itsme® ?
+
+Si vous avez reçu une nouvelle carte eID de votre administration locale, informez-en itsme® et ING.
+Si vous disposez d'un lecteur de carte eID : mettez d'abord à jour vos données via le le formulaire de mise à jour itsme® . Vous pourrez ensuite communiquer vos nouvelles données eID à la banque via itsme® en utilisant votre application ING Banking, Home’Bank dans votre espace personnel ou via notre page internet dédiée.
+Si vous n'avez pas de lecteur de carte eID : le mieux est d'insérer votre nouvelle carte eID dans un kiosque disponible à l'entrée de votre agence ING. Si vous avez créé votre compte itsme® par l'intermédiaire d'ING initialement, nous informerons automatiquement itsme® du renouvellement de votre carte eID.

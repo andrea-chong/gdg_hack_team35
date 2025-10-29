@@ -1,0 +1,22 @@
+# Vérification du nom du bénéficiaire - ING Belgique
+
+## FAQ
+
+### Quels sont les avantages de la « vérification du nom du bénéficiaire » pour les clients ?
+
+* Tout d'abord, la vérification renforce votre confiance dans le fait que votre argent parviendra au bon bénéficiaire.
+* Comme la banque effectue la vérification automatiquement, vous ne perdez pas de temps et vous évitez les erreurs. Tout cela contribue à l'efficacité des virements.
+* Par ailleurs, la vérification permet de lutter contre les formes de fraude aux virements, comme la fraude aux factures, ce qui renforce la sécurité.
+
+### Comment fonctionne cette vérification ?
+
+* Lors de l’introduction d'un ordre de virement, votre banque vérifie auprès de la banque du bénéficiaire si le numéro de compte (IBAN) et le nom du bénéficiaire correspondent. En tant que client, vous n'avez aucune démarche supplémentaire à effectuer car cette vérification se fait automatiquement.
+* Si le nom et le numéro de compte ne correspondent pas (complètement), votre banque vous le signale.
+* Après notification, vous déciderez vous-même d’effectuer le virement avec ou sans adaptation. À cet égard, rien ne change et, comme c'est déjà le cas aujourd'hui, vous êtes responsable des virements que vous réalisez. Cette notification a valeur d'avertissement. Si les données ne correspondent pas (totalement), nous vous recommandons de toujours vérifier le bénéficiaire afin d'éviter les fraudes et les virements erronés.
+
+### A quels résultats cette vérification peut-elle aboutir ?
+
+* Le nom introduit correspond au nom du bénéficiaire.
+* Le nom introduit correspond presque au nom du bénéficiaire : vous avez peut-être fait une faute de frappe ou le nom introduit est légèrement différent du nom correct. Dans ce cas, la banque vous mentionnera toujours le nom correct du bénéficiaire.
+* Le nom introduit ne correspond pas au nom du bénéficiaire. Si vous décidez ici de poursuivre sans effectuer de modification, le montant risque d’aboutir chez un mauvais bénéficiaire. Si le bénéficiaire est une personne morale, la banque vous mentionnera alors également le nom correct du bénéficiaire.
+* Exceptionnellement, la vérification peut ne pas être possible en raison d'un dysfonctionnement technique ou parce que la banque du bénéficiaire n'a pas pu répondre (à temps). Votre banque vous en informera.

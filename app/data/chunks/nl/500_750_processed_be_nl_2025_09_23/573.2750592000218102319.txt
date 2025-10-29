@@ -1,0 +1,28 @@
+# Click to Pay, de toekomst van online betalen - ING België - Click to PayKlik, betaal, geniet
+
+## FAQ
+
+### Wat is een verificatiecode?
+
+Een verificatiecode is een eenmalige code die naar je e-mail of gsm-nummer wordt gestuurd om te bevestigen dat jij het bent. Je ontvangt deze codes bijvoorbeeld als je je betaalgegevens opent in Mastercard Click to Pay, tijdens het afrekenen of via je bank.
+
+### Word ik meerdere keren belast voor de transactie als ik meerdere verificatiecodes ontvang?
+
+Nee, je betaalt niet voor het ontvangen of invoeren van verificatiecodes. Je betaalt alleen voor de transactie zodra je de aankoop voltooit.
+
+### Waarom ontvang ik soms een verificatiecode per sms en soms via e-mail?
+
+De keuze tussen SMS en e-mail wordt bepaald door de winkelier. Afhankelijk van de winkelier ontvang je dus ofwel een SMS, ofwel een e-mail.
+
+### Ik ontvang geen verificatiecodes. Wat kan ik doen?
+
+Als je geen verificatiecode ontvangt, controleer dan of je e-mailadres en gsm-nummer correct zijn ingesteld in Mastercard Click to Pay. Je kan ook een nieuwe code aanvragen of kiezen om deze via e-mail of sms te ontvangen.
+Blijft het probleem aanhouden? Dan kan je zonder Click to Pay afrekenen en je betaalgegevens handmatig invoeren.
+
+### Wat gebeurt er als ik ‘onthoud mij’ selecteer?
+
+Als je 'Onthoud mij' kiest, krijg je sneller toegang tot je kaarten. Je wordt automatisch herkend en hoeft bij het volgende afrekenen met Mastercard Click to Pay op hetzelfde toestel en in dezelfde browser geen verificatiecode meer in te voeren.
+
+### Hoe verwijder ik een onthouden toestel?
+
+Meld je aan bij Mastercard Click to Pay om je instellingen te beheren, zoals het bekijken en verwijderen van je onthouden toestellen en browsers.

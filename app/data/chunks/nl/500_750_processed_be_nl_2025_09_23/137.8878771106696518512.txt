@@ -1,0 +1,10 @@
+# Cash verrichtingen cash-loket - ING België - Cash verrichtingen aan het Cash-loket van een kantoor
+
+## Vreemde valuta opnemen en storten: USD, GBP, CHF
+
+START TABLE IN MARKDOWN
+| Actie | Procedure | Opmerkingen |
+| - | - | - |
+| USD, GBP, CHF bestellen. | Maak een afspraak in een ING\-kantoor dat de dienst vreemde valuta aanbiedt: Ofwel meld je aan in Home’Bank Of open de ING Banking\-app: ga rechtsonder naar 'Diensten' > ‘Doe\-het\-zelf’ > ‘Betalingen & cash’ > 'Vreemde munten bestellen' Of bel je de Klantendienst op +32 2 464 60 01, van maandag tot vrijdag, van 8 tot 18 uur | Enkel mogelijk als je al een zichtrekening hebt in diezelfde valuta Bestel minstens 2 weken vooraf Kosten: 2,25% van het bedrag, minimaal € 13 ING\-kantoren met vreemde valutadiensten: Wemmel, Ukkel, Namen, Barchon, Bergen , Hasselt, Leuven, Antwerpen, Oostende |
+| USD, GBP, CHF storten. | Maak een afspraak in een ING\-kantoor dat de dienst vreemde valuta aanbiedt: Ofwel meld je aan in Home’Bank Of open de ING Banking\-app: ga rechtsonder naar 'Diensten' > ‘Doe\-het\-zelf’ > ‘Betalingen & cash’ > 'Vreemde munten storten' Of bel je de Klantendienst op +32 2 464 60 01, van maandag tot vrijdag, van 8 tot 18 uur | ING\-kantoren met vreemde valutadiensten: Wemmel, Ukkel, Namen, Barchon, Bergen , Hasselt, Leuven, Antwerpen, Oostende Kosten: 2,25% van het bedrag, minimaal € 13 Stortingen kunnen tot 2 weken duren, maar we doen ons best om het snel op je rekening te krijgen! |
+END TABLE IN MARKDOWN

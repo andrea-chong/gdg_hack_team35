@@ -1,0 +1,54 @@
+# Pay with Google Pay easily ! - ING Belgium
+
+## FAQ
+
+### What is Google Pay ?
+
+* Google Pay is a payment service from Google that lets you pay without your ING debit or credit card.
+* Pay easily with Google Pay in stores, online stores (via Safari) and applications.
+* Pay with your smartphone (Android) wherever Maestro / Mastercard / Visa is accepted.
+
+### Do I have to pay to use Google Pay?
+
+Not at all! Google Pay is totally free.
+
+### Who can use Google Pay ?
+
+Anyone with,
+* have a compatible (Android) cell phone
+* Over 16 years of age
+* Who has an ING current account linked to a debit or credit card
+* Who has as a google account
+* Who has installed the latest ING Banking app
+
+### Which devices can you use Google Pay with?
+
+You'll find a list of Google Pay-enabled devices on the Google Pay support page.
+
+### What operating system do you need to use Google Pay?
+
+Consult the Google Support page to find out which operating is needed, and update it if necessary and possible.
+
+### How do I activate Google Pay?
+
+The easiest way to do this is to use the ING Banking app.
+You can also activate it using the "Wallet and Google Pay" app on your phone.
+
+### What do I need to activate Google Pay?
+
+* Be at least 16 years old
+* Have an ING private current account with an active debit or credit card.
+* Have the latest ING Banking app installed on the device you will use for Google Pay.
+* Have an updated mobile phone with the latest version of the Android OS
+* Have a valid google account
+* Have the region on your device set to Belgium
+* Your mobile phone number is correctly registered with ING (if not, you can easily change it yourself via your details in ING's digital channels)
+* Be connected to the internet
+
+### How to activate Google Pay via your ING Banking app?
+
+On your mobile phone, go to "Wallet" and "Add to Wallet".
+* Select "Payment Card".
+* Click on "New credit or debit card".
+* Enter the card number, expiry date and CVC/CVV (Maestro debit cards do not have a CVC).
+* Open the ING Banking app and follow the instructions

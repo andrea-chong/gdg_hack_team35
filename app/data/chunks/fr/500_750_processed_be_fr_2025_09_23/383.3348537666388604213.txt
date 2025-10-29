@@ -1,0 +1,30 @@
+# Gérez facilement votre procuration en ligne et consultez/ajoutez ou supprimez des mandataires - ING Belgique - Procuration
+
+## Comment gérer les procurations de vos comptes via l'app ING Banking?
+
+### Qu'est-ce qu'une procuration?
+
+Une **procuration** est un pouvoir qui est accordé à une ou plusieurs personnes pour gérer le compte en votre nom. La personne qui reçoit ce pouvoir est appelée un **mandataire** . À ce titre, elle reçoit, dans les limites fixées, un mandat afin d'utiliser votre compte pour effectuer des paiements et/ou consulter son solde. Vous restez le **titulaire légal du compte** et en tant que tel vous êtes **responsable de tous ses actes** .
+
+### Qui peut en bénéficier ?
+
+**Tous les comptes ne sont pas éligibles** . Si vous avez un Do Basic (Lion Account), vous ne pouvez pas ajouter de procuration sur ce compte. Cependant, vous le pouvez si vous avez un Do More (Compte Vert) ou un Compte Professionnel.
+Le **mandataire doit être client ING** pour que vous l'ajoutiez sur votre (vos) compte(s) en ligne. Si ce n'est pas le cas, vous pouvez toujours ajouter une personne qui n'est pas client ING en prenant rendez-vous dans votre agence.
+
+### Qu'est-ce que cela coûte ?
+
+Ce service est **complètement gratuit** pour tous les comptes éligibles !
+
+### Quels sont les différents types d'autorisations ?
+
+* **Consulter:** Peut consulter les extraits de compte et le solde
+* **Encoder:** Peut préparer les paiements et les mettre dans le panier de paiements
+* **Signer:** Peut signer et valider les paiements (les siens ou ceux du panier de paiement)
+Pour regarder une vidéo sur la façon de gérer vos mandats, cliquez ici.
+L'autorisation « Signer » peut être assortie de restrictions supplémentaires :
+* **Signe seul ou cosigne avec d'autres mandataires**
+* **Signe les paiements jusqu'à un certain montant**
+
+### Comment commencer à gérer mes procurations ?
+
+Pour un **aperçu** de personnes ayant accès à votre compte, ou vous desirez **ajouter** ou **supprimer** un mandataire, cliquez ici .

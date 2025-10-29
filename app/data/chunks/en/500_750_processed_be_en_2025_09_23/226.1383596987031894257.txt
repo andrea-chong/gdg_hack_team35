@@ -1,0 +1,32 @@
+# Your international payments in just one click ! - ING Belgium - All about international payments
+
+## International payments with Home’Bank or the ING Banking app
+
+* ### Online payments
+Carry out your international payments online 7 days a week, 24 hours a day, through Home’Bank or the ING Banking app.
+* ### Guaranteed security
+You can access Home’Bank using your ING debit card and your digipass, your ING Banking app, or the ItsMe app.
+* ### Anywhere in the world
+For all of your payments outside of the SEPA zone, or in a currency other than euros.
+* ### Whenever you want
+The beneficiary receives the funds within the 3 working days following the execution of your payment order. You may even define an urgency for your payment order.
+
+### What does 'outside the SEPA zone' mean ?
+
+The SEPA zone (Single Euro Payments Area) covers all the Member States of the European Union as well as Norway, Iceland, Liechtenstein, Switzerland, Monaco, Andorra and San Marino.
+Any payment to a country that does not belong to the SEPA zone, or any non-euro payment within the SEPA zone is considered an international payment.
+Need to make a payment in euros within the SEPA? Go for a European transfer.
+
+### Who can make an international payment ?
+
+Are you an ING customer ? You can log into your secured Home’Bank channel (using your ING debit card , your ING Banking app , or the ItsMe app ) in order to make an international payment.
+
+### An account number, one BIC, one click and it's settled !
+
+The BIC (Bank Identification Code) is a unique code used to identify any bank in the world. To carry out an international transfer, you need to enter the BIC of the beneficiary's bank on top of the beneficiary account number.
+* ING Belgium's BIC is BBRUBEBB.
+* You can find the BIC of other international banks on the Swift website .
+
+### Specificities linked to a country or a currency
+
+The execution of an international payment is in some specific cases subject to regulations applied in the country of destination. Do you want to learn more about it ? Here are some tips and tricks !

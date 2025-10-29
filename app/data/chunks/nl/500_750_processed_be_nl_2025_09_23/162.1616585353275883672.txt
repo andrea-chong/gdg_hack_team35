@@ -1,0 +1,7 @@
+# Een kaart voor Bancontact, Maestro of Mastercard en contactloos betalen - ING België - ING-debetkaart
+
+## Vragen over de ING-debetkaart met Bancontact- en Mastercard-logo
+
+### Waarvoor dient de CVC-code achteraan?
+
+De Card Validation Code, vermeld op de achterzijde van de kaart, kan zoals bij een kredietkaart gebruikt worden om online betalingen of boekingen uit te voeren. Het is een extra bewijs dat jij de kaarthouder bent. Deze code moet net zo voorzichtig gebruikt worden als je kaartnummer op je kaart.

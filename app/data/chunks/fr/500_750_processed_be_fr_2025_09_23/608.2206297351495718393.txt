@@ -1,0 +1,40 @@
+# Click to Pay, l'avenir des paiements en ligne - ING Belgique - Click to PayCliquez, payez, profitez
+
+## FAQ
+
+### Click to Pay, c'est quoi?
+
+Click to Pay est une solution de paiement en ligne rapide et sécurisée. Elle vous permet d'enregistrer vos informations de paiement en un seul endroit et de régler vos achats en quelques clics, partout où le logo Click to Pay est affiché.
+
+### Comment utiliser Click to Pay lors du paiement ?
+
+Chez les commerçants participants, Click to Pay reconnaît automatiquement votre adresse e-mail ou votre numéro de téléphone et affiche vos cartes enregistrées pour accélérer le paiement. Vous pouvez aussi sélectionner l’option Click to Pay au moment du paiement.
+
+### Où puis-je utiliser Click to Pay ?
+
+Click to Pay est accepté chez des dizaines de milliers de commerçants à travers le monde. Repérez le logo Click to Pay lors de vos achats en ligne.
+
+### L’utilisation de Click to Pay est-elle payante ?
+
+Non, Click to Pay est totalement gratuit. Il n’y a aucun frais supplémentaire pour utiliser ce service.
+
+### Puis-je utiliser Click to Pay pour des achats sur des sites internationaux ?
+
+Oui, vos informations Click to Pay peuvent être utilisées chez tous les commerçants participants, quel que soit leur pays.
+
+### Puis-je recevoir des notifications pour mes transactions Click to Pay ?
+
+Click to Pay ne propose pas d’alertes pour vos transactions. Toutefois, votre banque ou le commerçant peuvent vous envoyer des notifications.
+
+### Dois-je créer un mot de passe pour Click to Pay ?
+
+Non, Click to Pay ne nécessite pas de mot de passe. Pour garantir votre sécurité, vous recevrez un code de vérification unique par e-mail ou SMS afin de confirmer votre identité.
+
+### Comment m’inscrire à Click to Pay ?
+
+L’inscription est simple et rapide :
+1. Ouvrez votre application ING
+2. Allez dans Services > Paramètres > Click to Pay
+3. Suivez les instructions et confirmez vos informations pré-remplies
+4. C’est activé ! Votre carte est prête pour des paiements en ligne rapides et sécurisés.
+La prochaine fois que vous faites un achat en ligne, sélectionnez le paiement par carte et votre profil Click to Pay apparaitra au moment de payer

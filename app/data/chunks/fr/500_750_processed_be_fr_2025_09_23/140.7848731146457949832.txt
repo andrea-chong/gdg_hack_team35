@@ -1,0 +1,29 @@
+# Vos virements internationaux en un clic ! - ING Belgique - Tout sur les virements internationaux
+
+## Effectuer un virement international via Home’Bank ou l'app ING Banking
+
+### Un compte, un BIC, un clic... et c'est réglé !
+
+Le BIC (Bank Identifier Code) est un code qui permet une identification unique de chaque banque dans le monde. Lors d'un virement international, vous devez renseigner le BIC de la banque du bénéficiaire en plus du numéro de compte du bénéficiaire.
+* Le BIC d'ING Belgique est BBRUBEBB.
+* Vous pouvez trouver le BIC des autres banques internationales sur le site internet de Swift .
+
+### Spécificités liées à un pays ou à une devise
+
+L’exécution d’un paiement international est, dans certains cas, soumis à des règlementations en vigueur dans le pays de destination. Vous souhaitez en savoir plus ? Voici des trucs et astuces !
+
+### Effectuer votre virement international avec Home'Bank ou l'app ING Banking. Facile !
+
+1. a. Connectez-vous à Home’Bank et cliquez sur "Nouveau virement".
+b. Dans l' **app ING Banking** , tapez la zone "Paiements" en bas de l'écran.
+2. Remplissez tous les champs indiqués et suivez les étapes.
+3. Vous recevez une indication du coût du transfert (ainsi que du taux estimé en cas de conversion).
+4. Signez le virement, c'est envoyé !
+
+### C'est vous qui choisissez le degré d'urgence de votre virement !
+
+Un paiement urgent ? Vraiment très urgent ? Sans urgence particulière ? Vous choisissez l’option qui vous convient le mieux parmi celles proposées :
+* **Paiement standard :** au plus tard dans les 3 jours ouvrables. (1)
+* **Paiement urgent :** de 1 à 2 jours ouvrables. (1) (2)
+(1) En fonction de l' heure de réception de votre instruction de paiement.
+(2) Option sujette à une tarification particulière .

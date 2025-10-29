@@ -1,0 +1,20 @@
+# Click to Pay, the future of online payments - ING Belgium - Click to PayClick, pay, enjoy
+
+## Frequently Asked Questions
+
+### I’m having trouble entering verification codes. What do I do?
+
+Verification codes can only be used once and are only valid for a few minutes. After that time passes, you need to request another code. When you request to resend a code, any previous code is invalid. If this doesn’t resolve the issue, please try again later.
+
+### I’m not receiving verification codes. What do I do?
+
+If you do not receive a verification code, confirm the email address and mobile number are correct in Mastercard Click to Pay. You can also request to resend a code or send a code through email or SMS instead.
+If your issue isn’t resolved, you can check out without using Click to Pay and manually enter your payment information.
+
+### What happens when I select “remember me”?
+
+Choosing “Remember me” gives you faster access to your cards. You’ll be recognized and will not need a verification code to access your cards the next time you check out with Mastercard Click to Pay on the same device and browser.
+
+### How do I delete a remembered device?
+
+Sign in to Mastercard Click to Pay to manage your settings, like viewing and deleting your remembered devices and browsers.

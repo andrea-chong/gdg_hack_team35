@@ -1,0 +1,7 @@
+# Connectez-vous et signez avec votre lecteur de carte - ING Belgique - Vous cherchez votre lecteur de cartes ? Il y a peut-être un moyen plus simple...
+
+## Questions fréquemment posées
+
+### L’écran de confirmation pour la signature n’apparaît pas dans votre application ?
+
+Il est possible que vous ne receviez pas la notification de signature dans votre app. Pour résoudre cela, actualisez la page d'accueil ou déconnectez-vous un moment, puis reconnectez-vous.

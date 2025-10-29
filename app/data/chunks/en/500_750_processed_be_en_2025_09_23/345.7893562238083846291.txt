@@ -1,0 +1,31 @@
+# How to use itsme® for online banking - ING Belgium - All about itsme®
+
+## Frequently asked questions
+
+### How secure is itsme® and what happens with my personal data?
+
+Itsme® is an extremely secure way to confirm your digital identity. The system works by linking the unique data contained in your electronic identity card with that of the SIM card in your smartphone. Together with the 5-digit itsme PIN known only by you, this unique mobile identity ensures maximum security for your e-banking and other online services.
+No information will be transferred without **your explicit consent** . You can see exactly in the app what data you are sharing, what you are doing and with which partner!
+
+### I turned 16 or 18 and would like to start using itsme®. It’s not working, what should I do?
+
+If you're 16 and you’re having troubles installing itsme®, it’s probably because you still have to share the latest version of your eID card with ING. You can do this by presenting your eID card at the counter of your local ING branch.
+If you didn’t get a new eID card when your turned 18 and your old one is still valid, you’ll have to go by the local administration to activate the electronic signature certificates. Afterwards you should be able to create an itsme® account.
+
+# All about itsme®
+
+## Frequently asked questions
+
+### How do I activate itsme® on my new smartphone?
+
+To configure itsme® on your new device, please follow these steps:
+On your new mobile phone:
+1. Download the itsme® app (if this is not yet done).
+2. Enter your phone number and select ‘Reactivate’ on the popup.
+3. Select your bank and follow the steps.
+4. A code will be sent to you by text message. Enter it in the app.
+5. Choose your 5-digit PIN and confirm it.
+If the above steps do not work, visit the itsme.be web site with your eID card and card reader:
+6. Block your account with your mobile number and your place of birth.
+7. Validate the information and wait for the confirmation message.
+8. Reactivate your account through the website.

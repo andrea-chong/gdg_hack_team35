@@ -1,0 +1,8 @@
+# Payer un paiement Récurrent - Ordre Permanent SEPA - ING Belgique - ING Belgique - Ordre permanent en euros (SEPA)
+
+## Tout sur l'ordre permanent en euros (SEPA)
+
+### L'ordre permanent n'a pas été exécuté ?
+
+Cela est probablement dû à un manque de provision sur le compte.
+Il vous faudra encoder le paiement (virement SEPA) manuellement vous-même.

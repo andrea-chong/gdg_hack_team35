@@ -1,0 +1,10 @@
+# ING Card frequently asked questions - ING Belgium - ING Card credit card
+
+### How do I change the sending method of my ING Card statements?
+
+The method of receiving monthly ING Card statements is linked to the method of receiving your **account statements.**
+**To change the method of receiving your account statements,** go to:
+* **the ING Banking app** : Service > Accounts > Manage your account statements;
+* **Home’Bank** : Service > Go to the Self’service corner > Settings > Modify your account statements settings
+If you choose the digital format, a valid email address is required.
+Do you opt for paper format? Account statements as well as ING Card monthly statements will be sent by post. Please note, while sending the ING Card monthly statement is free, **sending account statements is subject to charges** .

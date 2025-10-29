@@ -1,0 +1,20 @@
+# The youth automatic savings account - ING Belgium - Recurring savings for your child
+
+## Risks
+
+The ING Tempo Savings is a regulated savings account of ING Bank Belgium LC. Belgian law alone applies.
+**Risk of bankruptcy:** In the event of bankruptcy or the risk of bankruptcy of the financial institution, the saver bears the risk of not recovering his or her savings or may be obliged to reduce/convert the amount of his or her claims against the financial institution in excess of 100,000 euros - an amount covered by the deposit protection mechanism - into capital shares (Bail-in). You can find out more about this protection system on the following website
+Guarantee Fund for financial institutions (belgium.be)
+**Inflation risk:** persistent rises in prices could cause the money deposited to fall in value.
+
+## Saving for your child
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Easy to open | Fancy saving for your child? Get started right away. Open your savings account online through your favourite digital channel. Your child will dispose of the amount in this savings account on his/her 18th birthday. This savings account can only be opened in one name (one account per child). |
+| Parental control | Want to keep an eye on them? You can simply do so via your computer or smartphone, until your child turns 18. |
+| No extra fees | Open, close and manage your savings account for free. Account statements can be consulted via digital channels. |
+| Deposit | No minimum amount, maximum of €500 per month. On this savings account, you save via a standing order from your current account or from your child's current account to your child's savings account. |
+| Account management | This account can only be managed digitally. |
+END TABLE IN MARKDOWN

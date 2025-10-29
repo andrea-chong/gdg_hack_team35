@@ -1,0 +1,13 @@
+# Je n'arrive pas à mettre à jour mon app ING Banking, que dois-je faire? - ING Belgique - Pourquoi ne puis-je pas télécharger ou mettre à jour l'app ING Banking ?
+
+28 février 2025 La raison la plus courante est que votre appareil utilise un système d'exploitation (OS) obsolète.
+​​​​​
+
+## Configuration requise pour le système d'exploitation
+
+Pour s'assurer que l'app ING Banking répond à toutes les nouvelles normes de sécurité et améliorations, il est important de mettre à jour votre appareil avec un OS récent **:**
+* Pour les appareils Apple : **iOS 15 ou une version plus récente**
+* Pour les appareils Android : **Android 8 ou une version plus récente**
+Malheureusement, l'app ING Banking ne fonctionne pas sur les appareils qui utilisent un système d'exploitation antérieur.
+Si c'est votre cas, essayez d'installer le dernier système d'exploitation sur votre appareil, puis mettez à jour l'app ING Banking.
+Si cela ne fonctionne pas, essayez de désinstaller l'application et de la télécharger à nouveau.

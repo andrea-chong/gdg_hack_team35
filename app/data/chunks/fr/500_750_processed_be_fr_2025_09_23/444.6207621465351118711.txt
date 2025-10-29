@@ -1,0 +1,24 @@
+# Payez avec Google Pay en toute simplicité ! - ING Belgique
+
+## Payez rapidement et en toute sécurité avec votre smartphone en associant dès aujourd'hui votre carte de débit ou de crédit ING à Google Pay.
+
+Google Pay donne une nouvelle dimension aux paiements mobiles, que ce soit en magasin, en ligne ou via des applications. Passez au sans contact avec Google Pay dès maintenant - c'est simple, rapide et hautement sécurisé !
+
+## Tout savoir sur Google Pay
+
+* ### Facile
+Plus besoin de code PIN lors du paiement, vous confirmez votre identité avec Face ID (reconnaissance faciale) ou Touch ID (empreinte digitale) ou votre code PIN (si vous le souhaitez).
+* ### Sécurisé
+Google Pay utilise un numéro spécifique (token) lié à votre appareil et un code de transaction unique. Votre numéro de carte de débit ou de crédit n'est jamais stocké sur votre appareil ou sur les serveurs de Google, ni communiqué aux commerçants.
+* ### Accepté partout
+Pour les paiements en magasin, la plupart des terminaux de paiement acceptent le paiement sans contact. Il vous suffit donc de présenter votre téléphone. Pour les paiements en ligne ou dans une application, il vous suffit de choisir l'option Google Pay.
+
+## Configurer Google pay (2 options)
+
+### Via l’app ING Banking
+
+Connectez-vous > Appuyez sur Services > Choisissez Paramètres > Appuyez sur Google Pay > Sélectionnez votre carte de débit ou de crédit ING > Suivez les instructions pour lier votre carte.
+
+### Via le Google Wallet
+
+Ouvrez le wallet > Cliquez sur Ajouter à wallet > Choisissez Carte de paiement > Appuyez sur Nouvelle carte de crédit ou de débit > Entrez le numéro de la carte, la date d'expiration et le CVC/CVV (si possible) > Appuyez sur Enregistrer > Acceptez les conditions d’utilisation > Choisissez Se connecter à l'application bancaire > connectez-vous > Suivez les instructions pour lier votre carte

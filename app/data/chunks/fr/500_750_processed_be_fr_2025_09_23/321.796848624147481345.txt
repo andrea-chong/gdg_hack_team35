@@ -1,0 +1,9 @@
+# Adapt card settings - ING Belgique - Modifier les paramètres de la carte de débit/crédit
+
+## Questions fréquentes
+
+### Quel est l'impact de la désactivation des paiements en ligne ?
+
+Si vous désactivez les paiements en ligne,
+* vous ne pourrez plus effectuer de paiements en ligne
+* les paiements périodiques automatiques de vos abonnements (streaming, pare-feu, musique, …) en ligne liés à votre carte seront aussi refusés.

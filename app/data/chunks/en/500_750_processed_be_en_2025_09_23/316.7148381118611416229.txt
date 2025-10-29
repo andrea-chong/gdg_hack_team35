@@ -1,0 +1,44 @@
+# Apple Pay: Pay fast and safe - ING Belgium
+
+## FAQ
+
+### How do you pay with your iPhone in a shop?
+
+With Face ID
+* Double-tap the button on the side of your iPhone and look at the screen to identify yourself
+* Hold the top of your phone a few centimeters from the payment terminal
+* Do you see 'Done' and a tick on the screen? Then you have paid!
+With Touch ID (fingerprint)
+* Hold your iPhone a few centimeters from the payment machine
+* Press your finger on the home button on your iPhone to identify yourself
+* Do you see 'Done' and a tick on the screen? Then you have paid!
+**\*On older model iPhones (with home button at bottom of screen)**
+* Double click the home button at the bottom of your screen
+* Hold your iPhone a few centimeters from the payment machine
+* Press your finger on the home button on your iPhone or put your
+* iPhone password to identify yourself
+* Do you see 'Done' and a tick on the screen? Then you have paid!
+
+### How do you pay with your iPhone online or in an app?
+
+* Check if the website or app accepts Maestro
+* Choose 'Apple Pay' as your payment method
+* Confirm the payment with Face ID or Touch ID
+
+### How do you pay with your Apple Watch in a shop?
+
+* Double tap on the button on the side of your Apple Watch
+* Hold the screen of your Apple Watch a few centimeters away from the payment terminal (make sure you wear your Apple Watch on your wrist)
+* Wait until you feel a tap... and you have paid.
+* Do you see 'Done' and a tick on the screen? Then you have paid!
+
+### How do you pay with your Apple Watch online or in an app?
+
+* Check if the website (use Safari as browser) or app accepts Maestro/Visa/Mastercard
+* Choose Apple Pay for your payment
+* Double tap the button on the side of your Apple Watch
+* Wait until you feel a tap and you have paid.
+
+### Do you need an internet connection to pay with Apple Pay?
+
+You only need an internet connection to add a new card to the Apple Wallet app.

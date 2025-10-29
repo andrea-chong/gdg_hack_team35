@@ -1,0 +1,43 @@
+# Payconiq, now part of your ING Banking app - ING Belgium - Pay and get paid on the spot with Payconiq
+
+## Frequently asked questions
+
+### My friend can't pay me back
+
+Please note that some banks don’t offer Payconiq to their customers yet. If that’s the case for your friend, they can download the Payconiq by Bancontact app on their smartphone from Google Play or the App Store . It only takes a few minutes.
+
+### My friend doesn’t appear in my contacts list via Payconiq
+
+Please see the previous answer.
+
+### What are the payment limits?
+
+The payment limits with Payconiq are the same as for regular transfers using the ING Banking app. To find out more, see the overview table.
+
+### What about Apple Pay?
+
+For the time being, you can’t pay with Apple Pay via the ING Banking app. But that could change soon. We’ll send you more information if it does.
+
+### How do I start accepting Payconiq payments in my store?
+
+See previous answer.
+
+### Why is Payconiq being removed from the app?
+
+Payconiq is being phased out as part of a broader transition to newer, more integrated payment solutions. We’re introducing Wero , a modern alternative that offers instant payments and enhanced user experience.
+
+### When will Payconiq no longer be available?
+
+Payconiq will be decommissioned by the end of 2025. After this date, you will no longer be able to send or receive payments via Payconiq in the app.
+
+### Will my payment history from Payconiq still be available?
+
+Yes, your past transactions will remain visible in your transaction history, even after Payconiq is removed.
+
+### Can I still receive payments via Payconiq after the decommission date?
+
+No, all Payconiq services will stop after the decommission date. We recommend switching to Wero as soon as possible.
+
+### What happens if I don’t link my phone number to Wero?
+
+You won’t be able to send or receive instant payments via Wero until your phone number is linked.

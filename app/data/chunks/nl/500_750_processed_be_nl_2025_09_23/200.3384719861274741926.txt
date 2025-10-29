@@ -1,0 +1,41 @@
+# Apple Pay: Betaal in een handomdraai! - ING België
+
+## FAQ
+
+### Hoe betaal je met je Apple Watch in een winkel?
+
+* Dubbelklik op het knopje aan de zijkant van je Apple Watch
+* Houd het scherm van je Apple Watch een paar centimeter af van de betaalterminal (zorg dat je je Apple Watch aan je pols draagt)
+* Wacht tot je een tikje voelt… en klaar.
+
+### Soms lukt betalen met Apple Pay niet in een winkel?
+
+Je zegt de kassamedewerkers het best altijd duidelijk dat je met Apple Pay wilt betalen en niet ‘met de kaart’. Dan kunnen zij op hun kassa de juiste betaaloptie activeren en zou alles foutloos moeten werken.
+
+### Hoe betaal je met je Apple Watch online(Safari) of in app?
+
+* Check of de website of app Maestro/Visa/Mastercard aanvaardt
+* Kies voor Apple Pay als je gaat betalen
+* Dubbelklik op het knopje aan de zijkant van je Apple Watch
+* Wacht tot je een tikje voelt... en klaar.
+
+### Verbonden zijn met het internet om te betalen met Apple Pay?
+
+Om te betalen met een debet- if kredietkaart die al toegevoegd is aan je Apple Wallet, heb je geen internetverbinding nodig.
+Je hebt enkel internetverbinding nodig om een nieuwe kaart toe te voegen aan de Apple Wallet-app.
+
+### Welke betaaloptie kies ik aan een zelfscankassa?
+
+Om aan een zelfscankassa met Apple Pay te betalen, kies je de betaaloptie ‘Maestro/Kredietkaart’.
+
+### Is een pincode nodig om te betalen met Apple Pay?
+
+Nee. Mocht vingerafdruk- of gezichtsherkenning niet ingesteld zijn op je iPhone, dan kun je nog altijd de betaling goedkeuren met de ontgrendelingscode van je iPhone.
+
+### Hoe kun je met andere debet- of kredietkaart betalen dan standaard?
+
+Wacht tot je een tikje voelt… en klaar.
+
+### Apple Pay als contactloos betalen is uitgeschakeld?
+
+Ja dat is geen enkel probleem!

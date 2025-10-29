@@ -1,0 +1,21 @@
+# Comment utiliser itsme® pour les services bancaires en ligne - ING Belgique - Tout savoir sur itsme®
+
+## Questions fréquemment posées
+
+### Comment activer itsme® pour la première fois ?
+
+1. Vérifiez que vos données personnelles sont à jour avant de procéder à l’activation d’itsme **®.**
+2. Téléchargez l’app itsme® sur votre smartphone.
+3. Encodez votre numéro de GSM et choisissez ING sous la méthode d’identification.
+4. Acceptez l’échange de vos données d’identité avec ING.
+5. Finalisez la création de votre profil itsme **®** depuis l’app ING Banking.
+
+### Quel est le degré de sécurité de itsme® et qu'advient-il de mes données personnelles ?
+
+itsme® est un moyen extrêmement sûr de confirmer votre identité numérique. Le système combine les données uniques contenues dans votre carte d’identité électronique à celles de la carte SIM de votre smartphone. Associée à votre code PIN à 5 chiffres, cette identité mobile unique garantit une sécurité maximale pour vos services bancaires et vos autres services en ligne.
+Aucune information ne sera transférée sans votre consentement exprès. Dans l’app, vous pouvez voir exactement quelles données vous partagez, ce que vous faites et avec quel partenaire !
+
+### J'ai eu 16 ou 18 ans et j'aimerais commencer à utiliser itsme®. Cela ne fonctionne pas, que dois-je faire ?
+
+Si vous avez 16 ans et que vous ne parvenez pas à installer itsme®, c'est probablement parce que vous devez encore communiquer la dernière version de votre carte d'identité électronique à ING. Vous pouvez le faire en présentant votre carte d'identité électronique au guichet de votre agence ING locale.
+Si vous n'avez pas obtenu de nouvelle carte d'identité électronique à l'âge de 18 ans et que votre ancienne carte est encore valable, vous devrez vous rendre auprès de l'administration locale pour activer les certificats de signature électronique. Ensuite, vous devriez pouvoir créer un compte itsme®.

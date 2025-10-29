@@ -1,0 +1,22 @@
+# Vérification du nom du bénéficiaire - ING Belgique
+
+## FAQ
+
+### Quel message vais-je recevoir si aucune vérification ne peut être effectuée ?
+
+Si aucune vérification n'est possible, par exemple en raison d'un problème technique ou parce que la banque du bénéficiaire n'a pas répondu (à temps), vous recevrez un message ressemblant à celui-ci-dessous. A la suite de cette notification, vous pourrez décider de poursuivre votre virement, avec ou sans adaptation.
+« Nous ne pouvons pas vérifier si le nom du bénéficiaire est correct. Si vous poursuivez, le montant pourrait être transféré au mauvais bénéficiaire. »
+
+### Que dois-je faire si je reçois un message d'erreur ?
+
+* Vérifiez les détails du paiement et contactez le bénéficiaire si nécessaire (attention : les données de contact figurant sur une facture falsifiée peuvent également être falsifiées).
+* Après avoir reçu une notification, vous pourrez décider de procéder ou non à une modification. Comme c'est déjà le cas aujourd'hui, vous restez responsable des virements que vous effectuez.
+
+### Que puis-je faire pour que mes paiements se déroulent au mieux ?
+
+Dans votre liste de bénéficiaires de confiance, indiquez toujours correctement le nom du bénéficiaire (nom et prénom). Si vous recevez un message d’erreur, pensez à mettre à jour les coordonnées de ce bénéficiaire dans votre liste de bénéficiaires de confiance afin d’éviter ce genre de message d’erreur à l’avenir.
+Par exemple, modifiez un virement au profit du bénéficiaire « papa » en indiquant le nom officiel de votre père. Si vous ne le faites pas, vous continuerez à recevoir un message d'erreur à chaque fois.
+
+### Les autres vont-ils voir mon nom quand ils effectueront un virement sur mon compte ?
+
+Lors de la vérification du nom du bénéficiaire, le nom d'un particulier n'apparaît que si le payeur a fait une petite erreur dans le nom (par exemple Dupond au lieu de Dupont) ou si le nom introduit diffère légèrement du nom correct. Dans tous les autres cas, votre nom n'apparaît pas afin de préserver au maximum votre vie privée.

@@ -1,0 +1,12 @@
+# ING Spaarrekening - ING België - De klassieke spaarrekening
+
+## Begin nu met sparen
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Voor iedereen toegankelijk | Al klant? Open jouw ING Spaarrekening eenvoudig via je favoriete digitale kanaal of in een ING\-kantoor. Nog geen klant? Word ING\-klant en open jouw ING Spaarrekening online of via een ING\-kantoor. |
+| Spaar op eigen tempo | Beheer je geld met flexibiliteit. Schrijf geld dat je kan missen veilig over naar je ING Spaarrekening vanaf eender welke rekening en zonder limiet. |
+| Toegang tot uw fondsen wanneer nodig | Je kan op elk moment de nodige fondsen overmaken naar een zichtrekening met dezelfde houder(s) als die van de spaarrekening. Voor klanten die geen zichtrekening bij ING hebben, is het mogelijk om een referentierekening toe te voegen bij een andere Belgische bank, via dit online formulier . Deze externe referentierekening zal de enige zichtrekening zijn waarnaar je geld kan overmaken vanaf je ING Spaarrekening. |
+| Geen extra kosten | Open, sluit en beheer je spaarrekening gratis. De kosten om rekeninguittreksels per post te versturen, bedragen € 5 + portokosten ( lijst met geldende tarieven ). |
+END TABLE IN MARKDOWN

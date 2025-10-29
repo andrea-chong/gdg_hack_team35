@@ -1,0 +1,23 @@
+# Verificatie van de naam van de begunstigde - ING België
+
+## FAQ
+
+### Wat kan ik doen om alles zo vlot mogelijk te laten verlopen?
+
+Geef in jouw lijst van vertrouwde begunstigden de naam van de begunstigde (voor- en achternaam) steeds correct in. Werk in jouw lijst met vertrouwde begunstigden de naam ook bij ingeval van een foutmelding, om deze in de toekomst te vermijden.
+Bijvoorbeeld: Een overschrijving naar de begunstigde “papa” aanpassen naar de officiële naam van je vader. Doe je dit niet, dan zal je telkens een foutmelding blijven ontvangen.
+
+### Krijgen anderen mijn naam te zien wanneer ze een overschrijving naar mijn rekening uitvoeren?
+
+Bij de verificatie van de naam van de begunstigde wordt enkel en alleen de naam van een privépersoon getoond wanneer de betaler een klein foutje maakte in de naam (bv. Jansen i.p.v. Janssens) of de ingevulde naam licht afwijkt van de juiste naam. Om jouw privacy maximaal te waarborgen, wordt in geen enkel ander geval jouw naam getoond.
+
+### Op welke betalingen is de verificatie van toepassing?
+
+Alle overschrijvingen die je zelf ingeeft en worden uitgevoerd in euro, ongeacht via welk bankkanaal (pc bankieren, mobiel bankieren, ...) naar rekeningen bij banken in de eurozone.
+
+### Op welke betalingen is de verificatie niet van toepassing?
+
+* Betalingen in andere munteenheden
+* Betaalkaartbetalingen
+* Wanneer je het rekeningnummer en de naam van de begunstigde niet zelf invoert, bijvoorbeeld het scannen van een QR-code via Payconiq/Wero
+* Domiciliëringen

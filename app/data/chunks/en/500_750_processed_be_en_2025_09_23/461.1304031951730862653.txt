@@ -1,0 +1,9 @@
+# Pay with Google Pay easily ! - ING Belgium
+
+## FAQ
+
+### What to do if your mobile phone is lost or stolen?
+
+Block all functions remotely via the Google website: www.google.com/android/devicemanager.
+If you simply want to block your Google Pay payments without blocking your smartphone, call Card Stop + 32 78 170 170. Simply ask to cancel all tokens linked to your card in Google Pay.
+You can also block your physical cards and tokens by calling Card Stop.

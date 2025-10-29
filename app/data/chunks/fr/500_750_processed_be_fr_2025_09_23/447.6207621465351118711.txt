@@ -1,0 +1,32 @@
+# Payez avec Google Pay en toute simplicité ! - ING Belgique
+
+## FAQ
+
+### Que faut-il faire pour activer Google Pay ?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Avoir 16 ans ou plus Disposer d'un compte à vue ING avec une carte de débit ou de crédit active. Avoir la dernière version de a'app ING Banking sur l'appareil que vous utiliserez pour Google Pay. Avoir un GSM mis à jour avec la dernière version de l’OS Androïd Disposer d'un compte google valide La région sur votre appareil est définie sur Belgique Votre numéro de GSM est correctement enregistré auprès d'ING (si ce n'est pas le cas, vous pouvez facilement le modifier vous\-même via vos coordonnées dans les canaux digitaux d'ING) Être connecté à l'internet |
+END TABLE IN MARKDOWN
+
+### Comment activer Google Pay via votre app ING Banking ?
+
+* Connectez-vous à votre app ING Banking et allez dans votre menu « services » en bas à droite.
+* Appuyez sur "Paramètres" et ensuite sur « Google Pay",
+* Choisissez la carte que vous souhaitez ajouter à Google Pay et appuyez sur "Ajouter à Google Wallet" et « Continuer »
+* Choisissez "Suivant".
+* ING vous demandera d'accepter les conditions générales.
+* Vous êtes maintenant prêt à payer avec Google Pay
+
+### Comment activer Google Pay via le Google Wallet et Google Pay sur votre smartphone ?
+
+* Sur votre GSM, allez dans "Wallet » et « Ajouter à Wallet ».
+* Sélectionnez « Carte de paiement »
+* Cliquez sur « nouvelle carte de crédit ou de débit »
+* Introduisez le numéro de la carte ainsi que la date d’expiration et le CVC/CVV de la carte (les cartes de débit Maestro n’ont pas de CVC)
+* Ouvrez l'app ING Banking et suivez les instructions
+
+### Peut-on activer Google Pay avec un appareil qui n'utilise pas Android?
+
+Non, Google Pay ne peut être utilisé qu'avec un appareil utilisant l'OS Android.

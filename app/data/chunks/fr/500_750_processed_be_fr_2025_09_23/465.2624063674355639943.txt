@@ -1,0 +1,125 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgique - Déclaration d’ING Belgique S.A. pour la protection des données à caractère personnel
+
+## Déclaration d’ING Belgique S.A. pour la protection des données à caractère personnel
+
+### Supplément 1 à la Déclaration d’ING Belgique S.A.: principaux destinataires et sources de vos données
+
+A) PRINCIPAUX DESTINATAIRES
+Vos données sont traitées par ING Belgique de manière confidentielle.
+Elles ne sont pas destinées à être communiquées à des tiers autres que ceux mentionnés sous la Section 4 de la présente Déclaration (« Avec qui partageons-nous vos données et pour quelles raisons ? »).
+Une liste de nos principaux destinataires de vos données est reprise ci-après :
+Personnes désignées par vous
+Ces personnes sont par exemple :
+• les bénéficiaires de vos opérations de paiement,
+• les membres de votre famille,
+• les organismes agissant à votre demande comme Ombudsfin, un assureur,....
+Intermédiaires et partenaires commerciaux indépendants
+Il s’agit principalement des agents indépendants et courtiers offrant les produits ou services d’ING Belgique.
+Autorités compétentes
+Les principales autorités compétentes qui reçoivent des données sont les suivantes :
+• Communications à des autorités judiciaires ou administratives (en ce compris les autorités fiscales, l’Autorité de protection des données,…), en Belgique ou à l’étranger, en ce compris un organisme de contrôle de l’activité bancaire et financière (en particulier, la Banque Nationale de Belgique ou l’Autorité des Services et Marchés Financiers («FSMA»)), ou un service de médiation extrajudiciaire (en particulier, Ombudsfin) ou une association de défense des intérêts de personnes ou d’une cause déterminées,
+• Communications légales au point de contact central de la Banque Nationale de Belgique (BNB),
+• Communications légales à la centrale des crédits aux particuliers et au Registre des crédits aux entreprises de la BNB,
+• Communications à la Chambre du service bancaire de base, au sein du SPF Economie, chargée de désigner un prestataire du service bancaire de base dans le cadre du service bancaire de base pour les entreprises,
+• Communication à la la Caisse des Dépôts et Consignations au sein de l'Administration générale de la Trésorerie du Service public fédéral Finances dans le cadre de la gestion des comptes dormants et de la liquidation des comptes,
+• Communications aux autorités ou organismes publics dans le cadre de la lutte contre la fraude, ING se limitant à confirmer qu’un personne est ou non titulaire d’un numéro de compte, les coordonnées de la personne ou les numéros de comptes associés étant communiqués par l’autorité ou organisme public concerné, notamment :
+o Office national des Pensions
+o Office national de sécurité sociale
+o SPF Sécurité Sociale
+o SPF Finances
+o Office national des Vacances annuelles (ONVA)
+o Agence fédérale des risques professionnels
+o Fonds Social et de Garantie Horeca
+o Famiris, Fons et Famiwal
+o Ministère de la Communauté germanophone, Département Familles et Affaires sociales
+o Kind & Gezin
+o Agence wallonne de la santé, de la protection sociale, du handicap et des familles (Aviq)
+o Iriscare (THAB)
+Spécialistes du secteur financier et autres prestataires de service
+Nous faisons également appel à diverses sociétés dont l’intervention est nécessaire ou utile pour réaliser l’une des finalités poursuivies par nous, ces sociétés, agissant en principe comme sous-traitants d’ING Belgique (et/ou, le cas échéant, comme responsables du traitement, conjoints ou non) et étant :
+- soit des spécialistes du secteur financier ;
+- soit d’autres prestataires de services.
+a) Spécialistes du secteur financier Les principaux spécialistes du secteur financier qui ont aussi une obligation légale d'utiliser les données personnelles avec soin sont :
+• SWIFT SC (établie en Belgique) pour l’échange de messages dans le cadre de transactions financières sécurisées dont les données sont conservées aux États-Unis et y sont soumises à la législation américaine,
+• MasterCard Europe SRL (établie en Belgique) et VISA Europe Limited (établie au Royaume-Uni) pour les paiements et les transactions de crédit dans le monde entier,
+• Card Stop (service de Worldline) pour bloquer votre carte de débit ou de crédit (ING Card comprise),
+• EquensWorldline SE (établie aux Pays-Bas) pour les transactions de crédit mondiales et les sociétés du Groupe equensWorldline au Maroc et en Inde, qui opèrent en qualité de sous-traitants,
+• Euroclear SA (établie en Belgique) pour le règlement/la livraison de titres au monde, pour les opérations domestiques et internationales sur obligations et actions,
+• Gemalto (établie en France) pour la personnalisation des cartes de débit ou de crédit (ING Card comprise),
+• Payconiq (établie au Luxembourg) pour faciliter les paiements par smartphone,
+• EPI Company SE (établie en Belgique) pour l'exécution d’opérations de paiement Wero via les services Wero in App, intégrés en tant que services ING Banking (informations disponibles sur le site web d'EPI : www.epicompany.eu).
+• Isabel SA (établie en Belgique) pour des services via Internet et du service Zoomit d’Isabel,
+• Axepta BNP Paribas BENELUX SA (établie en Belgique) pour la fourniture des terminaux de paiement aux professionnels,
+• Institutions bancaires/financières correspondantes dans les pays étrangers,
+• Organismes de compensation et de liquidation des paiements (Centre d’Echange et de Compensation ASBL (« CEC », établi en Belgique), Systèmes technologiques d'échange et de traitement SA (« STET », établi en France), EBA Clearing SA (établie en France),…) et des instruments financiers (NBB-SSS, Euroclear Belgium et Euroclear Bank, …),
+• Sociétés intervenant dans le cadre de la mobilisation de créances bancaires,
+• Etablissements de crédit, établissements financiers et établissements équivalents dans le cadre de la divulgation d’informations ou renseignements relatifs au blanchiment de capitaux ou au financement du terrorisme, en ce compris la transmission d’informations (éventuelle) à la Cellule de Traitement des Informations Financières (CTIF).
+• Batopin SA (établie en Belgique), le consortium créé par les grandes banques belges pour la gestion du réseau et des services ATM;
+• *Belgian Mobile ID SA et Connective SA* *(établie en Belgique)* pour la fourniture de services d'identification, d'authentification et de signature numérique ;
+• Les autres membres affiliés à la plateforme Kube d'Isabel SA (établie en Belgique) dont la liste est disponible sur www.kube-kyc.be.
+Via cette plateforme Kube, ING Belgique communique les données à caractère personnel des représentants légaux et des bénéficiaires effectifs des sociétés/entreprises qui sont Clientes d'ING Belgique ainsi que celles des travailleurs indépendants qui sont Clients d’ING Belgique, avec les autres membres précités auprès desquels ces sociétés et travailleurs indépendants sont également clients ou souhaitent le devenir et qui doivent également se conformer aux obligations de la législation anti-blanchiment ou aux obligations légales relatives à l’échange automatique en rapport avec les dispositifs fiscaux transfrontières telles que mentionnées à l’article 5.7 du Règlement général de opérations. Les données ainsi communiquées sont celles obtenues lors du processus d'acquisition de la clientèle auprès d’ING Belgique ainsi que celles mises à jour par la suite auprès de cette dernière ;
+• Compagnies d’assurances agréées en Belgique (pour lesquelles ING n’agit pas comme intermédiaire) dans le cadre de la lutte contre la fraude, ING se limitant à confirmer qu’une personne est ou non titulaire d’un numéro de compte, les coordonnées de la personne ou les numéros de comptes associés étant communiqués par la compagnie d’assurance concernée.
+Nous vous invitons à prendre connaissance des déclarations de confidentialité des spécialistes du secteur financier repris ci-dessus, que vous trouverez sur leurs sites internet respectifs.
+b) Prestataires de services
+Certaines données spécifiques peuvent être amenées à être partagées avec des prestataires de services dont :
+Prestataires de services intragroupes
+• Le service de ING Business Shared Services Bratislava en Slovaquie à Bratislava pour les opérations de paiement et liées aux comptes, Le service de ING Business Shared Services Manila aux Philippines à Manille pour les opérations de paiement, de crédit (notamment la libération des fonds) et financières, • Le service de ING Business Shared Services Manila aux Philippines à Manille, de ING Business Shared Services Brastislava en Slovaquie à Bratislava et de ING Business Shared Services Warschau en Pologne à Varsovie pour l’identification du Client et des autres personnes concernées ainsi que le contrôle et la surveillance de leurs activités (dans le cadre de la lutte contre le terrorisme et le blanchiment d’argent).
+Prestataires de services génériques
+• Les services de Fircosoft SAS (établi aux USA) pour le screening et monitoring des clients et transactions,
+• Les services informatiques (en ce compris la sécurité) de fournisseurs tels que Unisys Belgium SA (établie en Belgique), Adobe (établie en Irlande), Contraste Europe VBR (établie en Belgique), Salesforce Inc. (établie aux USA), Ricoh Nederland BV (établie aux Pays-Bas), Tata Consultancy Services Belgium SA (établie en Belgique et en Inde), HCL Belgium SA (établie en Belgique), Cognizant Technology Solutions Belgium SA (établie en Belgique), ING Business Shared Services Warschau (établie en Pologne),
+• Le service de Selligent SA et Social Seeder SRL (établies en Belgique) ainsi que, le cas échéant, des call-centers externes (en particulier, dans le cadre d’enquêtes) pour les activités marketing,
+• Les services de B-Connected SA, Callexcel SA et de N-Allo SA (établies en Belgique) dans le cadre des appels helpdesk (Digital Channel Private Individuals), concernant le support sur les canaux digitaux utilisés par les clients privés,
+• Le service d’archivage de vos données bancaires, financières ou d’assurance sous forme « papier » ou électronique d‘OASIS Group à Turnhout en Belgique,
+• Le service de sécurité des fonds et valeurs de Securitas SA / Loomis Belgium SA (établies en Belgique),
+• Les services postaux et de gestion de correspondence de BPost SA, d’Exela SA, de Group Joos SA, de Mastermail SRL, d’Omnilevel SA et de Speos SA (établies en Belgique),
+• Les services de gestion de cookies sur les canaux de communication électroniques d’ING Belgique (« cookies de tiers ») : Adobe (établie aux Etats-Unis), ADMO, Doubleclick Inc , Google Ireland Ltd (établie en Irlande), Facebook Ireland Ltd (établie en Irlande), Medallia Inc (établie aux Etats-Unis) et Tiktok Information Technologies UK Ltd.
+(établie au Royaume Uni).
+• Les services d'assistance numérique tels que les chatbots, les callbots et les assistants vocaux en relation avec ING Client Services de Google Ireland Ltd et Twilio Ireland Ltd (tous deux en Irlande).
+Prestataires de services spécifiques à certains produits ou segments
+• Le service de ING Business Shared Services Colombo au Sri Lanka à Colombo pour la gestion de crédits wholesale banking,
+• Les services de Finance Active SAS (établie en France) pour la gestion de la plateforme de gestion active de dettes à destination des Clients Institutionnels,
+• Le service de gestion des contrats de crédit à la consommation et de crédit hypothécaire de Stater Belgium SA (établie en Belgique),
+• Les services de gestion des incidents de paiement et de crédit par des personnes qui exercent une activité de recouvrement amiable de dettes du consommateur et qui, à cet effet, conformément à l’article 4, § 1er de la loi du 20 décembre 2002 relative au recouvrement amiable des dettes du consommateur, sont inscrites auprès du Service public fédéral Economie, P.M.E., Classes moyennes et Energie (liste sur demande), comme la société Fiducre SA,
+• Les services pour la gestion des crédits : Opportunity SAS (établie en France),
+• Le service de conservation des instruments financiers étrangers et de gestion de leur « corporate action » : des dépositaires, en particulier :
+o pour les titres étrangers : BNP Paribas securities services (Italie, Pays-Bas, France, Allemagne), ING Luxembourg SA (third party funds), Bank of New York Mellon (Europe de l’est et Europe centrale et Asie) , Brown Brothers Harriman (marché US et NN fonds émis au Luxembourg), UBS (Suisse, Autriche, Portugal, Danemark, Suède, Norvège, Finlande, Royaume-Uni, Irlande, Afrique du Sud, Espagne, Canada), CitiBank Luxembourg (South America), Clearstream banking Luxembourg (ICSD – obligations) ;
+o pour les titres belges : la BNB (CSD obligations d’Etat), Euroclear Belgium (CSD actions belges, warrants), KBC (obligations linéaires belges), RBC Dexia Investor Services (NN fonds émis en Belgique) et Delen Private Bank, Belfius, Deutsche Bank, Fortis Bank, Beo Bank, Credit Agricole, Argenta, Axa Bank, VDK Bank, Delta Llyod (sommet de la pyramide pour cash certificates).
+Assurances
+Des données personnelles peuvent être transmises dans le cadre de la conclusion ou de l’exécution d’un contrat d’assurance à des entités extérieures au Groupe ING qui sont établies dans un pays membre de l'Union européenne et en particulier :
+• NN Non-Life Insurance N.V.,
+• NN Insurance Belgium SA,
+• Aon Belgium SRL,
+• Inter Partner Assurance SA,
+• AXA Belgium SA,
+• Cardif Assurance Vie S.A. et Cardif Assurances Risques Divers S.A.,
+• Qover SA,
+• Zurich Insurance Europe AG, filiale belge, • Et à leurs éventuels représentants en Belgique (en particulier NN Insurance Services Belgium SA pour NN Non-Life Insurance N.V.) (liste sur demande).
+Autres partenaires
+Des données peuvent être transmises à d’autres sociétés partenaires d’ING (par ex. Bancontact Payconiq Company SA établie en Belgique ; liste sur demande), qui sont établies dans un pays membre de l'Union européenne, au nom et pour compte desquelles ING offre des produits ou services, en cas de souscription à ceux-ci ou d’un intérêt manifesté pour ceux-ci par les personnes concernées.
+B) PRINCIPALES SOURCES
+Une liste d’organismes publics et privés qui sont nos principales sources externes de vos données est reprise ci-après :
+Organismes publics
+• Le Registre National belge et la Banque Carrefour de la Sécurité Sociale belge (via l’ASBL Identifin) pour l’identification du Client et autres personnes concernées en cas de contrats à distance (dans le cadre de la lutte contre le terrorisme et le blanchiment d’argent) ou de comptes ou coffres dormants ;
+• Checkdoc (.be) pour la vérification des documents d'identité belges ;
+• Le Moniteur Belge, pour l’identification des personnes incapables et de leurs représentants ou encore pour l’identification des représentants des sociétés dans le cadre du respect par ING de ses obligations légales, e.a. de la lutte contre le terrorisme et le blanchiment d’argent. En vue de
+l’identification des représentants des sociétés à cette fin, ING consulte systématiquement le service Graydon Insights de Graydon Belgium SA (établie en Belgique), et enregistre, dans sa base de données qui centralise les données du Moniteur Belge, les données des représentants de toutes les sociétés, clientes ou non, qui sont publiées dans les annexes du Moniteur Belge. De même, en vue de l’identification des incapables et de leurs représentants à cette même fin, ING consulte systématiquement le Moniteur Belge et enregistre, dans sa base de données qui centralise les données du Moniteur Belge, les données des incapables et de leurs représentants, clientes ou non, qui sont publiées dans les annexes du Moniteur Belge. Dans cette base de données, seules les données des sociétés, des incapables et de leurs représentants qui sont client(e)s ou qui ont entamé les démarches pour l’ouverture d’une relation auprès d’ING Belgique sont accessibles à tout collaborateur d’ING;
+• Le Registre belge des bénéficiaires effectifs (« registre UBO ») pour l’identification des bénéficiaires effectifs des sociétés, ASBL, fondations, trusts et autres entités juridiques similaires aux trusts dans le cadre de la lutte contre le terrorisme et le blanchiment d’argent ;
+• La Banque-Carrefour des Entreprises dans le cadre de l’identification des représentants des sociétés dans le cadre de la lutte contre le terrorisme et le blanchiment d’argent ;
+• La Centrale des crédits aux particuliers et le Registre des crédits aux entreprises de la Banque Nationale de Belgique dans le cadre de la lutte contre le surendettement, notamment dans le cadre de l’évaluation de la solvabilité du Client crédité ;
+• La Centrale des bilans tenue par la Banque Nationale de Belgique notamment dans le cadre de l’évaluation de la solvabilité du Client crédité et dans le cadre de la lutte contre le terrorisme et le blanchiment d’argent ;
+• La Chambre du service bancaire de base, au sein du SPF Economie, chargée de désigner un prestataire du service bancaire de base dans le cadre du service bancaire de base pour les entreprises ;
+• Cadgis notamment pour consulter le plan cadastral belge dans le cadre de l’évaluation de la sûreté immobilière proposée par le crédité ;
+• Le Registre des gages tenu par le SPF Finances ;
+• La conservation des hypothèques tenue par le SPF Finances ;
+• La Banque des actes notariés sous la responsabilité du gestionnaire de la Banque des actes notariés (tenue par la Fédération Royale du Notariat belge) ; • La Base de données des statuts et des pouvoirs de représentation (tenue par la Fédération Royale du Notariat belge) ;
+• La base de données de l’Agence flamande pour l’Énergie et le Climat (VEKA) relative aux certificats de performance énergétique (PEB) en vue de l’analyse de la demande d’un crédit à destination immobilière ou de rénovations économes en énergie ou du suivi d’un tel crédit ;
+• une base de données du Service Public Fédéral Finances pour collecter certaines données de la déclaration d'impôt d'un demandeur de crédit, qui est travailleur indépendant, et de son partenaire aux fins de l'analyse de sa demande de crédit ;
+• des autorités judiciaires ou pénales, dans le cadre de l’application de la loi (en ce compris en cas de saisies) ou encore un service de médiation extrajudiciaire (en particulier, Ombudsfin) ou une association de défense des intérêts de personnes ou d’une cause déterminée ;
+Organismes privés
+• Le service de détection des risques World-Check de London Stock Exchange Group plc (établie au Royaume-Uni) qui collecte des données dans et en dehors de l’Union européenne) ou de Regulatory DataCorp Ltd. (établie au Royaume-Uni qui collecte des données dans et en dehors de l’Union européenne), les services de PricewaterhouseCoopers Belgium SC (établie en Belgique), les services de Deloitte Belgium (établie en Belgique), les services de Graydon Belgium SA (établie en Belgique), Swift SC (établie en Belgique), Isabel SA (établie en Belgique), Morningstar Holland B.V. (établie aux Pays-Bas), moteurs de recherche sur Internet, presse et autres sources fiables dans le cadre de la lutte contre le terrorisme et le blanchiment d’argent ;
+• Les autres membres affiliés à la plateforme Kube d'Isabel SA (établie en Belgique) dont la liste est disponible sur www.kube-kyc.be. Via cette plateforme Kube, ING Belgique peut recevoir des données à caractère personnel des représentants légaux et des bénéficiaires effectifs des sociétés/entreprises qui sont clientes de ces autres membres ainsi que celles des travailleurs indépendants qui sont clients de ces autres membres, de la part de ces autres membres précités dans la mesure où ces
+sociétés sont également clientes d’ING Belgique ou souhaitent le devenir, et ce afin de pouvoir également se conformer aux obligations de la législation anti-blanchiment ou aux obligations légales relatives à l’échange automatique en rapport avec les dispositifs fiscaux transfrontières telles que reprises à l’article 5.7 du Règlement général de opérations. Les données ainsi communiquées sont celles obtenues lors du processus d'acquisition de la clientèle auprès de ces autres membres ainsi que celles mises à jour par la suite auprès de ces derniers ;
+• Les services d’informations financières de Graydon Belgium SA, Bel-first de Bureau van Dijk Electronic Publishing SA, Dun & Bradstreet SRL (informations sur les sociétés et leurs représentants) (toutes établies en Belgique), les services de recherche de la Fondation OpenStreetMap Ltd. (établie au Royaume-Uni) et d’autres moteurs de recherche dans le cadre du marketing ;
+• Les services d’informations financières et commerciales de MOODY'S Investors Service Ltd (au Royaume-Uni), Coface SA (établie en France), Creditsights Ltd (établies au Royaume-Uni) et Bloomberg Ltd (établie aux Etats-Unis) dans le cadre de l’identification des représentants des sociétés, de l’octroi et de la gestion des crédits, du marketing et de la gestion de fortune ;
+• Les services de Mitek Systems B.V. (établie aux Pays-Bas) pour l’identification des clients sur base de leur photographie, dans le cadre de notre finalité de contrôle de la régularité des transactions (en ce compris la prévention des irrégularités) ;
+• Les services de simulation de Corporate Facility Partners B.V. (établie aux Pays-Bas) et Rockestate SRL (établie au Belgique) dans le cadre de l’évaluation de l’efficacité énergétique des immeubles et des travaux requis en vue de l’amélilorer ou des risques liés à l’impact climatique (ex. zones inondables) à l’occasion de l’octroi d’un crédit y lié auprès *de notre établissement.*

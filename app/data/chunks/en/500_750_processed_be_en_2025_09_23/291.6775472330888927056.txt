@@ -1,0 +1,18 @@
+# Daily limits for your banking transactions - ING Belgium - All about limits
+
+## Limits for business customers (over 18)
+
+Your default limits are listed below. If you want to temporarily or permanently change your limits, you can connect to Business'Bank or the ING Banking app.
+You can adjust your limits yourself via the Do-it-yourself zone of your Business’Bank. You can also do it via the ING Banking app on your smartphone : go to the 'Services' menu on the bottom right of your screen, tap 'Limits' and choose 'Transfers'. Your limits can be adjusted with or without an end-date.
+
+### Bank transfers
+
+The following default limits apply to bank transfers executed via Business'bank, ING Banking app and Payment Initiation Services(*:The Payment Initiation Service allows you to send a payment order via a third party. You must give permission for each specific payment order.).
+The limits depend on how and to whom you wish to transfer money.
+You can transfer as much money as you wish between your own ING accounts, to ING accounts on which you have a mandate and to a limited number of accounts which are owned by the Belgian government or by ING Bank.
+* Via ING Banking app, Business'Bank (internet banking), Payment Initiation Service\*[1]: 125.000 € per day (24h)
+* Bancontact payments via ING Banking[2] : 250 € per day (24h)
+* ING MasterCard Business: variable (set by you together with your ING banker)
+[1]: Sending money in euro (SEPA), standing orders in euro (SEPA) and international transfers made in euro or foreign currencies. Note : all limits listed here apply to transfers that require only 1 signature.
+[2]: You can receive a maximum of 500 euro per day via the Bancontact app.
+Link to our website info page on PSD2

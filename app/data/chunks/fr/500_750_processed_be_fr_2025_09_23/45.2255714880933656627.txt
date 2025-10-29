@@ -1,0 +1,16 @@
+# À Venir, prévoyez votre budget pour le mois prochain - ING Belgique
+
+## Aide à la gestion du montant sur votre compte à vue
+
+Connaissez-vous plus ou moins vos revenus mensuels et savez-vous quels montants seront prochainement prélevés sur votre compte à vue ? Serez-vous à découvert ou y a-t-il des opportunités à épargner/ investir? La fonctionnalité 'À Venir' vous aidera à anticiper !
+
+## 'À Venir' propose différents aperçus y compris une vue sur votre solde
+
+* ### "Planifié"
+Un aperçu des paiements réellement planifiés, que vous pouvez également consulter à différents endroits dans l'app ING Banking et Home'Bank.
+* ### "Prévisible"
+Un aperçu avec des prédictions: sur base de l'historique des transactions de votre compte à vue, nous estimons quelles transactions sont susceptibles de se reproduire. Il faut envisager un facteur d'incertitude dans ce contexte.
+* ### "Tout"
+Un aperçu pratique des transactions planifiées et prévisibles sur votre compte à vue.
+* ### "Solde futur estimé"
+Lorsque vous faites défiler l'écran, vous verrez l'impact de vos transactions futures sur votre solde actuel en bas de l'écran. Le solde futur estimé à chaque fois tient compte de la transaction future que vous venez de voir à partir du moment où elle disparaît de l'écran. (Dans Home'Bank ce solde est mentionné dans les détails de la transaction.)

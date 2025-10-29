@@ -1,0 +1,12 @@
+# List cash counter operations - ING Belgium - Cash Operations at the Cash Counter
+
+## Withdraw, deposit and change cash : EURO
+
+START TABLE IN MARKDOWN
+| Wished action | Procedure | Remark |
+| - | - | - |
+| Exchange to euro notes and coins. | Request an appointment at the cash counter desk : From Home'Bank In the ING Banking\-app: 'Services' > ‘Do it yourself’ > ‘Payments & Cash’ > 'Exchange euro in cash' Call our Customer Services on +32 2 464 60 04, Monday to Friday from 8 am to 6 pm | Fee per exchange : € 3 Exchange is only possible up to € 1.250 |
+| Deposit euro notes (< € 10.000). | You can make unlimited deposits in euro on your account with your debit card at any ING or CASH point dispenser. | |
+| Deposit euro notes (> € 10.000). | Request an appointment at the cash counter desk : From Home'Bank In the ING Banking\-app: 'Services' > ‘Do it yourself’ > ‘Payments & Cash’ > 'Deposit euro in cash' Call our Customer Services on +32 2 464 60 04, Monday to Friday from 8 am to 6 pm | We count the notes in the branch and credit your account immediately. |
+| Deposit euro coins. | Request an appointment at the cash counter desk : From Home'Bank In the ING Banking\-app: 'Services' > ‘Do it yourself’ > ‘Payments & Cash’ > 'Deposit euro in cash' Call our Customer Services on +32 2 464 60 04, Monday to Friday from 8 am to 6 pm. | The minimum number of coins you can deposit is 50. The maximum weight per secure bag is 10 kg We count the coins and credit your account. This can take up to 2 weeks, depending on the cash transport |
+END TABLE IN MARKDOWN

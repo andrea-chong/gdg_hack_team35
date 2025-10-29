@@ -1,0 +1,7 @@
+# Payez avec Google Pay en toute simplicité ! - ING Belgique
+
+## Que se passe-t-il si votre carte connectée à Google Pay ou votre téléphone est volé ou perdu ?
+
+Si vous perdez votre téléphone, bloquez toutes les fonctions à distance via le site web de Google : www.google.com/android/devicemanager .
+Si vous souhaitez simplement bloquer vos paiements Google Pay sans bloquer votre smartphone, appelez Card Stop + 32 78 170 170. Demandez simplement d'annuler tous les token liés à votre carte dans Google Pay.
+Vous pouvez aussi bloquer vos cartes physiques et les token en appeland Card Stop.

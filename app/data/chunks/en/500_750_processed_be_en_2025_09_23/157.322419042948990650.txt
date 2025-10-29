@@ -1,0 +1,23 @@
+# All your cash needs at a cash dispenser - ING Belgium - Cash dispensers (ATMs)
+
+## Cash dispenser fees
+
+### What is the maximum amount I can withdraw from cash dispensers?
+
+The maximum amount depends on:
+* The limit\* of your debit or credit card
+* The amount available on your account at the time of the withdrawal.
+You can generally withdraw up to 650 euros per day (Maestro debit card) or 750 euros per day (Mastercard debit card) from a cash dispenser, in denominations of 5, 20 and 50 euros, according to availability.
+(\*) What is the default limit for a debit card?
+10-15 years old: €50/7 days
+16-17 years old: €500/7 days ​
+As of 18 years: maximum €650/day (Maestro debit card) or €750/day (Mastercard debit card) and €2,500/7 days.
+(\*) What is the default limit for a credit card? €620/4 days
+**How do I change the withdrawal limit of my debit or credit card?**
+Log into the ING Banking app:
+* Go to the 'Services' menu on the bottom right of your screen
+* Select ‘Limits’ then ‘Debit card’
+
+### Can I withdraw cash from a savings account at an ATM?
+
+It is not possible to make a withdrawal from your savings account. First transfer the amount you wish to withdraw to your current account.

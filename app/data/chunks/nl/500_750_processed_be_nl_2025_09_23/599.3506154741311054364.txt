@@ -1,0 +1,26 @@
+# Vingerafdruk of gezichtsherkenning (Face-ID) - ING België - Vingerafdruk en gezichtsherkenning in de ING Banking-app
+
+## Veelgestelde vragen
+
+### Waarom kan ik opeens niet meer aanmelden en/of tekenen met vingerafdruk of gezichtsherkenning?
+
+Mogelijks is er iets technisch misgegaan. Kijk in de app instellingen nog eens na of deze geactiveerd zijn
+
+### Waarom vind ik in de ING banking app instellingen nergens vingerafdruk of gezichtsherkenning terug?
+
+Kijk volgende even na:
+1. Je smartphone moet beschikken over vingerafdruk of gezichtsherkenning. Op sommige smartphones is deze technologie niet beschikbaar
+2. Kijk na of je je vingerafdruk of gezicht op je smartphone hebt ingesteld
+3. Ga naar de algemene instellingen van je smartphone > selecteer de ING Banking-app in de algemene instellingen > kijk na of je het gebruik van vingerafdruk of gezichtsherkenning hebt toegelaten
+
+### Wat gebeurt er bij een verkeerde vingerafdruk of gezichtsherkenning?
+
+Je heb 2 pogingen met je vingerafdruk en gezichtsherkenning. Indien het dan niet lukt, moet je je code ingeven.
+
+### Je kan je geld écht overal beheren
+
+Download de ING Banking-app Je kan je geld écht overal beheren
+
+### Je kan je geld écht overal beheren
+
+Download de ING Banking-app Je kan je geld écht overal beheren Meer diensten en hoe ons te contacteren

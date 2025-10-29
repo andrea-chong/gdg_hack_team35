@@ -1,0 +1,23 @@
+# Login issues in the app - ING Belgium - Help, I cannot login
+
+Are you facing login issues in the app? Have a look below to the actions you can take to resolve the issue.
+
+## Basic checks
+
+1. 1
+
+#### Do you have the latest OS on your smartphone?
+
+The operating system (OS) of your mobile device needs regular updates. This way you comply with all new safety standards and improvements.
+Check the operating system (OS) requirements
+2. 2
+
+#### Do you have the latest version of the ING Banking app?
+
+Check in the App Store or Google Play Store whether you use the latest app version. If an app doesn't get updates, its security won't be up-to-date.
+How to update the ING Banking app
+3. 3
+
+#### Do you have an internet connection?
+
+To use the ING Banking app you need an internet connection. Check this: open your internet browser and see if you can navigate to any website. If not, go to the settings of your smartphone to activate your internet connection.

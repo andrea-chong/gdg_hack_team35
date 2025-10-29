@@ -1,0 +1,7 @@
+# Wero - ING België
+
+## Frequently Asked Questions:
+
+### Kan ik Wero verwijderen?
+
+Ja, ga naar Diensten -> Instellingen -> Betalingen -> Wero -> "Wero verwijderen".

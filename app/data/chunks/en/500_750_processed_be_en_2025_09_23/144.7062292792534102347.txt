@@ -1,0 +1,19 @@
+# Verification of payee - ING Belgium - Verification of the name of the payee
+
+## Verification of payee in a nutshell
+
+* ### Prevention
+This feature will prevent some types of fraud cases and payment errors
+* ### Immediate result
+Once the name of the beneficiary and the account number of the beneficiary (IBAN) are encoded, you get an immediate result of the check.
+* ### Release
+As from 09/10/25, for channels like the ING app and Home'Bank.
+
+## Short overview
+
+Before signing an SCT, instant or non-instant, ING will conduct the “Verification of the name of the payee” service. This new service aims at verifying the correctness of the combination between the beneficiary's name and the beneficiary’s account number (IBAN).
+This service is part of the European Instant Payments Regulation coming into force on October 9th 2025.
+
+## Scope of the service
+
+Release on **09/10/2025** : the service will be provided to retail and business customers initiating SCT’s via mobile app and Home'Bank. The service will then cover SCTs towards all SEPA countries.

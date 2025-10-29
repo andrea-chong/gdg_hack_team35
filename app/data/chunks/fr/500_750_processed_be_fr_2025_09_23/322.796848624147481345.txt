@@ -1,0 +1,5 @@
+# Adapt card settings - ING Belgique - Modifier les paramètres de la carte de débit/crédit
+
+## Souhaitez-vous bloquer temporairement votre carte ou bloquer/débloquer les paiements "sans contact" ou en ligne ?
+
+Vous pouvez le faire facilement via l'app ING Banking ou via Home'Bank/Business'Bank via le menu Services>Cartes>Modifier les paramètres d'une carte de débit/Modifier les paramètres d'une carte de crédit.

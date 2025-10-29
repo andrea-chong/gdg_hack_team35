@@ -1,0 +1,31 @@
+# Choose direct debit for your recurring bills! - ING Belgium - Direct debit in euro (SEPA)
+
+## Direct debits in a nutshell
+
+* ### Save time
+Your payments are executed automatically, without even thinking about it. Even when the amount varies.
+* ### Never pay late again
+Your bills are always paid on time, avoiding late payment charges.
+* ### Easy to manage
+Manage your direct debits in euro (SEPA) yourself in Home'Bank.
+* ### Free
+There is no charge for this service.
+
+### The automatic payment method
+
+With a direct debit in euro (SEPA), you give a creditor (e.g. your energy or gas supplier) permission to automatically deduct the amount of an invoice in euros from your account. That amount can always be different and is only collected after the invoice has been sent. You do not have to do anything if the amount of the recurring invoices is not always the same.
+
+### Direct debit for bills payable in euros
+
+Practical and Europe-wide: you can request a direct debit to be set up to pay **bills in euros** to a creditor in Belgium or elsewhere in Europe. This is because the direct debit system covers the SEPA zone (Single European Payment Area). Click here to find the list of SEPA countries. So you can even pay invoices issued by non-Belgian creditors – such as your subscription to a German news website – automatically and easily.
+
+### How can I set up or manage a direct debit in euro (SEPA) ?
+
+To set up or cancel a direct debit in euro (SEPA), you need to contact your supplier directly. In the event of a dispute relating to a bill, you can also block the payment or request a refund via Home'Bank .
+
+### How do I block a direct debit in euro (SEPA) in the ING Banking app?
+
+1. Go to the ‘Payments’ tab, tap ‘Direct debits’ under ‘Pending payments’.
+2. Select the creditor to block.
+3. Tap ‘Block creditor’ at the top right of your screen.
+4. Confirm the blocking by signing it

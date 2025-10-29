@@ -1,0 +1,48 @@
+# Pay with Google Pay easily ! - ING Belgium
+
+## FAQ
+
+### How do I pay with my mobile phone in a store?
+
+Unlock your phoneBring your phone close to the terminalIt's paid The phone may ask you to enter the phone PIN code if the amount exceeds €50 or if the cumulative limit of contactless transactions exceeds €100.
+
+### How do you pay with your mobile phone online or in an application?
+
+* Check if the website or app accepts Maestro / Mastercard / Visa.
+* Choose "Google Pay" as payment method
+
+### Do I need to be connected to the Internet to pay with Google Pay?
+
+To pay with a debit or credit card already added to your Google Wallet, you don't need an internet connection.
+You only need an internet connection to add a new card to the Google Wallet app.
+
+### Do I need a PIN code to pay with Google Pay?
+
+No. If fingerprint or facial recognition is not configured on your Android device, you can still approve payment using your phone unlock code.
+
+### How can you pay with a debit or credit card other than your standard debit or credit card?
+
+* Open the wallet
+* Select the card you wish to ay with
+* Hold your phone next to the payment terminal
+
+### Can you use Google Pay if contactless payment is disabled on your debit or credit card?
+
+Yes, it's not a problem at all!
+
+### Where can you find your Google Pay transactions?
+
+In Google Wallet, you'll find your last 10 transactions.
+In your ING Banking app or in Home'Bank on your computer, you can find all the transactions on your account statements and in your account transactions.
+
+### Why is your Google Pay payment being rejected?
+
+* You don't have enough funds in your account
+or
+* Your card's daily limit has been reached
+or
+* The debit or credit card associated with Google Wallet has been blocked.
+
+### As a merchant, can you be paid with Google Pay?
+
+Yes, you can, if your payment terminal accepts contactless Maestro / Mastercard / Visa payments.

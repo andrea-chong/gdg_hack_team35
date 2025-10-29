@@ -1,0 +1,31 @@
+# Log in en onderteken met je kaartlezer - ING België - Op zoek naar je kaartlezer? Het kan misschien makkelijker ...
+
+## Veelgestelde vragen
+
+### Wat is de makkelijkste manier om aan te melden bij Home’Bank zonder kaartlezer?
+
+*Je kunt de ING QR-code gebruiken met je ING Banking-app of aanmelden via itsme®. Ze zijn allebei veilig en snel en je hebt geen extra apparaten nodig.*
+
+### Kan ik Face ID of mijn vingerafdruk gebruiken om aan te melden op de ING Banking-app?
+
+*Ja! Als je smartphone biometrische verificatie ondersteunt, kun je Face ID of aanmelden met je vingerafdruk inschakelen voor een snelle en veilige toegang.*
+
+### Wat is de ING QR-code en hoe werkt het?
+
+*Met de ING QR-code kun je je aanmelden bij Home’Bank door een code op je computerscherm te scannen met de ING Banking-app. Het is een veilig en handig alternatief voor de kaartlezer.*
+
+### Is het veilig om itsme® of biometrisch aanmelden te gebruiken?
+
+*Absoluut. Alle methoden om aan te melden, inclusief itsme® en biometrie, maken gebruik van geavanceerde versleuteling en voldoen aan de hoogste veiligheidsnormen.*
+
+### Ik heb geen smartphone. Heb ik nog steeds online toegang tot mijn rekeningen?
+
+*Ja, je kunt nog steeds inloggen bij Home’Bank met je debetkaart en kaartlezer. Hoewel we digitale methoden aanraden omdat ze gebruiksvriendelijker zijn, blijft de kaartlezer beschikbaar voor mensen die hem nodig hebben.*
+
+### De knop met de QR-code verschijnt niet in mijn app. Wat moet ik doen?
+
+Check of je de laatste versie van de app op je telefoon hebt staan. Als je een oudere versie van de app hebt, kun je deze gemakkelijk updaten of vervangen door de nieuwste te downloaden.
+
+### Heb ik de scanner in de app nodig als ik Home'Bank of Business'Bank niet gebruik?
+
+Ja. Zelfs als je niet op onze Home’Bank of Business’Bank wilt inloggen, kan de scanner in je ING Banking-app van pas komen, onder andere om een betaling uit te voeren met een QR-code van Payconiq of Bancontact.

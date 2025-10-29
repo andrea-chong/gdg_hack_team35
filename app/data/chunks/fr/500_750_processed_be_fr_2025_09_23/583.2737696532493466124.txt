@@ -1,0 +1,22 @@
+# Changez de banque principale pour ING - Service de mobilité interbancaire simple et gratuit - ING Belgique - Changer de banque pour ING ?
+
+## FAQ
+
+### Qu'est-ce qu'un "ordre de paiement" ?
+
+Dans le cadre de la mobilité interbancaire, il s'agit d'un ordre de paiement qui doit être effectué sur l’ancien compte de paiement et qui fait partie de l’une des catégories suivantes :
+* une domiciliation active pour laquelle une exécution au moins est intervenue durant la période de treize mois précédant la date de démarrage;
+* un ordre de paiement permanent;
+* un virement en euros (SEPA) avec date mémo;
+* un virement entrant récurrent, il s’agit d’un virement qui satisfait à l’un des critères suivants durant une période de treize mois précédant la Date de démarrage :
+  + la communication dans le cadre du virement commence par/A/, /B/ of /C/; ou
+  + au moins six virements, effectués par le même payeur, au cours d’une période de treize mois précédant la date de démarrage, à l’exception des virements d’un compte d’épargne au nom du titulaire de compte.
+
+### Combien de temps dure un changement de banque ?
+
+Dans le formulaire de demande, le **titulaire de compte peut compléter la date de changement de banque** . Cette date de changement de banque correspond au plus tôt au dixième (10°) jour bancaire ouvrable et tombe au plus tard un (1) mois après la date à laquelle la nouvelle banque (ING) reçoit le formulaire de demande complété et signé par le titulaire de compte.
+
+### Aurais-je des interruptions dans mes paiements ?
+
+Les paiements seront transférés à la date que vous avez choisie. Vous n’aurez donc pas d’interruption dans les paiements.
+Je veux en savoir plus.

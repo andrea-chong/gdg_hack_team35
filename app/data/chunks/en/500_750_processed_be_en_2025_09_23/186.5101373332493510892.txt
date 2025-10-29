@@ -1,0 +1,11 @@
+# Withdraw cash from an ATM anywhere in Belgium - ING Belgium - Withdraw euronotes
+
+## How much does it cost to withdraw money from an ATM in Belgium with your ING debit card?
+
+START TABLE IN MARKDOWN
+| Banking Pack | Free withdrawal | Daarna | Waar |
+| - | - | - | - |
+| ING Do Basic | 36/year | €0,50 per withdrawal | Any ATM in Belgium |
+| ING Do More | Unlimited | Free | Any ATM in Belgium |
+| ING Do More 18\-25 | Unlimited | Free | Any ATM in Belgium |
+END TABLE IN MARKDOWN

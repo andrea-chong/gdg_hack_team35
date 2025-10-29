@@ -1,0 +1,25 @@
+# Send euros easily with a bank transfer in the SEPA zone! - ING Belgium - All about sending money in euro (SEPA)
+
+## Frequently asked questions
+
+### What are the standard and maximum transfer limits?
+
+Default bank transfer limits for private individuals (over 18):
+* Via ING Banking app, Home'Bank (internet banking), Payment Initiation Service: 12,500 euros per 24 hours
+* Bancontact payments via ING Banking: 250 euros per 24 hours
+* ING credit cards: variable (consult Home'Bank or ING Banking)
+You can increase your bank transfer limit up to a maximum of 250,000 euros, online or via the ING Banking app. For your security, the limit increase takes 4 hours to go into effect. Need a higher limit? Contact us via the services section .
+For further details and default limits for minors please check this page .
+
+### What are IBAN, BIC and a memo date?
+
+The IBAN (International Bank Account Number) and BIC (Bank Identifier Code) codes identify the bank:
+* **IBAN**
+* Find out the IBAN code for your account number .
+* The IBAN is a standardised method for recording bank account numbers. It has a fixed length in each country. It consists of a two-letter country code, a two-figure control digit and a national account number. Note: Some IBANs can also contain letters (in addition to those of the country code).
+* For sending money in euro electronically, enter the correct account numbers (IBAN) of the **applicant and the beneficiary** .
+* **BIC**
+* ING Belgium's BIC is BBRUBEBB.
+* The BIC (Bank Identifier Code) is the code that enables the unique identification of every bank in the world. It is **not mandatory** to enter the BIC of the beneficiary's bank when making a SEPA transfer.
+* **Memo date?**
+Do you want the payment to be executed at a later date? Enter an execution date in the future. If you do not enter a date, your payment will be executed immediately.

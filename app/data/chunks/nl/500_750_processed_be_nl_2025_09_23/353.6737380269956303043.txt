@@ -1,0 +1,20 @@
+# Verificatie van de naam van de begunstigde - ING België
+
+## FAQ
+
+### Welke melding krijg ik wanneer ik de foute naam invul?
+
+Wanneer je overschrijft naar een rekening van een privépersoon en de ingevulde naam niet overeenstemt met de geregistreerde naam, bijvoorbeeld Pieters i.p.v. Janssens, krijg je een foutmelding. Deze melding wordt meestal in oranje weergegeven en luidt bijvoorbeeld:
+“Let op! De ingevulde naam niet overeenstemt met de naam van de begunstigde. Gaat u verder zonder wijziging, dan kan het bedrag bij de verkeerde begunstigde terechtkomen.”
+Wanneer je overschrijft naar een professionele rekening en de ingevulde naam niet overeenstemt met de geregistreerde naam, bijvoorbeeld Sectorfederatie Banken i.p.v. Febelfin, krijg je een foutmelding, waarin de geregistreerde naam wordt gemeld. We raden je aan deze naam dan over te nemen. Deze melding wordt meestal in oranje weergegeven en luidt bijvoorbeeld:
+“Let op! De ingevulde naam stemt niet overeen met de naam van de begunstigde. De naam van de begunstigde is < geregistreerde naam>. Gaat u verder zonder wijziging, dan kan het bedrag bij de verkeerde begunstigde terechtkomen.”
+
+### Welke melding krijg ik wanneer er geen verificatie kan worden uitgevoerd?
+
+Is er geen verificatie mogelijk, bijvoorbeeld omwille van een technische storing of omdat de bank van de begunstigde niet (tijdig) antwoordde, ontvang je bijvoorbeeld de onderstaande melding. Jij beslist na deze melding of je verdergaat met of zonder wijziging.
+“We kunnen niet controleren of de naam van de begunstigde juist is. Gaat u verder, dan kan het bedrag bij de verkeerde begunstigde terechtkomen.”
+
+### Wat moet ik doen als ik een foutmelding krijg?
+
+* Controleer de betaalgegevens en neem indien nodig contact op met de begunstigde (opgelet: contactgegevens op een vervalste factuur kunnen ook vervalst zijn).
+* Jij beslist na een melding of je verdergaat met of zonder wijziging. Jij blijft, net zoals vandaag al het geval is, verantwoordelijk voor de overschrijvingen die je doet.

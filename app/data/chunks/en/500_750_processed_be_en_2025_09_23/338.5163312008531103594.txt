@@ -1,0 +1,6 @@
+# Tips & tricks for customising your ING Banking app - ING Belgium
+
+## You hold all the cards
+
+Configure your debit and credit cards for even greater security. In addition to things you can customise, such as changing the card limit, you can also (un)block your card temporarily, (un)block it for online payment, and (de)activate the contactless option.
+Manage my cards

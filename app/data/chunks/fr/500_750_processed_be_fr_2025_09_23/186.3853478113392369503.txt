@@ -1,0 +1,16 @@
+# Avec un virement bancaire, envoyez facilement de l'argent en euros dans la zone SEPA. - ING Belgique - Tout sur le virement en euros (SEPA)
+
+## Questions fréquemment posées
+
+### Comment puis-je savoir si un virement a été effectué instantanément ?
+
+La plupart des virements SEPA sont exécutés instantanément. Pour tous les virements instantanés, ING crédite le compte du bénéficiaire en quelques secondes. Cela est également valable les week-end et jours fériés. Consultez les informations du virement dans votre aperçu des transactions pour voir si le virement a été exécuté sous la forme d’un virement instantané ou d'un virement SEPA normal.
+
+### Quelles sont les limites de virement standard et maximales ?
+
+Plafonds par défaut des virements bancaires pour les particuliers (âgés de plus de 18 ans) :
+* Via l’app ING Banking, Home’Bank (services bancaires en ligne) ou le service d’initiation de paiement : 12 500 euros toutes les 24 heures
+* Paiements Bancontact via ING Banking : 250 euros toutes les 24 heures
+* Cartes de crédit ING : variables (consultez Home’Bank ou ING Banking)
+Pour de plus amples informations et les plafonds par défaut pour les mineurs, veuillez consulter cette page :
+Vous pouvez augmenter votre plafond de virement jusqu’à un maximum de 250 000 euros, en ligne ou via l’app ING Banking. Pour votre sécurité, l’augmentation de limite prend 4 heures pour être effective. Vous avez besoin d’un plafond plus élevé ? Contactez-nous via notre page de contact .

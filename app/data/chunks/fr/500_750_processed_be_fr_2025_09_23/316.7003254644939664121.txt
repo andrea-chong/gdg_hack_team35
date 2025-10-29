@@ -1,0 +1,35 @@
+# Aperçu de vos enfants - ING Belgique
+
+## Questions fréquemment posées
+
+### Qui peut accéder à l’aperçu de vos enfants ?
+
+*Seuls les parents ou tuteurs légaux ayant des comptes liés au profil de leur enfant peuvent accéder et gérer cette vue.*
+
+### Est-il facile de passer de mon compte à l’aperçu de mes enfants ?
+
+*Absolument. L’interface est conçue pour une navigation rapide et fluide entre vos comptes et ceux de votre enfant.*
+
+### Comment accéder à l’aperçu de vos enfants ?
+
+Connectez-vous à l’app ING Banking. Le point d’entrée se trouve juste à côté de vos comptes. Cette fonctionnalité n’est pas disponible dans Home’Bank.
+
+### Puis-je voir comment mon enfant dépense son argent ?
+
+*Oui, vous aurez une vue complète de ses transactions, y compris les catégories de dépenses principales.*
+
+### Quelles options de contrôle parental sont disponibles ?
+
+*Vous pouvez activer les notifications push pour suivre les transactions, définir des limites de dépenses, gérer les paramètres de la carte, commander une carte de débit, et bien plus encore.*
+
+### Mon enfant peut-il accéder à son propre aperçu ?
+
+L’aperçu des enfants est uniquement accessible aux parents ou tuteurs légaux. Si votre enfant possède un compte à vue, il peut utiliser l’application bancaire dès l’âge de 10 ans pour consulter son solde et l’historique de ses transactions. Toutefois, son accès est limité : il ne peut pas modifier les limites de la carte ni la geler/réactiver. Le contrôle total reste entre les mains du parent.
+
+### Puis-je personnaliser le profil de mon enfant ?
+
+*Oui ! Vous pouvez ajouter une photo de profil pour rendre l’espace plus attrayant et personnalisé pour votre enfant.*
+
+### Puis-je gérer les comptes de plusieurs enfants ?
+
+*Oui, chaque enfant aura sa propre vue personnalisée, ce qui facilite le passage d’un profil à l’autre.*

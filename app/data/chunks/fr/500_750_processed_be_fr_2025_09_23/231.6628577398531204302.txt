@@ -1,0 +1,25 @@
+# Toutes les transactions en espèces non disponibles à un distributeur de billets (comme les pièces de monnaie et les devises étrangères) - ING Belgique - Les caisses de nos agences
+
+## Frais des transactions effectuées à la caisse
+
+### Comment commander des pièces en euros (€) ?
+
+Rien de plus simple ! Prenez rendez-vous dans une de nos agences ING disposant d'une caisse:
+* Soit en vous connectant à Home'Bank
+* Soit en ouvrant l'application ING Banking sur votre smartphone: *Services > Paiements et cash > Cash > Pièces et billets en euros > Commander des pièces*
+* Soit en contactant le Service client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h
+Bon à savoir
+* Si vous souhaitez des **rouleaux de pièces** , commandez-les au moins **2 semaines à l'avance**
+* Il y a parfois une pénurie nationale pour certains rouleaux de pièces. Dans ce cas, il est possible que nous ne puissions pas vous fournir les pièces demandées. Vous en serez prévenu dès que possible
+Voici les dénominations des rouleaux de pièces :​
+START TABLE IN MARKDOWN
+| Dénomination | Nombre de pièces par rouleau | Montant total |
+| - | - | - |
+| 2€ | 25 | 50€ |
+| 1€ | 25 | 25€ |
+| 0,50€ | 40 | 20€ |
+| 0,20€ | 40 | 8€ |
+| 0,10€ | 40 | 4€ |
+| 0,05€ | 50 | 2,50€ |
+END TABLE IN MARKDOWN
+\* Il arrive parfois qu'il y ait une pénurie nationale de certaines dénominations. Lorsque cela se produit, nous pourrions ne pas être en mesure de vous fournir les pièces que vous demandez.

@@ -1,0 +1,5 @@
+# Account statements Frequently asked questions - ING Belgium
+
+### What should I do if I have a problem downloading account statements?
+
+This may be a technical problem. Please try with another browser or reset your browser's cookies. If you do this via your ING Banking App, check that it has been updated.

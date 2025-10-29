@@ -1,0 +1,38 @@
+# Help, ik kan me niet aanmelden in de app - ING België
+
+## Aanmeldingsproblemen of -fouten
+
+### Ik ben de code vergeten om me aan te melden in de app
+
+Op het inlogscherm in je app kun je op het 'i-icoontje' klikken en '5-cijferige app code vergeten' selecteren. Je moet je opnieuw registereren in de app en kan dan een nieuwe 5-cijferige code kiezen. Houd je ING-kaartlezer bij de hand of gebruik Itsme.
+
+### Ik krijg een 'Sorry' foutmelding
+
+1. Probeer het opnieuw
+2. Als het probleem zich blijft voordoen: sluit de app op de achtergrond en open de app opnieuw
+3. In sommige gevallen zie je een knop 'Registreer opnieuw'. Je moet je opnieuw registreren in je app met Itsme of een ING Card Reader.
+
+### Ik krijg een 'Oops' foutmelding
+
+1. Probeer opnieuw in te loggen
+2. Als het probleem blijft bestaan: sluit de app op de achtergrond en open de app opnieuw.
+
+### Ik krijg een foutmelding 'ING Banking app is geblokkeerd'
+
+Klik op "OK", dan moet je opnieuw registreren in je app en een nieuwe 5-cijferige code kiezen. Houd uw ING-kaartlezer bij de hand of gebruik Itsme.
+
+### Ik zie vingerafdruk of gezichtsherkenning niet meer op het aanmeldscherm
+
+Mogelijks is er iets technisch misgegaan. Kijk in de app instellingen nog eens na of deze geactiveerd zijn:
+1. Meld ja aan in de app
+2. Klik op de tab 'Diensten"
+3. Ga naar 'Doe-het-zelf'
+4. Selecteer 'Instellingen'
+5. Scroll in de instellingen naar beneden tot 'Toegang en bevestigen'
+6. Selecteer 'Vingerafdruk' of 'Gezichtsherkenning'
+Meer info
+
+### Ga tijdelijk naar Home'Bank
+
+Indien het probleem niet opgelost is en uw online bankzaken dringend moet regelen, gelileve dan tijdelijk Home'Bank te gebruiken. Onze excuses voor het ongemak.
+Ga naar Home'Bank

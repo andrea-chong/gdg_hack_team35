@@ -1,0 +1,5 @@
+# Card Verification Code - ING België - Card Verification Code (CVC) of Card Verification Value (CVV)
+
+Leestijd: 2 min 24 juni 2022 De CVC of CVV is een 3-cijferige code, vermeld op de achterkant van je kredietkaart, naast het vak voor je handtekening.
+De CVC of CVV vind je alleen op kredietkaarten. Je hebt ze nodig om online betalingen te doen. De code telt 3 cijfers en staat op achterkant van je kredietkaart naast het vak voor je handtekening.
+American Express-kaarten hebben een code van 4 cijfers op de voorkant boven het kredietkaartnummer.

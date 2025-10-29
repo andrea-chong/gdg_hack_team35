@@ -1,0 +1,23 @@
+# Choose direct debit for your recurring bills! - ING Belgium - Direct debit in euro (SEPA)
+
+## Direct debits in a nutshell
+
+### How do I request the reimbursement of a direct debit in euro (SEPA) in the ING Banking app?
+
+1. Go to the ‘Payments’ tab, tap ‘Direct debits’ under ‘Pending payments’. You have 8 weeks to make your request online.
+2. Select the creditor.
+3. Choose the mandate by tapping the ‘More’ option.
+4. Under ‘Payment history’, select the payment concerned.
+5. Tap ‘Have this refunded’ to request the reimbursement of the direct debit.
+
+### How do I unblock a direct debit?
+
+You can unblock a direct debit from your Home'Bank. Click on "Direct debits" under the "Transfers" tab and choose the direct debit to be unblocked from the "Direct Debit Authorisation" menu. Then click on "Unblock mandate".
+
+### How do I change the account number linked to a direct debit?
+
+Contact the beneficiary directly to change the account number linked to the direct debit mandate.
+
+### What is the processing time for a direct debit refund request?
+
+You will be instantly reimbursed as soon as you have filed your request.

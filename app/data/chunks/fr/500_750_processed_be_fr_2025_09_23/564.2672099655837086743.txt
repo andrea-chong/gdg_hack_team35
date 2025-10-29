@@ -1,0 +1,22 @@
+# Extraits de compte - Foire aux questions - ING Belgique - Extraits de compte Questions Fréquemment posées
+
+### Pourquoi n’ai-je pas encore reçu mes extraits de compte ?
+
+Vous recevez vos extraits de compte de manière périodique fixe (journalière, hebdomadaire, toutes les deux semaines ou mensuelle). À chaque échéance nous générons un document PDF avec les extraits de la période écoulée.
+Si aucun extrait n’est disponible cela peut avoir comme origine le fait que:
+* La date d’échéance de l’extrait n’est pas encore atteinte. Si vous avez besoin d’un extrait de la prochaine échéance, vous pouvez le générer vous-même via le tab « duplicata »
+* Il n’y a pas eu de transaction/mouvement depuis le dernier extrait (un document PDF est généré uniquement si une transaction/un
+mouvement a été enregistré durant la période écoulée).
+
+### Qui peut télécharger des extraits et duplicatas électroniques ?
+
+Le service est accessible à toute personne habilitée à consulter le compte et disposant au moins de "droits de consultation" dans Home'Bank ou Business'Bank. Après sa demande d'extraits ou de duplicatas, le demandeur dispose d'un délai de 7 jours pour les télécharger.
+
+### Quelle est la fréquence standard pour la réception d'extraits de compte?
+
+En tant que particulier, vous recevez vos extrait une fois par mois via Home'Bank , le même jour du mois que celui au cours duquel vous avez ouvert votre compte.
+Par exemple, si vous avez ouvert votre compte le 15 septembre, vous recevez alors de manière standard vos extraits de compte chaque 15 du mois.
+
+### Pourquoi est-ce que j'ai un nouvel extrait chaque jour?
+
+C’est parce que votre périodicité pour le(s) compte(s) est «Quotidienne». Pour voir quelle est la périodicité pour chaque compte et/ou pour en changer la fréquence (quotidienne, hebdomadaire, toutes les deux semaines ou mensuelle), passez par l’onglet « Gérer le mode deréception »..

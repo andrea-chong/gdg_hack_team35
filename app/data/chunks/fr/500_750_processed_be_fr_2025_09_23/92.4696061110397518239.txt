@@ -1,0 +1,7 @@
+# Paiements avec vos cartes en devises autres que l'Euro - ING Belgique
+
+## Comment calculer les coûts sur les paiements et les retraits dans d'autres devises ?
+
+### Attention
+
+Les "acquéreurs" (= propriétaires) des distributeurs automatiques peuvent facturer des "frais d'accès" pour chaque retrait en espèces effectué avec Mastercard ou Visa . Le "droit d'accès" peut varier d'un "acquéreur" à l'autre (il peut en déterminer librement le montant) . L'appareil indique le "droit d'accès" au moment de la transaction et en demande l'acceptation par le titulaire de la carte .

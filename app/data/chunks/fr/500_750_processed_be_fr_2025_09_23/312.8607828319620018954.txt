@@ -1,0 +1,7 @@
+# Payer un paiement Récurrent - Ordre Permanent SEPA - ING Belgique - ING Belgique - Ordre permanent en euros (SEPA)
+
+## Tout sur l'ordre permanent en euros (SEPA)
+
+### Aucun frais
+
+L'utilisation d'ordres permanents en euros (SEPA) est gratuite, sauf si le solde de votre compte est insuffisant et qu'un ordre permanent en euros (SEPA) n'a pas pu être exécuté. Dans certains cas, des frais peuvent alors être imputés pour la non-exécution du virement en euros.

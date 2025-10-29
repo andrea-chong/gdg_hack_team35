@@ -1,0 +1,20 @@
+# Avec un virement bancaire, envoyez facilement de l'argent en euros dans la zone SEPA. - ING Belgique - Tout sur le virement en euros (SEPA)
+
+## Questions fréquemment posées
+
+### L'expéditeur prétend avoir transféré de l'argent, mais celui-ci n'est pas encore arrivé ?
+
+Contactez l’expéditeur et demandez la preuve du virement. Si l’expéditeur vous envoie la preuve du virement, mais que les fonds n’apparaissent toujours pas sur votre compte, demandez à l’expéditeur de se renseigner auprès de sa banque.
+
+### Quels sont les frais pour envoyer de l’argent en dehors de la Belgique ?
+
+Les virements en euros vers et depuis un compte dans la zone SEPA, y compris la Belgique, sont gratuits. Les frais de virement sur un compte en dehors de la Belgique dépendent de plusieurs facteurs :
+* Frais de virement d’ING
+* Autres frais d’ING
+* Frais de change d’ING (le cas échéant)
+* Frais appliqués par la ou les banque(s) correspondante(s)
+Les frais appliqués par ING et la ou les banque(s) correspondante(s) dépendent des instructions données pour la répartition des frais : BEN, SHA ou OUR. Pour de plus amples informations, consultez ce document .
+
+### Que se passe-t-il si un virement a été effectué vers un compte bloqué ou clôturé ?
+
+Les fonds seront retournés sur le compte de l’expéditeur. Le délai de réception du remboursement dépend de la banque du compte bloqué ou clôturé.

@@ -1,0 +1,17 @@
+# Limites journalières pour vos transactions bancaires - ING Belgique - Tout sur les limites
+
+## Limites pour professionnels (18 ans et plus)
+
+Vos opérations sont soumises à des limites. Si vous souhaitez modifier vos limites de façon temporaire ou permanente, vous pouvez ajuster vous-même vos limites via l’espace do-it-yourself de votre Business’Bank. Vous pouvez également le faire via l'app ING Banking sur votre smartphone en allant dans le menu « Services » en bas à droite de votre écran, puis cliquez sur « Limites » et choisissez l'option « Virements ». Vous pouvez modifier vos limites avec ou sans date d'échéance.
+
+### Virements
+
+Les limites suivantes sont définies par défaut. Elles sont valables pour les virements effectués via Business'Bank, via l'app ING Banking et le service d'Initiation de Paiements(*Le Service d'Initiation de Paiements vous permet d'envoyer un ordre de paiement via un tiers. Vous devez donner l'autorisation pour chaque ordre de paiement spécifique.).
+Les limites dépendent du service et de la personne à qui vous versez de l'argent.
+Vous pouvez transférer autant d'argent que vous le souhaitez entre vos propres comptes ING, vers des comptes ING sur lesquels vous disposez d'un mandat et vers un nombre limité de comptes détenus par l'Etat belge ou ING banque.
+* Via l'app ING Banking, Business'Bank (banque en ligne), le Service d'Initiation des Paiements\*[1]: 125.000 € par jour (24h)
+* Paiements Bancontact via l'app ING Banking[2] : 250 € par jour (24h)
+* ING MasterCard Business: variable (vous définissez les limites avec votre banquier ING)
+1. Il s'agit des virements en euros (SEPA), des ordres permanents en euros (SEPA) et des virements internationaux en euros ou dans une autre devise. Attention! Toutes ces limites valent uniquement pour les virements ne nécessitant qu'une seule signature.
+2. Vous pouvez recevoir un maximum de 500 euros par jour via l'application Bancontact.
+Lien vers notre site internet (page PSD2 )

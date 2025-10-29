@@ -1,0 +1,30 @@
+# One card for Bancontact, Maestro/Mastercard and contactless payments - ING Belgium - ING debit card
+
+## In general
+
+### Can I use my ING debit card to access my online banking ?
+
+Your ING Debit Card gives you access to:
+* Home’Bank , ING's online bank
+* CASH points or cash dispensers at ING branches, where you can do your banking yourself.
+Your debit card can also be used to create your Mobile Banking profile, so you can do your banking via your smartphone.
+
+### How does a reservation for a transaction with a debit card work?
+
+Reservations for debit card transactions concern funds that are temporarily blocked on your bank account to ensure that your account has the necessary funds and to protect you against the risk of irregular debit.
+How does reservations work?
+1. Initial authorisation: When a transaction is initiated, the merchant makes an authorisation request to ING, which checks whether your available amount is sufficient to cover the maximum amount of the transaction.
+2. Funds reservation: If the authorisation is granted, the funds are reserved, which temporarily reduces the available amount on your account. The amount of this reservation can be adjusted later. Example:
+- Buying fuel: the initial amount of the reservation is set by the merchant
+and is greater than the potential purchase. Once you have filled up, the
+reservation is adjusted to the actual purchase amount and your available
+amount is updated.
+- Guarantee (hotel, car rental, etc.).
+- Transactions in foreign currency: the reservation in euro is an estimated
+amount. The final amount of the transaction will be determined based
+on the exchange rate at the time of processing.
+3. Transaction processing: The transaction is then processed by the merchant. This process can take from a few minutes to several days. Once the transaction has been finalised, the funds reserved are either confirmed and debited from your account or cancelled.
+Consequences for the cardholder:
+* Reduced available amount: The amount reserved is temporarily inaccessible, affecting the amount available for other transactions.
+* Reservation time: This process can take from a few minutes to several days, depending on the merchant's practices.
+* Cancellation: If a purchase is cancelled, the funds reserved will be released as soon as the merchant informs us.

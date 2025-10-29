@@ -1,0 +1,22 @@
+# Daily limits for your banking transactions - ING Belgium - All about limits
+
+## Limits for young people (under 18)
+
+Parents and legal guardians can change the limits on behalf of a minor via the self-service corner from their ING Banking app or Home'Bank
+Please note that any changes to the limits of an ING youth account must be requested by a parent or legal guardian.
+
+### Bank transfers
+
+The following default limits apply to bank transfers executed via Home'Bank, ING Banking app and Payment Initiation Services\*.
+The limits depend on how and to whom you wish to transfer money.
+You can transfer as much money as you wish between your own ING accounts, to ING accounts on which you have a mandate and which are visible within the same online banking profile, and to a limited number of accounts which are owned by the Belgian government or by ING Bank.
+For 16 to 17 years old
+* Via ING Banking (mobile app), Home'Bank (internet banking), Payment Initiation Service(*The Payment Initiation Service allows you to send a payment order via a third party. You must give permission for each specific payment order.): €500 per day (24h)
+* Bancontact payments via ING Banking : €250 per day
+For 12 to 15 years old
+* Via ING Banking (mobile app), Home'Bank (internet banking), Payment Initiation Service\*: €50 per day (24h)
+* Bancontact payments via ING Banking : €250 per day
+For 10 to 11 years old
+* Sending money in euro (SEPA), standing orders in euro (SEPA) and international transfers in euro or in foreign currencies. Note that the limits listed here only apply to transfers that require only 1 signature to execute them.
+* You can receive a maximum of 500 euros per day via the Bancontact app.
+Link to our website info page on PSD2

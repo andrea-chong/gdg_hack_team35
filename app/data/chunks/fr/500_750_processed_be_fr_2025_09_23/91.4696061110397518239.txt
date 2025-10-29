@@ -1,0 +1,11 @@
+# Paiements avec vos cartes en devises autres que l'Euro - ING Belgique
+
+## Comment calculer les coûts sur les paiements et les retraits dans d'autres devises ?
+
+### Carte de crédit ING Card
+
+* Taux de change ou marge de change: 2% sur le montant
+* Quel taux de change utiliser: BCE (si pas dans la liste -> Mastercard )
+* Paiement en dehors de la zone SEPA (shop, online): pas de frais
+* Retrait de l'argent dans un distributeur automatique (frais de traitement + contribution): (* Tarifs des principaux services et opérations bancaires à usage privé)6 € + 1 % montant retiré
+* Retrait en espèces dans une agence bancaire en dehors de la zone SEPA (frais de traitement + contribution): (**Liste des devises ECB: AUD, BGN, CAD, CHF, CZK, DKK, GBP, HRK, HUF, ISK, JPY, NOK, NZD, PLN, RON, RUB, SEK, TRY, USD et ZAR .)8 € + 1 % montant retiré

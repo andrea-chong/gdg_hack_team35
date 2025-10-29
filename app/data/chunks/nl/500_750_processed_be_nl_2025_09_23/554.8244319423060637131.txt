@@ -1,0 +1,41 @@
+# Betaal eenvoudig met Google Pay ! - ING België - Betaal eenvoudig met Google Pay!
+
+## FAQ
+
+### Wat is Google Pay?
+
+* Google Pay is een betaaldienst van Google waaraan je je ING debet- of kredietkaart koppelt
+* Met Google Pay betaal je makkelijk in winkels, webshops en in apps
+
+### Moet je betalen om Google Pay te gebruiken?
+
+Nee hoor! Google Pay is helemaal gratis.
+
+### Wie kan Google Pay gebruiken?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Iedereen, met Android OS\-gsm ouder dan 16 jaar met een ING\-zichtrekening waaraan een debet\- of kredietkaart gekoppeld is die de laatste versie van de ING Banking\-app geïnstalleerd heeft met een gelding google account |
+END TABLE IN MARKDOWN
+
+### Met welke toestellen kun je Google Pay gebruiken?
+
+Gebruik Google Pay met alle toestellen die je vindt op de Google Support pagina .
+
+### Welk besturingssysteem heb je nodig om Google Pay te gebruiken?
+
+Check op de Google support webpagina met welk besturingssysteem je werkt en pas het aan, indien het nodig en mogelijk is.
+
+### Hoe activeer je Google Pay?
+
+Dat doe je het makkelijkste met de ING Banking-app.
+Maar activeren kan ook via "Wallet” op je gsm.
+
+### Wat is nodig om Google Pay te kunnen activeren?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Je bent 16 jaar of ouder Je hebt een ING\-zichtrekening met een actieve debet\- of kredietkaart Je hebt de laatste ING Banking\-app geïnstalleerd op het toestel waarmee je Google Pay zal gebruiken Je hebt je gsm die bijgewerkt is naar de laatste OS\-versie Je hebt een werkend google\-account Je regio op je toestel is ingesteld op België Je gsmnummer staat correct geregistreerd bij ING (indien niet, dan kun je dit makkelijk zelf aanpassen via je contactgegevens in de digitale kanalen van ING) Je bent verbonden met het internet. |
+END TABLE IN MARKDOWN

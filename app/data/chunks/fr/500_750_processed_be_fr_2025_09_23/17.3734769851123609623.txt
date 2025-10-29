@@ -1,0 +1,11 @@
+# Trucs & Astuces pour personnaliser votre app ING Banking - ING Belgique - Conseils & astuces pour personnaliser votre app ING Banking
+
+## Signer en toute sécurité
+
+Utiliser votre empreinte digitale ou la reconnaissance faciale plutôt qu'un code PIN? L'utilisation de la biométrie est un moyen sûr d'éviter que des personnes ne regardent par-dessus votre épaule. Vous pouvez activer cette fonctionnalité dans les paramètres de l'app ING Banking.
+Plus d'informations sur les empreintes digitales ou la reconnaissance faciale
+
+## Vous avez les cartes en main
+
+Configurez vos cartes de débit et de crédit pour encore plus de sécurité. En plus des personnalisations comme la modification de limite, vous pouvez à présent (dé)bloquer votre carte temporairement, (dé)bloquer pour le paiement en ligne, ou encore (dés)activer l’option sans contact.
+Gérer vos cartes

@@ -1,0 +1,39 @@
+# Login issues in the app - ING Belgium - Help, I cannot login
+
+## Login issues or errors
+
+### I forgot the code to login in the app
+
+On the login screen of the app you can click on the 'i icon' and select 'forgot your code'. You will need to register again in your app and choose a new 5-digit code. Keep your ING Card Reader at hand or use Itsme.
+
+### I get a 'Sorry' error message
+
+1. Please try again.
+2. If the problem persists:
+   * Close the app in the background and reopen the app.
+   * In some cases you will see a button 'Register again'. You will need to register again in your app with Itsme or an ING Card Reader.
+
+### I get a 'Oops' error message
+
+1. Please try to login again.
+2. If the problem persists: close the app in the background and reopen the app.
+
+### I get a 'ING Banking app blocked' error message
+
+Click "OK", then you will need to register again in your app and choose a new 5-digit code. Keep your ING Card Reader at hand or use Itsme.
+
+### I can no longer see facial recognition or fingerprint on my login screen
+
+Check the app settings again to verify if they are activated:
+1. Log in to the app
+2. Click on the 'Services' tab
+3. Go to 'Do it yourself'
+4. Select 'Settings'
+5. Scroll in the settings down to 'Access and confirmation'
+6. Select either 'Fingerprint' or 'Face recognition'
+More info here
+
+### Go temporarily to Home'Bank
+
+If the login issue is not resolved and you need to urgently arrange your online banking matters, please go temporarily to Home'Bank. We apologize for the inconvenience.
+Go to Home'Bank

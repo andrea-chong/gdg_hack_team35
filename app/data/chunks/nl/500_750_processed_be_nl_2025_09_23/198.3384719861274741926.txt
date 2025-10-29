@@ -1,0 +1,40 @@
+# Apple Pay: Betaal in een handomdraai! - ING België
+
+## FAQ
+
+### Kun je Apple Pay activeren met een toestel van ander merk?
+
+Neen, Apple Pay kun je enkel met een iPhone, iPad, Apple Watch en Mac gebruiken.
+
+### Welke kaart kun je toevoegen aan je Wallet en Apple Pay?
+
+Elke ING debet of kredietkaart die verbonden is aan een ING-zichtrekening.
+
+### Hoeveel kaarten toevoegen aan je Wallet en Apple Pay?
+
+De nieuwste toestellen aanvaarden tot 12 verschillende kaarten in de Apple Wallet-app
+Oudere types hebben slechts plaats voor 8 Meer info vind je op de Apple Support website
+
+### Hoe wijzig je je standaardkaart?
+
+iPhone en iPad
+* Ga naar 'Instellingen' op je Apple toestel
+* Kies 'Wallet en Apple Pay'
+* Ga naar 'Transactievoorkeuren' en kies de optie om je standaard debet- of kredietkaart te wijzigen.
+
+### Hoe verwijder je een kaart uit je Apple Wallet?
+
+Ga naar 'Wallet' op je toestel en tik op de kaart die je wil verwijderen
+* Tik rechtsboven op de blauwe cirkel met drie witte puntjes
+* Kies onderaan voor ‘Verwijder deze kaart’
+* Je kaart is definitief verwijderd
+De verrichtingen met deze debet- of kredietkaart zijn vanaf dan niet meer zichtbaar in de Apple Wallet-app
+Let op! Je kunt je ING debet- of kredietkaart niet verwijderen via je ING Banking-app, dit kan enkel in de Apple Wallet-app zelf.
+
+### Hoe verwijder ik een kaart van mijn Apple Watch?
+
+Verwijder je ING bankkaart of kredietkaart van je Apple Watch. Open de Wallet-app en tik op de kaart die je wilt verwijderen. Scroll omlaag en tik op 'Verwijder'.
+
+### Kun je op meerdere toestellen Apple Pay gebruiken?
+
+Gebruik Apple Pay gerust op meerdere toestellen tegelijk. Hiervoor moet je wel op elk toestel de debet- of kredietkaarten opnieuw toevoegen aan de Apple Wallet-app.

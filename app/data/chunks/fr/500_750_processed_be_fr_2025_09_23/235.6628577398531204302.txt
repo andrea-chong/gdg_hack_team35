@@ -1,0 +1,10 @@
+# Toutes les transactions en espèces non disponibles à un distributeur de billets (comme les pièces de monnaie et les devises étrangères) - ING Belgique - Les caisses de nos agences
+
+## Frais des transactions effectuées à la caisse
+
+### Quels sont les frais liés aux opérations manuelles effectuées à la caisse d’une agence
+
+Une opération manuelle est une transaction effectuée **à la caisse d’une agence** , par nos collaborateurs, comme par exemple :
+* Un retrait d’espèces en euros
+* Un versement d’espèces en euros
+Reportez-vous au tableau ci-dessus des frais de transaction à la caisse, ou consultez notre brochure la Banque au quotidien pour tout savoir sur les frais et charges.

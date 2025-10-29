@@ -1,0 +1,22 @@
+# Wero - ING Belgique
+
+## Payez instantanément et sans frais, dans toute l'Europe, en utilisant Wero dans votre app ING Banking.
+
+Oubliez les délais de paiement et les IBAN ! Grâce à Wero dans votre app ING Banking, envoyez et recevez de l'argent instantanément à l'aide d'un simple code QR ou d'un numéro de téléphone. Parfait pour vos transactions quotidiennes, que ce soit pour payer votre part au restaurant ou pour un achat rapide à la boulangerie du coin. Les fonctionnalités d'achat en ligne arrivent bientôt, restez connectés !
+Payconiq sera progressivement supprimé d’ici la fin de l’année. Pensez à lier dès maintenant votre numéro de téléphone pour continuer à profiter des paiements instantanés avec Wero.
+
+## A propos de Wero
+
+* ### Instantané
+Envoyez et recevez de l'argent en quelques secondes avec Wero, 24 h/24, 7 j/7, et directement sur le compte bancaire de votre contact, sans aucune difficulté.
+* ### Sécurisé
+Aucune application, ni données supplémentaires : vos informations financières restent en sécurité.
+* ### Transfrontalier
+Compatible avec la plupart des banques européennes pour des paiements faciles.
+
+# Wero
+
+## Comment effectuer des paiements mobiles avec Wero:
+
+Pour payer instantanément, scannez un QR code avec l'app ING Banking ou créez votre propre QR code Wero pour envoyer et recevoir de l'argent en un clin d'œil.
+Vous pouvez aussi lier votre numéro de téléphone à votre compte bancaire pour faciliter les transactions. Recevez des notifications en temps réel et soyez tranquille à chaque paiement.

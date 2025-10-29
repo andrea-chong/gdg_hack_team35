@@ -1,0 +1,11 @@
+# Les solutions d’ING pour chaque paiement en ligne - ING Belgique - Payer sur internet
+
+## ING vous propose 4 options pour réaliser chaque paiement en ligne rapidement, simplement et en toute sécurité
+
+* **Paiement via les cartes de crédit ING Card, Visa Classic, Visa Gold et MasterCard Gold :** toutes les cartes de crédit ING sont protégées par MasterCard® Id Check™ et Verified by Visa. Lors d’un paiement en ligne, en Belgique ou à l’étranger, vérifiez si ces deux logos sont présents sur le site pour vous garantir une transaction 100 % sécurisée.
+* **Vous n’avez pas de carte de crédit ?** Vous pouvez comparer nos cartes de crédit et demander votre propre carte de crédit dès maintenant.
+* **Paiement via la fonction Maestro ou Bancontact de votre carte de paiement :** vous pouvez payer sur tous les sites belges et internationaux affichant les logos Maestro® ou Bancontact. Vous êtes identifié lors de chaque paiement par votre ING Card Reader, ce qui renforce la sécurité.
+* **Paiement via Home’Pay :** passez directement par la connexion sécurisée Home’Bank pour chaque paiement en ligne sur les sites affichant le logo Home’Pay. Pour utiliser Home’Pay, il vous suffit d'être titulaire d'un compte à vue ING et d'un abonnement Home’Bank. Vous n’avez pas encore d’accès Home’Bank ? Faites votre demande pour accéder à Home'Bank en ligne !
+* **Payer via itsme** : lorsque le client choisit l'option itsme, il lui sera demandé d'ouvrir l'application itsme sur son téléphone mobile et de confirmer la transaction avec touch ID, face ID ou son code itsme à 5 chiffres. Pour installer itsme ou le lier à ING, voir la page itsme .
+Utilisez votre ING Card Reader pour les paiements effectués via vos cartes de crédit, via la fonction Maestro ou Bancontact de votre carte de paiement, ou via Home’Pay. Vous signez alors la transaction de la même manière que vos transactions Home’Bank.
+Payez de manière intelligente, sécurisée et pratique via itsme (sans lecteur de carte) !

@@ -1,0 +1,29 @@
+# Comparatif de nos comptes d’épargne réglementés - ING Belgique - Comparez nos comptes d’épargne
+
+## Envie de constituer une réserve financière ? Rien de tel qu’un compte d'épargne.
+
+Vous souhaitez épargner chaque mois ou de manière ponctuelle ? Pas de soucis, c’est vous qui déterminez la fréquence.
+Nos comptes d'épargne réglementés sont proposés par ING Belgique SA, un établissement financier belge. Vous trouverez les taux d'intérêt en vigueur sur ing.be et dans toutes nos agences. Les taux d'intérêt peuvent être adaptés à tout moment. Si les taux changent, nous vous informons via vos extraits de compte.
+START TABLE IN MARKDOWN
+| | ING Compte d'épargne (cat. A¹) | ING Epargne Tempo (cat. B¹) |
+| - | - | - |
+| Objectif d'épargne | Gérer son épargne à sa guise | Épargner de manière récurrente avec ce compte en ligne |
+| Taux de base² | 0.10% sur base annuelle | 0.75% sur base annuelle |
+| Prime de fidélité³ | 1.15% sur base annuelle | 1.50% sur base annuelle |
+| Frais | L’ouverture, la clôture et les opérations en ligne sont gratuites | L’ouverture, la clôture et les opérations en ligne sont gratuites |
+| Titulaire(s) du compte | À votre nom ou avec d'autre(s) titulaire(s) | À votre nom |
+| Nombre de comptes autorisés | Plusieurs comptes autorisés par titulaire | 1 compte par titulaire |
+| Limite maximale de versement | ✅ Pas de limite | ❌ Max € 500/mois |
+| Limite minimale de versement | ✅ Pas de limite | ✅ Pas de limite |
+| Durée | L'ouverture ou la fermeture est possible à tout moment | L'ouverture ou la fermeture est possible à tout moment |
+| Retrait ou versement d'espèces | ✅ Inclus | ❌ Pas inclus |
+| | | |
+| Fiscalité(Précompte mobilier sur les intérêts) | ◽Jusqu'à €1.050 : \ \| Àpd €1.050 : 15% au nom de conjoints mariés\|cohabitants légaux:◽Jusqu'à €2.100 : \ \| Àpd €2.100 : 15% | ◽Jusqu'à €1.050 : \ \| Àpd €1.050 : 15% |
+| Épargner sa petite monnaie | Eligible pour ING Save Up | Non éligible pour ING Save Up |
+| | | |
+| Risques | De faillite⁴ & d'inflation⁵ | De faillite⁴ & d'inflation⁵ |
+| | | |
+| | Fiche d'informations\-clés pour l'épargnant | Fiche d'informations\-clés pour l'épargnant |
+| | Continuer | Continuer |
+| | | |
+END TABLE IN MARKDOWN

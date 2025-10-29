@@ -1,0 +1,14 @@
+# Débloquer votre carte de crédit ING - ING Belgique
+
+## Votre carte de crédit ING a expiré ?
+
+Le renouvellement est automatique. Votre nouvelle carte de crédit ING sera envoyée à l’adresse enregistrée dans notre système.
+Votre ancienne carte de crédit ING sera automatiquement désactivée dès l'activation de la nouvelle. Vous pouvez continuer à utiliser votre ancien code PIN.
+Néanmoins, nous vous recommandons de détruire votre carte de crédit ING en coupant en deux avec des ciseaux tant la carte que la puce qu'elle contient.
+Si vous n'avez pas reçu de carte de remplacement, vous devez commander une nouvelle carte de crédit ING via l'Espace self-service.
+Dans certains cas, il n'est pas possible de commander une nouvelle carte de crédit ING. Veuillez contacter notre service client pour cela.
+
+## Vous avez tapé un code PIN erroné trois fois de suite ?
+
+Votre carte de crédit ING est automatiquement bloquée lorsque vous tapez trois fois de suite un code erroné.
+Consultez votre code PIN via l'Espace self-service de l’app ING Banking et votre carte sera débloquée. Vous devrez ensuite la réactiver en effectuant une transaction à l’aide du code PIN récemment consulté, comme un achat dans un magasin (pas un achat en ligne) ou un retrait à un distributeur.

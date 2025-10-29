@@ -1,0 +1,32 @@
+# Ik kan mijn ING Banking-app niet updaten. Wat moet ik doen? - ING België - Waarom kan ik m'n ING Banking-app niet downloaden of updaten?
+
+28 februari 2025 Waarschijnlijk heeft je toestel een verouderd besturingssysteem (OS).
+​​​​​
+
+## Besturingssysteemvereisten
+
+Om ervoor te zorgen dat je ING Banking-app aan alle nieuwe veiligheidsnormen en verbeteringen voldoet, is het belangrijk om je toestel te updaten naar een recent OS:
+* Voor Apple: **iOS 15 of hoger**
+* Voor Android: **Android 8 of hoger**
+Heb je een ouder toestel en werkt ING Banking-app niet? Probeer dan het nieuwste OS op je toestel te installeren en update vervolgens de ING Banking-app.
+Werkt dat ook niet? Verwijder dan de app en download 'm opnieuw.
+
+## FAQ
+
+### Zo update je een Apple-toestel
+
+* Ga naar 'Instellingen'
+* Scroll naar beneden en tik op 'Algemeen'
+* Tik op 'Software-update'
+* Tik op 'Downloaden en installeren' als er een nieuwe update beschikbaar is
+
+### Zo update je een Android-toestel
+
+* Ga naar 'Instellingen'
+* Scroll naar beneden en tik op 'Software-update'
+* Tik op 'Downloaden en installeren' als er een nieuwe update beschikbaar is
+
+### Kan je je toestel niet updaten naar iOS 15 / Android 8 of hoger?
+
+Dan is je toestel helaas verouderd. Heb je een ander, recenter toestel? Dan raden we je aan om daarop je ING Banking-app te installeren.
+Heb je geen andere, recenter toestel? Dan kan je online bankieren via je browser op https://ebanking.ing.be/login/ . Dat werkt op desktop, smartphone en tablet.

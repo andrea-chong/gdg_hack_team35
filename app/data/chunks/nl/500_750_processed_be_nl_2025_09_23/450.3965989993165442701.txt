@@ -1,0 +1,25 @@
+# Hoe gebruik ik itsme® voor digitaal bankieren? - ING België - Alles over itsme®
+
+## Veelgestelde vragen
+
+### Hoe activeer ik itsme® op mijn nieuwe telefoon?
+
+Volg deze stappen om itsme® op je nieuwe apparaat te configureren:
+Op je nieuwe mobiele telefoon:
+1. Download de itsme®-app.
+2. Voer je telefoonnummer in en selecteer "Heractiveren" in het pop-upvenster.
+3. Selecteer je bank en volg de stappen.
+4. Je krijgt een code toegestuurd per sms. Voer deze code in de app in.
+5. Selecteer je 5-cijferige pincode en bevestig deze.
+Als de bovenstaande stappen niet werken, ga dan naar de itsme.be -website met je eID-kaart + lezer:
+6. Blokkeer je rekening met je gsm-nummer en je geboorteplaats.
+7. Valideer de informatie en wacht op het bevestigingsbericht.
+8. Heractiveer je account via de website.
+
+### Welke stappen onderneem neem ik nadat ik recent verhuist ben?
+
+Controleer eerst en vooral of het adres op je eID bij de locale administratie is bijgewerkt.
+Als dat is gebeurd, neem dan even de tijd om itsme® en de bank op de hoogte te brengen van de adreswijziging.
+Als je een eID-kaartlezer hebt: je kunt je adres eerst bijwerken via het itsme®-updateformulier ,
+Vervolgens kun je met itsme® je nieuwe adres aan de bank doorgeven via je ING Banking-app, Home'Bank/Business'Bank in de rubriek persoonsgegevens, of door hier te klikken .
+Als je geen eID-kaartlezer hebt, kun je je nieuwe eID het best invoeren in een kioskautomaat die beschikbaar is aan de ingang van je ING-kantoor.

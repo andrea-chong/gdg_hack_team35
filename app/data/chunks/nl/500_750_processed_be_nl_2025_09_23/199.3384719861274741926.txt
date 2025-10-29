@@ -1,0 +1,36 @@
+# Apple Pay: Betaal in een handomdraai! - ING België
+
+## FAQ
+
+### Een nieuw Apple-toestel en je wil Apple Pay gebruiken?
+
+Je moet gewoon je debet- of kredietkaart(en) opnieuw toevoegen aan de Apple Wallet-app van dat toestel.
+
+### Kun je Apple Pay gebruiken in het buitenland?
+
+Ja, betaal gerust met Apple Pay bij alle handelaars buiten België, die Maestro/Visa/Mastercard aanvaarden en waar je het Apple Pay-logo en het symbool voor contactloos betalen ziet.
+
+### Waar kun je betalen met Apple Pay?
+
+In alle winkels met een betaalterminal voor contactloos betalen die Maestro/Visa/Mastercard accepteren.
+Via de Safari-browser in webshops die met Apple Pay en Maestro/Visa/Mastercard werken.
+
+### Hoe betaal je met je iPhone in een winkel?
+
+Met Face ID (gezichtsherkenning)
+* Dubbelklik op de knop aan de zijkant van je iPhone en kijk naar het scherm om jezelf te identificeren
+* Hou de bovenkant van je telefoon een paar centimeter van de betaalautomaat
+* Zie je 'Gereed' en een vinkje op het beeldscherm? Dan heb je betaald
+Met Touch ID (vingerafdruk):
+* Hou je iPhone op een paar centimeter van de betaalautomaat
+* Hou je vinger op de Home-toets van je iPhone om jezelf te identificeren
+* Zie je 'Gereed' en een vinkje op het beeldscherm? Dan heb je betaald
+**Op oudere iPhone-modellen (met een startknop onder het scherm)**
+* Dubbelklik op de startknop onderaan het scherm.
+* Houd je iPhone een paar centimeters van de betaalautomaat af.
+* Leg je vinger op de startknop van je iPhone of voer je iPhone-wachtwoord in om je te identificeren.
+* Zie je ‘Gereed’ en een vinkje op het scherm? Dan heb je betaald!
+
+### Hoe betaal je met je iPhone online (Safari)/ in app?
+
+Bevestig de betaling met Face ID of Touch ID

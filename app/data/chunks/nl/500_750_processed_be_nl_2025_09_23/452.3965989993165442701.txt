@@ -1,0 +1,26 @@
+# Hoe gebruik ik itsme® voor digitaal bankieren? - ING België - Alles over itsme®
+
+## Veelgestelde vragen
+
+### Mijn eID-kaart is vernieuwd. Hoe update ik mijn itsme®-profiel?
+
+Als u van uw lokale overheid een nieuwe eID-kaart heeft ontvangen, breng dan itsme® en ING op de hoogte.
+Indien u een eID-kaartlezer heeft: update eerst uw gegevens via het itsme® updateformulier.
+Dan kunt u via itsme® uw nieuwe eID-gegevens doorgeven aan de bank door gebruik te maken van uw ING Banking-app, Home’Bank in uw persoonlijke gegevensrubriek of via onze website .
+Indien u geen eID-kaartlezer heeft: u kunt uw nieuwe eID het beste in een kioskautomaat steken die beschikbaar is aan de ingang van uw ING-kantoor.
+Let op: als u uw itsme®-account bij ING aanmaakt, brengen wij itsme®automatisch op de hoogte van de verlenging van uw eID-kaart.
+
+# Alles over itsme®
+
+## Veelgestelde vragen
+
+### Ik heb problemen met in te loggen op itsme®. Wat nu?
+
+Controleer eerst of je itsme®-account actief is via Home'Bank of Business'Bank. Je moet hiervoor inloggen via de ING QR-code of met je bankkaart en kaartlezer.
+Als je nog altijd niet kunt inloggen op je itsme®-account, lees dan de veel gestelde vragen op deze pagina aandachtig door of die op de itsme®-website. Als de problemen dan nog altijd niet zijn opgelost, kun je ook contact opnemen met de itsme® helpdesk door het online formulier in te vullen .
+
+### Ik heb problemen met het ondertekenen van online betalingen via itsme®. Wat nu?
+
+Om itsme® te gebruiken voor het ondertekenen van online betalingen met Bancontact, Maestro, Visa en Mastercard (inclusief zakelijke bankkaarten), gelden de volgende voorwaarden:
+* Je hebt met succes de itsme®-app op je smartphone geïnstalleerd.
+* Je hebt itsme® minstens één keer gebruikt bij ING. Bijvoorbeeld om in te loggen op ING Home'Bank of Business'Bank of om de ING Banking-app te installeren.

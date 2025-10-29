@@ -1,0 +1,28 @@
+# Avec l'app d’ING, gérez vos opérations bancaires partout - ING Belgique - L'app ING Banking
+
+## FAQ
+
+### Puis-je modifier la visibilité de mes comptes ?
+
+* Modifiez la visibilité de vos comptes depuis votre app ING Banking.
+Depuis l’onglet « Aperçu », appuyez sur l’îcone « Réglages » situé en haut de votre écran. Sélectionnez « Alias et visibilité » et indiquez ensuite où vos comptes doivent s’afficher (dans votre app ING Banking et/ou sur Home’Bank).
+* Modifiez la visibilité de vos comptes depuis votre Home’Bank.
+Connectez-vous à l’aide de l’app ING Banking ou d’itsme®. Cliquez sur le stylo gris situé à droite de votre compte à vue. Choisissez ensuite « Alias et visibilité » et indiquez où vos comptes doivent s’afficher (dans votre app ING Banking et/ou sur Home’Bank).
+
+### Comment enregistrer un nouveau bénéficiaire ?
+
+Enregistrez un nouveau bénéficiaire depuis l'app ING Banking :
+1. Appuyez sur « Services » en bas à droite.
+2. Rendez-vous dans « Gérez vous-même ».
+3. Sélectionnez « Paramètres ».
+4. Choisissez l'option « Bénéficiaires ».
+5. Appuyez ensuite sur le bonhomme orange en haut à droite pour ajouter un nouveau bénéficiaire à votre liste de contacts.
+
+### Comment puis-je bloquer mon profil mobile ?
+
+Bloquez votre profil mobile depuis l'app ING Banking :
+1. Appuyez sur « Services » en bas à droite.
+2. Rendez-vous dans « Gérez vous-même ».
+3. Sélectionnez « Paramètres ».
+4. Choisissez « Applications actives ».
+5. Appuyez sur « Bloquer ».

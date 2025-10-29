@@ -1,0 +1,10 @@
+# Apple Pay: Payez en un clin d'œil - ING Belgique
+
+## FAQ
+
+### Que faire si mon iPhone ou Apple Watch est volé/perdu ?
+
+**\*La fonction Trouver mon iPhone était-elle activée sur votre appareil ?**
+* Connectez-vous ensuite à iCloud.com pour retrouver votre appareil et le mettre en "mode perdu", désactiver temporairement Apple Pay ou effacer complètement les données de votre iPhone ou de votre Apple Watch.
+**\*L'option "Trouver mon iPhone" n'est pas activée sur votre appareil perdu ou volé ?**
+* Appelez ensuite immédiatement Card Stop au + 32 78 170 170 pour bloquer les cartes connectées à votre Apple Wallet. Vous pourrez toujours utiliser votre carte de débit ou de crédit normale.

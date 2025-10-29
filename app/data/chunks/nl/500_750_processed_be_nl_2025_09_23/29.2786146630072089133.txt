@@ -1,0 +1,22 @@
+# ING Spaarrekening - ING België - De klassieke spaarrekening
+
+## ING Spaarrekening: een gereglementeerde spaarrekening zonder limiet en met onbeperkte looptijd voor meer flexibiliteit
+
+Elke maand is anders. Stort daarom het bedrag dat jij kan missen op je spaarrekening. Heb je dat geld toch nodig? Je kunt gratis je spaargeld afhalen op eender welk moment.
+* Meerdere rekeninghouders mogelijk
+* Sparen zoals jij wilt
+* Geen maximumbedrag
+
+## Rentevoet
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Basisrente | Getrouwheidspremie |
+| | |
+| | |
+| 0,10% | 1,15% |
+END TABLE IN MARKDOWN
+De **getrouwheidspremie** wordt enkel verworven op bedragen die ononderbroken op de gereglementeerde spaarrekening zijn gebleven gedurende 12 maanden vanaf de dag na storting. De getrouwheidspremie die geldig is op het moment van de storting blijft gedurende een periode van 12 maanden ongewijzigd. De premie wordt gestort op de eerste dag na ieder kwartaal waarin de getrouwheidspremie is verworven, of bij het sluiten van de rekening.
+De **basisrente** wordt opgebouwd vanaf de dag nadat het geld op de spaarrekening is gestort en tot de dag van opname. Deze wordt gestort op 1 januari of bij het sluiten van de rekening.
+De rentevoeten worden bruto uitgedrukt op jaarbasis en kunnen op elk moment worden aangepast. Je vindt de geldende rentevoeten online en in elk ING-kantoor. Indien de rentevoeten wijzigen, informeren wij de rekeninghouders via hun rekeninguittreksels.

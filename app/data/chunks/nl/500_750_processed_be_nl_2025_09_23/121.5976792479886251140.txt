@@ -1,0 +1,31 @@
+# Your budget - ING België - Je budget
+
+## FAQ
+
+### Welke transacties vallen binnen het toepassingsgebied?
+
+Transacties voor elke zichtrekening waarvan je houder bent of waarop je een mandaat hebt.
+
+### Hoe snel worden mijn transacties gecategoriseerd?
+
+Het duurt 2 tot 4 dagen voordat je transacties zichtbaar zijn in 'Je budget'.
+
+### Hoe kan ik de toegepast categorie wijzigen?
+
+Je kunt een categorie als volgt wijzigen: klik op de categorie en je ziet de transacties die erbij horen. Vind je dat een transactie hier niet thuishoort? Ga naar de details (door op de transactie te klikken) en klik op de categorie om deze te wijzigen. Wil je soortgelijke transacties voortaan altijd in die categorie? Je kunt dit daar direct aangeven: je krijgt dan een lijst met gelijksoortige transacties en je kunt ze meteen omzetten naar een andere categorie.
+
+### Hoe kan ik een bedrag verrekenen?
+
+Je kunt een bedrag als volgt verrekenen: klik op een categorie en je ziet de transacties die daarbij horen. Is er 1 van de transacties waarvoor je een vergoeding hebt gekregen? Ga naar de details (door op de transactie te klikken) en klik op 'verreken het bedrag'. Je kunt dan aangeven welk bedrag je vergoed hebt gekregen. Alleen het resterende deel van het oorspronkelijke bedrag wordt meegenomen in je budgettoewijzing.
+
+### Brengt deze functie extra kosten met zich mee?
+
+'Je budget' maakt deel uit van alle betaalpakketten. Er zijn geen extra kosten aan verbonden.
+
+### Kan ik zelf nieuwe categorieën toevoegen?
+
+Nee. Je kunt alleen kiezen uit de bestaande categorieën. Het is niet mogelijk om zelf categorieën toe te voegen of de naam te wijzigen.
+
+### Hoe ver in het verleden kan ik mijn gevategoriseerde transacties controleren?
+
+Je kunt kijken naar het huidige kalenderjaar en de twee jaren daarvoor.

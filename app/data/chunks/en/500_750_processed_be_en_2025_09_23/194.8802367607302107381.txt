@@ -1,0 +1,31 @@
+# Log in and sign with Card Reader - ING Belgium - Looking for your card reader? There might be an easier way...
+
+## Frequently asked questions
+
+### What is the easiest way to log in to Home’Bank without a card reader?
+
+*You can use the ING QR code method with your ING Banking app or log in via itsme®. Both are secure, fast, and don’t require any additional devices.*
+
+### Can I use Face ID or fingerprint to log in to the ING Banking app?
+
+*Yes! If your smartphone supports biometric authentication, you can enable Face ID or fingerprint login for quick and secure access.*
+
+### What is the ING QR code and how does it work?
+
+*The ING QR code lets you log in to Home’Bank by scanning a code on your computer screen using the ING Banking app. It’s a secure and convenient alternative to the card reader.*
+
+### Is it safe to use itsme® or biometric login?
+
+*Absolutely. All login methods, including itsme® and biometrics, use advanced encryption and comply with the highest security standards.*
+
+### I don’t have a smartphone. Can I still access my accounts online?
+
+*Yes, you can still log in to Home’Bank* *using your debit card and card reader. While we recommend digital methods for ease, the card reader remains available for those who need it.*
+
+### The button with the QR code does not appear in my app. What should I do?
+
+Check that you have the latest version of the app on your phone. If you have an older version of the app, you can easily update or replace it by downloading the latest one.
+
+### Do I need the scanner in the app if I don't use Home'Bank/Business'Bank?
+
+Yes. Even if you don't want to log into our Home'Bank or Business'Bank, the scanner in your ING Banking app can come in handy, for instance to make a payment with a QR code from Payconiq or Bancontact.

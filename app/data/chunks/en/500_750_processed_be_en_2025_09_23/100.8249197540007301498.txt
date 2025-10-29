@@ -1,0 +1,18 @@
+# One card for Bancontact, Maestro/Mastercard and contactless payments - ING Belgium - ING debit card
+
+## In general
+
+### How can I activate/deactivate "online payments"?
+
+Booking a flight or a concert, ordering clothes, buying a computer... You are purchasing online more and more? ING offers you several solutions to make each online payment quickly and securely. You can do online payments by default with your debit card/credit card. But you can easily deactivate it in the digital channels.
+**Please note** : if you deactivate online payments, automatic recurring payments for online subscriptions (streaming, firewall, music, …) linked to the card will also be refused.
+To activate/ deactivate "online payments" from your ING Banking app, follow the instructions hereunder.
+1. Tap 'Services' at the bottom right.
+2. Select 'Cards'.
+3. Choose 'Debit cards' or 'Credit cards'.
+4. Tap 'Online payments'.
+I activate/deactivate "online payments"
+
+### Is using my debit card secure ?
+
+Yes, the security is guaranteed by your PIN code. Your ING debit card is strictly personal and can only be used with the personal identification number (PIN) known only by you. Never share your code or write it down anywhere. Choose a code that is easy to remember but difficult to guess.

@@ -1,0 +1,13 @@
+# La carte de débit ING, avec Bancontact/Maestro // Bancontact/Mastercard et paiement sans contact. - ING Belgique - Carte de débit ING
+
+## En général
+
+### Comment suis-je averti des frais de change liés à un paiement effectué dans un état membre de l'UE dans une autre devise que l'euro ?
+
+Lorsque vous utilisez votre carte dans un état membre de l’UE pour un paiement dans une autre devise que l’euro, vous recevez un SMS gratuit vous informant des frais de change. Vous recevez ce SMS à chaque premier paiement de chaque devise non-euro chaque mois.
+Si vous choisissez consciemment de ne pas partager votre numéro de gsm avec ING, vous choisissez de ne pas recevoir ces informations de cette manière.
+Vos frais restent consultables dans vos relevés de compte, dans l’App ING Banking ou via Home’bank, Business’Bank.
+
+### Comment demander une carte de débit supplémentaire ?
+
+Les Packs ING offrent une carte de débit par titulaire. Vous pouvez obtenir une carte supplémentaire pour le second titulaire ou mandataire de votre compte à vue.

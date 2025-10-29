@@ -1,0 +1,20 @@
+# De periodieke spaarrekening voor jongeren - ING België - Periodiek sparen voor je kind
+
+## Risico's
+
+Het ING Tempo Sparen is een gereglementeerde spaarrekening van ING België nv. Het Belgisch recht is van toepassing.
+**Risico van faillissement:** In geval van faillissement of risico van faillissement van de financiële instelling, draagt de spaarder het risico dat hij zijn spaargeld niet terugkrijgt of kan hij verplicht worden om het bedrag van zijn vorderingen op de financiële instelling boven 100.000 euro, een bedrag dat onder het depositobeschermingsmechanisme valt, te verminderen / om te zetten in kapitaalaandelen (Bail-in). Je kan meer te weten komen over deze beschermingsregeling op de website van het
+Garantiefonds en het Beschermingsfonds (belgium.be).
+**Inflatierisico:** aanhoudende prijsstijgingen kunnen ervoor zorgen dat het gedeponeerde geld minder waard wordt.
+
+## Sparen voor je kind
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Eenvoudig te openen | Zin om te sparen voor je kind? Begin er meteen aan. Open je spaarrekening online via je favoriete digitale kanaal of in een van onze kantoren. Je kind beschikt over het bedrag op deze spaarrekening op zijn/haar 18e verjaardag. Deze spaarrekening kan enkel op 1 naam geopend worden (één rekening per kind). |
+| Ouderlijk toezicht | Wil je een oogje in het zeil houden? Dat kan simpelweg via jouw computer of smartphone, tot je kind 18 jaar wordt. |
+| Geen extra kosten | Open, sluit en beheer je spaarrekening gratis. Rekeningsuittreksels kunnen geconsulteerd worden via de digitale kanalen. |
+| Storting | Geen minimum, maximum €500 per maand. Op deze spaarrekening spaar je via een automatische spaaropdracht van je zicht\- of de zichtrekening van je kind naar de spaarrekening van je kind. |
+| Beheer van de rekening | Deze rekening kan alleen digitaal worden beheerd. |
+END TABLE IN MARKDOWN

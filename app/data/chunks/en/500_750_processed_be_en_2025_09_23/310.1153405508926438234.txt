@@ -1,0 +1,18 @@
+# Card not received? - ING Belgium
+
+## Frequently asked questions
+
+### How do I deactivate my old card?
+
+If your new card was sent as a replacement of an old one, your old card will be automatically deactivated as soon as your new card becomes active. Nevertheless, we recommend destroying your old card by cutting both it and the chip in half with a pair of scissors.
+If you blocked your ING card via the ING Banking app, Home’Bank or by calling Card Stop it is fully deactivated.
+
+### What do I do when I have issues requesting a new pin code?
+
+1. If you have not consulted or requested a new PIN code within 12 days, or if you do not have a smartphone, we will automatically send you your PIN code by post to the same address as your card.
+2. You can easily look up your pin code via service section in the ING Banking app.
+Your ING debit card or ING credit card will be automatically activated the **first time** you use it, when you use it to perform an action that requires entering your pin code.
+Examples of action that require entering your pin code:
+* changing your PIN at a Self'Bank (recommended)
+* making a payment in a shop
+* withdrawing cash at a Self'Bank or ATM

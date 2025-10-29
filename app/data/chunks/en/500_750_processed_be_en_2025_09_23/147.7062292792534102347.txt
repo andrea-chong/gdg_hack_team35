@@ -1,0 +1,28 @@
+# Verification of payee - ING Belgium - Verification of the name of the payee
+
+## FAQ
+
+### What should I do if I receive an error message ?
+
+* Check the payment details and contact the recipient if necessary (note: contact information on a fake invoice may also be falsified).
+* After receiving a notification, you can decide whether or not to make a change. As it is already the case today, you remain responsible for the transfers you make.
+
+### What can I do to make my payments go as smoothly as possible ?
+
+In your trusted beneficiary list, always correctly indicate the beneficiary's name (first and last name). If you receive an error message, remember to update the beneficiary's contact information in your trusted beneficiary list to avoid similar errors in the future.
+For example, modify a transfer to the beneficiary "dad" by specifying your father's legal name. If you don't, you will continue to receive an error message every time.
+
+### Will others see my name when they make a transfer to my account ?
+
+When verifying the payee's name, an individual's name is only displayed if the payer made a small mistake in the name (e.g., "Dupond" instead of "Dupont") or if the entered name differs slightly from the correct one. In all other cases, your name is not displayed to maximize your privacy.
+
+### Which payments does verification apply to ?
+
+All transfers that you enter yourself and that are made in euros, regardless of the banking channel used (home banking, mobile banking, etc.) to accounts opened with banks in the eurozone.
+
+### Which payments does verification not apply to ?
+
+* Payments in other currencies
+* Payments by payment card
+* When you do not enter the account number and beneficiary name yourself, for example by scanning a QR code via Payconiq/Wero
+* Direct debits

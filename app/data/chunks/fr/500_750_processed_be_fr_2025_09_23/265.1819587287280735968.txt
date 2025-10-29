@@ -1,0 +1,32 @@
+# Aidez-moi, je ne peux pas me connecter - ING Belgique - Aidez-moi, je n'arrive pas à me connecter
+
+## Problèmes ou erreurs de connexion
+
+### J'ai oublié le code pour me connecter à l'app
+
+Sur l'écran de connexion de l'app, vous pouvez cliquer sur l'icône 'i' et sélectionner 'code oublié'. Vous devez reinitialiser l'app et choisir un nouveau code à 5 chiffres. Gardez votre lecteur de carte ING à portée de main ou utilisez Itsme.
+
+### Je reçois un message d'erreur 'Désolé'
+
+1. Veuillez réessayer.
+2. Si le problème persiste : fermez l'app en arrière-plan et rouvrez-la. Dans certains cas, vous verrez un bouton 'Enregistrez-vous de nouveau'. Vous devrez vous enregistrez de nouveau dans l'app à l'aide de Itsme ou un lecteur de carte ING.
+
+### Je reçois un message d'erreur 'Oops'
+
+1. Essayez de vous reconnecter.
+2. Si le problème persiste : fermez l'app en arrière-plan et rouvrez-la.
+
+### Je reçois un message d'erreur 'App ING Banking bloquée'
+
+Cliquez sur 'OK', puis vous devrez vous enregistrer de nouveau dans l'app et choisir un nouveau code à 5 chiffres. Gardez votre lecteur de carte ING à portée de main ou utilisez Itsme.
+
+### Pourquoi je ne peux plus me connecter et/ou signer par empreinte digitale ou reconnaissance faciale ?
+
+Vérifiez les paramètres de l'app pour voir si la fonctionalité est bien activée:
+1. Connectez-vous à l'app
+2. Cliquez sur l'onglet 'Services'
+3. Allez dans 'Gérez vous-même'
+4. Sélectionnez 'Paramètres'
+5. Dans les paramètres, faites défiler jusqu'à 'Accès et confirmation'
+6. Sélectionnez 'Empreinte digitale' ou 'Face ID'
+Trouver des réponses

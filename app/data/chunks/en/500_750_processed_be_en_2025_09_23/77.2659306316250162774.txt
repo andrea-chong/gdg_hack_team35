@@ -1,0 +1,44 @@
+# Click to Pay, the future of online payments - ING Belgium - Click to PayClick, pay, enjoy
+
+## Frequently Asked Questions
+
+### What is Click to Pay?
+
+Click to Pay is a fast, secure online checkout method supported by Mastercard. With Click to Pay, safely store your payment information in one place and check out with your saved cards anywhere you see the Click to Pay icon.
+
+### How do I use Click to Pay during checkout?
+
+At participating merchants where you see the Click to Pay icon, Click to Pay automatically recognizes your email or mobile number and provides access to your saved cards to speed you through checkout. Alternatively, use the Click to Pay button if it’s displayed at checkout.
+
+### Where can I use Click to Pay?
+
+Click to Pay is available at tens of thousands of merchants worldwide. Look for the Click to Pay icon to use your saved cards.
+
+### Does it cost anything to use Click to Pay?
+
+Click to Pay is free to use. You are not charged a fee or additional charge for paying with Click to Pay.
+
+### Can I use my Click to Pay information when shopping on websites based internationally?
+
+Your Click to Pay information can be used at any participating merchant worldwide.
+
+### Can I receive alerts for Click to Pay transactions?
+
+Click to Pay does not send transaction alerts or notifications. You may receive transaction notifications from the merchant or your bank.
+
+### How do I set up a password?
+
+Click to Pay does not use passwords. For a more secure and simple experience, you may receive a verification code. Verification codes are a one-time code sent to your email or mobile number to confirm it’s really you.
+
+### How do I sign up for Click to Pay?
+
+It’s simple and quick.
+1. Open your ING bank app.
+2. Go to services > Settings > Click to Pay > Follow the instructions
+3. Confirm the pre-filled details.
+4. You’re all set!
+Next time you shop online, select card payments and your Click to Pay profile will appear when you’re ready to pay.
+
+### How do I know I signed up for Mastercard Click to Pay?
+
+Mastercard Click to Pay sends an email when you sign up that confirms the information and card you saved. Check the email address you used to sign up for an email sent from “Mastercard Click to Pay.” It might be in your spam folder.

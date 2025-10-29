@@ -1,0 +1,13 @@
+# ING Save Up voor minderjarigen – Spaar je wisselgeld als kind - ING België - ING Save Up voor jongeren onder de 18
+
+## Spaar nog sneller met de spaarversneller
+
+Activeer de spaarversneller en het gespaarde bedrag wordt verdrievoudigd. Elke keer dat een bedrag wordt afgerond en overgeschreven via ING Save Up, wordt het verdrievoudigd.
+**Voorbeeld:** als je kind een drankje koopt voor €2,40, rondt ING Save Up dit af naar €3,00 en wordt er €0,60 gespaard. Met de spaarversneller wordt dit bedrag verdrievoudigd tot €1,80.
+START TABLE IN MARKDOWN
+| Transactie met zichtrekening | Afronding naar boven | Spaarversneller | Gespaard bedrag |
+| - | - | - | - |
+| €2.40 | €0.60 | x1 | €0.60 |
+| €2.40 | €0.60 | x3 | €1.80 (= €0.60 x 3) |
+END TABLE IN MARKDOWN
+Algemene voorwaarden ING Save Up Activeer ING Save Up voor je kind

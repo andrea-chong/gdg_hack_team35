@@ -1,0 +1,5 @@
+# Zoomit - Veelgestelde vragen - ING België - Zoomit Veelgestelde vragen
+
+### Hoe kan ik Zoomit deactiveren?
+
+Zoomit kan niet gedeactiveerd worden. Je kan verzenders blokkeren vanuit je Home'Bank. Meld je aan met behulp van de ING Banking-app of itsme®. Klik op "Zoomit" onder de tab "Betaalopdrachten" en selecteer de optie "Instellingen". Klik dan op "Mijn verzenders" en vink de optie "Facturen via Zoomit" uit.

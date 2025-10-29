@@ -1,0 +1,19 @@
+# Vérification du nom du bénéficiaire - ING Belgique
+
+## La vérification du nom du bénéficiaire en bref
+
+* ### Prévention
+Cette fonctionnalité prévient certains cas de fraude et les erreurs de paiement.
+* ### Résultat immédiat
+Une fois le nom et le compte du bénéficiaire (IBAN) introduits, le résultat de la vérification s'affiche immédiatement.
+* ### Disponibilité
+A partir du 9 octobre 2025 pour les canaux tels que l'ING app et Home'Bank.
+
+## Contexte
+
+Avant la signature d’un SEPA Credit Transfer standard ou instantané, ING initiera le service de « Vérification du nom du bénéficiaire ». Cette nouvelle fonctionnalité a pour but de vérifier la concordance entre le nom et le numéro de compte du bénéficiaire (IBAN).
+Ce service est issu d’une réglementation européenne concernant les virements instantanés qui entrera en vigueur le 9 octobre 2025.
+
+## Implémentation
+
+**Mise en service le 9/10/2025** : le service sera proposé aux clients particuliers et professionnels initiant des virements SEPA unitaires dans Mobile Banking et Home Bank. Le service couvrira alors l’ensemble des virements dans la zone SEPA.

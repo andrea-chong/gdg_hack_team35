@@ -1,0 +1,14 @@
+# Vos transactions en cash aux distributeurs de billets, 7j/7 à n'importe quel distributeur! - ING Belgique - Distributeur de billets
+
+## Frais de transaction au distributeur
+
+### Que faire si un de mes billets déposés dans le distributeur est suspecté d'être faux?
+
+Vous n’avez rien à faire, nous nous occupons de tout.
+Voici les étapes que nous allons suivre :
+* Le distributeur de billets ING ou le point CASH retient le billet suspect et affiche un message à l’écran pour vous en avertir
+* Nous envoyons ensuite le billet suspect à la Banque Nationale de Belgique, comme nous l’exige la loi\*, pour vérifier son authenticité:
+  + Le billet est authentique ? Nous versons immédiatement le montant du billet sur votre compte à vue
+  + Le billet s’avère être un faux ? Alors, nous vous envoyons un certificat par mail ou par courrier
+Bon à savoir Cette procédure de vérification peut prendre jusqu'à 60 jours ouvrables. Nous ferons de notre mieux pour vous répondre au plus vite. Merci déjà pour votre patience !
+(\*) Arrêté royal du 1 juin 2016 portant sur l’exécution de la loi du 17 juillet 2013 relative à la protection contre le faux monnayage et au maintien de la qualité de la circulation fiduciaire.

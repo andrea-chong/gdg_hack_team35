@@ -1,0 +1,14 @@
+# La carte de débit ING, avec Bancontact/Maestro // Bancontact/Mastercard et paiement sans contact. - ING Belgique - Carte de débit ING
+
+## En général
+
+### Comment activer/désactiver les paiements en ligne ?
+
+Réserver un vol ou des places de concert, commander des vêtements, acheter un ordinateur… Vous achetez de plus en plus sur Internet ? ING vous propose plusieurs solutions pour effectuer chaque paiement en ligne rapidement et en toute sécurité. Effectuez vos paiements en ligne par défaut avec votre carte de débit/carte de crédit. Mais vous pouvez facilement désactiver cette fonctionnalité dans les canaux digitaux.
+**Attention** : si vous désactivez les paiements en ligne, les paiements périodiques automatiques de vos abonnements (streaming, pare-feu, musique, …) en ligne liés à votre carte seront aussi refusés.
+Pour activer/désactiver les paiements en ligne depuis l'app ING Banking, suivez les instructions ci-dessous.
+1. Appuyez sur « Services » en bas à droite..
+2. Sélectionnez « Cartes ».
+3. Choisissez « Cartes de débit » ou « Cartes de crédit ».
+4. Appuyez sur « Paiements en ligne ».
+J'active/désactive les paiements en ligne

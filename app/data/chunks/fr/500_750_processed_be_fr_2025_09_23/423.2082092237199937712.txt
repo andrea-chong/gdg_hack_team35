@@ -1,0 +1,25 @@
+# Vous n’avez pas reçu votre carte ? - ING Belgique
+
+## Questions fréquemment posées
+
+### Que faire si je n’ai pas reçu ma carte après 5 jours ouvrables ?
+
+Si vous n’avez pas reçu votre carte après 5 jours ouvrables, vérifiez d’abord votre adresse dans nos systèmes. Si elle n’est plus correcte, vous pouvez facilement la mettre à jour via l’application ING Banking ou Home’Bank. Ensuite, vous pouvez commander une nouvelle carte de débit en ligne . Ouvrez votre app ING Banking ou Home'Bank. Sélectionnez « Services », puis « Cartes », choisissez l'option « Cartes de débit » et appuyez sur « Carte non reçue ». S'il s'agit d'une carte de crédit, contactez-nous via le canal de votre choix pour en demander une nouvelle.
+**Important :** si une adresse de contact est connue dans le système, la carte sera envoyée à votre adresse de contact et non à votre adresse légale.
+
+### Est-il gratuit de commander une nouvelle carte dans le cas où je n’ai pas reçu la mienne ?
+
+Oui, dans les 6 mois suivant l’envoi de la carte, elle est gratuite lorsque vous ne l’avez pas reçue.
+
+### Puis-je demander une carte de débit temporaire en attendant de recevoir ma nouvelle carte ?
+
+Il n’est plus possible de demander une carte temporaire. Quelques heures après le blocage de votre ancienne carte, votre nouvelle carte sera numériquement prête pour les paiements Apple Pay, Google Pay ou Payconiq dans l’application ING Banking.
+
+### Comment activer ma nouvelle carte ?
+
+Votre carte de débit ING ou carte de crédit ING est automatiquement activée lors de votre **première utilisation** , lorsque vous l’utilisez pour effectuer une action nécessitant la saisie de votre code PIN.
+Exemples d’actions nécessitant la saisie de votre code PIN :
+* modification de code PIN via un Self'Bank (recommandé)
+* paiement dans un magasin
+* retrait d'espèces à un Self'Bank ou à un distributeur automatique
+Plus d'informations sur cette page .

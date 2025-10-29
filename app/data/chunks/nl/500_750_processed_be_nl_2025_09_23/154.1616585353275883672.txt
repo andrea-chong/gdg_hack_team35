@@ -1,0 +1,23 @@
+# Een kaart voor Bancontact, Maestro of Mastercard en contactloos betalen - ING België - ING-debetkaart
+
+## Algemeen
+
+### Hoe gaat een reservering voor een transactie met een debetkaart in zijn werk?
+
+Reserveringen voor transacties met een debetkaart betreffen de fondsen die tijdelijk op je bankrekening geblokkeerd worden om ervoor te zorgen dat je rekening over de benodigde fondsen beschikt en je ook te beschermen tegen het risico van onregelmatige debetstand.
+Hoe gaat het reserveren in zijn werk?
+1. Initiële autorisatie: Wanneer een transactie wordt geïnitieerd, stuurt de handelaar een autorisatieaanvraag naar ING, die controleert of het beschikbare bedrag op je rekening voldoende is om het maximumbedrag van de transactie te dekken.
+2. Reservering van het bedrag: Als de autorisatie aanvaard wordt, wordt het bedrag gereserveerd, waardoor het beschikbare bedrag op uw rekening tijdelijk wordt verlaagd. Het bedrag van deze reservering kan later worden aangepast. Voorbeeld:
+- Brandstof kopen: het initiële bedrag van de reservering wordt bepaald door
+de verkoper en is hoger dan de potentiële aankoop. Na de tankbeurt, wordt
+de reservering aangepast aan het werkelijke aankoopbedrag en wordt je
+beschikbare bedrag bijgewerkt.
+- Garantie (hotel, autohuur, enz.).
+- Transacties in vreemde valuta: de reservering in euro is een geschat bedrag.
+Het uiteindelijke bedrag van de transactie wordt bepaald op basis van de
+wisselkoers op het ogenblik van verwerking.
+3. Verwerking van de transactie: De transactie wordt vervolgens verwerkt door de handelaar. Dit proces kan enkele minuten tot enkele dagen duren. Zodra de verwerking van de transactie afgerond is, worden de gereserveerde bedragen ofwel bevestigd en van de rekening gedebiteerd, ofwel geannuleerd.
+Gevolgen voor de kaarthouder:
+* Verminderd beschikbaar bedrag: het gereserveerde bedrag is tijdelijk niet beschikbaar. Dit heeft invloed op het bedrag dat kan aangewend worden voor andere transacties.
+* Reserveringstijd: dit proces kan enkele minuten tot meerdere dagen duren, afhankelijk van de werkwijze van de handelaar.
+* Annulering: als een aankoop geannuleerd wordt, wordt het gereserveerde bedrag vrijgegeven zodra de handelaar ons dit meedeelt.

@@ -1,0 +1,35 @@
+# Set up your push notifications - ING Belgium
+
+## Find out when you receive money in real time with notifications from the ING Banking app!
+
+What is a push notification? It is a personal message on your smartphone. Be informed when you receive money on your account, if your balance is below a certain threshold or if you have to sign a document to finalise the purchase of an ING product. From now on, you don't need to use a computer, a simple notification on your smartphone can inform you. No matter where you are. Stay informed about what's happening in your accounts and activate notifications in your ING Banking app.
+Download the app
+
+## The advantages
+
+* ### Good news alert
+Set up an alert to receive a notification when funds over a set amount land in your account.
+* ### Realtime warnings
+Be warned in real time if a transfer doesn’t go through due to insufficient balance. That way you’ll avoid unnecessary fees for late payments.
+* ### 100% personalised
+You decide which alerts you receive.
+* ### No surprises
+Find out the moment a large amount is debited from your account.
+
+### How to activate your push notifitications
+
+1. 1
+
+#### Log in to your ING Banking app
+
+Go to 'Services' at the bottom right of the screen
+2. 2
+
+#### Go to 'Settings'
+
+Under 'App settings' tap on 'Push notifications' to activate your notifications
+3. 3
+
+#### Customise and confirm your choices
+
+Set the alert type and amounts for which you want to receive notifications

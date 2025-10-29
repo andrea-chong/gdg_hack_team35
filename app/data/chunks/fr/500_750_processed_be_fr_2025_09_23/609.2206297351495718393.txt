@@ -1,0 +1,34 @@
+# Click to Pay, l'avenir des paiements en ligne - ING Belgique - Click to PayCliquez, payez, profitez
+
+## FAQ
+
+### Comment savoir si mon inscription à Click to Pay a bien été prise en compte ?
+
+Vous recevrez un e-mail de confirmation de la part de Mastercard Click to Pay, avec les informations de votre carte enregistrée. Pensez à vérifier dans vos spams si vous ne voyez pas l’e-mail dans votre boîte de réception principale.
+
+### Comment supprimer mes informations de Click to Pay ?
+
+Connectez-vous à Mastercard Click to Pay avec votre adresse e-mail ou votre numéro de téléphone. Depuis votre profil, vous pourrez gérer vos informations, y compris les supprimer.
+
+### Comment mettre à jour mes informations Click to Pay ?
+
+Rendez-vous sur Mastercard Click to Pay , connectez-vous avec votre adresse e-mail ou votre numéro de téléphone et mettez à jour vos informations. Vous pouvez supprimer des cartes, modifier vos adresses de livraison ou votre numéro de téléphone.
+
+### Comment Click to Pay protège-t-il mes informations ?
+
+Click to Pay utilise plusieurs niveaux de sécurité pour protéger vos données :
+1. Cryptage des données : vos informations de paiement sont chiffrées pour éviter toute fraude.
+2. Détection intelligente des comportements suspects : Click to Pay distingue les utilisateurs légitimes des bots malveillants.
+3. Code de vérification unique : un code est envoyé à votre e-mail ou téléphone pour s’assurer que vous êtes bien l’utilisateur légitime.
+
+### Mastercard partage-t-il mes informations Click to Pay ?
+
+Mastercard ne partage vos informations que pour faciliter le paiement chez les commerçants participants, les réseaux de cartes et les prestataires de services. Pour plus d’informations, consultez notre Politique de confidentialité.
+
+### Qu’est-ce qu’un code de vérification ?
+
+Il s’agit d’un code unique envoyé par SMS ou e-mail pour confirmer votre identité lors d’un paiement ou de l’accès à votre profil Click to Pay.
+
+### Si je reçois plusieurs codes de vérification, vais-je être facturé plusieurs fois ?
+
+Non, vous ne serez débité qu’une seule fois, au moment où votre achat est confirmé.

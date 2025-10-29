@@ -1,0 +1,12 @@
+# Connectez-vous et signez avec votre lecteur de carte - ING Belgique - Vous cherchez votre lecteur de cartes ? Il y a peut-être un moyen plus simple...
+
+## Questions fréquemment posées
+
+### Ai-je besoin du scanner dans l’application si je n’utilise pas Home'Bank/Business'Bank ?
+
+Oui. Même si vous ne souhaitez pas vous connecter à Home'Bank ou Business'Bank, le Scanner de votre app ING Banking peut s'avérer utile, par exemple pour effectuer un paiement avec un QR-code via Payconiq ou Bancontact.
+
+### Quelle est la différence entre le code QR d’ING et itsme® ?
+
+Il s'agit de deux moyens de s'identifier et de signer des paiements. L’ING QR Code est exclusivement destiné à vos opérations bancaires en tant que client(e) ING. Pour itsme®, en revanche, il existe d'autres apps, telles que la connexion à vos profils sur des sites gouvernementaux, etc.
+Lorsque vous utilisez l’ING QR Code pour signer un paiement, vous obtenez plus d'informations sur le paiement que lorsque vous utilisez itsme®. C'est important pour se prémunir contre le phishing. Plus vous disposez d'informations, plus il est facile de savoir si quelque chose est suspect.

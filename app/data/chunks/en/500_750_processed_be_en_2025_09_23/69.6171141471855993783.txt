@@ -1,0 +1,40 @@
+# How to use Digital identity verification for online banking - ING Belgium - Everything you need to know about Digital Identity verification
+
+## What is digital identity verification?
+
+* ### Extremely secure
+Your identity is verified through a combination of an official ID scan and a real-time selfie with liveness detection technology.
+* ### Easy to use
+Once you’ve scanned the front (and back if applicable) of your identity document and taken a good selfie, your identity is confirmed and you’re ready to go!
+* ### Banking made simple
+Enjoy instant access to becoming an ING client, opening accounts & installing your ING Banking app.
+Not a client yet? Open your ING current account verifying your identity fully digital and become one in a couple of clicks
+
+### Are you new to digital identity verification?
+
+### What exactly is digital identity verification?
+
+Digital identity verification is used to verify your identity without having to use other verification methods like Itsme and your card reader.
+You scan your identity document and combine it with a liveness detection selfie.
+
+### What type of documents can I use?
+
+Belgian residents can use their e-ID card or passport. Expats can verify their digital identity using their e-ID card, passport or residence permit.
+
+### Can everyone use this?
+
+You can start using our digital identity verification solution as from the age of 15.
+
+### Looking for guidance on using the digital identity verification?
+
+### How do I install the ING Banking app using digital identity verification?
+
+**Step 1** : download the ING Banking app through the App store (iOS) or Google Play (Android).
+**Step 2** : open the ING Banking app on your smartphone and follow the steps.
+
+### How do I open an account as a new customer that is immediately active?
+
+1. Go to the ing.be website, click “open an account” at the top and choose your favourite account pack.
+2. Click “Open my account” and follow the steps.
+3. Select “by scanning your identity document” for the opening.
+4. Your account is immediately active and immediately visible in the ING Banking app and in Home’Bank.

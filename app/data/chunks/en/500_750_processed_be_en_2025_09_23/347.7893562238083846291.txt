@@ -1,0 +1,30 @@
+# How to use itsme® for online banking - ING Belgium - All about itsme®
+
+## Frequently asked questions
+
+### My eID card has been renewed. How do I update my itsme® profile?
+
+If you received a new eID card from your local administration, inform itsme® and ING.
+If you have an eID card reader: first update your data via the itsme® update form.
+Then you can communicate your new eID data to the bank through itsme® by using your ING Banking app,
+Home’Bank in your personal detail section, or through our website.
+If you have no eID card reader : the best is to insert your new eID into a kiosk machine that is available at the entrance of your ING branch. Note : if you created your itsme® account with ING, we will inform itsme®automatically of your eID card renewal.
+
+# All about itsme®
+
+## Frequently asked questions
+
+### What steps should I take if I’m experiencing difficulties logging in with itsme®?
+
+First check that your itsme® account is active via Home'Bank or Business’Bank. You will need to log in with the ING QR Code or your bank card and card reader.
+If you're still unable to log in to your itsme® account, read through the frequently asked questions on this page or on the itsme® website . If you are still experiencing issues, you can also contact the itsme® helpdesk by filling in the online form .
+
+### How do I unblock my itsme® account?
+
+You can unblock your itsme® account via the ING Banking app, Home'Bank or Business'Bank . Connect using the ING QR Code that appears (requires the ING Banking app to scan it) or with your bank card and card reader. Then follow the given steps.
+
+### I’m having trouble signing online payments with itsme®? What should I do?
+
+In order to use itsme® to sign online payments with Bancontact, Maestro, Visa and Mastercard (Business cards included), the following conditions apply:
+* You’ve successfully installed the itsme® app on your smartphone.
+* You’ve used itsme® at least once with ING. For instance, to connect to ING Home’Bank or Business’Bank or to install the ING Banking app.

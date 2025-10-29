@@ -1,0 +1,26 @@
+# Why my credit card is not working? - ING Belgium - Why is your credit card not working or blocked?
+
+## Do you have any issue with your PIN code?
+
+### View or receive the PIN code of a new credit card
+
+When you receive your new card, you can view your PIN code in the ING Banking app.
+If you receive a new card after the previous one has been blocked or if this is your first card, you can also request a new PIN code by text message ( activate your new ING credit card ).
+If you receive a new card after replacing a defective card or renewing a card that will expire (soon), your PIN will remain the same.
+You don't have a mobile phone or have you missed the SMS application deadline? Your PIN code will be sent to you by post.
+To ensure it is sent to the correct address, please check that we have your correct address in our systems:
+* in the ING Banking app via Services > Personal details > Legal address or Postal address
+* in Home’Bank via you profile at the top right of the screen > Personal details > Legal address or Postal address
+
+### You entered 3 times a wrong PIN code
+
+**After 3 tentatives of a wrong PIN code, you credit card is blocked.**
+View your pin in the ING Banking app! This will deblock your credit card.
+
+### Your card reader is not accepting your new PIN
+
+If you are using a card you have just received, activate it before using it for payments via the card reader.
+Use your new card **for the first time** by performing an action **with the PIN code** : a purchase at a merchant, a cash withdrawal (note: a withdrawal usually involves a fee) or a change of your PIN code at an ATM.
+Your ING credit card **is then activated** ! The old replaced card is automatically deactivated when the new one is activated.
+However, we recommend that you destroy it by cutting it in half at the level of the chip.
+**Please note** : the card cannot be activated through contactless transactions.

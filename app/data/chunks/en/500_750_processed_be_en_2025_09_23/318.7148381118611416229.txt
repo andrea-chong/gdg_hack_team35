@@ -1,0 +1,14 @@
+# Apple Pay: Pay fast and safe - ING Belgium
+
+## FAQ
+
+### What if your card connected to Apple Pay is stolen or lost?
+
+* Is the option “Find my iPhone” activated on your device?
+Connect to your iCloud to find your device and set it to “lost”, desactivate temporarirly Apple Pay or delete all data on your iPhone or your Apple Watch.
+* Is the option “Find my iPhone” not activated on your device?
+Then call Card Stop immediately on + 32 78 170 170 to only block the cards connected to your Apple Wallet. You can still use your normal debit or credit card.
+
+### Is paying with Apple Pay safe?
+
+Absolutely: security is always paramount at ING. You can never pay without a fingerprint, facial recognition or the unlock code of your iPhone.

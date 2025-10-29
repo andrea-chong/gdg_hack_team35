@@ -1,0 +1,13 @@
+# Betalingen met uw debet- en kredietkaart in andere valuta dan euro - ING België - Betalingen met je debet- en kredietkaart in andere valuta dan euro
+
+## Check de wisselkoersen online
+
+Raadpleeg de Mastercard , Visa en ECB wisselkoersen online.
+Zorg dat je deze informatie bij de hand heeft om een wisselkoers op te vragen:
+* **Datum** : Geef de datum van de transactie in. (Wisselkoersen verschijnen dagelijks op een bepaald uur , voordien krijg je de wisselkoers van de vorige dag. Uiteraard zijn er geen wisselkoersen beschikbaar voor de toekomst.).
+* **Valuta** : Kies de valuta waarin je een transactie wilt uitvoeren – vb. Poolse Zloty.
+* **Bedrag** : Geef het bedrag in van de transactie vb. 100 PLN.
+* **Koersopslag** : Geef de koersopslag van de bank in vb.debetkaart: 3.9 %.
+* Geef euro in voor de valuta van je rekening.
+Je ontvangt een resultaat zonder ING behandelingskosten/vergoeding, tel deze er nog bij :
+Bv. een geldopneming aan een geldautomaat buiten de SEPA zone met je debetkaart: 4.24 € en 0.30 % op het opgenomen bedrag. Binnen de SEPA zone is dit gratis behalve als je met een Lion Account (ING Do Basic) betaalt (+0,5€).

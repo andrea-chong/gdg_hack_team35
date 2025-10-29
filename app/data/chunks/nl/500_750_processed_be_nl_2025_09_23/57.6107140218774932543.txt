@@ -1,0 +1,23 @@
+# SEPA, IBAN et BIC : wat is het? - ING België - Alles over de termen SEPA, IBAN en BIC
+
+## SEPA: de eengemaakte Europese betaalruimte
+
+Ontdek wat er achter deze lettercombinaties schuilt.
+SEPA: de eengemaakte Europese betaalruimte SEPA (Single Euro Payments Area) zorgt ervoor dat alle betalingen binnen Europa op dezelfde manier verlopen. SEPA is van toepassing op alle lidstaten van de Europese Unie, en op Noorwegen, IJsland, Liechtenstein, Zwitserland, Monaco, San Marino en Andorra. Dankzij SEPA kunt u uw debetkaart in heel Europa op dezelfde manier gebruiken als in België.
+Daarnaast werden alle overschrijvingen in euro en domiciliëringen in euro in Europa geharmoniseerd aan de hand van IBAN en BIC.
+
+## IBAN
+
+IBAN is een gestandaardiseerde manier om bankrekeningnummers over heel Europa uit te schrijven. Een IBAN-code is samengesteld uit een rekeningnummer, een landcode en een numerieke controlesleutel. Vind je IBAN-nummer direct op je bankkaart of in het overzicht van je ING Banking-app.
+* Bijvoorbeeld: BE61310126985517
+* Bereken hier meteen de IBAN voor uw rekeningnummer(s) . U kunt uw IBAN ook berekenen in Home’Bank: ga naar Info > Berekening IBAN.
+
+## BIC
+
+BIC (Bank Identifier Code) is een unieke code die gebruikt wordt om internationale banken te identificeren. Bij het maken van een internationale overschrijving, binnen of buiten Europa, moet u de BIC van de bank van de begunstigde opgeven.
+* De BIC code van ING België is BBRUBEBB.
+* U kunt de BIC van andere internationale banken opzoeken op de website van Swift .
+
+## Een nieuw, Europees overschrijvingsformulier
+
+Naar aanleiding van SEPA kwam er een nieuw, Europees overschrijvingsformulier , dat eind 2010 de nationale overschrijvingsformulieren voorgoed heeft vervangen. U kunt uw overschrijvingen in euro eenvoudig beheren met dit Europese formulier in Home'Bank : ga naar Dagelijks Bankieren > Betalingen > Binnenlandse betalingen > Geef één overschrijving in (Europees formulier).

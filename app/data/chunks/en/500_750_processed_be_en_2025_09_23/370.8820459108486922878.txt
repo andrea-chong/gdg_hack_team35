@@ -1,0 +1,11 @@
+# List cash counter operations - ING Belgium - Cash Operations at the Cash Counter
+
+## Withdraw, deposit and change cash : EURO
+
+START TABLE IN MARKDOWN
+| Wished action | Procedure | Remark |
+| - | - | - |
+| Withdraw EURO notes (< € 5.000). | Withdraw cash in euros with your ING debit card from any ATM in Belgium. | No need to order upfront |
+| Withdraw EURO notes (> € 5.000). | Order upfront : From Home'Bank In the ING Banking\-app: 'Services' > ‘Do it yourself’ > ‘Payments & Cash’ > 'Order euro in cash' Call our Customer Services on +32 2 464 60 04, Monday to Friday from 8 am to 6 pm | Place your order at least 2 weeks in advance Available banknotes : € 5, € 10, € 20, € 50, € 100, € 200 Belgian legal limitation for payments in cash : € 3.000 |
+| Order euro coins. | Order upfront : From Home'Bank In the ING Banking\-app: 'Services' > ‘Do it yourselff’ > ‘Payments & Cash’ > 'Order euro in cash' Call our Customer Services on +32 2 464 60 04, Monday to Friday from 8 am to 6 pm | Place your order at least 2 weeks in advance Available coins, per roll : from € 0,05 to € 2 |
+END TABLE IN MARKDOWN

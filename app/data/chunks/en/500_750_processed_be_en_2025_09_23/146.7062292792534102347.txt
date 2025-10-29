@@ -1,0 +1,20 @@
+# Verification of payee - ING Belgium - Verification of the name of the payee
+
+## FAQ
+
+### What notification can I receive when the entered name is almost correct ?
+
+If you make a mistake in the name or if the name entered differs slightly from the correct name (for example, "Pierre Dupond" instead of "Pierre Dupont"), the correct beneficiary name will be displayed. We recommend that you enter this name again. This message will generally be displayed in blue and will look this way:
+"The name entered almost matches the beneficiary's name. Did you mean <correct name>?"
+
+### What message do I get when I enter a name that contains an error ?
+
+When you make a transfer to an **individual** account and the name you entered doesn't match the registered name, for example, Louis Durand instead of Pierre Dupont, you will receive an error message. This message is usually displayed in orange and looks as follows:
+"Caution! The entered name does not match the name of the beneficiary. If you proceed without making changes, the amount could be sent to the wrong beneficiary."
+If you make a transfer to a **business** account and the name you entered doesn't match the registered name, for example, Fédération des banques instead of Febelfin, you will receive an error message stating the correct beneficiary name. We recommend using this name. This message is usually displayed in orange and looks as follows:
+"Caution! The entered name does not match the name of the beneficiary. The name of the beneficiary is <correct name>. If you proceed without making changes, the amount could be sent to the wrong beneficiary."
+
+### What message will I receive if no verification can be performed ?
+
+If no verification is possible, for example due to a technical issue or because the recipient's bank did not respond (in time), you will receive a message similar to the one below. Following this notification, you can decide whether to proceed with your transfer, with or without adjustments.
+"We cannot check if the name of the beneficiary is correct. If you proceed, the amount could be sent to the wrong beneficiary."

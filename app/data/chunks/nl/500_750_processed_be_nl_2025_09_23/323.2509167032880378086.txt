@@ -1,0 +1,7 @@
+# Betalingen met uw debet- en kredietkaart in andere valuta dan euro - ING België - Betalingen met je debet- en kredietkaart in andere valuta dan euro
+
+## Hoe bereken ik de kosten bij betalingen en geldopnemingen in andere valuta?
+
+### Opgelet!
+
+De 'acquirers' (=eigenaars) van de geldautomaten mogen een 'access fee' aanrekenen voor elke geldopneming met Mastercard of Visa. De 'access fee' kan variëren van de ene 'acquirer' tot de andere (hij mag het bedrag vrij bepalen). Het toestel vermeldt de 'access fee' op het moment van de transactie vraagt de acceptatie door de kaarthouder.

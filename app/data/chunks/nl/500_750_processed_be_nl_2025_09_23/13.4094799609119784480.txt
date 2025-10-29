@@ -1,0 +1,16 @@
+# Kijk Vooruit naar je budget voor de komende maand - ING België
+
+## Hulp bij het beheren van het bedrag op je zichtrekening
+
+Ken je min of meer je maandelijkse inkomsten en weet je wanneer welke bedragen van je rekening zullen gaan? Zal je onder nul gaan of is er ruimte om te sparen/ investeren? Kijk Vooruit helpt je hierbij!
+
+## Kijk Vooruit biedt verschillende overzichten met telkens een blik op je saldo
+
+* ### "Gepland"
+Een overzicht van werkelijk geplande betalingen, die je ook op verschillende plaatsen in de ING Banking-app en Home’Bank kan checken.
+* ### "Voorspeld"
+Een overzicht met voorspellingen: op basis van de transactiehistoriek van je zichtrekening, schatten we in welke transacties mogelijks opnieuw zullen plaatsvinden. In deze context moet rekening worden gehouden met een onzekerheidsfactor.
+* ### "Alles"
+Eén handig overzicht met zowel geplande als voorspelde transacties voor je zichtrekening.
+* ### "Geschat toekomstig saldo"
+Van zodra je start met scrollen in de app, zie je in elk overzicht de impact van je toekomstige transacties op je huidig saldo onderaan het scherm. Het geschat toekomstig saldo brengt telkens de transactie die je net zag in rekening van zodra deze van het scherm verdwijnt. (In Home'Bank staat dit saldo vermeld in de details van de transactie.)

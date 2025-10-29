@@ -1,0 +1,33 @@
+# Simuleer de verwachte groei van je spaargeld! - ING België - Simuleer de potentiële groei van je spaargeld!
+
+## Bereken het poteniële rendement van je ING Spaarrekening (cat. A¹) en ING Tempo Sparen (cat. B¹)
+
+De spaarsimulator is een hulpmiddel dat is ontworpen om je een schatting te geven van hoe je totale spaargeld zou evolueren gegeven de huidige basisrente en getrouwheidspremie.
+Lees alle informatie over de producten onderaan de pagina voordat je een rekening opent.
+
+### Belangrijke informatie over de simulator
+
+* De resultaten zijn gebaseerd op de aanname dat alle gestorte bedragen gedurende de gekozen periode zonder onderbreking op de rekening blijven staan.
+* De maandelijkse storting wordt uitgevoerd 1 maand na de initiële start van de simulatie
+* De simulatie geen rekening houdt met belastingen en dat rentetarieven kunnen veranderen.
+Spaarrekening ING Spaarrekening (Cat. A) Onbeperkte stortingen per maand Basisrente: 0,10% Getrouwheidspremie: 1,15% ING Tempo Sparen (Cat. B) € 500 max. per maand Basisrente: 0,75% Getrouwheidspremie: 1,50%
+
+### Eerste storting
+
+Bedrag dat je nu wilt sparen, in een keer EUR
+
+### Maandelijkse bijdrage
+
+Bedrag dat je maandelijks wilt sparen EUR
+
+### Duur
+
+6 maanden 1 jaar 2 jaar 5 jaar 10 jaar Rekenen
+
+## Je simulatie
+
+Gebaseerd op de huidige rente bij ING
+
+### Chart
+
+Line chart with 2 lines. The chart has 1 X axis displaying values. Data ranges from -0.05 to 5. The chart has 1 Y axis displaying values. Data ranges from 100 to 160. Created with Highcharts 12.3.0 0 2 4 90 100 110 120 130 140 150 160 170 End of interactive chart. Totaal stortingen — Basisrente — Getrouwheidspremie — **Verdiende rente** — **Totale toekomstige waarde** —

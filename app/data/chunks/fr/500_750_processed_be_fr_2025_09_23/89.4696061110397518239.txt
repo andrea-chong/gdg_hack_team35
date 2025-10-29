@@ -1,0 +1,12 @@
+# Paiements avec vos cartes en devises autres que l'Euro - ING Belgique
+
+Temps de lecture: 5 min 10 février 2025 Vous êtes à l'étranger et vous souhaitez retirer de l'argent ou payer avec votre carte dans une autre devise que l'Euro ? Vous voulez effectuer un paiement dans un pays hors la zone SEPA ? Voici comment sont calculés les frais liés à ces opérations .
+
+## Qu'est-ce qu'une surtaxe de change ?
+
+Première chose à savoir : vous ne devrez faire face à la surtaxe de change uniquement si vous payez dans une devise autre que l’Euro. À l’instar des autres banques, ING calcule un supplément de taux pour toutes les transactions dans des devises autres que l'Euro . Le supplément tarifaire correspond au montant qu'une personne paie pour l'échange d'une devise à une autre . Ce supplément est exprimé chez ING sous forme de pourcentage du montant que vous payez.
+Taux de change pour les cartes de débit: 3.9 %\*Taux de change pour les cartes de crédit: 2 %\*
+
+### Important
+
+Le taux de change appliqué est déterminé par le jour où la transaction est enregistrée . Cette date peut différer de la date de la transaction réelle . Le jour de la réservation est défini par le détaillant/marchand ou le réseau de distributeurs automatiques .

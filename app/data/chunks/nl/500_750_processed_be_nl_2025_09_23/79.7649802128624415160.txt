@@ -1,0 +1,30 @@
+# Gebruik de loketten om cash transacties uit te voeren die niet beschikbaar zijn op een geldautomaat - ING België - Cash-Loketten in onze kantoren
+
+## Kosten verrichtingen aan het cashloket
+
+### Hoe bestel je of stort je bankbiljetten in vreemde valuta: Amerikaanse dollars (USD), Britse ponden (GBP) of Zwitserse franken (CHF)?
+
+Heel eenvoudig! Wij aanvaarden de volgende vreemde valuta: Amerikaanse dollars(USD), Britse ponden(GBP) en Zwitserse franken(CHF).
+Je moet **al** een zichtrekening hebben in de in de betreffende valuta.
+Maak een afspraak in een ING-kantoor dat de dienst vreemde valuta aanbiedt:
+* Meld je aan in Home’Bank of
+* Open de ING Banking-app: ga rechtsonder naar *Diensten > Betalingen & Cash > Cash > Vreemde munten > Bestellen/Storten of*
+* Bel je de Klantendienst op +32 2 464 60 01, van maandag tot vrijdag, van 8 tot 18 uur
+Goed om te weten
+* Bestel je valuta minstens **2 weken vooraf** . Zo ben je goed voorbereid en voorkom je onaangename verrassingen
+* Je vreemde valutarekening wordt direct gecrediteerd met het bedrag (in het geval van een storting)/gedebiteerd met het bedrag (in het geval van een opname) wanneer je naar het cashloket gaat
+* Bekijk de kosten van valutaverrichtingen in bovenstaande tabel. Deze kost blijft verschuldigd, ook bij annulering of niet-afhaling. En dekt de voorbereidingskosten, plus het transport van de valuta
+Lijst van de ING-kantoren met vreemde valutadiensten (enkel op afspraak):
+START TABLE IN MARKDOWN
+| Kantoor | Adres |
+| - | - |
+| ING Wemmel | Markt, 54 1780 Wemmel |
+| ING Uccle Fort Jaco | Chaussée de Waterloo, 1313 1180 Uccle |
+| ING Namur(Jambes) | Place J. Charlotte, 18\-20 5100 Namur |
+| ING Barchon | Rue du Fort, 3 4671 Blegny |
+| ING Mons | Avenue des Guerites, 1 7000 Mons |
+| ING Hasselt | Welvaartstraat, 1 3500 Hasselt |
+| ING Leuven | Bondgenotenlaan, 31 3000 Leuven |
+| ING Antwerpen Metropool | Lange Gasthuisstraat, 20 2000 Antwerpen |
+| ING Oostende\-Jet\-Center | Gistelsesteenweg, 1 8400 Oostende |
+END TABLE IN MARKDOWN

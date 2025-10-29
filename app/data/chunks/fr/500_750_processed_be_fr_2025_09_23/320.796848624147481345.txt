@@ -1,0 +1,27 @@
+# Adapt card settings - ING Belgique - Modifier les paramètres de la carte de débit/crédit
+
+## Questions fréquentes
+
+### Puis-je adapter les paramètres de ma carte quand je le souhaite ?
+
+Oui, vous pouvez adapter les paramètres de votre carte de débit/crédit quand vous le souhaitez et l'effet est immédiat.
+
+### Quel est l'impact du blocage temporaire de ma carte de débit/crédit ?
+
+Si vous bloquez temporairement votre carte, **vous ne pouvez plus l’utiliser** que ce soit :
+* pour des retraits, des paiements y compris les paiements mobiles en Apple Pay, Google Pay ou Bancontact
+* pour les débits automatiques périodiques de vos abonnements en ligne (streaming, pare-feu, musique, …) liés à votre carte
+* pour vous connecter à Home’Bank/Business’Bank avec votre lecteur de carte ING.
+
+### Si ma carte est perdue/volée, que dois-je faire ?
+
+En cas de perte ou de vol de votre carte, bloquez toujours impérativement votre carte via le service disponible dans l’App ING Banking ou dans Home’Bank/Business’Bank ou appelez CARD STOP (078 170 170). Suivez les instructions pour une carte perdue ou volée. *(Le remplacement d’une carte de débit ING ou de crédit ING coûte 9,99 euros).* Une nouvelle carte vous sera envoyée par la poste dans les 5 jours ouvrables à votre adresse connue chez nous.
+
+### Puis-je débloquer ma carte si elle a été temporairement bloquée par ING ?
+
+Si votre carte est bloquée temporairement par ING (par ex pour suspiscion de fraude) vous ne pouvez pas débloquer votre carte vous-même.
+
+### Quel est l'impact de la désactivation des "paiements sans contact" ?
+
+Si vous désactivez les "paiements sans contact":
+* vous ne pourrez payer avec votre carte qu'en l'insérant dans le terminal.

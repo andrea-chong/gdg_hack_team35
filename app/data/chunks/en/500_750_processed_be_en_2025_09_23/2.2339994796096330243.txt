@@ -1,0 +1,27 @@
+# The youth savings account - ING Belgium - The saving account for your child
+
+## ING Savings Account: a regulated savings account with no monthly deposit limit and an unlimited term
+
+Want to save for your child's future? Then this savings account is for you.
+* Free
+* Parental control
+* No minimum or maximum amount
+
+## Interest rates
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Base rate | Fidelity premium |
+| 0,10% | 1,15% |
+END TABLE IN MARKDOWN
+The **fidelity premium** is only earned on amounts that have remained uninterruptedly in the regulated savings account for 12 months following the day of the payment. The rate of the fidelity premium in force at the time of payment or the start of a new period remains unaltered for a period of 12 months. Fidelity premiums that have already been earned are paid into your account on the first day following the quarter in which they were earned or when you close your account.
+The **base rate interest** starts to accrue on the day after the money is paid into the account and continues up to the day it is withdrawn. It is paid into your account on a yearly basis, on the 1st of January, or when you close your account.
+Interest rates are gross and expressed on an annual basis and may be adjusted at any time. You can find the current rate online and at any ING branch. If the rate changes, we inform account holders on their account statements.
+
+## Risks
+
+The ING Savings Account is a regulated savings account of ING Bank Belgium LC. Belgian law alone applies.
+**Risk of bankruptcy:** In the event of bankruptcy or the risk of bankruptcy of the financial institution, the saver bears the risk of not recovering his or her savings or may be obliged to reduce/convert the amount of his or her claims against the financial institution in excess of 100,000 euros - an amount covered by the deposit protection mechanism - into capital shares (Bail-in). You can find out more about this protection system on the following website
+Guarantee Fund for financial institutions (belgium.be)
+**Inflation risk:** persistent rises in prices could cause the money deposited to fall in value.

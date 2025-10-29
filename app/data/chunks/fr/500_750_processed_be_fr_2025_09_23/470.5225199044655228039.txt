@@ -1,0 +1,34 @@
+# Payconiq by Bancontact pour vos paiements mobiles - ING Belgique
+
+## Comment payer avec Payconig by Bancontact ?
+
+### Quelles sont les limites de paiement via Payconiq by Bancontact
+
+- Pour des transactions confirmées par une carte: La limite de la carte est d’application mais il y des limites additionnelles pour les paiements mobiles:
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Limite maximale pour: | | |
+| Montant reçu de ou payé à une autre personne | 250 | EUR |
+| Montant payé à un marchand | 250 | EUR |
+| Limite par jour pour montants reçus d’autres personnes | 500 | EUR |
+| Limite par jour pour montants payés à d’autres personnes | 250 | EUR |
+| Limite par jour paiements à des marchands | 2500 | EUR |
+END TABLE IN MARKDOWN
+- Pour des transactions via votre compte Les limites de paiement via la fonctionnalité Payconiq sont les mêmes que pour les virements « classiques » via l’app ING Banking. Pour plus d’infos, consultez notre tableau récapitulatif.
+
+### Puis-je augmenter la limite des paiements mobiles ?
+
+La limite des paiements mobiles n'est pas modifiable.
+
+### Faut-il payer pour utiliser Payconiq by Bancontact ?
+
+Non, cela fait partie des services liés à votre compte et à votre carte de débit ING.
+
+### Qui peut effectuer des paiements mobiles avec Payconiq by Bancontact ?
+
+Toute personne disposant d'une carte de débit et/ou d'un compte ING ayant accès à l'App ING Banking.
+
+### Où pouvez-vous payer avec Payconiq by Bancontact ?
+
+Vous pouvez l'utiliser pour payer à tout moment, n'importe où et avec n'importe quel site en ligne qui offre Bancontact ou Payconiq.

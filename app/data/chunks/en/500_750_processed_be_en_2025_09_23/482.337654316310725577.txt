@@ -1,0 +1,22 @@
+# Do your specific cash operations at any ING branch with a counter - ING Belgium - Cash Counter
+
+## All about cash counter transaction fees
+
+### How can I order euro coins?
+
+To order euro coins and make an appointment at any ING Branch with a cash counter to collect them:
+* Connect to Home'Bank or
+* Open the ING Banking app on your smartphone and go: *Services > Payments & Cash > Cash > Euro banknotes and coins > Order coins or*
+* call Customer Services at +32 2 464 60 04, Monday to Friday from 8 am to 6 pm
+You can order rolls of coins but as they’re not immediately available remember to order them at least 2 weeks in advance. These are the available denominations:
+START TABLE IN MARKDOWN
+| Denomination | Number of coins per roll | Total amount |
+| - | - | - |
+| €2 | 25 | €50 |
+| €1 | 25 | €25 |
+| €0.50 | 40 | €20 |
+| €0.20 | 40 | €8 |
+| €0.10 | 40 | €4 |
+| €0.05 | 50 | €2.50 |
+END TABLE IN MARKDOWN
+​\* Occasionally there is a national shortage of certain denominations. When this happens, we may not be able to provide the coins you request.

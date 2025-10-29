@@ -1,0 +1,25 @@
+# Wero - ING Belgium
+
+## Frequently Asked Questions
+
+### How can I see the history of Wero transactions?
+
+Go to Mobile Payments to have an overview of Wero transactions.
+
+### How do I make a payment using my phone number?
+
+* Got to Payments --> Pay phone contact
+* Choose the contact
+* Enter amount and optional message
+* Confirm and you’re done!
+
+### Can I request a payment to a phone contact?
+
+* Yes, go to Requests --> Payment request to phone contact
+* Choose the contact
+* Enter amount and optional message
+* Sent!
+
+### Can I decline a payment request sent to me?
+
+Yes, simply click on “Decline” and the sender will be notified.

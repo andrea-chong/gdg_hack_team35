@@ -1,0 +1,38 @@
+# Betaal eenvoudig met Google Pay ! - ING België - Betaal eenvoudig met Google Pay!
+
+## FAQ
+
+### Hoe activeer je Google Pay via je ING Banking-app?
+
+* Meld je aan in je ING Banking-app en ga rechtsbeneden naar je het menu “Diensten”
+* Tik op ‘Instellingen’ en daarna op ‘Google Pay’,
+* Kies de kaart die je wil toevoegen aan Google Pay en tik op 'Zet in Google Wallet'
+* Kies voor 'volgende'
+* ING vraagt je om de algemene voorwaarden te aanvaarden
+* Je bent nu je helemaal klaar om te betalen met Google Pay
+
+### Hoe activeer je Google Pay via Wallet en Google Pay op je gsm?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Ga naar 'Wallet’ Kies 'Voeg kaart toe' Vul het kaartnummer, de vervaldatum en CVC/CVV\-code van uw debet\- of kredietkaart aan. Open de ING Banking\-app en volg de instructies |
+END TABLE IN MARKDOWN
+
+### Je hebt een debet- of kredietkaart verbonden aan een professionele rekening, kun je dan Google Pay activeren?
+
+Ja hoor. Volg hetzelfde proces als voor privé-kaarten.
+
+### Kun je Google Pay activeren met een toestel van een ander merk dan Google?
+
+Ja, Google Pay werkt op alle apparaten die werken op Android.
+
+### Welke kaart kun je toevoegen aan je Wallet en Google Pay?
+
+Elke ING debet- of kredietkaart die verbonden is aan een ING-zichtrekening.
+
+### Hoe wijzig je je standaardkaart?
+
+* Ga naar wallet op je Google toestel.
+* Klik op de kaart dat je standaard wilt maken.
+* Klik op "standard voor contactloze betalingen"

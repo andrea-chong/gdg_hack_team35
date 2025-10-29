@@ -1,0 +1,21 @@
+# Limites journalières pour vos transactions bancaires - ING Belgique - Tout sur les limites
+
+## Limites pour particuliers (18 ans et plus)
+
+### Virements
+
+Limites pour les virements Les limites suivantes sont définies par défaut. Elles sont valables pour les virements effectués via Home'Bank, ING Banking et via le Service d'Initiation de Paiements\*.
+Les limites dépendent du service et de la personne à qui vous versez de l'argent.
+Vous pouvez transférer autant d'argent que vous le souhaitez entre vos propres comptes ING, vers des comptes ING sur lesquels vous disposez d'un mandat et vers un nombre limité de comptes détenus par l'Etat belge ou ING Banque .
+Vous pouvez modifier vos limites via l'espace self-service de votre Home'Bank.
+Vous pouvez également le faire via l'app ING Banking sur votre smartphone en allant dans le menu « Services » en bas à droite de votre écran, puis cliquez sur « Limites » et choisissez l'option « Virements ».
+Enfin, si vous devez exécuter un virement au delà du plafond technique autorisé, rendez-vous dans votre agence ING muni de votre carte d'identité, un collaborateur pourra vous assister.
+Limites par défaut:
+* **Via l'app ING Banking (app pour smartphone) sans signer avec l'app itsme®** : 2.500 € par jour (24h)
+* **Via l'app ING Banking (app pour smartphone) en signant avec l'app itsme®** : 12.500 € par jour (24h)
+* **Home'Bank (internet banking), le Service d'Initiation des Paiements** (*Le Service d'Initiation de Paiements vous permet d'envoyer un ordre de paiement via un tiers. Vous devez donner l'autorisation pour chaque ordre de paiement spécifique.)[1] : 12.500 € par jour (24h)
+* **Paiements Bancontact via ING Banking** [2] : 250 €/jour (24h)
+* **Paiements par carte de crédit ING** : Variable (visible dans Home'Bank et dans ING Banking)
+1. Il s'agit des virements en euros (SEPA), des ordres permanents en euros (SEPA) et des virements internationaux en euros ou dans une autre devise. Attention! Toutes ces limites ne valent uniquement que pour des virements ne nécessitant qu'une seule signature.
+2. Vous pouvez recevoir un maximum de 500 euros par jour via l'application Bancontact.
+Lien vers notre site internet (page PSD2 )

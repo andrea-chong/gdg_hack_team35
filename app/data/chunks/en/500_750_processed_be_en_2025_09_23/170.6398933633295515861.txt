@@ -1,0 +1,22 @@
+# SEPA, IBAN, BIC: What is it? - ING Belgium - All about the acronyms SEPA, IBAN and BIC
+
+## SEPA, the single euro payments area
+
+Thanks to SEPA (Single Euro Payments Area) all payments in Europe are made in the same way. SEPA covers all member states of the European Union, Norway, Iceland, Liechtenstein, Switzerland, San Marino, Monaco and Andorra.
+Thanks to SEPA, you can use your bank card all over Europe in the same way as in Belgium. All transfers in euro and direct debits in euro are also harmonized in Europe thanks to IBAN and BIC.
+
+## IBAN
+
+IBAN (International Bank Account Number) is a standardized way of writing bank account numbers all over Europe. An IBAN consists of an account number, a country code and a numeric verification key. Find your IBAN number directly on your bank card or in the overview of your ING Banking app.
+* Example of an electronic format IBAN: BE61310126985517
+* Calculate the IBAN for your account number(s) here now . You can also calculate your IBAN in Home'Bank: go to Info > Calculating the IBAN.
+
+## BIC
+
+BIC (Bank Identifier Code) is a unique code used to identify international banks. When you make an international transfer within or outside Europe, you need to provide the BIC of the beneficiary's bank.
+* ING Belgium's BIC code is BBRUBEBB.
+* You can find the BIC of other international banks on the Swift website .
+
+## A new European transfer form
+
+A European transfer form has been created for SEPA which replaces the national transfer forms. You can easily manage your transfers in euro with this European form in Home'Bank : go to Daily Banking > Payments and transfers > Domestic Transfers > Add a transfer (European form).

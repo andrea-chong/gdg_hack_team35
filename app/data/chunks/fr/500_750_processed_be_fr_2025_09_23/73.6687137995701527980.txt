@@ -1,0 +1,31 @@
+# Your budget - ING Belgique - Budget détaillé
+
+## Questions fréquemment posées
+
+### Quelles sont les transactions qui entrent dans le champ d'application ?
+
+Les transactions pour chaque compte à vue dont vous êtes le/la titulaire ou sur lequel vous avez un mandat.
+
+### Après combien de temps puis-je voir mes transactions catégorisées ?
+
+Il faut compter 2 à 4 jours pour que vos transactions soient visibles dans 'Budget détaillé'.
+
+### Comment puis-je modifier la catégorie d'une transaction ?
+
+Vous pouvez modifier une catégorie comme suit : cliquez sur la catégorie afin de voir les transactions qui en font partie. Vous pensez qu'une transaction n'a pas sa place ici ? Accédez aux détails de cette dernière (en cliquant dessus) et cliquez sur "Changer la catégorie" pour la modifier. Souhaitez-vous que les transactions similaires soient dorénavant toujours classées dans cette catégorie ? C'est possible en choisissant d'appliquer cette re-catégorisation à toutes les transactions similaires.
+
+### Comment puis-je ajuster un montant ?
+
+Vous pouvez ajuster un montant de la manière suivante : cliquez sur la catégorie afin de voir les transactions qui en font partie. Y a-t-il une des transactions pour laquelle vous avez obtenu un remboursement ? Accédez aux détails de cette dernière (en cliquant dessus) et cliquez sur "Ajuster le montant". Vous pouvez alors indiquer le montant qui vous a été remboursé. Seule la partie restante du montant original sera prise en compte dans votre budget détaillé.
+
+### Cette fonctionnalité entraîne-t-elle des coûts supplémentaires ?
+
+'Budget détaillé' fait partie des fonctions standards que vous pouvez retrouver dans l'application. Il n'y a pas de frais supplémentaires.
+
+### Puis-je ajouter moi-même de nouvelles catégories ?
+
+Non. Vous pouvez uniquement choisir parmi les catégories existantes. Il n'est pas possible d'ajouter ou de renommer les catégories.
+
+### Jusqu'à quand dans le passé puis-je vérifier mes transactions catégorisées ?
+
+Vous pouvez consulter les transactions pour l'année civile en cours et les deux années précédentes.

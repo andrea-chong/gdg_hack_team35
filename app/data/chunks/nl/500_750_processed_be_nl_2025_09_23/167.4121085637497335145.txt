@@ -1,0 +1,15 @@
+# Je internationale overschrijvingen in een klik ! - ING België - Alles over internationale overschrijvingen
+
+## Internationale overschrijvingen met Home’Bank of de ING Banking app
+
+### Welke kosten zijn verbonden aan een internationale overschrijving?
+
+De kosten van een internationale overschrijving bestaan uit de volgende:
+1. Een ING-betalingscommissie
+2. Diverse ING-kosten
+3. ING-kosten voor de omzetting van valuta (indien van toepassing)
+4. Kosten die worden toegepast door de correspondentbank(en)
+Hoe de ING-betaalcommissie en de correspondentbankkosten worden toegepast, hangt af van de gegeven kosteninstructie (BEN, SHA of OUR).
+Wanneer alle details ingevuld zijn, wordt een detail van de transferkosten en van de wisselkoers (indien van toepassing) gedeeld.
+De details en rekeningmethode van de kosten zijn op onze tariefbrochure verklaard.
+Ik log me in

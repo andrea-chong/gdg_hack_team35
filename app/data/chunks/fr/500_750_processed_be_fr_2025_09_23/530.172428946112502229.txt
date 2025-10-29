@@ -1,0 +1,11 @@
+# Liste opérations cash guichet - ING Belgique - Opérations en cash au guichet d'une agence
+
+## Retirer et déposer des devises étrangères : CHF, GBP & USD
+
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Action | Procedure | Bon à savoir |
+| Commander des CHF, GBP ou USD. | Prenez rendez\-vous dans une de nos agences ING offrant le service devises étrangères : Soit en vous connectant à Home'Bank Soit en ouvrant l'app ING Banking sur votre smartphone, dans « Services », dans le coin inférieur droit de votre écran > « Gérez vous\-même » > « Paiement & Cash » > « Commander des devises étrangères » Soit en contactant le Service Client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h | Ne peut s’opérer que si vous détenez déjà un compte à vue dans la même devise Commandez vos billets au moins 2 semaines à l’avance Liste des agences ING avec service cash en devises étrangères: Wemmel, Uccle Fort Jaco, Namur Centre, Barchon, Mons, Hasselt, Louvain, Anvers, Ostende Frais : 2,25% du montant , minimum 13€. Ces frais restent dus en cas d’annulation ou de non\-collecte |
+| Déposer des CHF, GBP ou USD. | Prenez rendez\-vous dans une de nos agences ING offrant le service devises étrangères : Soit en vous connectant à Home'Bank Soit en ouvrant l'app ING Banking sur votre smartphone, dans « Services », dans le coin inférieur droit de votre écran > « Gérez vous\-même » > « Paiement & Cash » > "Déposer des devises étrangères" Soit en contactant le Service Client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h | Ne peut s’opérer que si vous détenez déjà un compte à vue dans la même devise Liste des agences ING avec service cash en devises étrangères: Wemmel, Uccle Fort Jaco, Namur Centre, Barchon, Mons, Hasselt, Louvain, Anvers, Ostende Les dépôts peuvent prendre jusqu'à 2 semaines. Nous verserons au plus vite le montant sur votre compte Frais : 2,25% du montant, minimum 13 € |
+END TABLE IN MARKDOWN

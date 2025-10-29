@@ -1,0 +1,36 @@
+# Tips & tricks for customising your ING Banking app - ING Belgium
+
+Thanks to the ING Banking app, your bank is always with you, whenever, wherever. Your app is a world on its own, that you can explore and shape the way you want. Read on to discover how.
+Discover the app
+
+## Personalise the overview in your ING Banking app…
+
+… and in your Home’Bank!
+Want to give an account a specific name, change the order of the accounts on your dashboard screen or alter the visibility of your accounts? Add your personal touch!
+Note that for each account type minimum one should remain visible.
+Personalise your banking universe here
+
+## An app language that suits you
+
+The ING Banking app is available in English, Dutch, French and German.
+Is your **app not in your preferred language** ?
+Then go to the Services tab > Do it youself > Settings > App settings > Change language
+Or perhaps you want to **receive our communications in another language** ?
+You can change your communication language preferences here or go to the Services tab > Do it youself > Personal details > Communication > Language
+
+## Push notifications: useful, not pushy
+
+A big tip: enable the push notifications of your app. We only send notifications for important things that you’ll want to know about straight away. Promise!
+For example, for amounts received, amounts paid or if your account balance drops below a certain amount.
+Set up your push notifications
+
+## You never know who’s seeing your screen
+
+Don't want to show off your balance? It’s possible to switch to private mode and hide it.
+You can decide if you display or hide your balance by default. Then only hide/show it when you decide to.
+Go to the Overview > Settings at the top of your screen > Show balances on overview.
+
+## Sign securely with biometrics
+
+Fingerprint or face recognition instead of a PIN-code? Using biometrics is a secured way to prevent people from looking over your shoulder. You can activate this functionality in the settings of the ING Banking app.
+More info about fingerprint or facial recognition

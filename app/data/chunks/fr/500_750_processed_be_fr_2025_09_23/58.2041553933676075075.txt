@@ -1,0 +1,26 @@
+# Mon ING ID - ING Belgique - L'ING ID sur votre carte de débit
+
+Temps de lecture: 1 min 09 octobre 2023 Votre ING ID comporte 10 chiffres et est imprimé en bas à gauche sur le recto de votre carte de débit Bancontact/ Maestro et sur le verso de votre carte de débit Bancontact/Mastercard.
+
+## Questions fréquemment posées
+
+### Qu'est-ce un ING ID ?
+
+L'ING ID est un code unique de 10 chiffres, utilisé par ING afin de vous identifier en tant que personne.
+
+### Est-ce que mon ING ID est identique à mon numéro de compte ?
+
+Non, il s'agit de 2 données différentes. Vous ne pouvez avoir qu'un seul ING ID, mais plusieurs comptes ING. Chaque compte ayant un numéro spécifique. Le numéro de votre compte auquel votre carte est liée se trouve au-dessus de votre ING ID sur le recto de votre carte de débit Bancontact/ Maestro et au-dessus de « Account » au verso de votre carte de débit Bancontact/Mastercard.
+
+### Est-ce que mon ING ID est identique à mon numéro de carte ?
+
+Non, il s'agit de 2 données différentes. Le numéro de votre carte se trouve au-dessus de votre nom sur le recto de votre carte de débit Bancontact/ Maestro et au-dessus de « Card » au verso de votre carte de débit Bancontact/Mastercard.
+
+### Quand dois-je utiliser mon ING ID ?
+
+Si vous choisissez de vous connecter à Home'Bank au moyen de votre lecteur de carte ING, vous devez introduire votre ING ID afin de vous identifier.
+Vous devez également utiliser votre ING ID lorsque vous créer votre profil ING Banking (pour utiliser l'app ING Banking). Une fois votre profil créée, vous ne devez plus utiliser votre ING ID.
+
+### Que dois-je faire si mon ING ID n'est plus lisible sur ma carte ?
+
+Vous pouvez tout simplement demander le remplacement d'une carte défectueuse ou illisible via Home'Bank .

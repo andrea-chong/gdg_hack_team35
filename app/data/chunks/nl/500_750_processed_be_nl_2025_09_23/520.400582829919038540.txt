@@ -1,0 +1,9 @@
+# Rekeninguittreksels - Veelgestelde vragen - ING België - Rekeninguittreksels Veelgestelde vragen
+
+### Waar kan ik het uittrekselnummer op mijn elektronische uittreksels vinden?
+
+Om het aantal pagina’s te beperken en het papierverbruik te verminderen, staat het afschriftnummer niet meer in de voettekst, maar wordt nu bij elke verrichting vermeld. Op die manier kunnen verrichtingen van meerdere afschriften op dezelfde pagina getoond worden. In de voettekst blijft alleen het paginanummer staan.
+
+### Hoe download ik een transactieoverzicht in .csv of .txt-formaat?
+
+Maak verbinding met je Home'Bank met behulp van de ING Banking-app of itsme®. Klik op 'Downloaden' en kies de optie 'Verrichtingen'. Selecteer vervolgens de rekening waarvan je de verrichtingen wil downloaden, voer de data in en kies het type bestand dat je wil verkrijgen. Klik op 'Verrichtingen downloaden'.

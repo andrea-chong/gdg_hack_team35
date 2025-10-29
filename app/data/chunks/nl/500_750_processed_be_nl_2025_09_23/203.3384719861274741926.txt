@@ -1,0 +1,7 @@
+# Apple Pay: Betaal in een handomdraai! - ING België
+
+## FAQ
+
+### Wat als je je Apple Watch loskoppelt van je iPhone?
+
+In dit geval zullen Apple Pay-gegevens automatisch gewist worden van je Apple Watch.

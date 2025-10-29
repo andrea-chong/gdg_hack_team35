@@ -1,0 +1,14 @@
+# Limites journalières pour vos transactions bancaires - ING Belgique - Tout sur les limites
+
+## Limites pour particuliers (18 ans et plus)
+
+### Paiements dans les commerces et en ligne
+
+Les limites ci-dessous sont définies par défaut. Notez que, dans la plupart des cas, vous pouvez-vous même modifier ces limites.
+Ouvrez l'app ING Banking sur votre smartphone pour modifier la limite de paiements et allez dans le menu « Services » en bas à droite de votre écran. Appuyez sur « Limites » et sélectionnez « Carte de débit » ou utilisez l' Espace Self-Service.
+Attention : pour une limite de carte de débit supérieure à 2500€ et un maximum de 10.000€, vous devez signer avec itsme.
+Paiements dans des commerces et en ligne
+* **Carte de débit en magasin ou en ligne :** 5.000 € par période de 7 jours (Maestro) - 2.500 € (Mastercard)
+* **(*Pour les paiements Bancontact via l'app ING Banking, il existe une limite de 1.500 euros par transaction et 2.500 euros par jour.)Paiements Bancontact via l'app ING Banking :** 2.500 €/jour
+* **Paiements par carte de crédit :** variable (limites visibles dans Home'Bank et dans l' application ING Banking pour smartphone ). Notez que vous pouvez-vous même éventuellement modifier ces limites via l'application ( Espace Self-Service ), sous certaines conditions.
+\*Pour les transactions Wero, les limites suivantes s'appliquent : QR code hybride (Wero/Bancontact) : maximum de 250 euros par transaction et par 24 h. Paiements vers des contacts téléphoniques : dépend de la limite de transfert quotidienne en ligne, qui peut être adaptée via les paramètres de limite de profil.. Demande de paiement vers des contacts téléphoniques : maximum de 750 euros par demande.

@@ -1,0 +1,15 @@
+# Vos virements internationaux en un clic ! - ING Belgique - Tout sur les virements internationaux
+
+## Effectuer un virement international via Home’Bank ou l'app ING Banking
+
+### Quels sont les frais liés à un virement international ?
+
+La tarification d’un virement international se compose :
+1. D’une commission de paiement ING,
+2. De frais divers ING,
+3. De frais de conversion de devise ING (le cas échéant),
+4. De frais appliqués par la (les) banque(s) correspondante(s).
+La facturation de la commission de paiement ING et des frais appliqués par la (les) banque(s) correspondante(s) dépendra de l’instruction donnée pour la facturation des frais (BEN, SHA ou OUR).
+Lorsque vous aurez rempli toutes les données, vous recevrez une indication des coûts du transfert et du cours estimé (si nous devons convertir un montant dans une autre devise).
+Vous retrouverez les details et modes de calcul de ces frais dans notre brochure tarifaire .
+Me connecter

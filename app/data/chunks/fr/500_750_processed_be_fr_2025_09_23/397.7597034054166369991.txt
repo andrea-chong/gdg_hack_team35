@@ -1,0 +1,25 @@
+# Comment utiliser itsme® pour les services bancaires en ligne - ING Belgique - Tout savoir sur itsme®
+
+## Questions fréquemment posées
+
+### Comment activer itsme® sur mon nouveau téléphone portable ?
+
+Pour configurer itsme® sur votre nouvel appareil, procédez comme suit :
+Sur votre nouveau téléphone portable :
+1. Téléchargez l’app itsme®.
+2. Indiquez votre numéro de téléphone portable et sélectionnez « Réactiver » dans l’écran qui apparaît.
+3. Sélectionnez votre banque et suivez les étapes indiquées.
+4. Un code vous sera envoyé par SMS. Indiquez ce code dans l’app.
+5. Définissez votre code PIN à 5 chiffres et confirmez-le.
+Si les étapes ci-dessus ne fonctionnent pas, rendez-vous sur le site itsme.be avec votre carte d’identité électronique et votre lecteur de carte :
+6. Bloquez votre compte avec votre numéro de téléphone portable et votre lieu de naissance.
+7. Validez les informations et attendez le message de confirmation.
+8. Réactivez votre compte sur le site internet.
+
+### Que faire après un déménagement récent ?
+
+Tout d’abord, assurez-vous que votre adresse a été mise à jour sur votre carte d’identité électronique auprès de l’administration locale.
+Ensuite, prenez le temps d’informer itsme® et la banque de votre changement d’adresse.
+Si vous disposez d’un lecteur de carte eID, vous pouvez d’abord mettre à jour votre adresse via le formulaire de mise à jour d’itsme®.
+Vous pouvez ensuite communiquer votre nouvelle adresse à la banque via itsme® en utilisant votre app ING Banking, Home’Bank/Business'Bank dans la rubrique de vos données personnelles ou via notre site .
+Vous n’avez pas de lecteur de carte d’identité électronique ? Vous pouvez introduire votre nouvelle carte d’identité électronique dans un kiosque à l’entrée de votre agence ING.

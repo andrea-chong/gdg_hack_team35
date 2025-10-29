@@ -1,0 +1,24 @@
+# Payconiq by Bancontact pour vos paiements mobiles - ING Belgique
+
+## Comment payer avec Payconig by Bancontact ?
+
+### En magasin
+
+Effectuez vos paiements en toute simplicité avec votre smartphone dans divers endroits tels que les magasins, les restaurants, chez le boulanger ou même chez le médecin. Il vous suffit de scanner le code QR à l'aide de l'App ING Banking, puis de confirmer la transaction avec votre code PIN, votre empreinte digitale ou la reconnaissance faciale. Il est intéressant de noter que pour certaines transactions, vous avez également la possibilité d'ajouter un message, ce qui peut s'avérer très pratique !
+
+### En ligne sur votre ordinateur
+
+Bénéficiez d'une expérience de shopping en ligne sécurisée et pratique en payant avec votre smartphone ou tablette grâce à l'App ING Banking. Cette option est disponible sur tous les sites Web prenant en charge les paiements mobiles avec Bancontact ou Payconiq. Il vous suffit de cliquer sur le logo, de scanner le code QR, de confirmer votre paiement, et le tour est joué. Vous recevrez immédiatement une confirmation à la fois dans l'application sur votre téléphone et sur l'écran de votre ordinateur.
+
+### En ligne sur votre smartphone
+
+Si vous effectuez des achats avec une tablette ou un smartphone équipé de l'application, choisissez simplement Bancontact ou Payconiq lors du paiement pour être redirigé vers l'App ING Banking. Vérifiez le montant et confirmez votre paiement.
+
+### Payer une facture avec un QR code
+
+Si vous recevez une facture comportant un code QR arborant le logo Bancontact ou Payconiq, il vous suffit de le scanner avec l’ App ING Banking-, de confirmer le paiement, et tout est réglé !
+
+### Mon ami n'arrive pas à me rembourser
+
+Pour pouvoir utiliser Payconiq avec vous, votre ami doit avoir préalablement activé cette option dans son app bancaire.
+Attention, certaines banques ne proposent pas encore Payconiq à leurs clients. Votre ami peut alors télécharger l'application Payconiq by Bancontact sur son smartphone via le Google Play Store ou l' Apple Store . En quelques minutes c'est fait !

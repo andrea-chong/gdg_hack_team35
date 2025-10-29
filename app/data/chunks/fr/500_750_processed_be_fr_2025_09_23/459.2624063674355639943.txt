@@ -1,0 +1,17 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgique - Déclaration d’ING Belgique S.A. pour la protection des données à caractère personnel
+
+## Déclaration d’ING Belgique S.A. pour la protection des données à caractère personnel
+
+### Sous quelles conditions transférons-nous des données à caractère personnel en dehors de l'EEE ?
+
+Chaque fois que nous partageons vos données à caractère personnel (si les législations en matière de protection des données de l'UE s'appliquent) avec des tiers situés en dehors de l’Espace économique européen (EEE) qui n'offrent pas un niveau de protection des données adéquat, nous veillons à ce que les mesures de protection nécessaires soient en place pour garantir que vos données à caractère personnel sont suffisamment protégées.
+À cette fin, nous nous appuyons entre autres sur les "outils de transfert" suivants :
+• Clauses types de l'UE ou Clauses contractuelles types ; il s'agit de clauses contractuelles convenues avec tout prestataire de services externe établi dans un pays non adéquat pour garantir que ce prestataire ait une obligation contractuelle de fournir un niveau adéquat de protection des données.
+• Règles d'entreprise contraignantes ; pour les transferts de données à caractère personnel au sein du Groupe ING, nous pourrions également compter sur les politiques internes du Groupe contraignantes (les Règles d'entreprise contraignantes) pour garantir que les entités ING établies dans un pays non adéquat respectent un niveau adéquat de protection des données lors du traitement de données à caractère personnel conformément à la Section 4 (« Avec qui partageons-nous vos données à caractère personnel et pour quelles raisons ? »).
+ING peut également se baser, entre autres, sur :
+• le respect du Data Privacy Framework EU-US (Cadre de protection des données UE-États-Unis) ;
+• la conclusion ou l’exécution d’un contrat, ou d’une opération avec vous ou d’une opération avec un tiers en votre faveur ;
+• le respect des obligations résultant des lois et réglementations locales applicables ;
+• la nécessité de procéder au transfert de données pour des motifs d’intérêt public ;
+• le respect des traités internationaux.
+En outre, nous évaluerons au cas par cas si des mesures de protection organisationnelles, techniques (comme le cryptage) et/ou contractuelles doivent être mises en oeuvre afin de garantir que vos données à caractère personnel bénéficient d'une protection adéquate, en tenant compte du cadre juridique du pays où est établi l'importateur de données.

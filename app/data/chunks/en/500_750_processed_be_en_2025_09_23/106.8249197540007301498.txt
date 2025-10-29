@@ -1,0 +1,7 @@
+# One card for Bancontact, Maestro/Mastercard and contactless payments - ING Belgium - ING debit card
+
+## Questions about the debit card with Bancontact and Mastercard logos
+
+### What is the purpose of the CVC code on the back of the card?
+
+The Card Validation Code on the back of the card can be used, as with a credit card, to make online purchases or reservations. It is additional proof that you are the cardholder. This code is as confidential as your card number.

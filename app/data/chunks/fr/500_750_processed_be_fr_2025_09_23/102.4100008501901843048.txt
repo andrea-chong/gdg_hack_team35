@@ -1,0 +1,30 @@
+# Payez vos factures avec la domiciliation ! - ING Belgique - Domiciliation en euros (SEPA)
+
+## Tout sur la domiciliation en euros (SEPA)
+
+### Comment bloquer une domiciliation en euros (SEPA) depuis l'app ING Banking ?
+
+1. Depuis l’onglet « Paiements », appuyez sur « Domiciliations » en-dessous de « Paiements en attente ».
+2. Sélectionnez le bénéficiaire à bloquer.
+3. Appuyez sur « Bloquer ce bénéficiaire » en haut à droite de votre écran.
+4. Confirmez le blocage en signant.
+
+### Comment demander le remboursement d'une domiciliation en euros (SEPA) depuis l'app ING Banking ?
+
+1. Depuis l’onglet « Paiements », appuyez sur « Domiciliations » en-dessous de « Paiements en attente ». Vous disposez d’un délai de 8 semaines pour effectuer la demande en ligne
+2. Sélectionnez le bénéficiaire.
+3. Choisissez le mandat en appuyant sur l’option « Plus ».
+4. Sous l’onglet « Historique de paiement », sélectionnez le paiement concerné.
+5. Appuyez sur “Être remboursé” pour demander le remboursement de la domiciliation.
+
+### Comment débloquer une domiciliation ?
+
+Vous pouvez débloquer une domiciliation depuis votre Home’Bank. Cliquez sur « Domiciliations » sous l’onglet « Opérations » et choisissez la domiciliation à débloquer dans le menu « Bénéficiaires ». Cliquez ensuite sur « Débloquer le mandat ».
+
+### Comment modifier le numéro de compte lié au prélèvement d’une domiciliation ?
+
+Contactez directement votre fournisseur pour modifier le numéro de compte lié au mandat de la domiciliation.
+
+### Quel est le délai d’exécution pour une demande de remboursement de domiciliation ?
+
+Vous êtes remboursé de façon instantanée dès que votre demande est encodée.

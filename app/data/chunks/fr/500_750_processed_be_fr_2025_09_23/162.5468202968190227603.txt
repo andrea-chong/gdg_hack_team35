@@ -1,0 +1,25 @@
+# Simulez la croissance attendue de votre épargne ! - ING Belgique - Simulez la croissance potentielle de votre épargne !
+
+## Calculez le rendement potentiel de votre Compte Épargne ING (cat. A¹) et de l’ING Épargne Tempo (cat. B¹).
+
+Le simulateur d’épargne est un outil conçu pour vous donner une estimation de l’évolution de votre épargne totale, en fonction du taux de base actuel et de la prime de fidélité.
+Lisez toutes les informations concernant les produits en bas de page avant d’ouvrir un compte.
+
+### Informations importantes concernant le simulateur
+
+* Les résultats sont basés sur l’hypothèse que tous les montants versés restent sur le compte pendant toute la durée choisie, sans interruption.
+* Le versement mensuel est effectué un mois après le début initial de la simulation.
+* La simulation ne tient pas compte des impôts et di du fait que les taux d’intérêt peuvent changer.
+Compe d’épargne ING Compte d’épargne (Cat. A) Dépôts illimités par mois Taux de base: 0,10 % Prime de fidélité: 1,15 % ING Épargne Tempo (Cat. B) 500 € max. par mois Taux de base: 0,75 % Prime de fidélité: 1,50 %
+
+### Dépôt initial
+
+Montant que vous désirez épargner immédiatement, en une fois EUR
+
+### Contribution mensuelle
+
+Montant que vous souhaitez épargner chaque mois EUR
+
+### Durée
+
+6 mois 1 an 2 ans 5 ans 10 ans Calculer

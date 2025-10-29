@@ -1,0 +1,20 @@
+# Verificatie van de naam van de begunstigde - ING België
+
+## FAQ
+
+### Welke resultaten kan deze verificatie opleveren?
+
+* De ingevulde naam stemt overeen met de naam van de begunstigde.
+* De ingevulde naam stemt bijna overeen met de naam van de begunstigde. Je hebt bijvoorbeeld een typefout gemaakt of de ingevulde naam wijkt licht af van de juiste naam. De bank zal in dat geval steeds de geregistreerde naam van de begunstigde melden.
+* De *ingevulde naam stemt niet overeen met de naam van de begunstigde. Beslis je dan om verder te gaan zonder wijziging, dan kan het bedrag bij de verkeerde begunstigde terecht komen.*
+* *Uitzonderlijk kan de verificatie niet mogelijk zijn vanwege een technische storing of omdat de bank van de begunstigde niet tijdig heeft kunnen reageren. Uw bank zal u hierover informeren.*
+
+### Welke melding krijg ik wanneer ik de juiste naam invul?
+
+Wanneer de ingevulde naam en de rekening overeenstemmen, krijg je een groen vinkje te zien, ofwel een tekstuele melding, zoals:
+“De ingevulde naam stemt overeen met de naam van de begunstigde”.
+
+### Welke melding krijg ik wanneer de ingevulde naam bijna juist is?
+
+Maak je een foutje in de naam of wijkt de ingevulde naam licht af van de juiste naam (bijvoorbeeld Tom Jansen in plaats van Tom Janssens), dan wordt de betrokken geregistreerde naam getoond. We raden je aan deze naam dan over te nemen. Deze melding wordt meestal in blauw weergegeven en luidt bijvoorbeeld:
+“De ingevulde naam stemt bijna overeen met de naam van de begunstigde. Bedoelt u misschien <geregistreerde naam>?”

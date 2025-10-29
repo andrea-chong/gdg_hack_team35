@@ -1,0 +1,8 @@
+# Standing orders in euro: pay automatically! - ING Belgium - Standing orders in euro (SEPA)
+
+## Standing orders in euro (SEPA) in a nutshell
+
+### Your standing order was not executed ?
+
+It's probably due to an unsufficient balance on the account.
+In this case, you have to encode the payment (SEPA transfer) by yourself.

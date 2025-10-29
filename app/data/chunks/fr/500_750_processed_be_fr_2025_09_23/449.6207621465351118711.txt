@@ -1,0 +1,42 @@
+# Payez avec Google Pay en toute simplicité ! - ING Belgique
+
+## FAQ
+
+### Comment payer avec son GSM dans un magasin ?
+
+Débloquez votre téléphone.Approchez votre téléphone du terminal.C’est payé. Il se peut que le téléphone vous demande d’introduire le code PIN du téléphone si me montant dépasse 50€ ou si la limite cumulées des transactions sans contact dépasse 100€.
+
+### Comment payer avec votre GSM en ligne ou dans une application ?
+
+* Vérifiez si le site Web ou l'app accepte Maestro / Mastercard / Visa.
+* Choisissez "Google Pay" comme mode de paiement
+
+### Faut-il être connecté à Internet pour payer avec Google Pay ?
+
+Pour payer avec une carte de débit ou de crédit déjà ajoutée à votre Google Wallet, vous n'avez pas besoin d'une connexion internet.
+Il faut uniquement une connexion internet pour ajouter une nouvelle carte à l'app Google Wallet.
+
+### Un code PIN est-il nécessaire pour payer avec Google Pay ?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Non. Si la reconnaissance d'empreinte digitale ou faciale n'est pas configurée sur votre smartphone, vous pouvez toujours approuver le paiement en utilisant le code de déverrouillage de votre smartphone. |
+END TABLE IN MARKDOWN
+
+### Comment pouvez-vous payer avec une carte de débit ou de crédit autre que votre carte de débit ou de crédit par défaut?
+
+* Ouvrez le wallet
+* Sélectionnez la carte avec laquelle vous voulez payer
+* Cliquez sur la carte
+* Approchez votre téléphone du terminal
+* Payez
+
+### Pouvez-vous utiliser Google Pay si le paiement sans contact est désactivé sur votre carte de débit ou de crédit ?
+
+Oui, ce n'est pas un problème du tout !
+
+### Où pouvez-vous trouver vos transactions Google Pay ?
+
+Dans le Google Wallet, vous trouverez vos 10 dernières opérations.
+Dans votre app ING Banking ou dans Home'Bank sur votre ordinateur, vous pouvez retrouver toutes les opérations sur vos extraits de compte et dans les opérations sur votre compte.

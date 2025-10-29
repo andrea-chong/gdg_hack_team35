@@ -1,0 +1,21 @@
+# Simulez la croissance attendue de votre épargne ! - ING Belgique - Simulez la croissance potentielle de votre épargne !
+
+## Intéressé(e) par nos comptes d’épargne réglementés ?
+
+### Frais
+
+L'ouverture, la clôture et la déclaration annuelle sont gratuites. Les coûts d'envoi des relevés d'ING Compte d'Epargne et d'ING Livret Vert par la poste s'élèvent à 5€/an + frais de port ( la liste des tarifs en vigueur ).
+
+### Fiscalité
+
+Vous ne payez aucun précompte mobilier si les intérêts générés par votre ING Compte d’épargne et ING Epargne Tempo sont inférieurs à 1.050 EUR. Ce montant est doublé pour les comptes ouverts au nom de conjoints mariés ou cohabitants légaux, soit un plafond de 2.100 EUR (exercice d'imposition 2026 - revenus 2025).
+Si vos intérêts sont supérieurs à 1.050 EUR (2.100 EUR pour les conjoints mariés ou les cohabitants légaux), vous payez un précompte mobilier de 15% sur les intérêts dépassant ce montant (exercice d'imposition 2026 - revenus 2025).
+Ce régime fiscal s'applique aux personnes physiques résidant en Belgique. D'autres personnes peuvent bénéficier d'un traitement fiscal différent.
+Les impôts ne sont pas pris en compte dans le simulateur ci-dessus.
+
+### Risques
+
+**⁴ Risque de faillite** : En cas de faillite ou de risque de faillite de l’établissement financier, l’épargnant supporte le risque de ne pas retrouver son épargne ou peut se voir imposer une diminution / conversion en actions de capital (Bail-in) du montant des créances qu’il possède sur l’établissement financier au-delà de 100.000 euros, montant qui tombe sous le mécanisme de protection des dépôts. Vous pouvez obtenir plus d’informations sur ce système de protection sur le site internet
+Fonds de garantie et Fonds de protection | (belgium.be)
+**⁵ Risque d’inflation** : La hausse continue des prix pourrait faire perdre de la valeur à l’argent déposé.
+Fiche d'information sur la protection des dépôts

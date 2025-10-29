@@ -1,0 +1,10 @@
+# Adapt card settings - ING Belgium
+
+## Adapt easily the settings of your debit/credit card in the digital flows
+
+* ### Block temporarily your debit/credit card
+You don't need your card temporarily? You cannot find your card? You don't know if it is lost? Useful tip: you can temporarily block you card! You can easily unblock it once you find it back or you need it again.
+* ### Activate/deactivate contactless payments
+“Contactless” feature is easy: present your card at a payment terminal where the 4-waves radio symbol is visible. No need to insert it into the terminal or to enter your PIN code for a maximum amount of 50 EUR per transaction. And for a maximum of 100 EUR for consecutive “contactless” transactions. The contactless feature is activated by default for your debit/credit card but you can easily deactivate it. Deactivate "contactless" feature means that you need to insert your card in a terminal to pay with your card.
+* ### Activate/deactivate online payments
+Booking a flight or a concert, ordering clothes, buying a computer... You are purchasing online more and more? ING offers you several solutions to make each online payment quickly and securely. You can do online payments by default with your debit card/credit card. But you can easily deactivate it in the digital channels.

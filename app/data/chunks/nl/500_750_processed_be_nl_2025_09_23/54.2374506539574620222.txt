@@ -1,0 +1,12 @@
+# Inloggen en ondertekenen met de ING QR Code - ING België - Log met de ING Banking-app in op Home’Bank en Business’Bank
+
+## Veelgestelde vragen
+
+### Heb ik de scanner in de app nodig als ik Home’Bank/Business’Bank niet gebruik?
+
+Ja. Zelfs als je niet op onze Home’Bank of Business’Bank wilt inloggen, kan de scanner in je ING Banking-app van pas komen, onder andere om een betaling uit te voeren met een QR-code van Payconiq of Bancontact.
+
+### Wat is het verschil tussen de ING QR Code en itsme®?
+
+Het zijn allebei manieren om jezelf te identificeren en betalingen te ondertekenen. De ING QR Code is uitsluitende bestemd om als ING-klant je bankzaken te regelen. Voor itsme® daarentegen zijn er nog andere toepassingen, zoals inloggen op je profielen op websites van de overheid, enz.
+Wanneer je de QR-code gebruikt om een betaling te ondertekenen, krijg je meer informatie over de betaling te zien dan wanneer je itsme® gebruikt. Dat is belangrijk om je te wapenen tegen phishing. Hoe meer informatie je ziet, hoe gemakkelijker je kunt zien of er iets niet pluis is.

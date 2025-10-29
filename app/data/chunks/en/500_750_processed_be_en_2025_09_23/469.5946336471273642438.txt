@@ -1,0 +1,33 @@
+# Simulate the expected growth of your savings! - ING Belgium - Simulate the potential growth of your savings!
+
+## Calculate the potential return of your ING Savings Account (cat. A¹) and ING Tempo Savings (cat. B¹).
+
+The savings simulator is a tool designed to give you an estimate of how your total savings could evolve based on the current base interest rate and loyalty premium.
+Please read all product information at the bottom of the page before opening an account.
+
+### Important Information About the Simulator
+
+* The results are based on the assumption that all deposited amounts remain in the account without interruption for the selected period.
+* The monthly deposit is made one month after the initial start of the simulation.
+* The simulation does not take taxes into account, and interest rates may change.
+Savings account ING Savings Account (Cat. A) Unlimited deposit per month Base rate: 0.10% Fidelity premium: 1.15% ING Tempo Savings (Cat. B) €500 max. per month Base rate: 0.75% Fidelity premium: 1.50%
+
+### Initial deposit
+
+Amount of money you want to save now EUR
+
+### Monthly deposit
+
+Amount of money that you would like to save every month EUR
+
+### Duration
+
+6 months 1 year 2 years 5 years 10 years Calculate
+
+## Your simulation
+
+Based on today’s interest rate at ING
+
+### Chart
+
+Line chart with 2 lines. The chart has 1 X axis displaying values. Data ranges from -0.05 to 5. The chart has 1 Y axis displaying values. Data ranges from 100 to 160. Created with Highcharts 12.3.0 0 2 4 90 100 110 120 130 140 150 160 170 End of interactive chart. Total deposits — Base rate interests — Fidelity premium interests — **Total interest earned** — **Total future value** —

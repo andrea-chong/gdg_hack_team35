@@ -1,0 +1,36 @@
+# Log in and sign with the ING QR Code - ING Belgium - Log in to Home’Bank and Business’Bank with the ING Banking app
+
+## Frequently asked questions
+
+### What is the ING QR Code and what is it for?
+
+It is a QR code that you scan with your ING Banking app to log into Home'Bank and Business'Bank and sign payments. You can also use the scanner in the app to scan bank transfers.
+
+### Can I continue to use the ING card reader?
+
+Yes. The card reader still remains a valid and secure way to log in and sign payments.
+
+### Why should I use the ING QR Code?
+
+This QR code is the latest way of logging into ING's digital channels. It is easy, 100% secure and fully mobile.
+
+### What should I do with my old ING card reader?
+
+If you don't have a smartphone or tablet, or you can't install the ING Banking app and/or the itsme® app, or you simply want a backup, you can keep it.
+If you no longer need the card reader or it no longer works, please recycle it as a small electronic item at your local recycling centre or collection point for small electronic items. You can find collection points on Recupel's website.
+
+### What should I do if I don't have a smartphone?
+
+If you don't have a smartphone, just keep using your card reader.
+
+### What if I don't have the ING Banking app?
+
+You can download the app from the Google Play Store or the App Store. Learn more about the app.
+
+### The button with the QR code does not appear in my app. What should I do?
+
+Check that you have the latest version of the app on your phone. If you have an older version of the app, you can easily update or replace it by downloading the latest one.
+
+### Do I need the scanner in the app if I don't use Home'Bank/Business'Bank?
+
+Yes. Even if you don't want to log into our Home'Bank or Business'Bank, the scanner in your ING Banking app can come in handy, for instance to make a payment with a QR code from Payconiq or Bancontact.

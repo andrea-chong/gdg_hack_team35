@@ -1,0 +1,9 @@
+# Payez avec Google Pay en toute simplicité ! - ING Belgique
+
+## FAQ
+
+### Que se passe-t-il si votre carte connectée à Google Pay est volée ou perdue ?
+
+* Bloquez votre carte de débit ou de crédit via les canaux digitaux d'ING dans l’éspace self-service ou appelez Card Stop au +32 78 170 170.
+* Votre carte de débit ou de crédit sera automatiquement retirée de tous vos appareils connectés.
+* Vous devez ensuite ajouter votre nouvelle carte de débit ou de crédit à Wallet et Google Pay pour pouvoir l'utiliser à nouveau. Vous pouvez le faire un jour ouvrable après avoir commandé votre nouvelle carte de débit ou de crédit. Il n'est donc pas nécessaire que vous ayez déjà reçu votre carte chez vous pour pouvoir utiliser Google Pay.

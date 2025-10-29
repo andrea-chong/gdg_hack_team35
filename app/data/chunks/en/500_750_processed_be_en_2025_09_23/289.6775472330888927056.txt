@@ -1,0 +1,15 @@
+# Daily limits for your banking transactions - ING Belgium - All about limits
+
+## Limits for private individuals (over 18)
+
+### In-store and online payments
+
+Your default payment limits are listed below. In most of the cases, you can change these limits yourself.
+Open the ING Banking app on your smartphone to modify your payments limit and go to the 'Services' menu on the bottom right of your screen. Tap 'Limits' and choose 'Debit card' or use the Self-Service Corner.
+Please note : for a debitcard limit higher than €2.500 and maximum of €10.000, you must sign with itsme.
+In-store and online payments
+* Debit card payments in shops or online: €5.000 per 7 days (Maestro) / € 2.500 per day 7 days (Mastercard)
+* (*For Bancontact payments via the ING Banking app, you can pay 1.500 euros per transaction and 2.500 euros per day.)Bancontact payments via ING Banking: €2.500 per day
+* Credit card payments: variable. You can consult and, in some cases, modify your credit card limits in Home'Bank or via ING Banking. Visit the Self-Service Corner for more info.
+\*For Wero transactions, the following limits apply: Hybrid QR code (Wero/Bancontact) : maximum of 250 euros per transaction and per 24h.
+Payments to phone contacts: depends on Online daily transfer limit that can be adapted via profile limit settings. Payment Request to phone contacts : maximum 750 euros per request.

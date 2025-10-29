@@ -1,0 +1,47 @@
+# Apple Pay: Pay fast and safe - ING Belgium
+
+## FAQ
+
+### Is a PIN required to pay with Apple Pay?
+
+No. If fingerprint or face recognition is not set up on your iPhone, you can still approve the payment with your iPhone's unlock code.
+
+### Can you pay with a card other than your default debit or credit card?
+
+iPhone
+* Hold your iPhone next to the payment terminal
+* Do not confirm your payment, but tap the other card you want to use at the bottom of your screen.
+* This card will slide up, then click on it.
+* Confirm the payment with Touch ID or Face ID
+
+### What if paying contactless is disabled on your debit or credit card?
+
+You can still use Apple pay even though contactless payments are disabled on your debit or credit card.
+
+### Where can you find your Apple Pay transactions?
+
+In your ING Banking app or in Home'Bank on your computer, you can find all the transactions on your account statements and in the transactions on your account.
+
+### Why is your Apple Pay payment declined?
+
+* You have insufficient funds in your account
+or
+* The daily limit of your debit card has been reached
+or
+* The maximum limit of your credit card has been reached
+or
+* The debit or credit card linked to the Apple Wallet has been blocked
+
+### Can you, as a merchant, get paid with Apple Pay?
+
+Yes, you can, if your payment terminal accepts contactless Maestro/Visa/Mastercard payments.
+
+### What is the limit for payments with Apple Pay?
+
+The limits are the same as those on your debit or credit card.
+Please note that we will add Apple Pay payments to any other payments you make with your card.
+See for more information on your debit card limits via this link .
+
+### Can a shop refund you via Apple Pay?
+
+This is possible, provided the merchant has a suitable payment terminal that accepts contactless payments and Maestro/Visa/Mastercard.

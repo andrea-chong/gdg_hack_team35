@@ -1,0 +1,30 @@
+# Manage your power of attorney and proxies easily online. - ING Belgium - Power of attorney
+
+## How to manage the powers of attorney on your account via the ING Banking app?
+
+### How do I start managing my power of attorneys?
+
+For an **overview** of persons with access to your account or you want to **add** or **remove** a mandate holder, click here .
+
+### What is a power of attorney?
+
+A **power of attorney** is an authority that is granted to one person or more to manage the account in your name. The person receiving this authority is called a **mandate holder** . As such they receive, within their boundaries, a mandate to use your account to make payments and/or to view its balance. You remain the **legal holder of the account** and as such are **responsible for all their actions** .
+
+### Who can benefit from this?
+
+**Not all accounts are eligible** . If you have an ING Do Basic Pack, including a Lion Account, you cannot add any powers of attorney on that account. However, you can if you have an ING Do More pack, including a Green Account, or if you have a Professional Account.
+The **mandate holder** **needs to be an ING customer** for you to add them on your account(s) online. If that’s not the case, you can still add someone who is not an ING customer by making an appointment at your branch.
+
+### What does this cost?
+
+This service is **completely free** for all eligible accounts!
+
+### What are the different types of access?
+
+* View: Can view the account statements and balance
+* Encode: Can prepare payments and put them in the payment basket
+* Sign: Can sign and validate payments (either their own or those in the payment basket)
+If you want to watch a video on how to manage your Power of attorney, click here .
+Additional restrictions can be attached to the “sign” permission:
+* **Signs alone or co-signs with other mandate holders**
+* **Signs payments up to a certain amount**

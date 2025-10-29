@@ -1,0 +1,15 @@
+# Avec un virement bancaire, envoyez facilement de l'argent en euros dans la zone SEPA. - ING Belgique - Tout sur le virement en euros (SEPA)
+
+## Questions fréquemment posées
+
+### Qu'est-ce qu'un paiement automatique (SEPA) ?
+
+Gérez vous-même vos paiements automatiques en euros, facilement, via votre app ING Banking, ordinateur ou un Self'Bank. De votre compte sur un autre compte, tenus tous les 2 dans un des États membres de l'Union européenne (ou en Norvège, Islande, Lichtenstein, Suisse, à Monaco, Saint Marin, ou en Andorre). C'est gratuit ! Cliquez sur ce lien pour trouver la liste des pays de la zone SEPA.
+Il en existe 2 sortes :
+* **La domiciliation en euros (SEPA)**
+* Payez automatiquement vos factures récurrentes. Même si le montant change d'une fois à l'autre ! Vous avez ainsi la certitude de toujours payer à temps. Plus jamais de frais supplémentaires car plus de paiements en retard !
+* En pratique, via une domiciliation en euros (SEPA), vous donnez au fournisseur l'autorisation de régler directement sa facture auprès de votre banque. C'est ce que l'on appelle un mandat.
+* Grâce au SEPA (l'Espace unique de paiements en euros), les domiciliations en euros, en Europe, ont été harmonisées via les codes IBAN et BIC .
+* **L'ordre permanent en euros (SEPA)**
+* Idéal pour des paiements récurrents d'un montant fixe et libellés : votre loyer, votre épargne mensuelle… Vous gagnez du temps !
+* En pratique, via un ordre permanent en euros (SEPA), vous demandez à votre banque de virer régulièrement, à une certaine date, un montant sur un autre compte.

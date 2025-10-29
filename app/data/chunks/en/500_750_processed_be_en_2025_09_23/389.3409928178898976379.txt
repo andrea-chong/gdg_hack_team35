@@ -1,0 +1,18 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgium - Personal data protection statement for ING Belgium nv/sa
+
+## Personal data protection statement
+
+### Do we make automated decisions and engage in profiling?
+
+Automated decision-making is when we make decisions by technological means without significant human involvement. Profiling involves the automated processing of personal data with a view to evaluating or predicting personal aspects such as the economic situation, reliability or likely behaviour of a person.
+Since ING Belgium serves a wide group of customers, it makes the use of automated decision-making and profiling imperative. Examples are:
+1. Credit risk rating
+When you apply for a loan, a credit or a credit card, we create a profile to assess whether you can meet your financial obligations to us and to ensure that we do not offer loans, credits or credit cards that are not suitable for you. We assess the risk connected to a contract with you via a method called credit scoring. Your credit score is calculated based on automated decision-making. You have to achieve a pre-defined minimum score to ensure an acceptable risk for you and us.
+The credit score is calculated mainly on your financial standing. Based on the personal data you provide in the credit-scoring process, we consult external credit (rating) registers (including the Central Individual Credit Register of the National Bank of Belgium) to acquire relevant financial information. If you already have or had a relationship with us in the past (taking into account applicable retention periods), we combine the (external) financial information with your internal payment history. If you do not achieve the minimum score, the automated credit scoring will decline your application. In that case, we will not enter into an agreement with you since we consider the risks for you and us to be too high. You have the right to contest such automated decisions. We refer to section 7 on how to do this.
+2. Prevention of fraud and money laundering and terrorism financing
+We are obliged or we need to perform customer and transaction screening to detect potential an actual criminal activity. As a result, we pay particular attention to unusual transactions and to transactions that - by their nature - result in a relatively high risk of fraud, money laundering or terrorism financing. To do this we create and maintain a risk profile for you. If we suspect that a transaction is connected with money laundering or terrorist financing, we are obliged to report this to the authorities.
+Examples of factors that we take into account that may indicate an increased risk of fraud or money laundering and terrorist financing are:
+• Changes in a person's normal spending and payment behaviour, such as unexpectedly large amounts being transferred or debited;
+• Payments to or from suspicious countries, stores or addresses;
+• Two PIN payments by a single person in two vastly different locations at the same time;
+• Being listed on an internal referral register. This ING's register is a list that includes persons and institutions who have committed fraud or otherwise pose a risk to the financial sector or with whom we no longer want a relationship. They are a risk to ING, its staff and/or its customers. Only some employees of specific ING departments may have access to the details of the files on a need-to-know basis; Being listed on any public national or international sanctions lists.

@@ -1,0 +1,35 @@
+# Configurez vos notifications ! - ING Belgique - Configurez vos notifications push
+
+## Votre téléphone vous informe en temps réel grâce aux notifications de l’app ING Banking !
+
+C’est quoi une notification ? C’est un message personnel sur votre smartphone. Il vous permet de savoir par exemple si vos revenus sont arrivés sur votre compte à vue, si votre solde se trouve en dessous d’un certain seuil. Ou encore, si vous devez signer un document pour finaliser l’achat d’un produit ING. Désormais, inutile de vous connecter à un ordinateur, une simple notification sur votre smartphone vous informe. Où que vous soyez, restez informé de ce qui se passe sur vos comptes et activez les notifications dans votre app ING Banking.
+Téléchargez l'app
+
+## Les avantages
+
+* ### Bonne nouvelle
+Vous pouvez paramétrer une notification pour vous informer dès qu’un versement supérieur à un certain montant (que vous déterminez au préalable) sera effectué sur votre compte.
+* ### Préventif
+Vous pouvez demander à être averti en temps réel lorsqu’un paiement risque de ne pas passer pour cause de solde insuffisant. Ainsi, vous évitez des frais de rappel inutiles pour retard de paiement.
+* ### Pas de surprise
+Vous êtes informé(e) instantanément lorsqu’un montant important est débité de votre compte.
+* ### Personnalisable
+C’est vous qui déterminez les types d’alerte que vous souhaitez recevoir.
+
+### Comment activer les notifications
+
+1. 1
+
+#### Connectez-vous à l’app ING Banking
+
+Cliquez sur "Services" en bas à droite de l’écran
+2. 2
+
+#### Sélectionnez Paramètres
+
+Ensuite dans "Paramètres de l’app" cliquez sur "Notifications" et activez les notifications push
+3. 3
+
+#### Personnalisez et confirmez vos choix
+
+Autorisez ING Banking à vous envoyez des notifications et définissez le type d’alerte et les montants

@@ -1,0 +1,13 @@
+# ING Save Up pour les mineurs – Épargnez votre petite monnaie dès le plus jeune âge - ING Belgique - ING Save Up pour les moins de 18 ans
+
+## Épargnez encore plus vite avec l’accélérateur d’épargne
+
+Activez l’accélérateur d’épargne pour tripler chaque montant arrondi. À chaque fois qu’un montant est arrondi et transféré vers le compte d’épargne via ING Save Up, il est multiplié par trois.
+**Exemple :** si votre enfant achète une boisson à 2,40 €, ING Save Up arrondit à 3,00 € et 0,60 € sont épargnés. Avec l’accélérateur activé, ce montant est triplé à 1,80 €.
+START TABLE IN MARKDOWN
+| Transaction avec le compte à vue | Arrondi à l’euro supérieur | Accélérateur d’épargne | Montant épargné |
+| - | - | - | - |
+| 2.40 € | 0.60 € | x1 | 0.60 € |
+| 2.40 € | 0.60 € | x3 | 1.80 € (= 0.60 € x 3) |
+END TABLE IN MARKDOWN
+Conditions générales ING Save Up Activer ING Save Up pour votre enfant

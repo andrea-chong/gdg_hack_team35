@@ -1,0 +1,8 @@
+# Verificatie van de naam van de begunstigde - ING België
+
+## FAQ
+
+### Op welke namen vindt de verificatie plaats van de begunstigde rekening?
+
+Voor privépersonen vindt de verificatie plaats ten opzichte van de voor- en achternaam van alle rekeninghouders, hoewel je maar één voor- en achternaam dient in te vullen. In geval van een beperkte afwijking wordt enkel de geregistreerde naam getoond van de rekeninghouder wiens naam werd ingevoerd.
+Voor rechtspersonen vindt de verificatie plaats ten opzichte van de wettelijke benamingen die zijn geregistreerd bij de bank van de begunstigde, alsook ook de wettelijke afkortingen en handelsnamen voor zover die zijn geregistreerd bij de bank en, indien in België, bij de Kruispuntbank Ondernemingen (KBO). Dit laatste zal het geval zijn tegen uiterlijk 9 oktober 2025.

@@ -1,0 +1,90 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgium - Personal data protection statement for ING Belgium nv/sa
+
+## Personal data protection statement
+
+### What do we do with your personal data ?
+
+Processing means every activity that can be carried out in connection with personal data such as collecting, recording, storing, adjusting, organising, using, disclosing, transferring or deleting it in accordance with applicable laws.
+We only process your personal data under one of the following legal grounds:
+• To conclude and carry out our contract with you;
+• To comply with our legal obligations;
+• For our legitimate business interests. This data processing may be necessary to maintain good commercial relations with all our customers and other concerned parties. We may also process your data to prevent and combat fraud and to maintain the security of your transactions and of the operations made by ING;
+• To protect your vital interests;
+• When we have your consent. In this case, you may withdraw your consent at any time.
+We may only process your personal data for the following purposes on basis of one of the following legal grounds:
+**A) Performing agreements to which you are a party or taking steps prior to entering into these agreements.**
+We use your personal data when you enter into an agreement with us, or when we have to execute our obligations or manage some disputes that may arise under these agreements.
+For instance; we use your account details when you ask us to make a payment or carry out an investment order or to provide you with statements of your accounts or your annual overview in ING Banking/Home'Bank. We also use these account details to block payments, investigate and remediate product dysfunctionalities and solve claims, petitions and complaints regarding the requested services, when necessary. We also use your personal data to contact you in order to notify you of issues such as contractual term changes, the expiry of a deadline/contractual condition, registering a debt or to provide you with information related to your services/relationship. We rely on the lawful basis of ‘necessary for performing agreements’ when we use your personal data for these and compatible purposes.
+**B) Compliance with our legal obligations**
+We use your personal data to comply with a range of legal obligations and statutory requirements, including banking and financial regulations, that oblige us to perform a/an:
+• Integrity checks: when entering into a customer relationship with you, we have a legal obligation (due to e.g. anti-money laundering and terrorism financing laws) to consult available incident registers and warning systems and national and international sanctions lists;
+• Identity verification: when entering into a customer relationship with you, we have a legal obligation (due to e.g. anti-money laundering and terrorism financing laws) to confirm your identity (know your customer check). We can do this by making a copy of your identity document, which we will only use for identification and verification purposes. We may also rely on checks performed by other financial institutions to verify your identity;
+• Credit checks: Before entering into a customer relationship with you for the granting of a credit, we have a legal obligation to check whether you qualify as an eligible customer. We assess your credentials from a risk perspective and predict if you can meet your financial obligations towards us as further detailed in Section 6 (“Do we make automated decisions and engage in profiling?”). Regarding overdraft facilities, we also have the legal
+obligation to assess your ability to reimburse the credit in the course of the contract;
+• Anti-money laundering and terrorism financing checks: we have a legal obligation to check for potential money laundering and terrorism financing. This includes monitoring unusual transactions and sanctions lists as set out in Section 6 (“Do we make automated decisions and engage in profiling?”);
+• Regulatory and statutory reports to our regulators as set out in Section 4 (“Who do we share your personal data with and why?”) and data requests from them;
+• Insider trading and market abuse control: we monitor the transactions of ING Belgium staff members and other family members (within the first degree) within the framework of the applicable legislation;
+• Legislation on consumer protection (including combating excessive consumer debt), particularly Books III (“Freedom of establishment, to provide services and general obligations of companies”), VI (“Market practices and consumer protection”), VII (“Payment and credit services”) and XII (“E-business law”) of the Code of Economic Law, the Law of 21 November 2017 on infrastructures for markets in financial instruments transposing Directive 2014/65/EU of 15 May 2014 (“MiFID II”), the EU Regulation of 15 May 2014 on markets in financial instruments (“MiFIR”) and the Law of 4 April 2014 on insurance;
+• Compliance by our intermediaries with their legal, regulatory or contractual obligations. When your data is managed by our employees or intermediaries (independent agents or brokers), any bank data of these employees or intermediaries (if they are Clients themselves), including data relating to your or their Financial Transactions, is also processed by us to ensure compliance by such employees or intermediaries with their legal, regulatory or contractual obligations, including any duty of exclusivity towards us.
+• The search for holders, lessees or beneficiaries of dormant accounts, safe-deposit boxes and insurance policies, in particular, the Law of 24 July 2008;
+• Accounting and tax legislation, notably Book III of the Code of Economic Law, the 1992 Income Tax Code; the VAT Code, the Inheritance Tax Code;
+• The protection of whistleblowers, particularly the Law of 28 November 2022 on the protection of reporters of breaches of Union or national law established within a legal entity in the private sector.
+We rely on the lawful basis of ‘necessary to comply with a legal obligation’ when we use your data for these processing activities.
+**C) Our legitimate interest**
+We process your data for a range of purposes that are in our interests as described below. When relying on legitimate interest, we ensure that processing remains proportionate and that your interests, fundamental rights and freedoms are respected. If you would like more information about our reasoning behind our assessment in a specific case, please contact us using the details provided in Section 12 (“Contact and questions”).
+Please find below an overview of the main purposes for which we process your personal data where we rely on legitimate interest:
+1. Relationship management and marketing.
+To the extent that the processing is necessary for the purposes of the legitimate interests pursued by us (unless your interests or fundamental rights and freedoms prevail), we may carry out, without obtaining your prior consent, the following processing:
+o the processing relating to the promotion and offer of the best-suited products and services provided by us or other ING entities and/or of such products and services at a differentiated price or (credit or debit) interest rate.
+We will process your personal data when informing or advising you (e.g. by e-mail, mail and phone) about (similar) products and services from ING and when performing statistical purposes. Of course, if you do not want to receive these offers you have the right to object or to opt-out. We strive to understand you better and meet your changing needs by offering you services and/or price or interest rate that will suit your specific situation. To be able to provide you with tailor-made products and services and/or differentiated price or interest rate, we may:
+• take into account your socio-demographic and financial situation (with the exclusion of your payment details);
+• analyse your preferences in our various communications channels;
+• analyse the products and services that you have already purchased from us.
+We may also send you newsletters informing you about our activities. Of course, if you don’t want to receive these newsletters you have the right to object.
+o the processing relating to improvement and development of our products and services.
+We may ask you for feedback about our products and services or ask for your opinion on new product ideas. We may share this with certain members of our staff to improve our offering.
+Analysing how you use and interact with our products and services helps us understand more about you and shows us where and how we can improve. For instance:
+• When you open an account, we measure how long it takes until you are able to use your account;
+• We analyse the results of our marketing activities to measure their effectiveness and the relevance of our campaigns;
+• Sometimes we analyse your personal data using automated processes, such as algorithms, to speed up credit decisions for loans and mortgages. On the basis of payment data or any other banking, financial or credit data, we may so predefine a maximum limit for the granting of credit in order to be able to respond rapidly to any request for credit from the data subject;
+• We may use your personal data when analysing your visit to our website or app with the aim of improving these. We use cookies and comparable technologies for this. For
+more information, we refer to our Cookie Statement as published on our site.
+• Unless this is not allowed according to applicable law, this can include recording your conversations with us, but we will always inform you about this beforehand.
+o the processing relating to the communication of personalised information and offers ("personalised direct marketing") on the basis of payment data or other similar sensitive personal data (i.e. the use of such data for profiling purposes in the context of marketing), only to the extent that:
+• such data is necessary to exclude individuals from marketing activities which are not considered appropriate for those individuals, based on semi-aggregated payment data (e.g. excluding customers from car insurance campaigns based on the absence of vehicle-related expenses, ...), or
+• these data are necessary to prioritise marketing activities towards data subjects when the same person is the recipient of several marketing campaigns at the same time (except for the promotion of insurance services), based on a high level of categorisation of payment data (such as total amounts of incomes and expenses, total amounts of expenses on transport, at supermarkets, ...);
+o the processing, carried out on the basis of payment data or any other banking, financial or credit data, to provide you with information on your past financial situation (incomes and/or expenses) (e.g. by providing an overview of the amounts spent per category as well as the details of such expenses : transport expenses, supermarket spending, costs of each subscription, ...);
+o the processing, carried out on the basis of payment data or any other banking, financial or credit data, to assess in advance whether you are eligible for certain products and services and, if so, to give you the opportunity to subscribe to them. For example, we may look at your payment behavior and credit history when you apply for a loan or a mortgage. We may also look at your payment data to show you which transactions are eligible for ING OneView services or ING Look Ahead services.
+o the processing, carried out on the basis of payment data or any other banking, financial or credit data, for credit monitoring. We use and analyse data about your credit history and payment behaviour (including data available from the National Bank of Belgium's credit registers) to assess your ability to repay a loan, in the course of the credit contract, and – as the case may be – to contact you on this topic and/or take appropriate measures.
+2. Business process execution, internal management, statistics and management reporting.
+We process your data to ensure effective and efficient internal business process execution, statistics and management reporting. We process your data for our internal processes and operations and to help our management to make better data driven decisions about our operations and services. We will always choose aggregated data for this if we can, meaning that only information about groups of clients will be processed (so that you are not identifiable). This includes:
+o analysing our market position in different segments;
+o performing cost and loss analysis;
+o training our staff for example by analysing recorded phone calls in our call centres to improve our calling scenarios;
+o automating our processes such as application testing, automatic filling of complaints handling, etc.;
+o conducting litigation and complaint management.
+3. Safety and security.
+We have a duty to protect your personal data and to prevent, detect and contain any breaches of your data. We not only want to protect you against fraud and cybercrime, we also have a duty to ensure the security and integrity of ING and the financial system as a whole.
+For instance:
+• We may process your data to protect your assets from fraudulent activities online, for example, if you are hacked and your username and password are comprised. In this respect, we process behavioural data
+(linked to your use of a mouse, a keyboard, etc.);
+• We may use certain information about you (e.g. name, account number, age, nationality, IP address, etc.) for profiling purposes to detect fraudulent activities and the perpetrators;
+• As an entity of ING Group, we apply the American administrative sanctions lists, such as the OFAC list (Office of Foreign Assets Control of the US Treasury Department), both when entering into a relationship and when carrying out transactions;
+• We may use your personal data to alert you if we detect suspicious activity on your account, for example when your debit or credit card is used in an unusual location.
+**D) Protecting your vital interests**
+We process your personal data when necessary to protect your interests which are essential for your life or that of another natural person. For example, for urgent medical reasons pertaining to you. We will only process your personal data necessary for the vital interests of another natural person if we cannot base it on one of the other purposes mentioned.
+**E) Respecting your choice if we request your consent for specific personal data processing**
+For certain types of personal data processing, we will provide you with specific information about the process and request your prior consent before processing your personal data. This may include:
+• promotional activities where we inform you about products and services from ING partners (such as these from our partners of ING +Deals).
+• personalised marketing activities based on profiling performed on the basis of the analysis of your payments data.
+With your consent, we may send you letters, e-mails, or text messages offering you a product or service based on your personal profile (based on payment data) or show you such an offer when you log in to our website or mobile apps.
+• promotional activities on internet where we inform you about products and services based on your online behaviour. We may use your personal data when analysing your visit to our website with the aim of improving these. We use cookies and comparable technologies for this. For more information, we refer to our ING Cookie Policy as published on our website.
+You may withdraw your consent at any time as set out below.
+F) Secondary purposes Finally, we process personal data for the following compatible secondary purposes:
+4. the transfer of the data to an archive;
+5. internal and external audits or surveys;
+6. the implementation of operational checks;
+7. statistical, historical or scientific research;
+8. the settlement of disagreements or disputes;
+9. legal or commercial consultation; or
+10. the uptake of insurance by ourselves.

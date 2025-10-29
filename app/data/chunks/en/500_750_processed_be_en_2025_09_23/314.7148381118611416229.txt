@@ -1,0 +1,53 @@
+# Apple Pay: Pay fast and safe - ING Belgium
+
+## FAQ
+
+### Are there fees when using Apple Pay?
+
+Not at all! Apple Pay is completely free.
+
+### Who can use Apple Pay?
+
+Anyone,- with an iPhone, Apple Watch, iPad or Mac- over the age of 16 - with an ING current account to which a debit or credit card is linked
+- who has installed the ING Banking app
+
+### What devices can you use with Apple Pay?
+
+Use Apple Pay with any device (iPhone, iPad, Apple Watch and Mac) listed on the Apple Support page .
+
+### What operating system do you need to use Apple Pay?
+
+Check the Apple Support page to see which operating system your iPhone, Apple Watch, iPad or Mac is running on and update it if necessary and possible.
+https://support.apple.com/en-us/HT204506
+
+### How do you activate Apple Pay?
+
+The easiest way to do this is with the ING Banking app. See above explanation.
+
+### How do you activate Apple Pay on your iPhone?
+
+* Go to 'Wallet and Apple Pay' via 'Settings' on your iPhone
+* Select 'Add card’
+* Tap 'Continue' and choose 'ING' as the bank in the list
+* You will be automatically redirected to the ING Banking app
+* Follow the instructions to link your card.
+
+### How do you activate Apple Pay on your Apple Watch?
+
+Select the debit or credit card you wish to use with your Apple Watch via the Apple Watch app.
+
+### How do you activate Apple Pay on your iPad?
+
+Just like on an iPhone. Just make sure you have the ING Banking app installed on your iPad.
+
+### How do you activate Apple Pay on your Mac computer?
+
+Go to 'System Preferences', click on 'Wallet and Apple Pay' and follow the instructions. Here you are not redirected to the ING Banking app, and you must enter and confirm your debit or credit card details manually.
+
+### Can you use Apple Pay with a business account?
+
+Yes, you can use Apple Pay with a debit or credit card linked to a business account.
+
+### Can you activate Apple Pay with a non-Apple device?
+
+No, Apple Pay can only be used with an iPhone, iPad, Apple Watch and Mac.

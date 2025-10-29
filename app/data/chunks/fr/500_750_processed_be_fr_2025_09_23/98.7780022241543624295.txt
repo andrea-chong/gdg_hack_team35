@@ -1,0 +1,10 @@
+# Payez vos factures en ligne avec Zoomit ! - ING Belgique
+
+## Des questions ?
+
+### Autoriser d'autres à accéder à mes documents Zoomit?
+
+Par défaut, toute personne avec un accès à votre compte pourra consulter ou payer vos documents Zoomit, sauf les documents personnels et confidentiels comme les fiches de paie. Cela inclut tous les titulaires de compte et les titulaires de mandat. Vous pouvez choisir de garder vos documents Zoomit confidentiels. Lesautres titulaires de compte ou mandataires ne pourront pas les consulter et/ou les payer.
+Pas d’inquiétude si vous recevez **un email de Zoomit ces jours-ci** .
+ING est à l'origine de **l'activation de la plateforme Zoomit** pour les relevés cartes de crédit **exclusivement** . **Vous n'avez rien à faire de plus !**
+Pour plus d'info, consultez l'aide Zoomit .

@@ -1,0 +1,7 @@
+# Log in and sign with the ING QR Code - ING Belgium - Log in to Home’Bank and Business’Bank with the ING Banking app
+
+## Frequently asked questions
+
+### The confirmation screen for the signature doesn't appear in your app?
+
+It may happen that you don't see the notification appear in your app. Solving this issue is easy. Just refresh the overview page or log out and in again.

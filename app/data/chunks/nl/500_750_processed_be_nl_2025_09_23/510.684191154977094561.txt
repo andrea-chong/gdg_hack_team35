@@ -1,0 +1,45 @@
+# Wero - ING België
+
+## Frequently Asked Questions:
+
+### Wie kan Wero gebruiken?
+
+Alle ING-klanten met een betaalrekening en de ING Banking-app. De meeste grote EU-banken ondersteunen ook Wero voor grensoverschrijdende betaling.
+
+### Hoe kan ik Wero activeren?
+
+Wero is al geïntegreerd in de ING Banking app. Om te controleren of je Wero gebruikt, gaat je naar Diensten -> Instellingen -> Wero.
+* Ziet je een optie "Wero verwijderen"? Dat betekent dat je al Wero-betalingen gebruikt, herkenbaar aan het Wero-pictogram op het bevestigingsscherm van de betaling.
+* Zie je een introductie tot Wero? In dit geval maak gewoon een QR-betaling of een betaling naar een telefonisch contact en je wordt gevraagd om een Wero-portemonnee aan te maken.
+
+### Moet ik betalen voor Wero?
+
+Nee, er zijn alleen kosten voor zakelijke rekeningen.
+
+### Kan ik ook in andere valuta dan Euro betalen?
+
+Nee, alleen Euro betalingen zijn mogelijk.
+
+### Kan ik een zakelijke rekening koppelen aan Wero?
+
+Ja, dat kan. Wero-betalingen werken ook met zakelijke rekeningen.
+
+### Wat zijn de limieten van een Wero-betaling?
+
+Voor betalingen via QR-code:
+* Transactielimiet: €250
+* Daglimiet: €250 per 24h
+Voor betalingen via telefoonnummer:
+* De limiet hangt af van de instellingen in je ING Banking app.
+Om te controleren, ga naar: Diensten → Betalingen & Cash → Betalingen → Limieten
+Voor betalingsverzoeken via telefoonnummer:
+* Transactielimiet: €750
+* Geen daglimiet
+
+### Hoeveel telefoonnummers kan ik aan mijn rekening koppelen?
+
+Je kunt maximaal 3 telefoonnummers aan je rekening koppelen.
+
+### Kan ik mijn telefoonnummer aan meerdere rekeningen koppelen?
+
+Nee, een telefoonnummer kan maar aan één rekening worden gekoppeld. Als je echter meerdere ING-rekeningen hebt, kunt je uw telefoonnummer overdragen van de ene rekening naar de andere.

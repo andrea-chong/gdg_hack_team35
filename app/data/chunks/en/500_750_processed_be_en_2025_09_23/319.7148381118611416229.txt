@@ -1,0 +1,7 @@
+# Apple Pay: Pay fast and safe - ING Belgium
+
+## FAQ
+
+### What technology is used to make secure payments?
+
+NFC (Near Field Communication) technology ensures the secure exchange of data. NFC only works within a radius of about 5 centimeters. You have to hold your device close to the terminal to exchange data. In addition, you always have to confirm your payment with fingerprint, facial recognition or unlock code.

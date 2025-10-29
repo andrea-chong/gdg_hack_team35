@@ -1,0 +1,21 @@
+# Send euros easily with a bank transfer in the SEPA zone! - ING Belgium - All about sending money in euro (SEPA)
+
+## Frequently asked questions
+
+### What are automatic payments in euros (SEPA)?
+
+Manage your automatic payments in euros yourself easily using the ING Banking app, Home'Bank or a Self'Bank terminal in a branch. Transfer from your account to another account also held in one of the member states of the European Union (or Norway, Iceland, Liechtenstein, Switzerland, Monaco, San Marino, or Andorra). It's free! Click here to find the list of SEPA countries.
+There are two types:
+* **Direct debits in euro (SEPA)**
+* Pay your recurring bills automatically, even if the amount changes each time! You can be confident that you will always pay on time, and late payment charges will be a thing of the past!
+* In concrete terms, a direct debit in euro (SEPA) gives the supplier the authorization to settle their bill directly with your bank. This is called a mandate.
+* Thanks to SEPA (the Single Euro Payments Area), direct debits in Europe have been standardized using the IBAN and BIC codes .
+* **Standing orders in euro (SEPA)**
+* Ideal for recurring denominated payments of a set amount, for example your rent or your monthly savings, thus saving you time.
+* In concrete terms, a standing order in euro (SEPA) entails asking your bank to transfer an amount to a different account on a regular basis on a certain date.
+
+### What should I do if I don’t see my transfer in my transactions list?
+
+First check that there are sufficient funds in your account and that you signed the payment correctly and did not receive an error message.
+Wait a few minutes before trying again, so as to avoid making the transfer twice.
+If you signed your payment correctly, you should be able to see it in your account overview. If it wasn't an instant payment, it may only appear the next day. If you still don't see it the next day but your account balance has decreased, contact us via the services section .

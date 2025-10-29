@@ -1,0 +1,20 @@
+# How to use itsme® for online banking - ING Belgium - All about itsme®
+
+## Frequently asked questions
+
+### What steps should I take after recently moving?
+
+First, make sure that the address has been updated on your eID with your local administration.
+Once that’s done, inform itsme® and ING of the address change.
+If you have an eID card reader: first update your address via the itsme® update form ,
+Then you can communicate your new address to the bank with itsme by using your ING Banking app, Home’Bank or Business’Bank, in your personal detail section, or through our website .
+If you have no eID card reader, the best is to insert your new eID into a kiosk machine that is available at the entrance of your ING branch.
+
+### What steps should I take if I’ve lost my phone or if it has been stolen?
+
+Don’t panic... itsme® can't be used without personal pin code or biometrics. For the sake of security, we recommend that you block your itsme® account via the itsme® website. Bear in mind that once your account is blocked, you will no longer be able to use it to access any of the services previously linked to your itsme® account, unless you unblock it. We also recommend that you block your ING Banking mobile profile via Home’Bank or Business'Bank.
+
+### I have a new phone number. How do I change the one linked to my itsme® account?
+
+If you want to change the mobile number linked to your itsme® account, you will need to contact itsme® customer support to have your account reset. You will then be able to re-install the itsme® app on your smartphone and create a new account.
+Please note, your itsme® account is based on the unique combination of your smartphone, your SIM card and your itsme® code. For your own security, it is therefore not possible to use the same itsme® account with two different mobile numbers at the same time.

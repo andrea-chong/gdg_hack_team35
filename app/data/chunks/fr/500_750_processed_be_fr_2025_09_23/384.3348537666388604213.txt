@@ -1,0 +1,23 @@
+# Gérez facilement votre procuration en ligne et consultez/ajoutez ou supprimez des mandataires - ING Belgique - Procuration
+
+## Comment gérer les procurations de vos comptes via l'app ING Banking?
+
+### Comment supprimer une procuration depuis l’app ING Banking ?
+
+1. Depuis l’onglet « Services », appuyez sur « Comptes » dans le menu « Vos services ».
+2. Sélectionnez « Procurations » et choisissez « Supprimer ».
+3. Suivez les différentes étapes pour supprimer un mandataire de votre compte.
+
+### Comment gérer/modifier une procuration ?
+
+* Modifiez vos procurations depuis votre app ING Banking.
+Depuis l’onglet « Aperçu », appuyez sur « Services » en bas à droite de votre écran. Sélectionnez ensuite l’option « Comptes » dans le menu « Gérer vous-même » et choisissez « Procurations ». Appuyez sur « Supprimer », suivez les différentes étapes pour supprimer un mandataire et puis appuyez sur « Ajouter » pour en ajouter un nouveau.
+* Modifiez vos procurations depuis votre Home’Bank.
+Connectez-vous à l’aide de l’app ING Banking ou d’itsme®. Cliquez sur « Allez vers l’Espace Self-service » sous l’onglet « Services » à gauche de votre écran. Choisissez ensuite « Gérer procurations » dans le menu « Banque en ligne ». Cliquez sur « Supprimer une procuration », suivez les différentes étapes pour supprimer un mandataire et puis cliquez sur « Donner une procuration » pour en ajouter un nouveau.
+
+### Comment ajouter un titulaire à mon compte ?
+
+* Vous pouvez ajouter un second titulaire depuis votre application ING Banking
+Une fois connecté, vous pouvez sélectionner "Services" en bas à droite > Sélectionnez « Comptes » > « Procurations » en bas de la liste > Sélectionnez « Compte joint et procédez avec le service et confirmez!
+* Si vous utilisez Home'Bank, vous pouvez ajouter un second titulaire de la manière suivante
+Une fois connecté, vous pouvez sélectionner "Service" dans le menu de gauche > sélectionnez l'option "Aller au coin Self-service" > et sélectionnez l'option "Convertir votre compte en compte joint" et procédez avec le service et confirmez!

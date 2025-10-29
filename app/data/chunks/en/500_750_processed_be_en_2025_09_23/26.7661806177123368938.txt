@@ -1,0 +1,26 @@
+# Update of your ING Banking app - ING Belgium - How to update the ING Banking app?
+
+Reading time: 5 min 21 December 2022 There are a couple of ways to update your ING Banking app. We'll tell you all about it in this article.
+
+## With an automatic update
+
+### This ensures that you are always using the latest and safest version of the app.
+
+1. Go to your device settings.
+2. Tap on 'App Store'.
+3. Toggle 'App Updates' on.
+Good to know: turning this on will automatically update every app on your device, not just ING Banking.
+
+## With a manual update
+
+### This option lets you decide when to update your app.
+
+1. Go to the "App Store" on your device.
+2. Tap your profile icon at the top right of the screen.
+3. Scroll down to see your pending updates.
+4. Tap 'Update'.
+
+## Can't update the app?
+
+Just like a computer, your smartphone or tablet has a software system, called the operating system (OS). Your OS needs to be regularly updated to be able to update your app.
+More information on operation system updates

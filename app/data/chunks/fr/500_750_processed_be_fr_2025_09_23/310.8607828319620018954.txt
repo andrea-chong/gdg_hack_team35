@@ -1,0 +1,20 @@
+# Payer un paiement Récurrent - Ordre Permanent SEPA - ING Belgique - ING Belgique - Ordre permanent en euros (SEPA)
+
+## Tout sur l'ordre permanent en euros (SEPA)
+
+### Créer, supprimer et modifier un ordre permanent en euros
+
+Créer un ordre permanent en euros (SEPA Vous pouvez créer très facilement un ordre permanent dans Home'Bank , via un Kiosk, ou encore via l'app ING Banking pour smartphone :
+* Depuis Home'Bank, cliquez sur « Nouveau virement » en haut de votre écran et complétez ensuite les informations du bénéficiaire, le montant et la communication (si nécessaire). Choisissez « Paiement récurrent » et sélectionnez la fréquence. Cliquez sur « Soumettre » pour créer votre ordre permanent.
+* Depuis l’app ING Banking, appuyez sur « Payer » et sélectionnez « Faire un virement ». Complétez ensuite les informations du bénéficiaire, le montant et la communication (si nécessaire). Appuyez sur « Date et fréquence » et sélectionnez la fréquence. Appuyez sur « Confirmer » pour créer votre ordre permanent.
+Dès que vous l'aurez créé, votre ordre permanent pourra être exécuté.
+Supprimer un ordre permanent en euros (SEPA)
+* Vous pouvez supprimer un ordre permanent dans Home'Bank .
+Connectez-vous à l’aide de l’app ING Banking ou d’itsme®. Cliquez sur « Paiements » à gauche de votre écran et choisissez ensuite l’option « Prévu ». Sélectionnez l’ordre permanent à annuler et cliquez sur la poubelle orange.
+* Vous pouvez supprimer un ordre permanent depuis l'app ING Banking.
+Depuis l’onglet « Paiements », appuyez sur « Paiements en attente ». Choisissez le compte avec lequel l’ordre permanent est exécuté. Sélectionnez ensuite l’ordre permanent concerné et appuyez sur « Supprimer ».
+Modifier un ordre permanent en euros (SEPA)
+* Vous pouvez modifier un ordre permanent dans Home'Bank .
+Connectez-vous à l’aide de l’app ING Banking ou d’itsme®. Cliquez sur « Paiements » à gauche de votre écran et choisissez ensuite l’option « Prévu ». Sélectionnez l’ordre permanent à modifier et cliquez sur « Modifier ».
+* Vous pouvez modifier votre ordre permanent depuis votre app ING Banking.
+Depuis l’onglet « Paiements », appuyez sur « Paiements en attente ». Choisissez le compte avec lequel l’ordre permanent est exécuté. Sélectionnez ensuite l’ordre permanent concerné et appuyez sur « Modifier ».

@@ -1,0 +1,42 @@
+# Apple Pay: Payez en un clin d'œil - ING Belgique
+
+## FAQ
+
+### Faut-il payer pour utiliser Apple Pay?
+
+Pas du tout ! Apple Pay est totalement gratuit.
+
+### Qui peut utiliser Apple Pay?
+
+Toute personne,
+* Ayant un iPhone, une Apple Watch, un iPad ou un Mac compatible
+* Ayant plus de 16 ans
+* Ayant un compte à vue ING lié à une carte de débit ou de crédit
+* Ayant installé l'app ING Banking
+
+### Avec quels appareils pouvez-vous utiliser Apple Pay?
+
+Vous trouverez la liste des appareils compatibles à Apple Pay (iPhone, iPad, Apple Watch, Mac) sur la page Apple Support.
+
+### Quel système d'exploitation pour utiliser Apple Pay ?
+
+Consultez la page Apple Support afin de savoir quel système d'exploitation votre iPhone, Apple Watch, iPad ou Mac doit utiliser et mettez-le à jour si nécessaire et si possible.
+
+### Que faut-il faire pour activer Apple Pay?
+
+* Avoir 16 ans ou plus
+* Disposer d'un compte à vue ING avec une carte de débit ou de crédit active.
+* L'app ING Banking est installée sur l'appareil que vous utiliserez pour Apple Pay.
+* Avoir un iPhone, un iPad ou un Mac mis à jour avec la dernière version d'iOS.
+* Disposer d'un compte iCloud fonctionnel
+* La région sur votre appareil est définie sur Belgique
+* Votre numéro de GSM est correctement enregistré auprès d'ING (si ce n'est pas le cas, vous pouvez facilement le modifier vous-même via vos coordonnées dans les canaux digitaux d'ING)
+* Être connecté à l'internet
+
+### Comment puis-je activer Apple Pay sur mon iPad?
+
+Comme sur un iPhone. Assurez-vous simplement que l'app ING Banking est installée sur votre iPad.
+
+### Comment puis-je activer Apple Pay sur mon ordinateur Mac?
+
+Allez dans " Préférences Système ", cliquez sur "Wallet et Apple Pay " et suivez les instructions. Ici, vous ne serez pas redirigé vers l'app ING Banking, mais vous devrez saisir et confirmer vous-même les détails de votre carte.

@@ -1,0 +1,12 @@
+# Paiements avec vos cartes en devises autres que l'Euro - ING Belgique
+
+## Vérifiez les taux de change en ligne
+
+Consultez les taux de change Mastercard , Visa et BCE en ligne .
+Assurez-vous d'avoir ces informations à portée de main afin d'obtenir un taux de change:
+* **Date** : saisissez la date de la transaction (les taux apparaissent quotidiennement à une heure spécifique; si antérieurs, vous obtenez le taux du jour précédent. Bien sûr, il n'y a pas de taux futurs disponibles) .
+* **Devise** : sélectionnez la devise dans laquelle vous souhaitez exécuter une transaction - par exemple : Zloty polonais.
+* **Montant** : entrez le montant de la transaction, par exemple. 100 PLN .
+* **Surtaxe de change** : entrez la surtaxe de change de la banque, par exemple pour une carte de débit: 3.9 % .
+* Entrez Euro pour la devise de votre compte .
+Vous obtiendrez alors un résultat sans frais de traitement d’ING/ contribution à ajouter, par exemple pour un retrait d'une carte de débit Maestro en dehors de la zone SEPA vers un distributeur de billets,+ 4,24 € et 0,30 % sur le montant retiré . Dans la zone SEPA c'est gratuit, sauf quand vous utilisez un Lion account (ING Do Basic) (+0,5€).

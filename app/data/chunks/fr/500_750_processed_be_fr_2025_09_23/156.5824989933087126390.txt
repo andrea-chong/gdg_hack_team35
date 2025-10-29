@@ -1,0 +1,7 @@
+# La carte de débit ING, avec Bancontact/Maestro // Bancontact/Mastercard et paiement sans contact. - ING Belgique - Carte de débit ING
+
+## Questions concernant la carte de débit avec les logos Bancontact et Mastercard
+
+### À quoi sert le code CVC disponible à l’arrière de la carte ?
+
+Le Card Validation Code, mentionné à l’arrière de la carte, peut être utilisé, comme c’est le cas pour une carte de crédit, pour effectuer des achats en ligne ou des réservations. C’est une preuve supplémentaire que vous êtes le détenteur de la carte. Ce code doit rester confidentiel au même titre que votre numéro de carte.

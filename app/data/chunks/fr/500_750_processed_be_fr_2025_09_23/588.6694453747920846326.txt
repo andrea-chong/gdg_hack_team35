@@ -1,0 +1,20 @@
+# Le compte d'épargne automatique pour les jeunes - ING Belgique - Épargne récurrente pour votre enfant
+
+## Risques
+
+Le ING Epargne Tempo est un compte d'épargne réglementé d'ING Belgique SA. Seul le droit belge est d'application.
+**Risque de faillite** : En cas de faillite ou de risque de faillite de l’établissement financier, l’épargnant supporte le risque de ne pas retrouver son épargne ou peut se voir imposer une diminution / conversion en actions de capital (Bail-in) du montant des créances qu’il possède sur l’établissement financier au-delà de 100.000 euros, montant qui tombe sous le mécanisme de protection des dépôts. Vous pouvez obtenir plus d’informations sur ce système de protection sur le site internet
+Fonds de garantie et Fonds de protection | (belgium.be)
+**Risque d’inflation** : La hausse continue des prix pourrait faire perdre de la valeur à l’argent déposé.
+
+## Épargner pour votre enfant
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Facile à ouvrir | Envie d'épargner pour votre enfant ? Commencez tout de suite. Ouvrez votre compte d'épargne en ligne via votre canal numérique préféré ou dans une de nos agences. Votre enfant disposera du montant de ce compte d'épargne le jour de son 18e anniversaire. Ce compte d'épargne ne peut être ouvert qu'à un seul nom (un seul compte par enfant). |
+| Contrôle parental | Vous voulez garder un œil sur eux ? Vous pouvez le faire via votre ordinateur ou votre smartphone, jusqu'à ce que votre enfant atteigne l'âge de 18 ans. |
+| Sans frais supplémentaires | Ouvrez, clôturez et gérez votre compte d'épargne gratuitement. Les extraits de compte peuvent être consultés via les canaux numériques. |
+| Dépôt | Pas de montant minimum, maximum de 500€ par mois. Sur ce compte d'épargne, vous épargnez par le biais d'un ordre permanent de votre compte à vue ou du compte à vue de votre enfant vers le compte d'épargne de votre enfant. |
+| Gestion du compte | Ce compte ne peut être géré que numériquement. |
+END TABLE IN MARKDOWN

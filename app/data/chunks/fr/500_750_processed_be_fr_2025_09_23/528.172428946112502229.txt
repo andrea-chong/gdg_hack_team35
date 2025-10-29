@@ -1,0 +1,12 @@
+# Liste opérations cash guichet - ING Belgique - Opérations en cash au guichet d'une agence
+
+## Retirer, déposer ou échanger des euros
+
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Action | Procedure | Bon à savoir |
+| Retirer des billets (< 5.000 €). | Retirez\-les dans n'importe quel distributeur de billets en Belgique. | Inutile de commander |
+| Retirer des billets (> 5.000 €). | Prévoyez de commander : A partir de Home'Bank ou Dans l'app ING Banking : 'Services' > ‘Gérez vous\-même’ > ‘Paiement & cash’ > 'Commander des euros' Contactez le Service client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h | Commandez vos billets au moins 2 semaines à l’avance Coupures disponibles : 5 €, 10 €, 20 €, 50 €, 100 €, 200 € En Belgique, la limite légale pour payer ‘en cash’ est de 3.000 € |
+| Retirer un montant en pièces. | Prévoyez de commander : A partir de Home'Bank ou Dans l'app ING Banking : 'Services' > ‘Gérez vous\-même’ > ‘Paiement & cash’ > 'Commander des euros' Contactez le Service client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h | Commandez vos rouleaux de pièces au moins 2 semaines à l’avance Les rouleaux de pièces sont disponibles dans les dénominations allant de 0,05 € à 2,00 € |
+END TABLE IN MARKDOWN

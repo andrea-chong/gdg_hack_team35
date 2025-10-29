@@ -1,0 +1,27 @@
+# La carte de débit ING, avec Bancontact/Maestro // Bancontact/Mastercard et paiement sans contact. - ING Belgique - Carte de débit ING
+
+## Questions concernant la carte de débit avec les logos Bancontact et Mastercard
+
+### Quand vais-je recevoir la nouvelle carte de débit Bancontact/Mastercard ?
+
+Vous ne devez rien faire, nous remplacerons votre carte de débit automatiquement dans le courant de l’année 2024 ou 2025. Vous recevrez un message quand ce sera votre tour.
+
+### Pourquoi est-ce que je reçois une nouvelle carte de débit ?
+
+Cette nouvelle carte de débit ING avec le logo Mastercard vous offre une couverture plus large de paiements en ligne et hors Europe partout où vous trouvez le logo Bancontact ou Mastercard. Le réseau Maestro va progressivement disparaître pour toutes les banques dans les années à venir.
+
+### Y-a-t-il des coûts supplémentaires liés à cette carte ?
+
+Non, le remplacement de la carte est gratuit.
+
+### Quel code PIN dois-je utiliser avec cette nouvelle carte ?
+
+Vous conservez votre code PIN actuel. La carte doit cependant être activée en utilisant le code PIN soit en effectuant un paiement dans un magasin, soit en retirant de l’argent à un distributeur.
+Si vous avez demandé le remplacement de votre carte de débit pour suspicion de fraude, perte ou vol ou parce que vous n’avez pas reçu la carte de débit commandée, alors un nouveau code PIN sera lié à la carte débit que vous allez recevoir.
+Si vous ne vous souvenez pas de votre code PIN, vous pouvez le consulter via l’app ING Banking. Consultez le code PIN de votre carte de débit- ING Belgique - ING Belgique
+
+### Comment activer les paiements mobiles avec ma nouvelle carte de débit ?
+
+Pour pouvoir effectuer des paiements mobiles, ajoutez votre carte via l'app ING Banking:
+- Apple Pay: Services > Paramètres > Apple Pay- Google Pay: Services > Paramètres > Google Pay - Click to Pay: Services > Paramètres > Click to Pay
+- Bancontact: Services > Paramètres > Paiements mobiles > Carte liée

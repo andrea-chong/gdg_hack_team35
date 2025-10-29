@@ -1,0 +1,35 @@
+# Your budget - ING Belgium
+
+## FAQ
+
+### Which transactions are in scope?
+
+Transactions for each current account you are holder of or have a mandate on.
+
+### How fast are my transactions categorized?
+
+It takes 2 to 4 days for your transactions to be visible in 'Your budget'.
+
+### How can I change the category that was applied?
+
+You can change a category as follows: click on the category and you will see the transactions that belong to it. Do you think a transaction does not belong here? Go to the details (by clicking on the transaction) and click on the category to change it. Do you always want similar transactions in that category from now onwards? You can indicate this directly there: you will receive a list of similar transactions and you can immediately convert them to another category.
+
+### How can I settle an amount?
+
+You can settle an amount as follows: click on a category and you will see the transactions that belong to it. Is there 1 of the transactions for which you got reimboursed? Go to the details (by clicking on the transaction) and click on 'settle the amount'. You will then be able to indicate the amount you got reimboursed. Only the remaining part of the initial amount will be considered in your budget allocation.
+
+### Is this feature with extra costs?
+
+'Your budget' is part of all payment packages. There are no additional costs associated.
+
+### Can I add new categories myself?
+
+No. You can only choose from the existing categories. It is not possible to add categories or change the name yourself.
+
+### How far in the past can I check my categorized transactions?
+
+You can look at the current calendar year and the two years before that.
+
+### Can I use 'Your budget' as financial advice?
+
+No, we try to give you the best possible insight. We cannot guarantee that all categories linked to transactions are always correct. 'Your budget' cannot be seen as financial advice, but as a tool for more overview and insight into your financial affairs. We do nothing with the data that 'Your budget' provides. It's really just for you.

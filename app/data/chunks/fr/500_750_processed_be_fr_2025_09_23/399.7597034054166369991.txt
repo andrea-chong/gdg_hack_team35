@@ -1,0 +1,25 @@
+# Comment utiliser itsme® pour les services bancaires en ligne - ING Belgique - Tout savoir sur itsme®
+
+## Questions fréquemment posées
+
+### Je n’arrive pas à me connecter avec itsme®. Que dois-je faire ?
+
+Vérifiez d’abord que votre compte itsme® est actif via Home’Bank ou Business’Bank. (Connectez-vous avec l’ ING QR Code ou avec votre carte bancaire et votre lecteur de carte.)
+Si vous ne parvenez toujours pas à vous connecter à votre compte itsme®, consultez les questions fréquentes sur cette page ou sur le site internet d’itsme®. Si le problème persiste, vous pouvez aussi contacter le helpdesk d’itsme® en remplissant le formulaire électronique .
+
+### Comment débloquer mon compte itsme®?
+
+Vous pouvez débloquer votre compte itsme® via Home’Bank/Business'Bank
+Connectez-vous à l'aide de l’ING QR Code qui apparait (nécessite l'app ING Banking afin de le scanner) ou avec votre carte bancaire et votre lecteur de carte. Suivez ensuite les étapes indiquées.
+
+### Je ne parviens pas à signer les paiements en ligne avec itsme®. Que dois-je faire ?
+
+Pour pouvoir utiliser itsme® pour signer des paiements en ligne avec Bancontact, Maestro, Visa et Mastercard (cartes Business incluses), les conditions suivantes s’appliquent :
+* Vous avez installé avec succès l’app itsme® sur votre smartphone.
+* Vous avez déjà utilisé itsme® au moins une fois avec ING, par exemple pour vous connecter à Home’Bank ou Business’Bank ou installer l’app ING Banking.
+
+### Comment installer l'app ING Banking avec itsme® ?
+
+1. Téléchargez l'app ING Banking via l'App store (iOS) ou Google Play (Android).
+2. Ouvrez l'app ING Banking sur votre smartphone et suivez les étapes.
+Vous avez besoin d'aide ? Regardez cette vidéo et les instructions pas à pas.

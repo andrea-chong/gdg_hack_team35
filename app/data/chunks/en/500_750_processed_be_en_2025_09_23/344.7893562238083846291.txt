@@ -1,0 +1,25 @@
+# How to use itsme® for online banking - ING Belgium - All about itsme®
+
+## Frequently asked questions
+
+### What exactly is itsme® and what are the conditions for creating an itsme® account?
+
+Belgian Mobile ID is a joined project of Belgium's leading banks and mobile telecom providers. Itsme® provides all Belgian citizens with a unique and secure mobile identity. So there can no longer be any doubt about the identity of the person trying to enter a secure site or sign a transaction or electronic document online.
+To be able to create an account you
+* Are over 16 years old.
+* Hold a Belgian electronic identity card.
+* Have a mobile number, equipped with an Apple or Android operating system.
+**Note** : only 1 account per person and per mobile phone number is allowed.
+
+### Tips before installing itsme®
+
+1. Make sure the mobile phone number you’ve given to ING is up to date. You can update your **phone number** and **contact details** via your personal settings in the ING Banking app, Home’Bank or Business’Bank .
+2. Check that your **identity details** are up to date. For example, if you’ve received a new Belgian electronic identity (eID) card since your last contact with ING, please take a moment to share your new ID card information via one of the ING kiosks at your local ING branch. The ING kiosk machine is located at the entrance to the branch, no need to worry about opening hours. If you have an eID card reader you can also share your updated details with us online via this link .
+
+### How do I activate itsme® for the first time?
+
+1. Check if your personal details are up to date before activating itsme®.
+2. Download the itsme® app on your smartphone.
+3. Open the itsme® app, enter your mobile phone number and choose ING below the identification method.
+4. Accept the exchange of your identity details with ING.
+5. Finalize the creation of your itsme® profile in the ING Banking app.

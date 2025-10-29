@@ -1,0 +1,5 @@
+# Zoomit - Frequently asked questions - ING Belgium - Zoomit Frequently asked questions
+
+### How do I deactivate Zoomit?
+
+Zoomit cannot be deactivated. You can block senders from your Home'Bank. Log in using the ING Banking app or itsme®. Click on "Zoomit" under the "Transfers" tab and select the "Settings" option. Then click on "My senders" and uncheck the "Invoice via Zoomit" option.

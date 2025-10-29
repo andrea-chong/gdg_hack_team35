@@ -1,0 +1,34 @@
+# Kijk Vooruit naar je budget voor de komende maand - ING België
+
+## Welke transacties kan je hier terugvinden?
+
+Kijk Vooruit toont de volgende transacties voor je (Euro) zichtrekening, waarbij 35 kalenderdagen vooruit gekeken wordt.
+* Geplande uitgaande doorlopende betalingsopdrachten
+* Geplande uitgaande memobetalingen
+* Geplande SEPA-domiciliëringen
+* Voorspelde SEPA-domiciliëringen(*Omdat SEPA-domiciliëringen pas vlak voor afschrijving zeker zijn, proberen we deze al te voorspellen op basis van je transactiehistoriek: je betaalt bv. maandelijks voor energie & telefonie en op basis van dat patroon verwachten we ook een betaling in de toekomst. Voorspellingen hebben steends een onzekere factor (ook van toepassing op je voorspelde inkomende transacties)!)
+* Voorspelde inkomende transacties
+* Geplande (periodieke) geldstortingen op je beleggingsrekening(en) (incl. Star Fund)
+* Geplande terugbetalingen op het hypothecair krediet (met uitzondering van betalingen in het kader van “Aanvraag vrijgave geldschijven”, ex-Record Bank leningen en achterstallige betalingen).
+
+## Hoe kan je 'Kijk Vooruit' gebruiken?
+
+1. 1
+
+#### Klik op de 'Kijk Vooruit' knop op je transactieoverzicht
+
+In je ING Banking-app of in Home’Bank
+2. 2
+
+#### Activeer 'Kijk Vooruit'
+
+Je moet deze tool eerst even activeren voor gebruik
+3. 3
+
+#### Bekijk regelmatig het overzicht van je toekomstige betalingen
+
+Dit overzicht is voortaan beschikbaar per zichtrekening via de 'Kijk Vooruit' knop
+
+## Wat gebeurt er met mijn gegevens?
+
+Wanneer je Kijk Vooruit activeert, wordt je uitdrukkelijke toestemming gevraagd voor het analyseren van je transactiehistoriek. Deze analyse gebeurt louter met oog op gebruik van deze tool en je gegevens worden niet gedeeld met of verkocht aan derden.

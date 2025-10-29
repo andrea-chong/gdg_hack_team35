@@ -1,0 +1,21 @@
+# Find an ATM - ING Belgium - How to easily find an ATM ?
+
+Cash continues to be popular. There are still plenty of ATMs in Belgium, among which more than 650 CASH points.
+* Find an ATM for Withdrawal
+
+### You can withdraw cash in euros from any ATM in Belgium. Febelfin helps you to locate them.
+
+    + Select the option "In de buurt"Expand
+    + Type location or post code
+    + Results appear on the right of the map
+    + Type location or post code
+    + Results appear on the right of the mapFind an ATM for Withdrawal
+* Find an ATM for Deposit
+
+### You can deposit cash in euros at ATMs of your bank or in the joint network of the CASH points
+
+    + Type location or post codeExpand
+    + Select the option "Cash deposit possible"
+    + Results appear directly on the map
+    + Select the option "Cash deposit possible"
+    + Results appear directly on the mapFind a CASH point for Deposit

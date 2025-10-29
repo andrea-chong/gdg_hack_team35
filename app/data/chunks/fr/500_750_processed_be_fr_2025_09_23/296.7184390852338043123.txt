@@ -1,0 +1,20 @@
+# Limites journalières pour vos transactions bancaires - ING Belgique - Tout sur les limites
+
+## Limites pour jeunes (moins de 18 ans)
+
+### Paiements dans les commerces ou en ligne
+
+Les limites suivantes sont définies **par défaut.** Elles s'appliquent aux paiements par carte de débit ainsi qu'aux paiements Bancontact en magasin ou en ligne via l'app ING Banking.
+Vous avez entre 16 et 17 ans
+* **Carte de débit :** 500 € par période de 7 jours
+Vous avez entre 10 et 15 ans
+* **Carte de débit :** 50 € par période de 7 jours (Maestro) / 100 € par période de 7 jours (Mastercard)
+\*Pour les transactions Wero, les limites suivantes s'appliquent entre 10 et 17 ans : Paiements par QR code hybride (Wero/Bancontact): maximum de 250 euros par transaction et par 24 heures. Paiements vers des contacts téléphoniques : dépend de la limite définie selon le contrôle parental/tuteur. Demande de paiement vers des contacts téléphoniques : maximum de 750 euros par demande.
+
+### Retraits d'espèces en euros et dépôts d'argent
+
+Les limites suivantes s'appliquent aux retraits d'espèces en euros ou dépôts d'argent aux distributeurs de billets ING.
+Vous pouvez également retirer de l'argent aux distributeurs automatiques d'autres banques partout dans la zone euro.
+Les limites applicables à ces distributeurs automatiques peuvent différer de celles d'ING.
+* **Vous avez entre 16 et 17 ans :** 125 € par 7 jours
+* **Vous avez entre 10 et 15 ans :** 50 € par 7 jours

@@ -1,0 +1,7 @@
+# Se connecter et signer avec l’ING QR Code - ING Belgique - Connectez-vous à Home'Bank ou Business'Bank avec l'app ING Banking
+
+## Questions fréquemment posées
+
+### L'écran de confirmation pour la signature n'apparaît pas dans votre app ?
+
+Il est possible que vous ne receviez pas la notification de signature dans votre app. Pour résoudre cela, actualisez la page d'accueil ou déconnectez-vous un moment, puis reconnectez-vous.

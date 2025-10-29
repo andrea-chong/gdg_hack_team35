@@ -1,0 +1,22 @@
+# Pourquoi ma carte de débit ne fonctionne pas ? - ING Belgique - Votre carte de débit ne fonctionne pas ou est bloquée ?
+
+## Vous avez un problème avec votre code PIN ?
+
+### Regarder ou recevoir le code PIN d'une nouvelle carte de débit
+
+Après réception de votre nouvelle carte, vous pouvez vérifier votre code PIN dans l'app ING banking.
+Si vous recevez une nouvelle carte suite au blocage de la précédente ou s'il s'agit de votre première carte, vous pouvez consulter votre nouveau code PIN en scannant le code QR qui figure sur la lettre accompagnant votre nouvelle carte (installer via itsme) ou également demander un nouveau code PIN par SMS ( suivez les instructions et commencez à utiliser votre carte de débit !).
+Si vous recevez une nouvelle carte suite au remplacement d'une carte défectueuse ou au renouvellement d'une carte arrivant (bientôt) à échéance, votre code PIN reste le même.
+Vous n'avez pas de GSM ou vous avez manqué la date limite de demande par SMS ? Votre code PIN vous sera envoyé par courrier.
+Afin d'être sûr(e) qu'elle vous soit envoyée à la bonne adresse, vérifiez que nous avons votre adresse correcte dans nos systèmes:
+* via l'App ING banking > Allez dans l'onglet Services > Données personnelles > Domicile ou Adresse de correspondance
+* via Home'Bank > votre profil en haute à droit de l'écran > Données personnelles > Domicile ou Adresse de correspondance
+
+### Vous avez tapé un code PIN erroné trois fois de suite
+
+**Votre carte de débit est automatiquement bloquée lorsque vous tapez trois fois de suite un code erroné** .
+Visualisez votre code PIN dans l'App ING Banking ! En faidant cela, vous débloquez votre carte de débit.
+
+### Votre lecteur de carte n’accepte pas votre nouveau code PIN
+
+Nous vous conseillons de modifier votre code PIN en vous rendant à un distributeur automatique ( ING ou autre banque ou point CASH Bancontact : sélectionnez « modifier code PIN ».

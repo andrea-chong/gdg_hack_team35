@@ -1,0 +1,5 @@
+# Extraits de compte - Foire aux questions - ING Belgique - Extraits de compte Questions Fréquemment posées
+
+### Que faire si je rencontre un incident lors d'un téléchargement d'extraits de compte ?
+
+Il peut s’agir d’un problème technique. Veuillez essayer avec un autre navigateur ou réinitialiser les cookies de votre navigateur. Si vous le faites via votre ING Banking App, vérifiez qu'elle est bien mise à jour.

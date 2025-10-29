@@ -1,0 +1,12 @@
+# Liste opérations cash guichet - ING Belgique - Opérations en cash au guichet d'une agence
+
+## Retirer, déposer ou échanger des euros
+
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Echanger des billets et pièces en euros. | Prenez rendez\-vous dans une agence ING, disposant d’une caisse : A partir de Home'Bank ou Dans l'app ING Banking : 'Services' > ‘Gérez vous\-même’ > ‘Paiement & cash’ > 'Echanger des euros' Contactez le Service client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h | Frais d’échange : 3,00 € par transaction Montant maximum d’échange : 1.250 € |
+| Déposer un montant en billets (< 10.000 €). | Utilisez n’importe quel distributeur de billets ING ou point CASH équipé d'un terminal Cash In/Cash Out. | |
+| Déposer un montant en billets (> 10.000 €). | Demandez un rendez\-vous dans une agence ING, disposant d’une caisse : A partir de Home'Bank Dans l'app ING Banking : 'Services' > ‘Gérez vous\-même’ > ‘Paiement & cash’ > 'Déposer des euros' Contactez le Service client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h | Comptage des billets en agence et versement immédiat sur le compte. |
+| Déposer un montant en pièces. | Demandez un rendez\-vous dans une agence ING, disposant d’une caisse : A partir de Home'Bank Dans l'app ING Banking : 'Services' > ‘Gérez vous\-même’ > ‘Paiement & cash’ > 'Déposer des euros' Contactez le Service client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h | Le dépôt minimum est de 50 pièces Le poids maximum par sac sécurisé est de 10 kg Les dépôts peuvent prendre jusqu'à 2 semaines. Nous verserons au plus vite le montant sur votre compte |
+END TABLE IN MARKDOWN

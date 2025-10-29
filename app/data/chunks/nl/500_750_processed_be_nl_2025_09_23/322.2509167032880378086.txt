@@ -1,0 +1,11 @@
+# Betalingen met uw debet- en kredietkaart in andere valuta dan euro - ING België - Betalingen met je debet- en kredietkaart in andere valuta dan euro
+
+## Hoe bereken ik de kosten bij betalingen en geldopnemingen in andere valuta?
+
+### ING Card kredietkaart
+
+* Koersopslag of wisselmarge : 2 % op bedrag
+* Welke wisselkoers gebruiken? ECB (indien niet in lijst(** Lijst ECB valuta: AUD, BGN, CAD, CHF, CZK, DKK, GBP, HRK, HUF, ISK, JPY, NOK, NZD, PLN, RON, RUB, SEK, TRY, USD en ZAR.) -> Mastercard )
+* Betaling buiten SEPA zone (winkel, Online) : geen kosten
+* Geldopneming geldautomaat (behandelingskost + vergoeding) : (* Tarief van de meest voorkomende bankdiensten en - verrichtingen voor privégebruik)6 € + 1 % opgenomen bedrag
+* Geldopneming in bankkantoor buiten SEPA zone (behandelingskost + vergoeding) : \*8 € + 1 % opgenomen bedrag

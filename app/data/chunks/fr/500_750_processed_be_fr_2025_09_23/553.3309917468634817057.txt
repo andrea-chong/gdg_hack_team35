@@ -1,0 +1,23 @@
+# Consulter et modifier mes données personnelles - ING Belgique
+
+## Questions fréquentes
+
+### Quels sont les documents valables pour demander un changement d’adresse ?
+
+Si votre nouvelle adresse se trouve **en Belgique** , vous pouvez facilement la renseigner à l’aide d’itsme® ou manuellement. Vous n’avez pas besoin de nous fournir des documents supplémentaires.
+Si votre nouvelle adresse se trouve **dans l’Union européenne** , vous pouvez la prouver à l’aide d’une photo ou d’un scan d’un des documents suivants :
+* Permis de conduire
+* Déclaration d’impôt (datant de moins d’un an)
+* Décompte d’impôts (datant de moins d’un an)
+* Convocation électorale (datant de moins d’un an)
+* Document de la sécurité sociale (datant de moins d’un an)
+* Décompte d’électricité, de gaz ou d’eau (datant de moins de 3 mois)
+* Déclaration d’un notaire ou acte notarié établi dans l’UE (datant de moins de 3 mois)
+Veillez à ce que l’adresse soit clairement indiquée sur le document et corresponde à l’adresse que vous introduisez manuellement. Téléchargez un fichier unique dans un des formats suivants : jpg, jpeg, png, pdf, bmp.
+Si votre nouvelle adresse se trouve **en dehors de l’Union européenne** , vous pouvez la prouver à l’aide d’une photo ou d’un scan d’un des documents suivants :
+* Carte d’identité
+* Permis de conduire
+* Déclaration d’impôt (datant de moins d’un an)
+* Décompte d’impôts (datant de moins d’un an)
+* Convocation électorale (datant de moins d’un an)
+Veillez à ce que l’adresse soit clairement indiquée sur le document et corresponde à l’adresse que vous introduisez manuellement. Téléchargez un fichier unique dans un des formats suivants : jpg, jpeg, png, pdf, bmp.

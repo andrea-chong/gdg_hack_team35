@@ -1,0 +1,18 @@
+# Doorlopende betalingsopdrachten in euro (SEPA) - Betalen - ING België - ING België - Doorlopende betalingsopdracht in euro (SEPA)
+
+## Alles over de doorlopende betalingsopdracht
+
+### Aanmaken, stopzetten en veranderen
+
+Aanmaken Je maakt heel makkelijk een doorlopende betalingsopdracht in euro (SEPA) aan in Home'Bank of in de Kiosk of nog via de ING Banking -app voor smartphone.
+* In Home'Bank, klik bovenaan je scherm op "Overschrijven" en vul de gegevens in van de begunstigde, het bedrag en de mededeling (indien nodig). Kies "Periodiek" en selecteer de frequentie. Klik op "Verstuur" om jouw doorlopende opdracht aan te maken.
+* Vanuit de ING Banking app, tik op de tab 'Overzicht' op 'Betalen' en selecteer 'Doe een overschrijving'. Vul vervolgens de gegevens in van de begunstigde, het bedrag en de communicatie (indien nodig). Klik op "Datum en frequentie" en selecteer de frequentie. Druk op "Bevestig" om jouw doorlopende opdracht aan te maken.
+Zodra de opdracht is aangemaakt, kan ze worden uitgevoerd.
+Stopzetten
+* Een doorlopende betalingsopdracht in euro (SEPA) zet je stop in Home'Bank :
+Meld je aan met de ING Banking-app of via itsme®. Klik op 'Betalingen' links op je scherm en kies dan de optie 'Gepland'. Selecteer de doorlopende opdracht die je wilt verwijderen en klik rechts op de oranje prullenbak.
+* Een doorlopende betalingsopdracht in euro (SEPA) zet je stop in ING Banking app:
+Tik op 'Geplande betalingen' in de tab 'Betalingen'. Indien nodig, kies de rekening waarvan de doorlopende opdracht uitgevoerd wordt. Selecteer de doorlopende opdracht die je wilt verwijderen en tik onderaan op 'Verwijder'.
+Wijzigen
+* Je kan jouw doorlopende opdracht wijzigen in Home'Bank . Log in met behulp van de ING Banking app of itsme®. Klik links op jouw scherm op "Betaalopdrachten" en kies vervolgens de optie "Betalingen". Selecteer de doorlopende opdracht die je wilt wijzigen en klik op "Aanpassen".
+* Je kan jouw doorlopende opdracht wijzigen vanuit je ING Banking app. Klik op het tabblad "Betalingen" op "Geplande betalingen". Kies de rekening waarop de doorlopende opdracht wordt uitgevoerd. Selecteer vervolgens de betreffende doorlopende opdracht en klik op "Wijzig".

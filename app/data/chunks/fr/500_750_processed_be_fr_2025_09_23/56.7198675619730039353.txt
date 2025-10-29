@@ -1,0 +1,26 @@
+# Reconnaissance faciale (face-id) ou par empreinte digitale - ING Belgique - Reconnaissance faciale et empreinte digitale dans l'app ING Banking
+
+## Questions fréquentes
+
+### Pourquoi je ne peux plus me connecter et/ou signer par empreinte digitale ou reconnaissance faciale ?
+
+Vérifiez les paramètres de l'app pour voir si la fonctionalité est bien activée
+
+### Pourquoi je ne trouve pas 'Empreinte digitale' ou 'Face ID' dans les paramètres de l'app ?
+
+Vérifiez les points suivants:
+1. Votre smartphone doit disposer d’un lecteur d’empreintes digitales ou de la reconnaissance faciale. Cette technologie n'est pas disponible sur certains smartphones
+2. Vérifiez si vous avez configuré votre empreinte digitale ou votre visage sur votre smartphone
+3. Accédez aux paramètres généraux de votre smartphone > paramètres d'Applications > sélectionnez l'application ING banking > vérifiez si l'utilisation des composants biométriques est autorisée
+
+### Que se passe-t-il si l’empreinte digitale ou la reconnaissance faciale génère une erreur ?
+
+Vous disposez de 2 tentatives avec votre empreinte digitale et votre reconnaissance faciale. Après vous devez saisir votre code PIN.
+
+### Gérer votre argent partout ?
+
+Oui, avec l'app ING Banking Gérer votre argent partout ?
+
+### Gérer votre argent partout ?
+
+Oui, avec l'app ING Banking Gérer votre argent partout ? Plus de services et comment nous contacter

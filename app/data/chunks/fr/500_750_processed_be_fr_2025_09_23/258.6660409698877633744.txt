@@ -1,0 +1,39 @@
+# Wero - ING Belgique
+
+## Questions fréquemment posées
+
+### Qui peut utiliser Wero?
+
+Tous les clients ING disposant d'un compte à vue et de l'app ING Banking. La pluspart de grandes banques européennes offrent déjà la possiblité de payer via Wero ce qui permet d’effectuer des operations transfrontalières.
+
+### Comment activer Wero ?
+
+Wero est déjà intégré dans ING Banking app. Pour vérifier si vous utilisez Wero, allez dans Services -> Paramètres -> Wero.
+* Vous voyez une option "Supprimer Wero" ? Cela signifie que vous utilisez déjà les paiements Wero, reconnaissables à l'icône Wero sur l'écran de confirmation du paiement.
+* Vous voyez une introduction à Wero ? Dans ce cas, il vous suffit d'effectuer un paiement via un QR code ou un paiement à un contact téléphonique pour être invité à créer un portefeuille Wero.
+
+### Dois-je payer pour utiliser Wero?
+
+Non, seuls les comptes professionnels sont soumis à des frais.
+
+### Puis-je effectuer des paiements dans d'autres devises que l'euro?
+
+Non, seul l'euro est autorisé.
+
+### Puis-je lier un compte professionnel à Wero?
+
+Oui, les paiements Wero fonctionnent également avec les comptes professionnels.
+
+### Quelles sont les limites d'un paiement Wero?
+
+Pour les paiements via QR code :
+* Limite par transaction : 250 €
+* Limite journalière : 250 € par tranche de 24 heures
+Pour les paiements via numéro de téléphone :La limite dépend des paramètres de votre profil. Pour vérifier, allez dans : Services → Paiements & Cash → Paiements → Limites
+Pour les demandes de paiement via numéro de téléphone :
+* Limite par transaction : 750 €
+* Pas de limite journalière
+
+### Combien de numéros de téléphone peuvent être liés à mon compte ?
+
+Vous pouvez associer jusqu'à 3 numéros de téléphone à votre compte.

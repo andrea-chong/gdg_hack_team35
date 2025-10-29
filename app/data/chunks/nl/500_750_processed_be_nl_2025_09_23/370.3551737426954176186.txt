@@ -1,0 +1,23 @@
+# Met de ING Banking-app kan je overal jouw bankzaken regelen - ING België
+
+## FAQ
+
+### Waarom kan ik m'n ING Banking-app niet downloaden of updaten?
+
+Waarschijnlijk heeft je toestel een verouderd besturingssysteem (OS).
+Lees er alles over in dit artikel: Waarom kan ik m'n ING Banking-app niet downloaden of updaten?
+
+### Ik heb mijn ING Banking-app geblokkeerd door 3 keer de verkeerde aanmeldcode in te voeren, wat moet ik doen?
+
+Tik op het inlogscherm op de kleine oranje "i" rechts bovenaan je scherm. Selecteer vervolgens '5-cijferige app-code vergeten?' en volg de stappen om de code van je ING Banking-app opnieuw in te stellen.
+
+### Kan ik de aanmeldcode van mijn ING Banking-app wijzigen?
+
+Druk op 'Diensten' rechtsonder op je scherm. Selecteer de optie 'Instellingen' in het menu 'Doe-het-zelf'. Kies dan 'Aanmeldcode app wijzigen'.
+
+### Kan ik de zichtbaarheid van mijn rekeningen wijzigen?
+
+* Je kan de zichtbaarheid van je rekeningen wijzigen vanuit je ING Banking-app.
+Ga naar het tabblad 'Overzicht' en druk op het pictogram 'instellingen' bovenaan uw scherm. Selecteer 'Alias en zichtbaarheid' en geef vervolgens aan waar uw rekeningen moeten worden weergegeven (in je ING Banking-app en/of in Home'Bank).
+* Wijzig de zichtbaarheid van uw rekeningen vanuit je Home'Bank.
+Meld je aan met behulp van de ING Banking-app of itsme®. Klik op het grijze pennetje rechts van uw zichtrekening. Kies vervolgens 'Alias en zichtbaarheid' en geef aan waar uw rekeningen moeten worden weergegeven (in je ING Banking-app en/of in Home'Bank).

@@ -1,0 +1,10 @@
+# List cash counter operations - ING Belgium - Cash Operations at the Cash Counter
+
+## Withdraw or deposit foreign currencies : CHF, GBP & USD
+
+START TABLE IN MARKDOWN
+| Wished action | Procedure | Remark |
+| - | - | - |
+| Order CHF, GBP or USD. | Request an appointment at the cash counter desk ( branch that offers a foreign currency service) : From Home'Bank or Open the ING Banking app on your smartphone and go to the 'Services'(menu on the bottom right of your screen) > Payments & cash > Order foreign currencies or Call Customer Services at +32 2 464 60 04, Monday to Friday from 8 am to 6 pm | You can withdraw these currencies if you already have a current account in that foreign currency Place your order at least 2 weeks in advance ING branch offices with cash foreign currencies service : Wemmel, Uccle Fort Jaco, Namur Centre, Barchon, Mons, Hasselt, Leuven, Antwerpen Metropool, Oostende\-Jet\-Center Fees: 2.25% of the amount, with a minimum fee of €13. The fee is due even in case of cancellation or no collection |
+| Deposit CHF, GBP or USD. | Request an appointment at the cash counter desk ( branch that offers a foreign currency service) : From Home'Bank or Open the ING Banking app on your smartphone and go to the 'Services'(menu on the bottom right of your screen) > Payments & cash > Deposit foreign currencies or Call Customer Services at +32 2 464 60 04, Monday to Friday from 8 am to 6 pm | You can deposit currencies if you already have a current account in that foreign currency ING branch offices with cash foreign currencies service : Wemmel, Uccle Fort Jaco, Namur Centre, Barchon, Mons, Hasselt, Leuven, Antwerpen Metropool, Oostende\-Jet\-Center We count the notes and credit your account. This can take up to 2 weeks, depending on the cash transport. Fees: 2.25% of the amount, with a minimum fee of €13 |
+END TABLE IN MARKDOWN

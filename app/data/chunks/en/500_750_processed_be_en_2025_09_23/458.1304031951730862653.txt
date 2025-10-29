@@ -1,0 +1,47 @@
+# Pay with Google Pay easily ! - ING Belgium
+
+## FAQ
+
+### Can I activate Google Pay on a running non-Android device?
+
+No, Google Pay can only be used with a device using Android as operating system.
+
+### Which card can you add to your wallet and Google Pay?
+
+Any ING debit or credit card linked to an ING current account.
+
+### How many cards can you add to your wallet and Google Pay?
+
+The latest devices accept up to 12 different cards in the Google Wallet app.
+
+### How do you change your default card for Google Pay?
+
+Smartphone
+* Go to "Wallet" on your device
+* Select the card you wish to set as default
+* Click on the card
+* Choose "Set as default card for contactless".
+
+### How do I remove a card from my Google Wallet?
+
+Go to "Wallet" on your device and tap on the card you want to delete.
+Once on the card, click on it and select "Delete payment method".
+You can now delete it from your phone and/or your Google account.
+Your card is now permanently deleted. Transactions made with this debit or credit card are no longer visible in the Google Wallet application.
+Please note! You cannot withdraw your ING debit or credit card via the ING Banking app, but only in the Google Wallet app itself.
+
+### Can I use Google Pay on several Android devices at the same time?
+
+Feel free to use Google Pay on several devices at the same time. However, to do so, you'll need to enrol debit or credit cards in the Google Wallet app on each device.
+
+### You have a new Android device and want to continue using Google Pay. How do you do this?
+
+Simply re-register your debit or credit card(s) in the Google Wallet application on this device.
+
+### Can you use Google Pay abroad?
+
+Yes, feel free to pay with Google Pay at any merchant outside Belgium that accepts Maestro / Mastercard / Visa and displays the Google Pay logo and contactless payment symbol.
+
+### Where can you pay with Google Pay?
+
+In all stores equipped with a contactless payment terminal that accepts Maestro / Mastercard / Visa.

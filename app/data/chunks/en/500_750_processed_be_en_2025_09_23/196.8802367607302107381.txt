@@ -1,0 +1,7 @@
+# Log in and sign with Card Reader - ING Belgium - Looking for your card reader? There might be an easier way...
+
+## Frequently asked questions
+
+### The confirmation screen for the signature doesn't appear in your app?
+
+It may happen that you don't see the notification appear in your app. Solving this issue is easy. Just refresh the overview page or log out and in again.

@@ -1,0 +1,11 @@
+# Cash verrichtingen cash-loket - ING België - Cash verrichtingen aan het Cash-loket van een kantoor
+
+## Geld opnemen, wisselen en storten: euro
+
+START TABLE IN MARKDOWN
+| Actie | Procedure | Goed om te weten |
+| - | - | - |
+| Eurobiljetten opnemen (< € 5.000). | Opnemen aan elke geldautomaat overal in België | Geen bestelling nodig |
+| Eurobiljetten opnemen (> € 5.000). | Bestel vooraf: Meld je aan in Home’Bank Gebruik de ING Banking\-app: 'Diensten' > ‘Doe\-het\-zelf’ > ‘Betalingen & cash' > 'Euro's bestellen’ Bel +32 2 464 60 01 (ma\-vr, 8\-18 uur) | Bestel minstens 2 weken vooraf Beschikbare coupures: € 5, € 10, € 20, € 50, € 100, € 200 Wettelijke limiet voor cashbetalingen in België: € 3.000 |
+| Euromuntstukken bestellen. | Bestel vooraf: Meld je aan in Home’Bank Gebruik de ING Banking\-app: 'Diensten' > ‘Doe\-het\-zelf’ > ‘Betalingen & cash' > 'Euro's bestellen’ Bel +32 2 464 60 01 (ma\-vr, 8\-18 uur) | Bestel 2 weken vooraf Beschikbare muntstukken variëren van € 0,05 tot € 2 per rol |
+END TABLE IN MARKDOWN

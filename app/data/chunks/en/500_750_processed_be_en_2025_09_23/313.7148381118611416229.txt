@@ -1,0 +1,33 @@
+# Apple Pay: Pay fast and safe - ING Belgium
+
+## Pay fast and safe with your iPhone or Apple Watch by linking your ING debit card or credit card to Apple Pay today.
+
+Apple Pay brings a new dimension to mobile payments whether in-store, online or via apps.
+Switch to contactless with Apple Pay now - it's simple, fast and highly secure!
+
+## About Apple Pay
+
+* ### Simple
+No need for a PIN code when paying, you confirm your identity with Face ID (facial recognition) or Touch ID (fingerprint).
+* ### Secure
+Apple Pay uses a specific number linked to your device and a unique transaction code. Your debit card or credit card number is never stored on your device or on Apple's servers, nor is it shared with merchants.
+* ### Convenient
+For in-store payments, most payment terminals¹ accept contactless payment so all you need to do is present your iPhone/Apple Watch. For online or in-app payments, simply choose the Apple Pay option1 from your iPhone/iPad. In addition, payments of more than 50 euros contactless are accepted!
+
+## Set up Apple pay (2 options)
+
+### Activate Apple Pay via your ING Banking app
+
+Log in > Tap 'Services' > Choose 'Settings' > Tap 'Apple Pay' > Select your ING debit or credit card > Follow the prompts to link your card.
+
+### Activate Apple Pay via Apple Wallet
+
+* Open Apple Wallet > Press + and follow the prompts to link your ING debit or credit card.
+* For your Apple Watch : first add your ING debit or credit card to your Apple Wallet. Select the debit or credit card you wish to use with your Apple Watch via the Apple Watch app.
+* For your iPad: set up is just like on an iPhone. Just make sure you have the ING Banking app installed on your iPad.
+* For your Mac : go to 'System Preferences', click on 'Wallet and Apple Pay' and follow the instructions. Here you are not redirected to the ING Banking app, and you must enter and confirm your debit or credit card details manually.
+
+## Video
+
+Because a few pictures are better than a long speech - how to link your card(s)
+How to pay with your mobile

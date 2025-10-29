@@ -1,0 +1,29 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgique - Déclaration d’ING Belgique S.A. pour la protection des données à caractère personnel
+
+## Déclaration d’ING Belgique S.A. pour la protection des données à caractère personnel
+
+### Supplément 2 à la Déclaration d'ING Belgique SA sur la protection des données à caractère personnel : utilisation des systèmes d'intelligence artificielle
+
+**A) Utilisation de l'IA par ING Belgique SA et/ou autres entités du Groupe ING**
+ING Belgique SA et/ou toute autre société du groupe ING établie dans l'Union européenne peut utiliser (y compris développer ou tester) des systèmes d'intelligence artificielle (IA) qui traitent vos données à caractère personnel conformément à la législation applicable.
+Ils peuvent, en particulier, utiliser (y compris développer ou tester) des systèmes AI :
+• à des fins commerciales (y compris à des fins statistiques), afin de :
+• rendre les processus plus faciles et rapides ainsi que permettre des services bancaires, financiers et d'assurance plus personnalisés, et
+• répondre aux attentes de nos clients pour que les services bancaires, financiers et d’assurance soient aussi instantanés, personnels, pertinents et conviviaux que possible, ou
+• à des fins opérationnelles (y compris de sécurité), notamment pour accroître l'efficacité de nos processus automatisés ou pour mieux prévenir et combattre la (cyber)fraude, ou
+• afin de se conformer à leurs obligations légales, notamment en matière de prévention et de lutte contre la criminalité financière (y compris le blanchiment de capitaux, le financement du terrorisme et la fraude fiscale).
+B) Utilisation de l'IA par ING Belgique SA
+ING Belgique SA peut, en particulier, utiliser des systèmes d’intelligence artificielle pour les principales activités de traitement et finalités suivantes :
+• réaliser des études statistiques ;
+• élaborer des modèles prédictifs et non prédictifs, y compris un modèle d'analyse du risque de crédit fondé sur l'apprentissage automatique, afin d'améliorer les décisions automatisées en matière de crédit;
+• exécuter des procédures de connaissance du client (know your customer ou KYC) ou des
+procédures de vigilance à l'égard de la clientèle (customer due diligence ou CDD), conformément à la législation relative à la lutte contre le blanchiment d’argent et le financement du terrorisme;
+• optimiser les processus internes (p. ex., la vérification des documents);
+• améliorer la satisfaction de la clientèle en optimisant l'offre de produits pertinents.
+ING Belgique SA peut également utiliser des informations sur les systèmes d'IA génératives (c.à.d. des systèmes d’IA capables de créer des contenus originaux comme de nouveaux textes ou images) pour les activités de traitement et finalités suivantes :
+• améliorer notre fonctionnalité chatbot si vous utilisez le chat, disponible à partir de l'application ING Banking. Si vous utilisez un tel Chatbot, vous serez informé que vous interagissez avec un système d'IA ;
+• créer du contenu marketing.
+C) Utilisation de l'IA par ING Bank NV
+Par exemple, ING Bank NV, en tant que société mère d'ING Belgique SA, peut traiter les données à caractère personnel des clients collectées et stockées à des fins de prévention de la criminalité financière et de la fraude d'ING Belgique SA, afin de vérifier l'efficacité et l'efficience du déploiement de solutions d'intelligence artificielle en vue d'améliorer les processus de prévention de la criminalité financière et de la fraude du Groupe ING.
+ING Bank NV effectue ces activités de test sur base de son intérêt légitime à utiliser une technologie de pointe afin d'assurer la prévention, la détection et l'endiguement de la criminalité financière et des activités frauduleuses et de contribuer à la sécurité et à la stabilité du système financier.
+Lorsqu'elle se fonde sur son intérêt légitime, la ING Bank NV veille à ce que le traitement reste proportionné, dans le respect des principes de protection des données dès la conception, et à ce que les intérêts, les droits fondamentaux et les libertés de la personne concernée soient sauvegardés.

@@ -1,0 +1,30 @@
+# Payconiq by Bancontact for your mobile payments - ING Belgium
+
+## Everything you need to know to make more easily mobile payments via Payconiq by Bancontact
+
+Would you like to pay with your mobile phone in shops or online? Or ask one of your friends to pay you back? Do it in a blink of an eye with Payconiq by Bancontact within your ING Banking App.
+* ### Simple & secure mobile payments
+Thanks to Payconiq by Bancontact, you can easily make payments with your mobile phone online or in shops. You no longer need to enter your card number to make online payments. Choose for payment by Bancontact and confirm it via your ING Banking App. You no longer need to enter a beneficiary, you can pay your phone contacts directly even if you do not know their account number.
+* ### A debt paid is a kept friend
+Simply send a payment request by message. Your contact only has to click on the link to reimburse you.
+* ### Contactless
+You can pay contactless in partner shops, even for amounts over €50. Simply scan the QR code displayed at the checkout and confirm the transaction on your mobile phone.
+
+### How do you activate Bancontact by Payconiq via the ING Banking App ?
+
+1. 1
+
+#### Download the ING Banking app
+
+It 's quick and easy I download the App.
+2. 2
+
+#### Go to your app
+
+Choose Services > Settings > Mobile payments
+3. 3
+
+#### Link at least one debit card Bancontact with a current account
+
+Linked cards>choose the card(s) to activate for mobile payments.
+Linked accounts>choose the account(s) to activate for mobile payments

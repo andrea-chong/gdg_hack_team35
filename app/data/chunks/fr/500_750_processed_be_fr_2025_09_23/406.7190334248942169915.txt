@@ -1,0 +1,23 @@
+# Vérification du nom du bénéficiaire - ING Belgique
+
+## FAQ
+
+### À quels paiements la vérification s'applique-t-elle ?
+
+Tous les virements que vous introduisez vous-même et qui sont effectués en euros, quel que soit le canal bancaire utilisé (banque à domicile, banque mobile, etc.) vers des comptes ouverts auprès de banques de la zone euro.
+
+### À quels paiements la vérification ne s'applique-t-elle pas ?
+
+* Paiements dans d'autres devises
+* Paiements par carte de paiement
+* Lorsque vous n'introduisez pas vous-même le numéro de compte et le nom du bénéficiaire, par exemple en scannant un code QR via Payconiq/Wero
+* Domiciliations
+
+### Quels sont les services prestés les banques belges qui vont au-delà de ce que le cadre juridique exige ?
+
+Un règlement européen sur les paiements (2024/886) fournit le cadre juridique. Pour vous protéger au maximum de la fraude, 16 banques belges [1] vont au-delà de ce que ce cadre légal exige :
+* Personnes morales : en cas d'erreur, la dénomination légale correcte du bénéficiaire est indiquée (si elle est disponible).
+* La vérification ne se limite pas aux comptes de paiement, mais s'applique également aux comptes d'épargne.
+* Si un compte a été récemment clôturé, cela est également signalé au payeur, afin qu'il ne confirme pas le virement.
+* Pour les personnes morales, tant les noms enregistrés auprès de leur banque que les noms légaux, les sigles et les noms commerciaux enregistrés auprès de la Banque-Carrefour des Entreprises (BCE) seront pris en compte autant que possible pour le 9 octobre 2025 au plus tard.
+[1] Argenta Spaarbank, Arkéa Direct Bank/Keytrade Bank, Bank Van Breda, Banque Nagelmackers, Banque CPH, Belfius Banque, Beobank, BNP Paribas Fortis, CBC Banque, Crelan, Delen Private Bank, Europabank, ING Belgique, KBC Bank, MeDirect, vdk Bank.

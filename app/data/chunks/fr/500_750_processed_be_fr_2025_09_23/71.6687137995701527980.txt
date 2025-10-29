@@ -1,0 +1,18 @@
+# Your budget - ING Belgique - Budget détaillé
+
+## La fonction qui vous donne un aperçu détaillé de vos habitudes de dépenses.
+
+À quoi consacrez-vous votre argent ? Êtes-vous curieux de connaître vos dépenses mensuelles liées à votre voiture ? Ou peut-être vous demandez-vous combien vous avez dépensé le mois dernier pour vos courses ?
+Alors nous avons quelque chose pour vous : 'Budget détaillé' est votre partenaire financier si vous voulez savoir où va réellement votre argent.
+Connaître ses habitudes financières permet de mieux maîtriser son budget !
+* Tous vos revenus et dépenses catégorisés
+* Une vue d'ensemble sur vos habitudes de dépenses
+* Comparez les catégories d'un mois à l'autre
+
+## La fonction
+
+### À quoi pouvez-vous vous attendre ?
+
+'Budget détaillé' répartit automatiquement toutes vos transactions dans des catégories prédéfinies, ce qui vous permet d'avoir une vue d'ensemble instantanée et facile de la répartition de votre budget. Dépenses fixes, shopping, transports, bars et restaurants, ... : nous avons prévu un grand nombre de catégories pour vous. Des sous-catégories sont également disponibles si vous souhaitez un aperçu encore plus détaillé.
+Vous pouvez accéder à cette fonctionnalité via le nouvel onglet 'Budget' du menu de l'application. Vous pouvez consulter les transactions classées par catégorie pour chaque compte à vue dont vous êtes titulaire ou sur lequel vous avez un mandat.
+Cette fonction vous aide à identifier les domaines dans lesquels vous pouvez réduire vos dépenses si vous souhaitez commencer à épargner, par exemple. Vous pouvez aussi simplement suivre l'évolution des différentes catégories au fil du temps.

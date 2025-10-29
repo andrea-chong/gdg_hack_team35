@@ -1,0 +1,22 @@
+# SEPA, IBAN et BIC : quèsaco ? - ING Belgique - Tout sur les termes SEPA, IBAN et BIC
+
+## SEPA, l’espace unique de paiements en euro
+
+Grâce au SEPA (Single European Payments Area ou espace unique de paiements en euro), tous les paiements s’effectuent de la même manière en Europe. Le SEPA couvre tous les États membres de l'Union Européenne, la Norvège, l'Islande, le Liechtenstein, la Suisse, Monaco, San Marino et la principauté d'Andorre.
+Grâce au SEPA, vous pouvez utiliser votre carte de débit partout en Europe de la même façon qu'en Belgique. De plus, les virements en euros et les domiciliations en euros en Europe ont été harmonisés via les codes IBAN et BIC.
+
+## IBAN
+
+L'IBAN est une méthode de transcription des numéros de comptes standardisée à l'échelle européenne. Un code IBAN se compose d'un code national, d'un numéro de compte et d'une clé de contrôle numérique. Retrouvez votre numéro IBAN directement sur votre carte de banque ou depuis l'aperçu de votre app ING Banking.
+* Exemple d'un IBAN au format électronique : BE61310126985517
+* Calculez l'IBAN de votre/vos numéro(s) de compte(s) . Vous pouvez aussi calculer votre IBAN dans Home'Bank : allez dans Infos > Calcul IBAN.
+
+## BIC
+
+Le BIC (Bank Identifier Code) est un code unique utilisé pour identifier les banques internationales. Lors d'un virement international, à l'intérieur ou à l'extérieur de l'Europe, vous devez renseigner le BIC de la banque du bénéficiaire.
+* Le code BIC d'ING Belgique est BBRUBEBB.
+* Vous pouvez trouver le BIC des autres banques internationales sur le site de Swift .
+
+## Le virement européen : un formulaire unique pour toute l’Europe
+
+Un formulaire de virement européen a été créé dans le cadre du SEPA. Celui-ci remplace les anciens formulaires de virement nationaux. Vous pouvez facilement gérer vos virements en euros via ce formulaire européen dans Home'Bank : allez dans Services > Paiements > Paiements domestiques > Ajout d'un virement (formulaire européen).

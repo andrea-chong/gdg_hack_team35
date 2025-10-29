@@ -1,0 +1,20 @@
+# Compte bancaire: découvrez le pack ING Do More - ING Belgique - Un compte bancaire qui simplifie votre quotidien
+
+## Informations détaillées sur les produits d'assurance inclus dans le pack ING Do More
+
+Le pack ING Do More comprend 2 produits d'assurance (assurances non-vie) soumis au droit belge et développés par AIG Europe S.A., société de droit luxembourgeois :
+- L'assurance achat L'assurance AIG vous rembourse en cas de vol par effraction ou de dommage accidentel de certains achats effectués à partir de votre compte à vue. La valeur minimale est de 50 euros TTC par article.
+- Assurance annulation de ticket L'assurance AIG rembourse le coût des tickets d'événements que vous avez payés sur votre compte bancaire si vous ne pouvez pas vous y rendre pour des raisons médicales, en cas de vol ou de problèmes de transport. Le montant minimum est de 25 euros TTC par ticket.
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Assurance Protection des achats | Assurance Annulation de ticket |
+END TABLE IN MARKDOWN
+**Quand commence la couverture et quand prend-elle fin ?**
+La garantie de ce contrat prend effet (i) pour un nouveau Compte Vert ING qui inclus le ING Do More pack, à compter de la date d’ouverture du compte lorsque la couverture d’assurance est incluse dans le compte ou (ii) pour un Compte Vert ING existant qui inclus le ING Do More pack, à compter de la date de la notification au titulaire du compte que la couverture d’assurance est intégrée dans le Compte Vert ING qui inclus le ING Do More pack. Toutes les garanties prennent fin immédiatement et expirent automatiquement en cas de non-renouvellement ou d’expiration du Compte Vert ING qui inclus le ING Do More pack ou si le présent contrat d’assurance/garantie souscrit ING auprès de AIG prend fin pour quelque raison que ce soit. En cas de résiliation du contrat collectif, quelle qu'en soit la raison, aucune autre couverture n'est accordée aux titulaires d'un Compte Vert ING qui inclus le ING Do More pack. À titre d'illustration uniquement, cela signifie que pour (i) l’assurance protection des achats, aucune autre couverture n'est accordée après la résiliation, même si les biens ont été achetés avant la résiliation de la couverture et (ii) pour l’assurance annulation de ticket, aucune autre couverture n'est accordée après la résiliation, même si les tickets ont été achetés avant la résiliation de la couverture.
+Comment soumettre une demande d'indemnisation ? Vous pouvez soumettre une réclamation en ligne via Qover : ingdomoreinsurances.qover.com . Vous serez redirigé vers le site Internet de Qover où vous pourrez soumettre votre demande et télécharger les documents/preuves nécessaires.
+**Vous n’êtes pas satisfait et souhaitez formuler une plainte ?**
+Contactez **Qover SA/NV, Département Médiation,** Rue du Commerce 31, 1000 Bruxelles Belgique - Tél : +32 2 588 25 50 via le formulaire de réclamation ou par e-mail : mediation@qover.com
+**Vous n'êtes toujours pas satisfait de la manière dont votre plainte a été traitée ?**
+Contactez le **Médiateur des assurances,** Square De Meeûs 35, B - 1000 Bruxelles - Tél : +32 2 547 58 71 - Fax : +32 2 547 59 75 - info@ombudsmaninsurance.be - www.ombudsman-insurance.be
+De quel type d'assurance s'agit-il ? Ce produit est une assurance collective souscrite par ING en tant que preneur d'assurance, avec affiliation automatique accordée aux clients d'ING qui disposent d'un ING Do More Pack (inclus dans le Compte Vert ING).

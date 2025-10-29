@@ -1,0 +1,5 @@
+# Zoomit - Foire aux questions - ING Belgique - Zoomit Questions fréquemment posées
+
+### Comment désactiver Zoomit ?
+
+Il n’est pas possible de désactiver Zoomit. Vous pouvez bloquer les émetteurs depuis votre Home’Bank. Connectez-vous à l’aide de l’app ING Banking ou d’itsme®. Cliquez sur « Zoomit » sous l’onglet « Opérations » et sélectionnez l’option « Paramètres ». Cliquez ensuite sur « Mes émetteurs » et décochez l’option « Facture via Zoomit ».

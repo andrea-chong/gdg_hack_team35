@@ -1,0 +1,9 @@
+# Simulez la croissance attendue de votre épargne ! - ING Belgique - Simulez la croissance potentielle de votre épargne !
+
+## Votre simulation
+
+Sur base du taux d’intérêt actuel chez ING
+
+### Chart
+
+Line chart with 2 lines. The chart has 1 X axis displaying values. Data ranges from -0.05 to 5. The chart has 1 Y axis displaying values. Data ranges from 100 to 160. Created with Highcharts 12.3.0 0 2 4 90 100 110 120 130 140 150 160 170 End of interactive chart. Total des dépôts — Intérêts: taux de base — Intérêts: prime de fidélité — **Intérêts générés** — **Valeur totale future** —

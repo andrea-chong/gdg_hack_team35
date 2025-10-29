@@ -1,0 +1,26 @@
+# Why does my debit card not work: what can I do ? - ING Belgium - Why is your debit card not working or blocked?
+
+## Do you have any issue with your PIN code?
+
+### You received a new debit card and need a new PIN code
+
+Once you receive your new card, you can check your PIN in the ING banking app.
+If you receive a new card due to blocking of the previous one or if it’s your first card, you can view your new PIN code by scanning the QR code that you will find on the letter accompanying your new card (if you have downloaded our banking app with itsme) or also request a new PIN via SMS. Follow the instructions and start using it .
+If you receive a new card due to a defective card replacement or renewal of an (almost) expired card, your PIN remains the same.
+You don’t have a mobile phone or did you miss the SMS request deadline? Your PIN will be sent by post.
+To make sure it is sent to the right address, check that we have your correct address in our systems:
+* via the ING Banking App > Go to the Services tab > Personal details > Legal address or Postal address
+* via Home'Bank > your profile in the top right-hand corner of the screen > Personal details > Legal address or Postal address
+
+### You entered 3 times a wrong PIN code
+
+After 3 tentatives of a wrong PIN code, you debit card is blocked.
+* View your pin in the ING banking app ! This will deblock your debit card.
+
+### Your card reader is not accepting your new PIN
+
+You should update the PIN code of your debit card by going to an ATM (ING or other bank) or a Batopin CASH Point and do a PIN change.
+
+### You did not receive your new debit card
+
+Contact us via chat.

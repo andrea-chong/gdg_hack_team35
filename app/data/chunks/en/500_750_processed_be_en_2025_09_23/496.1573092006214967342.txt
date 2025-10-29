@@ -1,0 +1,52 @@
+# Wero - ING Belgium
+
+## Frequently Asked Questions
+
+### Who can use Wero?
+
+All ING customers with a current account and the ING Banking app. Most EU banks support Wero for cross-border transfers.
+
+### How can I activate Wero?
+
+Wero is already integrated into the ING Banking app. To check if you're using Wero, go to Services -> Settings -> Wero.
+* You see an option "Remove Wero"? It means that you are already using Wero payments, which you can identify by the Wero icon on the payment confirmation screen.
+* You see an introduction to Wero? In this case you'll need to enrol. Simply make a QR payment or a payment to a phone contact, and you'll be asked to create a Wero wallet.
+
+### Do I have to pay for Wero?
+
+No, only professional accounts are subject to fees.
+
+### Can I make payments in currencies other than Euro?
+
+No, only Euro is supported.
+
+### Can I link a business account to Wero?
+
+Yes, Wero payments work with business accounts as well.
+
+### What are the payment limits of a Wero payment?
+
+For QR code payments:
+* Transaction limit: €250
+* Daily limit: €250 per 24h
+For payments via phone number: The limit depends on your profile's limit settings.
+To check, go to: Services → Payments & Cash → Payments → Limits.
+For payment requests via phone number:
+* Transaction limit: €750
+* No daily limit
+
+### How many phone numbers can be linked to my account?
+
+You can link up to 3 phone numbers to your account.
+
+### Can I link my phone number to several accounts?
+
+No, a phone number can be linked only to one account. However, if you have several ING current accounts, you can transfer your phone number from one account to the other.
+
+### Can I update my linked bank account?
+
+Yes, choose the account that has a linked phone number, remove the existing number and add a new one.
+
+### Can I still scan Payconiq and Bancontact QR codes from ING Banking app?
+
+Absolutely, nothing changes regarding Payconiq and Bancontact QR codes so they can be scanned as usual.

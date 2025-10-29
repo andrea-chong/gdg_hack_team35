@@ -1,0 +1,17 @@
+# Hoe gebruik ik itsme® voor digitaal bankieren? - ING België - Alles over itsme®
+
+## Veelgestelde vragen
+
+### Wat is itsme® precies en wat zijn de voorwaarden voor het aanmaken van een itsme®-account?
+
+Belgian Mobile ID is een gezamenlijk project van grootbanken en mobiele netwerkoperatoren in België. Itsme® geeft iedere Belg een unieke en veilige mobiele identiteit. Er is dus geen twijfel meer over de identiteit van de persoon die een beveiligde website wil bezoeken of online verrichtingen of documenten wil ondertekenen.
+Om een account te kunnen aanmaken moet je
+* ouder zijn dan 16 jaar.
+* een Belgische elektronische identiteitskaart bezitten.
+* een mobiel nummer, uitgerust met een Apple- of Android-besturingssysteem hebben.
+**Let op** : slechts 1 account per persoon en per mobiel telefoonnummer is toegestaan.
+
+### Tips alvorens je itsme® installeert.
+
+1. Zorg ervoor dat **het gsm-nummer** **dat je** **aan ING hebt doorgegeven** up-to-date is. Je kunt je nummer en contactgegevens bijwerken via de instellingen in de ING Banking-app, Home'Bank of Business'Bank.
+2. Controleer meteen ook of je **identiteitsgegevens** up-to-date zijn. Als je bijvoorbeeld een nieuwe Belgische elektronische identiteitskaart (eID) hebt ontvangen sinds je laatste contact met ING, neem dan even de tijd om je nieuwe identiteitskaartgegevens door te geven via een van de ING-kiosken in je lokale ING-kantoor. De ING-kiosk bevindt zich bij de ingang van het kantoor en is dus altijd toegankelijk. Als je een eID-kaartlezer hebt, kun je de bijgewerkte gegevens ook op afstand met ING delen via deze link .

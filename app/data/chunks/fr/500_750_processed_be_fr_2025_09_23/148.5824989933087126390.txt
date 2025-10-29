@@ -1,0 +1,24 @@
+# La carte de débit ING, avec Bancontact/Maestro // Bancontact/Mastercard et paiement sans contact. - ING Belgique - Carte de débit ING
+
+## En général
+
+### Comment fonctionne une réservation lors d'une transaction par carte de débit?
+
+Les réservations pour les transactions par carte de débit concernent les fonds bloqués temporairement sur votre compte bancaire afin de garantir que votre compte dispose des fonds nécessaires et ainsi vous protéger contre les risques de débit irrégulier.
+Fonctionnement des réservations :
+1. Autorisation initiale : Lorsqu'une transaction est initiée, le marchand effectue une demande d'autorisation auprès d’ING qui vérifie si le montant disponible sur votre compte est suffisant pour couvrir le montant maximum de la transaction.
+2. Réservation des fonds : Si l'autorisation est accordée, les fonds sont réservés, ce qui réduit temporairement le montant disponible sur votre compte.
+Le montant de cette réservation peut être ajusté par la suite. Exemple :
+- Achat de carburant : le montant initial de la réservation est défini par le
+marchand et supérieur à l’achat potentiel. Une fois le plein effectué, la
+réservation est ajusté au montant réel de l’achat et votre montant
+disponible mis à jour.
+- Garantie (hôtel, location de véhicule, …).
+- Transactions en devise : la réservation en euro est un montant estimé, le
+montant final de la transaction sera déterminé sur base du taux de
+change au moment du traitement.
+3. Traitement de la transaction : La transaction est ensuite traitée par le commerçant. Ce processus peut durer de quelques minutes à plusieurs jours. Une fois la transaction finalisée, les fonds réservés sont soit confirmés et débités du compte, soit annulés.
+Conséquences pour le titulaire de la carte :
+* Montant disponible réduit : Le montant réservé est temporairement inaccessible, ce qui affecte votre montant disponible pour d'autres transactions.
+* Durée de réservation : Ce processus peut durer de quelques minutes à plusieurs jours, selon les pratiques du commerçant.
+* Annulation : Si un achat est annulé, les fonds réservés seront libérés dès que le commerçant nous en informe.

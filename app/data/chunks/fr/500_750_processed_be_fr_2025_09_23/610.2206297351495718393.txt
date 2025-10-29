@@ -1,0 +1,19 @@
+# Click to Pay, l'avenir des paiements en ligne - ING Belgique - Click to PayCliquez, payez, profitez
+
+## FAQ
+
+### Pourquoi vais-je recevoir un code parfois sur mon téléphone et parfois par e-mail ?
+
+Le choix entre SMS et email est déterminé par le commerçant. Ainsi, selon le commerçant, vous recevrez soit un SMS, soit un email.
+
+### Je ne reçois pas mon code de vérification, que faire ?
+
+Assurez-vous que votre adresse e-mail et votre numéro de téléphone sont corrects dans votre profil Click to Pay. Vous pouvez également demander l’envoi d’un nouveau code. Si le problème persiste, vous pouvez finaliser votre achat en entrant manuellement vos informations de paiement.
+
+### Que se passe-t-il si je sélectionne "Se souvenir de moi" ?
+
+Cette option vous permet d’accéder plus rapidement à vos cartes. Vous n’aurez pas besoin de saisir un code de vérification pour vos prochains paiements sur le même appareil et navigateur.
+
+### Comment supprimer un appareil mémorisé ?
+
+Connectez-vous à Mastercard Click to Pay pour gérer vos préférences, voir et supprimer vos appareils enregistrés.

@@ -1,0 +1,63 @@
+# Fingerprint or facial recognition (Face-ID) - ING Belgium - Fingerprint and face recognition
+
+## Does your smartphone has fingerprint or facial recognition?
+
+Then you can choose to log in and sign transactions with fingerprint or facial recognition instead of with your PIN code.
+
+## Advantages
+
+* ### Secure
+With biometrics no one can secretly look over your shoulder to get your code
+* ### Simple
+You don't have to remember a code
+* ### Fast
+You don't have to enter 5 digits, put your finger on your smartphone or show your face
+
+## How can you configure this?
+
+1. 1
+
+#### Do you have fingerprint or facial recognition available on your smartphone?
+
+Yes? Then go to the next step
+2. 2
+
+#### Go to the app settings
+
+Log in to the app > Click on the 'Services' tab > Go to 'Do it yourself' > Select 'Settings'
+Or click here to go directly to the app settings
+3. 3
+
+#### Go to 'Access and confirmation'
+
+Scroll in the settings down to 'Access and confirmation'
+4. 4
+
+#### Select either 'Fingerprint' or 'Face recognition'
+
+Activate fingerprint or facial recognition to log in and/or sign transactions
+
+## Frequently Asked Questions
+
+### Why can I suddenly no longer log in and/or sign with fingerprint or facial recognition?
+
+Check the app settings again to verify if they are activated
+
+### Why can't I find fingerprint or facial recognition in the ING banking app settings?
+
+Please check the following:
+1. Your smartphone must have fingerprint or facial recognition. This technology is not available on certain smartphones
+2. Check whether you have configured your fingerprint or face on your smartphone
+3. Go to the general settings of your smartphone > select the ING banking app in the general settings > check whether you authorized the use of fingerprint or facial recognition
+
+### What happens if my fingerprint or facial recognition was wrong?
+
+You have 2 attempts with your fingerprint or facial recognition. If that doesn't work, you must enter your code.
+
+### Carry your bank in your pocket
+
+Download the ING Banking app Carry your bank in your pocket
+
+### Carry your bank in your pocket
+
+Download the ING Banking app Carry your bank in your pocket More services and how to contact us

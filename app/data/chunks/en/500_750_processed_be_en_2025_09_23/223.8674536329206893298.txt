@@ -1,0 +1,7 @@
+# Payments with debit and credit card in currencies other than Euro - ING Belgium
+
+## How can I calculate the costs for payments and withdrawals in other currencies?
+
+### Warning
+
+The "acquirers" (= owners) of ATM devices may charge "access fees" for each cash withdrawal with Mastercard or Visa. The "right of access" may vary from one "acquirer" to another (he may freely determine the amount). The device will indicate the "right of access" fee at the time of the transaction and will ask for acceptance by the cardholder.

@@ -1,0 +1,12 @@
+# Daily limits for your banking transactions - ING Belgium - All about limits
+
+## Limits for business customers (over 18)
+
+### In-store and online payments
+
+The following default limits apply to debit card and Bancontact payments made either in store or online via ING Banking.
+Please note : for a debitcard limit higher than €5000 and maximum of €20.000, you must sign with itsme.
+* Debit card payments in shops or online: €5000 per 7 days
+* Bancontact payments via ING Banking: €500 per day
+* ING MasterCard Business : variable (you can set your limits together with your ING banker)
+\*For Wero transactions, the following limits apply: Hybrid QR code (Wero/Bancontact) : maximum of 250 euros per transaction and per 24h. Payments to phone contacts: depends on Online daily transfer limit that can be adapted via profile limit settings. Payment Request to phone contacts : maximum 750 euros per request.

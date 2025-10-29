@@ -1,0 +1,14 @@
+# Exchange Currency between Your Own Accounts - ING Belgium - How to exchange currencies between your accounts?
+
+## Good to know
+
+### Who can use this service?
+
+Any customer in possession of a currency account can use this service.
+Please note that:
+* You must own an account of the currency you want to transfer.
+* You cannot open a currency account online. The foreign currency account is opened automatically as soon as the transfer is received in that currency.
+
+### How do you transfer funds from your foreign currency account to your euro account?
+
+Make a transfer from your foreign currency account to your euro account from Home'Bank. Log in using the ING Banking app or itsme®. Click on 'New transfer' under the 'Overview' tab. In the 'From' field, select the foreign currency account you'd like to transfer money from. In the 'To' field, select your current account in euros. Then fill in the missing information: the amount, the description (if necessary) and confirm your transfer.

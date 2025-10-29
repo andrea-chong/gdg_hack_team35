@@ -1,0 +1,24 @@
+# Send euros easily with a bank transfer in the SEPA zone! - ING Belgium - All about sending money in euro (SEPA)
+
+## Frequently asked questions
+
+### What should I do if I transferred money to the wrong account number?
+
+If the transfer has already been debited from your account, contact the beneficiary to request a refund. If you don't know the beneficiary, we can request the return of funds from the beneficiary's bank. There is a charge for the service. Contact us via the service section to request a return of funds.
+
+### The sender claims to have transferred money, but I don’t see it in my account yet?
+
+Contact the sender of the payment and request proof that they have transferred the money. If they do this and the money still doesn't appear on your account, ask them to check with their bank for more details.
+
+### How much does it cost to send money outside of Belgium?
+
+Sending money in euros to and from an account in the SEPA zone, including Belgium, is free of charge. The cost of sending money outside of Belgium depends on several factors:
+* ING transfer charges
+* other ING fees
+* ING currency conversion fees (as applicable)
+* Fees applied by the correspondent bank(s)
+The fees ING and the correspondent bank(s) apply depends on the instructions given for the distribution of charges: BEN, SHA or OUR. For more details, consult this document .
+
+### What happens if I make a transfer to a blocked or closed account?
+
+The money will be returned to the sender's account. The time it takes to receive the refund depends on the bank of the blocked or closed account.

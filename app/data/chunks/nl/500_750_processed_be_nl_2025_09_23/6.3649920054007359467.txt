@@ -1,0 +1,8 @@
+# Doorlopende betalingsopdrachten in euro (SEPA) - Betalen - ING België - ING België - Doorlopende betalingsopdracht in euro (SEPA)
+
+## Alles over de doorlopende betalingsopdracht
+
+### Is de doorlopende betalingsopdracht niet uitgevoerd ?
+
+Het is zeker gelinkt aan een onvoldoende saldo op de rekening.
+Dan moet je de overschrijving in euro (SEPA) zelf manueel doen.

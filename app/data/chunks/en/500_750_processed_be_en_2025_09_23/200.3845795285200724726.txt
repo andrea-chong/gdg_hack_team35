@@ -1,0 +1,20 @@
+# Electronic account statements - ING Belgium
+
+## Manage my electronic account statements
+
+### How can I request duplicates of my account statements digitally?
+
+You can request a duplicate of your electronic account statements via Home'Bank . Click on 'Download' at the top of the screen and choose 'Account statements'. Then select 'Request duplicates' and follow the steps. As a result, the **content** and **number** of the duplicate will be **exactly the same** as in the original statement.
+To specify which statement to duplicate, you can **indicate either** :
+* The **date** of the transaction in your account in which you are interested. For example, if you want to view/check a banking transaction carried out on that day, but you no longer have the relevant statement.
+* The **number** of the account statement you are missing.
+The duplicate will be available in Home’Bank for seven days after sending your request. This gives you enough time to download the PDF file and save it on your PC.
+
+### How much does it cost?
+
+* Electronic duplicates of account statements dating back up to 10 years are available on request free of charge via Home'Bank .
+* You can also request paper statement duplicates (e.g. if your account has been closed or if you need your statement to be sent to a different address) by contacting us . The fee is €30 per 12-month period. You will receive your duplicates by post.
+
+### In which format are the statements available?
+
+Electronic account statements and duplicates are available in **PDF format** . If you request more than 1, they will be compressed together in a ZIP file. This enables you to save the files easily on your computer.

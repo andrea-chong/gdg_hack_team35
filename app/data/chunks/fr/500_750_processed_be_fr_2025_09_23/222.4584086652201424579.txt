@@ -1,0 +1,37 @@
+# Apple Pay: Payez en un clin d'œil - ING Belgique
+
+## FAQ
+
+### Comment payer avec son iPhone dans un magasin?
+
+Avec Face ID (reconnaissance faciale)
+* Appuyez deux fois sur le bouton situé sur le côté de votre iPhone et regardez l'écran pour vous identifier.
+* Tenez la partie supérieure de votre téléphone à quelques centimètres du terminal de paiement.
+* Vous voyez "Done" et un pictogramme de coche à l'écran ? Alors vous avez payé.
+Avec Touch ID (empreinte digitale) :
+* Tenez votre iPhone à quelques centimètres du terminal de paiement.
+* Appuyez votre doigt sur le bouton d'accueil de votre iPhone pour vous identifier.
+* Est-ce que vous voyez "Done" et un pictogramme de coche sur l'écran ? Alors vous avez payé.
+**Sur des modèles d’iPhone plus anciens (avec bouton principal en bas de l’écran)**
+* Double-cliquez sur le bouton principal dans le bas de votre écran
+* Tenez votre iPhone à quelques centimètres du terminal de paiement
+* Appuyez sur le bouton principal de votre iPhone ou entrez le mot de passe de votre iPhone pour vous identifier
+* Vous voyez "Fait" et une coche sur l’écran ? C’est que vous avez payé.
+
+### Comment payer avec votre iPhone en ligne (Safari) ?
+
+Confirmez votre paiement avec Face ID ou Touch ID.
+
+### Comment payer avec votre Apple Watch dans un magasin ?
+
+Double-cliquez sur le bouton situé sur le côté de votre Apple Watch.
+Tenez l'écran de votre Apple Watch à quelques centimètres du terminal de paiement (veillez à porter votre Apple Watch au poignet).
+Attendez jusqu'à ce que vous sentiez une tape... et vous avez payé.
+
+### Dans certains magasins, difficile à payer avec Apple Pay ?
+
+La meilleure chose à faire est de toujours préciser à la caissière ou au caissier que vous voulez payer avec Apple Pay, plutôt que de dire que vous allez payer “par carte”. De cette manière, ils veilleront à activer la bonne option de paiement sur le terminal, et tout devrait fonctionner parfaitement.
+
+### Comment payer avec votre Apple Watch en ligne (Safari)?
+
+Attendez jusqu'à ce que vous sentiez une tape... et vous avez payé.

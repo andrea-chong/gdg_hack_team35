@@ -1,0 +1,23 @@
+# Changez de banque principale pour ING - Service de mobilité interbancaire simple et gratuit - ING Belgique - Changer de banque pour ING ?
+
+## FAQ
+
+### Que comprend le service de mobilité interbancaire ?
+
+À l’aide du service de mobilité interbancaire, un titulaire de compte peut **transférer vers le nouveau compte de paiement ses ordres de paiement** qui sont exécutés sur l’ancien compte de paiement.
+Le titulaire de compte **peut également demander la clôture de l’ancien compte de paiement** .
+**Le titulaire de compte peut choisir entre les possibilités suivantes** dans le cadre du service de mobilité interbancaire :
+* Le transfert de tous les ordres de paiement;
+* le transfert de tous les ordres de paiement et la clôture de l’ancien compte de paiement;
+* la fourniture d’informations aux créanciers de domiciliations et / ou payeurs de virements entrants récurrents;
+* la clôture de l’ancien compte de paiement (sans transfert des ordres de paiement).
+
+### Dois-je transférer mes revenus chez ING ?
+
+**En théorie, cela est couvert par le service de mobilité interbancaire (voir "Ordre de paiements").**
+Toutefois, si vous le souhaitez, vous pouvez effectuer ce changement par vous-même en communiquant votre numéro de compte à vue ING à votre employeur ou organisme de paiement.
+Vous pouvez également utiliser ce formulaire
+
+### Aurais-je des tâches administratives ?
+
+C’est la nouvelle banque (ING) qui met en œuvre le service de mobilité interbancaire et prend contact avec l’ancienne banque.

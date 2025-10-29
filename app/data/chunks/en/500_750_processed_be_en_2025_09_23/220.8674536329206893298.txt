@@ -1,0 +1,13 @@
+# Payments with debit and credit card in currencies other than Euro - ING Belgium
+
+Reading time: 5 min 10 February 2025 Are you abroad and would you like to withdraw money or pay with your card in a currency other than Euro? Do you want to make a payment in a country not part of the SEPA zone? How do I calculate the amount in Euros and the costs charged by ING?
+
+## What is an exchange rate surcharge?
+
+First thing to know: you have the exchange surcharge applied if you pay in a currency other than Euro.
+Just like other banks, ING calculates an additional rate for all transactions in other currencies than Euro. The tariff surcharge is the amount a person pays for the exchange of one currency to another. This additional rate is expressed within ING as a percentage of the amount you exchange.
+Exchange rate for debit cards: 3.9 %\*Exchange rate for credit cards: 2 %\*
+
+### Important
+
+The exchange rate applied is determined by the day on which the transaction is recorded. This date may differ from the date of the actual transaction. The booking date is defined by the retailer / merchant or the ATM network.

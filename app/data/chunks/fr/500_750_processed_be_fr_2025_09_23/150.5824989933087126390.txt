@@ -1,0 +1,20 @@
+# La carte de débit ING, avec Bancontact/Maestro // Bancontact/Mastercard et paiement sans contact. - ING Belgique - Carte de débit ING
+
+## En général
+
+### Comment bloquer/débloquer temporairement ma carte ?
+
+Vous n'avez pas besoin temporairement de votre carte ? Vous ne la trouvez pas ? Ou vous ne savez pas si vous l'avez perdue ? Conseil utile: bloquez-la temporairement ! Vous pouvez facilement la débloquer quand vous la retrouvez ou quand vous souhaitez l'utiliser à nouveau.
+**En cas de perte ou de vol** , vous devez toujours impérativement bloquer votre carte via le service disponible dans l’App ING Banking ou dans Home’Bank/Business’Bank ou appeler Card Stop au +32 78 170 170 (L'envoi d'une nouvelle carte de débit ING coûte 9,99 euros).
+**Attention :** si vous bloquez temporairement votre carte, **vous ne pouvez plus l’utiliser** que ce soit :
+* pour des retraits, des paiements y compris les paiements mobiles en Apple Pay, Google Pay ou Bancontact
+* pour les débits automatiques périodiques des vos abonnements en ligne (streaming, pare-feu, musique, …) liés à votre carte ou
+* pour vous connecter à Home’Bank/Business’Bank avec votre lecteur de carte ING.
+Pour bloquer/débloquer temporairement votre carte, suivez les instructions ci-dessous.
+Bloquer/débloquer ma carte temporairement
+
+### Quelles sont les limites pour les paiements, les virements ou le retrait d’espèces ?
+
+**Pour les petites dépenses (inférieures à 50 euros)** : vous pouvez les effectuer sans contact.
+Lorsque vous avez effectué des paiements sans contact pour un montant total de 100 EUR, il vous sera demandé de confirmer la dépense suivante avec votre code PIN avant de pouvoir à nouveau exécuter un paiement sans code PIN.
+**Pour les montants plus importants** , consultez les limites de paiement, de virements (SEPA) et de retraits d'espèces en euros relatives à votre carte de débit ING .

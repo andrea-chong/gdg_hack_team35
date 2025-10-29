@@ -1,0 +1,14 @@
+# Pourquoi ma carte de débit ne fonctionne pas ? - ING Belgique - Votre carte de débit ne fonctionne pas ou est bloquée ?
+
+## Avez-vous vérifié votre solde ou le plafond d’utilisation de votre carte de débit ?
+
+### La limite de retrait ou de paiement est atteinte
+
+Vous pouvez modifier le plafond de retrait ou de paiement :
+* Via l' App ING Banking , dans le menu 'Services' en bas à droite de l'écran
+* Via Home'Bank , dans le menu 'Services à gauche'
+
+### Le montant disponible sur votre compte courant est atteint
+
+Vous pouvez réaprovisionner votre compte à vue en effectuant un virement en euros (SEPA) depuis un autre compte.
+Vous pouvez le faire facilement et en toute sécurité depuis l’ App ING Banking ou Home'Bank . L’effet sera immédiat et vous pourrez utiliser votre carte de débit directement après avoir effecté votre transfert.

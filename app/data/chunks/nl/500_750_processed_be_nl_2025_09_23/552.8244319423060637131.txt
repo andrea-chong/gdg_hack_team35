@@ -1,0 +1,24 @@
+# Betaal eenvoudig met Google Pay ! - ING België - Betaal eenvoudig met Google Pay!
+
+## Betaal snel en veilig met uw smartphone door uw ING debet- of kredietkaart vandaag nog te koppelen aan Google Pay.
+
+Google Pay voegt een nieuwe dimensie toe aan mobiele betalingen, zowel in de winkel, online als via apps. Ga nu contactloos betalen met Google Pay - het is eenvoudig, snel en zeer veilig!
+
+## Over Google Pay
+
+* ### Eenvoudig
+Je hebt geen pincode meer nodig bij het doen van een betaling. Je kunt je identiteit bevestigen met Face ID (gezichtsherkenning) of Touch ID (vingerafdruk) of je pincode (als je dat wilt).
+* ### Beveilig
+Google Pay gebruikt een specifiek nummer (token) dat is gekoppeld aan uw apparaat en een unieke transactiecode. Uw kaart nummer wordt nooit opgeslagen op uw apparaat of op de servers van Google en wordt ook niet gedeeld met verkopers.
+* ### Overal aanvaard
+Voor betalingen in winkels accepteren de meeste betaalterminals contactloos betalen. Je hoeft alleen maar je telefoon te laten zien. Voor online betalingen of betalingen in een applicatie kies je gewoon de optie Google Pay.
+
+## Instellen van Google pay (2 opties)
+
+### Via de ING Banking app
+
+Meld u aan > Tik op Diensten > Kies Instellingen > Tik op Google Pay > Selecteer uw ING-debet of kredietkaart > Volg de instructies om uw kaart te koppelen.
+
+### Via de Google Wallet
+
+Open de wallet > Klik op Toevoegen aan Wallet > Kies Betaalkaart > Druk op Nieuwe creditcard of pinpas > Voer het kaartnummer, de vervaldatum en CVC/CVV (indien beschikbaar) in > Druk op Opslaan > Accepteer de gebruiksvoorwaarden > Kies Inloggen bij de app van de bank > Doorgaan > Meld u ann >Volg de instructies om uw kaart te koppelen

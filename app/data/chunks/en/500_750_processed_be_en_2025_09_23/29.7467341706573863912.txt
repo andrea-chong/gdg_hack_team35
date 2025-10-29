@@ -1,0 +1,37 @@
+# Payconiq by Bancontact for your mobile payments - ING Belgium
+
+## How to pay with Payconiq by Bancontact?
+
+### What are the payment limits for Payconiq by Bancontact ?
+
+* **For card payment transactions**
+The card limit applies, but there are additional limits for mobile payments:
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Maximum limit for: | | |
+| Transactions received from or paid to another person | 250 | EUR |
+| Transactions paid to a merchant | 250 | EUR |
+| Daily limit for transactions received from other persons | 500 | EUR |
+| Daily limit for transactions paid to other persons | 250 | EUR |
+| Daily limit for transactions paid to merchants | 2500 | EUR |
+END TABLE IN MARKDOWN
+* **For transactions done via your account**
+The payment limits are the same as for "classic" transfers via the ING Banking App. For more information consult our summary table.
+Consult our recap table
+
+### Can I increase my mobile payment limit?
+
+The mobile payment limit cannot be changed.
+
+### Do you have to pay to use Payconiq by Bancontact ?
+
+No, it is part of the services linked to your account and your ING debit card.
+
+### Who can make mobile payments with Payconiq by Bancontact ?
+
+Anyone who has an ING debit card and/or an ING account with access to the ING Banking App.
+
+### How can I change the account linked to my mobile payments?
+
+From the 'Overview' tab, press 'Services' at the bottom right of your screen. Then select the 'Settings' option. Then choose 'Mobile payments' and tap 'Linked accounts' to select another account.

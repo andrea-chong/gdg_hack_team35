@@ -1,0 +1,7 @@
+# Switch bank accounts - ING Belgique - Modifier votre compte à vue
+
+## FAQ
+
+### Que se passe-t-il quand je change mon pack de compte à vue ?
+
+Chaque pack de compte à vue contient des services. Quand vous modifiez votre pack, les services dont vous disposez tels que votre type de compte à vue, les éventuelles assurances incluses dans votre forfait, etc. seront eux-aussi transférés vers votre nouveau pack. Nous ne fermons pas votre compte à vue, nous le transformons tout simplement. Cela garantit que vous gardez votre numéro de compte (IBAN), vos cartes de débit, votre code pin, l’historique des transactions, vos cartes de crédit éventuelles, vos domiciliations et vos ordres permanents.

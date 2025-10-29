@@ -1,0 +1,25 @@
+# Retirez de l'argent à un distributeur automatique partout en Belgique - ING Belgique - Retirez des billets en euros dans le distributeur automatique de votre choix !
+
+## Quelles sont les dénominations disponibles ?
+
+La plupart des points CASH proposent des billets de 20 € et 50 €. Certains proposent également des billets de 5 €, 10 € ou 100 €, selon les disponibilités.
+👉 Vous souhaitez savoir précisément ce qu'est un point CASH et ce que vous pouvez y faire ?
+Consultez notre page dédiée aux points CASH, qui propose des explications et des vidéos utiles.
+OU Vous pouvez facilement filtrer par coupure sur le site web cash.be (officiellement : bancontact.cash) grâce à leur localisateur interactif. Voici comment :
+🔍 Pour filtrer par coupure :
+1. Accédez au **localisateur** sur cash.be .
+2. Cliquez sur la **fonction de recherche de points CASH** .
+3. Utilisez les **filtres** :
+* Vous pouvez filtrer spécifiquement les distributeurs automatiques proposant des petites coupures (5 €, 10 €).
+* Ou les distributeurs proposant des grosses coupures (100 €).
+* Par défaut, tous les points CASH proposent des billets de 20 € et 50 €.
+
+## Combien coûte un retrait d'argent à un distributeur automatique en Belgique, avec votre carte de débit ING ?
+
+START TABLE IN MARKDOWN
+| Pack bancaire | Retraits inclus | Ensuite | Waar |
+| - | - | - | - |
+| ING Do Basic | 36/an | €0,50 par retrait | Tous les distributeurs en Belgique |
+| ING Do More | Illimités | Gratuit | Tous les distributeurs en Belgique |
+| ING Do More 18\-25 | Illimités | Gratuit | Tous les distributeurs en Belgique |
+END TABLE IN MARKDOWN

@@ -1,0 +1,18 @@
+# Standing orders in euro: pay automatically! - ING Belgium - Standing orders in euro (SEPA)
+
+## Standing orders in euro (SEPA) in a nutshell
+
+### Create, cancel or modify a standing order in euro (SEPA)
+
+Create a standing order in euro (SEPA) Setting up a standing order is easy via Home'Bank , a Kiosk machine, or via the ING Banking app for smartphone :
+* In Home'Bank, click on "New transfer" at the top of your screen and then fill in the details of the beneficiary, the amount and the description (if necessary). Choose "Recurring" and select the frequency. Click on "Submit" to create your standing order.
+* From the ING Banking app, tap "Transfer". Then fill in the details of the beneficiary, the amount and the description (if necessary). Tap "Date and frequency" and select the frequency. Press "Confirm" to create your standing order.
+Once set up, your standing order will be executed automatically.
+Cancel a standing order in euro (SEPA)
+* You can cancel a standing order at any time via Home'Bank :
+Log in using the ING Banking app or itsme®. Click on "Transfers" on the left of your screen and then choose the "Payments" option. Select the standing order you want to cancel and click on the orange bin.
+* You can cancel a standing order at any time from ING Banking app:
+From the "Payments" tab, tap "Pending payments". Choose the account with which the standing order is executed. Then select the relevant standing order and tap "Remove".
+Modify a standing order in euro (SEPA)
+* You can modify an existing standing order via Home'Bank . Log in using the ING Banking app or itsme®. Click on "Transfers" on the left of your screen and then choose the "Payments" option. Select the standing order you want to modify and click on "Edit".
+* You can change your standing order from your ING Banking app. From the "Payments" tab, click on "Planned Payments". Choose the account with which the standing order is executed. Then select the relevant standing order and click on "Modify".

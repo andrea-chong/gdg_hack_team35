@@ -1,0 +1,27 @@
+# Look ahead on your budget for the coming month - ING Belgium - Look Ahead
+
+## Helping you to better manage your current account balance
+
+Do you know more or less your monthly income and what amounts will soon be deducted from your current account? Will you go below zero or is there room for savings/ investments? Look Ahead is helping you with this!
+
+## Look Ahead is offering various overviews including a view on your balance
+
+* ### "Scheduled"
+An overview of actual scheduled payments, which you can also check at various places within our ING Banking app and Home’Bank.
+* ### "Projected"
+An overview of predictions: based on transactions on your current account in the past, we estimate what transactions are likely to occur again. An uncertainty factor needs to be considered in this context.
+* ### "All"
+One handy overview of both scheduled and forecasted transactions for your current account.
+* ### "Estimated future balance"
+As soon as you start scrolling in the app, you will see the impact of your future transactions on your current balance at the bottom of the screen. The estimated future balance each time takes into account the transaction you just saw as soon as it disappears from the screen. (In Home'Bank this balance is mentioned in the transaction details.)
+
+## What transactions can you see here?
+
+Look Ahead shows the following transactions in relation to your (Euro) current account, looking ahead for 35 calendar days.
+* Scheduled outgoing standing orders
+* Scheduled outgoing memo payments
+* Scheduled SEPA direct debits
+* Projected SEPA direct debits(*As SEPA direct debits are known for sure only a few days before these are deducted, we try to already predict those based on your transaction history: you are e.g. paying for energy & telecom every month and based on this pattern, we expect another payment in the future. We advise to take into account a factor of uncertainty for both the projected SEPA direct debits and the projected incoming transactions.)
+* Projected incoming transactions
+* Scheduled (recurring) money deposits into your investment account(s) (incl. Star Fund)
+* Scheduled mortgage repayments (not included: payments made in relation to ‘release of funds’, ex-Record Bank loans and overdue payments).

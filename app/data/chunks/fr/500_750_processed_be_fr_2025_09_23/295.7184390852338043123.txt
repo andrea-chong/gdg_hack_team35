@@ -1,0 +1,19 @@
+# Limites journalières pour vos transactions bancaires - ING Belgique - Tout sur les limites
+
+## Limites pour jeunes (moins de 18 ans)
+
+### Virements
+
+Les limites suivantes sont définies par défaut. Elles sont valables pour les virements effectués via Home'Bank, via ING Banking et via le Service d'Initiation de Paiements\*.
+Les limites dépendent du service et de la personne à qui vous versez de l'argent.
+Vous pouvez transférer autant d'argent que vous le souhaitez entre vos propres comptes ING, vers des comptes ING sur lesquels vous disposez d'un mandat et vers un nombre limité de comptes détenus par l'état belge ou par la banque ING.
+Vous avez entre 16 et 17 ans
+* L'app ING Banking, Home'Bank (banque en ligne), le Service d'Initiation de Paiements(*Le Service d'Initiation de Paiements vous permet d'envoyer un ordre de paiement via un tiers. Vous devez donner l'autorisation pour chaque ordre de paiement spécifique.) [2]: 500 € par jour (24h)
+* Paiements Bancontact via ING Banking[3] : 250 € par jour
+Vous avez entre 12 et 15 ans
+* L'app ING Banking, Home'Bank (banque en ligne), le Service d'Initiation de Paiements\* [2] : 50 € par jour
+* Paiements Bancontact via l'app ING Banking[3] : 250 € par jour
+Vous avez entre 10 et 11 ans
+* Il s'agit des virements en euros (SEPA) et des ordres permanents en euros (SEPA), ainsi que des virements internationaux en euros ou dans une autre devise. Attention! Toutes ces limites ne valent uniquement que pour les virements ne nécessitant qu'une seule signature.
+* Vous pouvez recevoir un maximum de 500 euros par jour via l'application Bancontact.
+Lien vers notre site internet ( page PSD2 )

@@ -1,0 +1,28 @@
+# Pay with Google Pay easily ! - ING Belgium
+
+## FAQ
+
+### What is the limit for payments with Google Pay?
+
+The limits are the same as for your debit or credit card.
+Please note that we add payments made with Google Pay to the other payments you make with your card.
+See also: Daily limits for your banking transactions | ING Belgium - ing.be
+
+### Can a store reimburse you using Google Pay?
+
+This is possible, provided the merchant has a suitable payment terminal that accepts contactless and Maestro / Mastercard / Visa payments.
+
+### Is paying with Google Pay safe?
+
+Absolutely: security is always paramount at ING. You'll never be able to pay without a fingerprint, facial recognition or your mobile phone's unlock code.
+
+### What technology is used to make secure payments?
+
+NFC (Near Field Communication) technology guarantees secure data exchange. NFC technology only works within a radius of around 5 centimetres. You need to hold your device close to the terminal to exchange data.
+In addition, you must always confirm your payment by fingerprint, facial recognition or unlock code.
+
+### What happens if your card connected to Google Pay is lost or stolen?
+
+* Block your debit or credit card via ING's digital channels in the self-service area or call Card Stop on +32 78 170 170.
+* Your debit or credit card will be automatically removed from all your connected devices.
+* You must then add your new debit or credit card to Wallet and Google Pay to be able to use it again. You can do this one working day after ordering your new debit or credit card. So you don't need to have already received your card at home to be able to use Google Pay.

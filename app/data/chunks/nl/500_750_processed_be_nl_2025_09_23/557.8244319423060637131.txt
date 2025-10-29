@@ -1,0 +1,50 @@
+# Betaal eenvoudig met Google Pay ! - ING België - Betaal eenvoudig met Google Pay!
+
+## FAQ
+
+### Is een pincode nodig om te betalen met Google Pay?
+
+Nee. Mocht vingerafdruk- of gezichtsherkenning niet ingesteld zijn op je smartphone, dan kun je nog altijd de betaling goedkeuren met de ontgrendelingscode van je gsm.
+
+### Hoe kun je met een andere debet- of kredietkaart betalen dan je standaard debet- of kredietkaart?
+
+* Open de wallet app
+* Kies de kaart met dewelke je wil betalen
+* Klik op de kaart
+* Houd je gsm naast de betaalautomaat
+* Bevestig de betaling
+
+### Kun je Google Pay gebruiken als contactloos betalen is uitgeschakeld op je debet- of kredietkaart?
+
+Ja dat is geen enkel probleem!
+
+### Waar kun je je Google Pay-verrichtingen terugvinden?
+
+In de Google Wallet vind je je laatste 10 verrichtingen terug.
+In je ING Banking-app of in Home'Bank op je computer kun je alle verrichtingen terugvinden op je rekeninguittreksels en in de verrichtingen op je rekening.
+
+### Waarom wordt je Google Pay-betaling geweigerd?
+
+* Je hebt onvoldoende op je rekening staan
+of
+* De limiet van je kaart is bereikt
+of
+* De debet- of kredietkaart verbonden aan de Google Wallet is geblokkeerd
+
+### Kun je, als winkelier, betaald worden met Google Pay?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Ja, dat kan, als je betaalterminal contactloze Maestro / Mastercard / Visa betalingen aanvaardt. |
+END TABLE IN MARKDOWN
+
+### Wat is de limiet voor betalingen met Google Pay?
+
+De limieten zijn dezelfde als die op je debet- of kredietkaart.
+Let op: we tellen betalingen via Google Pay op met de andere betalingen die je doet met je kaart.
+Zie ook: https://www.ing.be/nl/retail/daily-banking/current-accounts/limits
+
+### Kan een winkel je terugbetalen via Google Pay?
+
+Dit kan, voor zover de winkelier een geschikte betaalterminal heeft die contactloze betalingen en Maestro / Mastercard / Visa aanvaardt.

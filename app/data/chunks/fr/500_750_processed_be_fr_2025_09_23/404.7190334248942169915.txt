@@ -1,0 +1,21 @@
+# Vérification du nom du bénéficiaire - ING Belgique
+
+## FAQ
+
+### Quelle notification m'est adressée lorsque j'ai saisi le bon nom ?
+
+Lorsque le nom introduit et le compte correspondent, vous verrez une case cochée (✅) verte et/ou un message tel que :
+« Le nom introduit correspond au nom du bénéficiaire ».
+
+### Quelle notification puis-je recevoir lorsque le nom saisi est presque correct ?
+
+Si vous faites une erreur dans le nom ou si le nom introduit diffère légèrement du nom correct (par exemple Pierre Dupond au lieu de Pierre Dupont), le nom correct du bénéficiaire s’affichera. Nous vous recommandons de reprendre ce nom. Ce message sera généralement affiché en bleu et sera par exemple libellé comme suit :
+« Le nom introduit correspond presque au nom du bénéficiaire. Voulez-vous dire <nom correct> ?
+
+### Quel message s'affiche lorsque j'introduis un nom contenant une erreur ?
+
+Lorsque vous effectuez un virement sur le compte d'un particulier et que le nom introduit ne correspond pas au nom enregistré, par exemple Louis Durand au lieu de Pierre Dupont, vous recevez un message d'erreur. Ce message est généralement affiché en orange et se lit, par exemple, comme suit :
+« Attention ! Le nom introduit ne correspond pas à celui du bénéficiaire. Si vous poursuivez sans modification, le montant pourrait être transféré au mauvais bénéficiaire. »
+Si vous effectuez un virement vers un compte professionnel et que le nom introduit ne correspond pas au nom enregistré, par exemple Fédération des banques au lieu de Febelfin, vous recevrez un message d'erreur dans lequel le nom correct du bénéficiaire sera mentionné. Nous vous conseillons de reprendre ce nom. Ce message est généralement affiché en orange et se lit, par exemple, comme suit :
+« Attention ! Le nom introduit ne correspond pas au nom du bénéficiaire.
+Le nom du bénéficiaire est <nom correct> . Si vous poursuivez sans modification, le montant pourrait être transféré au mauvais bénéficiaire. »

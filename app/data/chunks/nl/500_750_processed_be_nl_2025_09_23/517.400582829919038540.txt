@@ -1,0 +1,22 @@
+# Rekeninguittreksels - Veelgestelde vragen - ING België - Rekeninguittreksels Veelgestelde vragen
+
+### Kan ik oude rekeninguittreksels met Home'Bank of Business'Bank (Online/web) downloaden?
+
+Ja, natuurlijk. Je kunt maximum 10 jaar terug gaan in de tijd vaniuit ING Banking app. Tik rechtsonder op 'Diensten', selecteer 'Betalingen & cash' en kies 'Rekeninguittreksels'.
+
+### Kan ik oude rekeninguittreksels met mijn ING bankapp downloaden?
+
+Ja, natuurlijk. Je kunt maximum 10 jaar terug gaan in de tijd vaniuit ING Banking app. Tik rechtsonder op 'Diensten', selecteer 'Betalingen & cash' en kies 'Rekeninguittreksels'.
+
+### Ik heb duplicaten van mijn uittreksels aangevraagd, maar waarom heb ik niet alles ontvangen?
+
+Het is mogelijk dat er geen transacties voor deze periode zijn.
+
+### Waarom heb ik mijn rekeninguittreksels nog niet ontvangen?
+
+Je krijgt jouw uittreksels met een vaste periodiciteit (dagelijks, wekelijks, iedere twee weken of maandelijks). Op die datum genereren we een PDF met de uittreksels van de afgelopen periode.
+Als er geen uittreksels beschikbaar is dan is dit omdat: • De vervaldatum voor het rekeninguittreksel is nog niet bereikt. Als je een uittreksel nodig hebt voor de volgende vervaldatum, dan kan je dit zelf genereren via de “duplicaat” tab. Of • Er was geen transactie/beweging sinds het laatste uittreksel (een PDF wordt enkel gegenereerd als er een transactie/beweging geboekt werd in de afgelopen periode).
+
+### Wie kan elektronische uittreksels en duplicaten downloaden?
+
+Iedereen die minstens rechten heeft om de rekening te raadplegen (“raadplegingsrechten”) in Home'Bank of Business'Bank , heeft toegang tot de dienst. Nadat de afschriften of duplicaten zijn opgevraagd, beschikt de aanvrager over een termijn van 7 dagen om ze te downloaden.

@@ -1,0 +1,12 @@
+# Compte épargne à long terme gratuit - ING Belgique - Le compte d'épargne classique
+
+## C'est le moment de commencer à épargner
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Accessible à tous | Vous êtes déjà client? Ouvrez facilement votre ING Compte d'épargne sur le canal numérique de votre choix ou dans une agence ING. Vous n'êtes pas encore client? Devenez client ING et ouvrez votre ING Compte d'épargne en ligne ou via une agence ING. |
+| Épargnez à votre rythme | Gérez vos fonds avec souplesse. Transférez vos fonds supplémentaires depuis n'importe quel compte sans limite de dépôt en toute sécurité sur votre compte d'épargne ING. |
+| Accédez à vos fonds quand vous en avez besoin | Vous pouvez à tout moment transférer les fonds nécessaires vers un compte à vue avec la même structure de titulaire que celle du compte d’épargne. Pour les clients qui n'ont pas de compte à vue chez ING, vous avez la possibilité d'ajouter un compte de référence détenu au sein d'une autre banque belge, via ce formulaire en ligne . Ce compte de référence externe sera le seul compte à vue vers lequel vous pourrez transférer des fonds de votre ING Compte d'épargne. |
+| Sans frais supplémentaires | L'ouverture, la clôture et la déclaration annuelle sont gratuites. Les coûts d'envoi des relevés d'ING Compte d'Epargne et d'ING Livret Vert par la poste s'élèvent à 5€/an + frais de port ( la liste des tarifs en vigueur ). |
+END TABLE IN MARKDOWN

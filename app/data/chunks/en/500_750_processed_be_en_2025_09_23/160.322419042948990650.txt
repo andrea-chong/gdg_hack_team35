@@ -1,0 +1,14 @@
+# All your cash needs at a cash dispenser - ING Belgium - Cash dispensers (ATMs)
+
+## Cash dispenser fees
+
+### What should I do if one of the notes I deposited at a cash dispenser is suspected of being fake?
+
+You don’t have to do anything, we will take care of it.
+This is what happens:
+* The ING or CASH point dispenser will withhold the banknote and display a message on the screen alerting you to this.
+* As required by law\* we send the suspicious banknote to the National Bank of Belgium for authentication.
+  + The banknote is authentic? We credit your account with the amount immediately.
+  + The banknote turns out to be fake? Then we’ll send you a certificate by email or post.
+Good to know This authentication process can take up to 60 working days. We’ll do our best to get an answer to you as quickly as possible. Thanks already for your patience!
+(\*) Royal Decree of 1 June 2016 on the enforcement of the law of 17 July 2013 on protection against counterfeiting and the preservation of the quality of cash in circulation.

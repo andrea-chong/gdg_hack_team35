@@ -1,0 +1,9 @@
+# Virements en euros (SEPA) sans signer - ING Belgique
+
+Temps de lecture: 2 min 30 juin 2022 Pour certains virements en euros (SEPA), il n'est pas nécessaire de signer avec votre lecteur de carte.
+* Les virements en euros (SEPA) entre vos comptes personnels ING, et ce, sans limite.
+* Les virements en euros (SEPA) vers des comptes pour lesquels vous disposez d'un mandat, et ce, sans limite.
+* Les virements en euros (SEPA) vers vos bénéficiaires enregistrés, si le montant total de vos virements n'excède pas 750,00 € par jour.
+Si vous préférez signer tous les virements en euros (SEPA) avec votre lecteur de carte, vous pouvez désactiver cette option.
+**Attention !** Vous ne pourrez pas réactiver cette option vous-même, vous devrez contacter votre agence ING.
+Désactiver

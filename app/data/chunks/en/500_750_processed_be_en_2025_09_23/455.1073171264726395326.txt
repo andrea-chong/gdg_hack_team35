@@ -1,0 +1,5 @@
+# Card Verification Code - ING Belgium - Card Verification Code (CVC) or Card Verification Value (CVV)
+
+Reading time: 2 min 24 June 2022 The CVC or CVV is a 3 digit number, located on the backside of your credit card, next to the signature box.
+The CVC or CVV is specific to credit cards and allows you to make online payments. This code is a 3 digit number and is printed next to the signature box on the backside of your credit card.
+On American Express cards the code is 4 digits and is on the front of the card just above the credit card number.

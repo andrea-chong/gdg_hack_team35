@@ -1,0 +1,48 @@
+# Apple Pay: Payez en un clin d'œil - ING Belgique
+
+## FAQ
+
+### Un compte professionel? Pouvez-vous activer Apple Pay?
+
+Oui, vous pouvez utiliser Apple Pay avec un compte professionnel.
+
+### Peut-on activer Apple Pay avec un appareil non Apple ?
+
+Non, Apple Pay ne peut être utilisé qu'avec un iPhone, un iPad, une Apple Watch ou un Mac.
+
+### Quelle carte pouvez-vous ajouter à Apple Pay ?
+
+Toute carte de débit ou de crédit ING liée à un compte à vue ING.
+
+### Combien de cartes pouvez-vous ajouter à Apple Pay ?
+
+Pour en savoir plus, consultez la page Apple Support.
+
+### Comment changer votre carte par défaut ?
+
+Choisissez une nouvelle carte dans le menu de la fenêtre "Carte par défaut".
+
+### Comment supprimer une carte de mon Apple Wallet?
+
+Vous ne pouvez pas retirer votre carte de débit ou de crédit ING via l'app ING Banking, mais uniquement dans l'app Apple Wallet elle-même.
+
+### Comment supprimer une carte de mon Apple Watch ?
+
+Supprimez votre carte de débit ou crédit ING depuis votre Apple Watch. Ouvrez l'app Cartes, appuyez sur la carte que vous voulez retirer. Faites défiler l'écran et appuyez sur « Supprimer ».
+
+### Utiliser Apple Pay sur plusieurs appareils en même temps?
+
+N'hésitez pas à utiliser Apple Pay sur plusieurs appareils à la fois. Pour ce faire, vous devrez toutefois réinscrire les cartes de débit ou de crédit dans l'app Apple Wallet sur chaque appareil.
+
+### Vous avez un nouvel appareil Apple?
+
+Il vous suffit de réinscrire votre/vos carte(s) de débit ou de crédit dans l'application Apple Wallet de cet appareil.
+
+### Pouvez-vous utiliser Apple Pay à l'étranger ?
+
+Oui, n'hésitez pas à payer avec Apple Pay chez tout commerçant en dehors de la Belgique qui accepte Maestro/Visa/Mastercard et affiche le logo Apple Pay et le symbole de paiement sans contact.
+
+### Où pouvez-vous payer avec Apple Pay?
+
+Dans tous les magasins équipés d'un terminal de paiement sans contact acceptant Maestro/Visa/Mastercard.
+Via le navigateur Safari dans les boutiques en ligne fonctionnant avec Apple Pay et Maestro/Visa/Mastercard.

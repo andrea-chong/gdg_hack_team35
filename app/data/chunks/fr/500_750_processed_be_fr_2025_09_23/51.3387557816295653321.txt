@@ -1,0 +1,20 @@
+# Extraits de compte électroniques - ING Belgique
+
+## Gérer mes extraits de compte électroniques
+
+### Comment demander des duplicatas de mes extraits de compte sous forme numérique ?
+
+Vous pouvez demander le duplicata d'un extrait de compte électronique depuis Home'Bank le recrée pour vous. Cliquez sur « Téléchargement » en haut de l'écran et choisissez « Extraits de compte ». Sélectionnez ensuite « Demander un duplicata » et suivez les différentes étapes. De cette manière, le **contenu** et la **numérotation** du duplicata seront **exactement les mêmes** que dans l'extrait original.
+Pour spécifier quel extrait est à dupliquer, vous pouvez **indiquer soit** :
+* La **date** de l'opération, sur votre compte, qui vous intéresse. Par exemple vous souhaitez consulter/vérifier une opération bancaire réalisée ce jour-là mais vous n'en avez plus l'extrait.
+* Le **numéro** de l'extrait de compte qu'il vous manque.
+Le duplicata sera disponible dans Home'Bank, pendant 7 jours, après l'introduction de votre demande. Le temps pour vous de télécharger le fichier PDF puis de le sauvegarder sur votre PC.
+
+### Combien ça coûte ?
+
+* Les duplicata d’extraits de compte électroniques, de moins de 10 ans, sont disponibles sur demande gratuitement dans Home'Bank .
+* Vous pouvez également demander des duplicata des extraits papier (par exemple, si votre compte a été clôturé ou si vous souhaitez que votre relevé soit envoyé à une autre adresse) en nous contactant . Le frais est de 30 € par période de 12 mois. Vous recevrez vos duplicata par courrier.
+
+### Sous quel format les extraits de compte sont-ils disponibles ?
+
+Un extrait de compte ou duplicata électronique est disponible sous **format PDF** . Vous en avez demandé plusieurs ? Ils sont alors regroupés dans un fichier ZIP. Cela vous permet de conserver facilement les fichiers sur votre ordinateur.

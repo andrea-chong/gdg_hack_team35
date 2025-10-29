@@ -1,0 +1,28 @@
+# Account statements Frequently asked questions - ING Belgium
+
+### Can I download the old statements on Home'Bank or Business'Bank (Online/web)?
+
+Yes, of course. You can go ten years back in time from your ING Banking *a* pp. Tap 'Services' at the bottom right, select 'Payments & Cash' and choose 'Account statements'.
+
+### Can I download the old statements with my ING Banking App?
+
+Yes, of course. You can go ten years back in time from your ING Banking app. Tap 'Services' at the bottom right, select 'Payments & Cash' and choose 'Account statements'.
+
+### Requested statement duplicates, but have not received all?
+
+It is possible that there are no transactions for this period.
+
+### Why have I not received my account statements yet?
+
+You receive your statement on a fixed periodicity (daily, weekly, every two weeks or monthly). On that date we generate a PDF with the statements of the past period.
+If no statement is present, then it is because:
+* The maturity date for the statement of the account is not yet reached. If you need a statement before the next maturity, You can generate it under the “Duplicates” tab. (see hereunder): OR • There has been no transaction/movement since the last statement (A PDF is only generated when a movement/transaction is booked in the past period).
+
+### Who can download electronic statements and duplicates?
+
+Everyone who is entitled to consult the account ("consultation rights") in Business'Bank or Home'Bank has access to this service. After duplicates have been requested the requester has 7 days to download them. ​
+
+### What is the default frequency/date for receiving my e-statements?
+
+As an individual, you will receive your account statements once per month via Home'Bank on the same day of the month on which you opened your account.
+For example, if you opened your account on 15 September, then by default you will receive your electronic account statements on the 15th of each month.

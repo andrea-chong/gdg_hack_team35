@@ -1,0 +1,24 @@
+# Send euros easily with a bank transfer in the SEPA zone! - ING Belgium - All about sending money in euro (SEPA)
+
+## Frequently asked questions
+
+### What is SEPA?
+
+Sending money in euro (SEPA) lets you make payments in the same way, anywhere in the Single European Payment Area (SEPA). Click here to find the list of SEPA countries.
+
+### How to send money in euro urgently ?
+
+Do you have an urgent payment to make from your account to another account also held in one of the member states of the European Union (including Norway, Iceland, Liechtenstein, Switzerland, Monaco, San Marino and Andorra)?
+Click here to find the list of SEPA countries.
+Most SEPA transfers will be executed instantly. For all instant transfers, ING credits the beneficiary’s account within a few seconds. Check the details of the specific transfer on your transaction overview to see if the payment was executed as an instant credit transfer or as a regular SEPA transfer.
+All other charges can be found in the Charges applied to the main banking operations of private individuals (PDF) .
+
+### What should I do if the beneficiary hasn't received my transfer yet?
+
+First check that the beneficiary details you entered are correct. If they are, the payment time depends on the payment type:
+- Instant payments should arrive within seconds. Most SEPA transfers will be executed instantly. **For all instant transfers, ING credits the beneficiary’s account within a few seconds.** Check the details of the specific transfer on your transaction overview to see if the payment was executed as an instant credit transfer or as a regular SEPA transfer.
+- International payments can take several working days depending on the beneficiary bank. More info here
+
+### How can I see if my transfer was an instant transfer?
+
+Most SEPA transfers will be executed instantly. For all instant transfers, ING credits the beneficiary’s account within a few seconds. This also applies to weekends and public holidays. Check the details of the specific transfer on your transaction overview to see if the payment was executed as an instant credit transfer or as a regular SEPA transfer.

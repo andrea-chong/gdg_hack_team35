@@ -1,0 +1,30 @@
+# Trucs & Astuces pour personnaliser votre app ING Banking - ING Belgique - Conseils & astuces pour personnaliser votre app ING Banking
+
+L'app ING Banking est un monde à part entière, que vous explorez et personnalisez à votre guise. Grâce à l’app, votre banque vous suit partout où vous allez. Lisez la suite pour en découvrir toujours plus.
+Découvrir l'app
+
+## Un aperçu qui vous ressemble dans votre app ING Banking...
+
+... et votre Home'Bank ! Vous souhaitez donner un nom spécifique à un compte, modifier l'ordre des comptes sur l'écran de votre tableau de bord ou changer la visibilité de vos comptes ? Ajoutez votre touche personnelle !
+Notez qu'il doit rester minimum un compte visible pour chaque type de compte.
+Personnaliser votre app
+
+## Une langue qui vous convient
+
+L'app ING Banking est disponible en anglais, néerlandais, français et allemand.
+Votre **app n'est pas dans la langue de votre choix** ?
+Rendez-vous dans l'onglet Services > Gérez vous-même > Paramètres > Paramètres de l'app> Changer la langue
+Ou peut-être souhaitez-vous **recevoir nos communications dans une autre langue** ?
+Vous pouvez modifier vos préférences en matière de langue de communication ici ou aller dans l'onglet Services > Gérez vous-même > Données personnelles > Communication > Langue
+
+## Notifications : utiles, pas envahissantes
+
+Un bon conseil : activez les notifications de votre app. Vous en recevrez uniquement pour les choses importantes dont vous voulez être informé.e immédiatement. Promis !
+Par exemple, pour les montants reçus, les montants payés ou si le solde de votre compte tombe en dessous d'un certain montant.
+Configurer vos notifications push
+
+## Vous ne savez jamais qui espionne votre écran
+
+Garder votre solde à l'abri des regards indiscrets? Il est possible de passer en mode privé et de le cacher.
+Vous pouvez décider d'afficher ou de masquer votre solde par défaut. Vous pourrez ensuite le cacher/afficher quand vous le désirez.
+Allez dans l'onglet Aperçu > Réglages en haut de votre écran > Afficher le solde dans l'aperçu.

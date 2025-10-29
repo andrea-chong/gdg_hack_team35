@@ -1,0 +1,18 @@
+# Avec un virement bancaire, envoyez facilement de l'argent en euros dans la zone SEPA. - ING Belgique - Tout sur le virement en euros (SEPA)
+
+## Questions fréquemment posées
+
+### Que dois-je faire si je ne vois pas mon virement dans ma liste de transactions ?
+
+Vérifiez d’abord que votre compte dispose d’un solde suffisant, que vous avez bien signé le virement et que vous n’avez pas reçu de message d’erreur.
+Attendez quelques minutes avant de réessayer, afin d’éviter d’exécuter le même virement deux fois.
+Si vous avez signé correctement votre virement, vous devriez le retrouver dans l'aperçu de votre compte. S’il ne s’agissait pas d’un paiement instantané, il pourrait n’apparaître que le lendemain. Si le virement n’apparaît toujours pas dans l’aperçu de votre compte le lendemain, mais que votre solde a diminué, contactez-nous via notre page de contact .
+
+### Où puis-je obtenir une preuve de paiement ?
+
+Dans l’app ING Banking, accédez à la transaction spécifique dans l’aperçu de votre compte et sélectionnez le bouton « Partager » dans le coin supérieur droit pour générer une preuve de paiement. Dans Home'Bank, cliquez sur la transaction dans l'aperçu de votre compte, puis sur « Voir en PDF » pour télécharger la transaction. Vous pouvez utiliser ce document comme preuve de paiement.
+Si vous avez besoin d’une preuve de paiement officielle, contactez-nous via notre page de contact.
+
+### Que dois-je faire si je rencontre une erreur lors d’un virement ?
+
+Vérifiez d’abord que les données du bénéficiaire que vous avez saisies sont correctes. Si le virement ne figure pas dans votre liste des transactions, attendez quelques minutes avant de réessayer pour éviter d’effectuer le même virement deux fois. Il peut aussi s’agir d’un problème technique. Veuillez essayer avec un autre navigateur ou réinitialiser les cookies de votre navigateur.

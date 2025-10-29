@@ -1,0 +1,22 @@
+# Paiements sans contact: payer sans contact avec votre carte en toute simplicité et sécurité - ING Belgique - Les paiements sans contact
+
+Temps de lecture: 3 min 17 juillet 2024 Payez désormais sans contact. Plus rapidement et en toute sécurité.
+
+## Paiement sans contact : comment ça marche ?
+
+Grâce à la technologie NFC (Near Field Communication), vous pouvez payer sans contact avec votre carte de débit et votre carte de crédit. Plus besoin d’entrer votre code PIN, il suffit de poser votre carte contre le terminal de paiement.
+**Vous n’êtes pas encore familier avec les paiements sans contact et voudriez découvrir comment cela fonctionne ?** Regardez les vidéos explicatives réalisées par Febelfin , la Fédération belge du secteur financier.
+
+## Paiement sans contact : quel est le montant maximal ?
+
+* **La limite de transaction** pour les paiements par carte (de débit et de crédit) sans contact et sans code PIN est de **50 euros** par opération. Vous ne devez dès lors plus introduire votre code PIN pour les paiements de 50 euros ou moins.
+* **Le montant cumulatif** autorisé pour le paiement sans contact est de **100 euros** . Vous ne devez introduire votre code PIN que lorsque vous avez dépensé un montant total de 100 euros (cumulé sur plusieurs transactions).
+
+## Une technologie totalement sécurisée
+
+Les paiements sans contacts sont rapides, sûrs et simples.
+En effet, cette technologie ne peut être utilisée à une distance du terminal supérieure à 10 cm. De plus, votre code PIN est requis pour tout paiement supérieur à 50 euros.
+
+## Vous avez le choix d’activer ou de désactiver la fonction sans contact!
+
+La fonction « sans contact » est activée par défaut pour votre carte de débit/carte de crédit mais vous pouvez facilement la désactiver **dans l’app ING Banking ou en Home’Bank** > Services > Cartes > Cartes de débit/Cartes de crédit > Paiements sans contact.

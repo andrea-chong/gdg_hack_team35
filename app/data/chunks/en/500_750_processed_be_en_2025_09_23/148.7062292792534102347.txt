@@ -1,0 +1,21 @@
+# Verification of payee - ING Belgium - Verification of the name of the payee
+
+## FAQ
+
+### What services do Belgian banks provide that go beyond what the legal framework requires ?
+
+A European Payments Regulation (2024/886) provides the legal framework. To protect you as much as possible against fraud, 16 Belgian banks (1) go beyond what this legal framework requires:
+* Legal entities: In the event of an error, the correct legal name of the beneficiary is indicated (if available).
+* The verification is not limited to payment accounts, but also applies to savings accounts.
+* If an account has recently been closed, this is also notified to the payer so that they do not confirm the transfer.
+* For legal entities, both names registered with their bank and legal names, acronyms and trade names registered with the Crossroads Bank for Enterprises (BCE) will be taken into account as far as possible by October 9, 2025 at the latest.
+(1) Argenta Spaarbank, Arkéa Direct Bank/Keytrade Bank, Bank van Breda, Bank Nagelmackers, Banque CPH, Belfius Bank, Beobank, BNP Paribas Fortis, CBC Banque, Crelan, Delen Private Bank, Europabank, ING Belgium, KBC Bank, MeDirect, VDK Bank
+
+### What name should I use when transferring money to a joint account?
+
+When transferring funds to an account in the name of two account holders, it is sufficient to indicate the full name (first and last name) of only one of the account holders. It is therefore not necessary to indicate the names of both beneficiaries.
+
+### For which names is verification performed on the beneficiary's account?
+
+For **individuals** , verification is performed based on the first and last names of all account holders, although you only need to provide one first and last name. In the event of a slight discrepancy, only the registered name of the account holder whose name was entered is displayed.
+For **legal entities** , verification covers the legal names registered with the beneficiary's bank, as well as legal acronyms and trade names, provided they are registered with the bank and, in Belgium, with the Crossroads Bank for Enterprises (CBE), which will be the case no later than October 9, 2025.

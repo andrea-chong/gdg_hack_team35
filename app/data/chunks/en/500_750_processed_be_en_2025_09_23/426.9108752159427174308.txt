@@ -1,0 +1,32 @@
+# Account statements Frequently asked questions - ING Belgium
+
+### Why is there a new statement every day?
+
+It’s because your periodicity for the account(s) is set on “Daily”. To see what the setting is for each individual account and to change the frequency (to daily, weekly, every two weeks or monthly) check under the tab “ Manage reception method ”.
+
+### How to change the reception method for my account statements?
+
+In Home'Bank or Business'Bank : in the menu, select "Day-to-day banking > My current accounts >Account statements". There are 2 ways to change the reception method:
+Click on "Actions"next to the account and select "Change statement reception method".
+You can also change the reception method for different accounts at the same time. To do this, select the accounts, click on "Bulk actions" and select "Change statement reception method".
+Note: Are you changing from "Electronically (PDF)" back to "Paper" and have not requested all statements yet? In that case the remaining statements are automatically requested and delivered electronically for one last time. ​​​​
+
+### Does changing the method receiving statements apply to everyone?
+
+Yes. If several people have access to a given account, any change to the reception method (e.g. from postal delivery to electronic) will apply to everyone.
+
+### How do I request to switch to e-statements for all my accounts?
+
+Yes of course. Nevertheless, you must submit a separate application for each account. You control the settings of your bank statements in Home'Bank or Business'Bank .
+
+### Is it possible to group accounts if e-statements is chosen for main account?
+
+No. It is not possible to group accounts with a main account for which you receive the account statements electronically.
+
+### Do I have to print my electronic account statements?
+
+No, this is not compulsory. The great advantage of electronic statements is that you can keep them on your hard disk. This way you save paper and contribute to improve the environment. Do you need a printed statement? In that case you can choose which statements and how many copies you need printed.
+
+### What is the legal value of electronic account statements?
+
+The legal validity of these account statements is the same as those received by post.

@@ -1,0 +1,19 @@
+# Avec l'app d’ING, gérez vos opérations bancaires partout - ING Belgique - L'app ING Banking
+
+## FAQ
+
+### Comment installer l’app ING Banking ?
+
+Téléchargez la dernière version de l’app ING Banking sur votre smartphone et ouvrez-la.
+Si vous n'êtes pas encore client ING, appuyez sur « Pas encore client(e) » et suivez les différentes étapes.
+Si vous êtes déjà client ING, appuyez sur « Je suis client(e) ING » et sélectionnez une méthode pour créer votre profil. Vous avez le choix entre itsme®, une photo de votre document d'identité.
+
+### A partir de quel âge l'app ING Banking est-elle disponible ?
+
+Tous les clients ING âgés de 10 ans et plus, titulaires d'un **compte privé** , peuvent télécharger et utiliser l'app ING Banking. L'application peut être installée sur les smartphones équipés d'un système d'exploitation iOS et Android. Les clients d'ING disposant d'une **tablette** peuvent également télécharger l'app ING Banking.
+
+### J'ai perdu mon smartphone ou ma tablette ! Que faire ?
+
+L'application ING Banking est sécurisée par votre **code à 5 chiffres** , votre **empreinte digitale** ou la **reconnaissance faciale.** Vos opérations bancaires ne sont donc pas accessibles à des tiers qui se connecteraient contre votre gré à votre smartphone ou tablette.
+Si votre appareil est **perdu ou volé** , vous pouvez supprimer vous-même votre profil via **Home'Bank** ou nous appeler au numéro **+32 2 464 60 02.** Dans Home’Bank, rendez-vous dans les paramètres > cliquez sur « Apps actives » > sélectionnez l'appareil que vous avez perdu, puis cliquez sur « **Bloquer** ».
+Vous avez un nouveau téléphone ? Téléchargez l'app ING Banking via votre app store et créez un nouveau profil dans l'application.

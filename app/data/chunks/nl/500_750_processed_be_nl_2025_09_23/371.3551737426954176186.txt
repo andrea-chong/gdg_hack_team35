@@ -1,0 +1,19 @@
+# Met de ING Banking-app kan je overal jouw bankzaken regelen - ING België
+
+## FAQ
+
+### Hoe registreer ik een nieuwe begunstigde?
+
+Registreer een nieuwe begunstigde vanuit de ING Banking-app:
+1. Tik rechtsonder op 'Diensten'.
+2. Selecteer 'Instellingen'
+3. Kies de optie 'Begunstigden'.
+4. Tik op de oranje persoon rechtsboven om een nieuwe begunstigde toe te voegen aan je contactenlijst.
+
+### Hoe kan ik mijn mobiele profiel blokkeren?
+
+Blokkeer je mobiele profiel vanuit de ING Banking-app:
+1. Tik rechtsonder op 'Diensten'.
+2. Selecteer 'Instellingen'.
+3. Kies 'Actieve apps'.
+4. Tik op 'Block'.

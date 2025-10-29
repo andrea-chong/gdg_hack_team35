@@ -1,0 +1,33 @@
+# Wero - ING België
+
+## Frequently Asked Questions:
+
+### Kan ik mijn gekoppelde bankrekening bijwerken?
+
+Ja, kies de rekening waaraan een telefoonnummer is gekoppeld, verwijder het bestaande nummer en voeg een nieuw toe.
+
+### Hoe maak ik een betaling met mijn telefoonnummer?
+
+* Ga naar Betaalopties -> Telefooncontact betalen
+* Kies de contactpersooon
+* Voer het bedrag en een optioneel bericht in
+* Bevestig -> en klaar!
+
+### Kan ik een betaling aan een telefonisch contact aanvragen?
+
+* Ja, ga naar Opties betaalverzoek -> Betaalversoek sturen naar telefooncontact
+* Kies het contact
+* Voer het bedrag en een optioneel bericht
+* Verzonden!
+
+### Kan ik een betalingsverzoek weigeren?
+
+Ja, klik gewoon op "Weigeren" en de afzender wordt geïnformeerd.
+
+### Kan ik nog steeds Payconiq en Bancontact QR-codes scannen vanuit de ING Banking-app?
+
+Absoluut, er verandert niets aan de Payconiq en Bancontact QR codes dus ze kunnen gescand worden zoals gewoonlijk.
+
+### Hoe kan ik de geschiedenis van Wero-transacties bekijken?
+
+Ga naar Mobiele Betalingen voor een overzicht van Wero-transacties.

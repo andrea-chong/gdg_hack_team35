@@ -1,0 +1,30 @@
+# With the ING Banking app, manage your banking operations anywhere - ING Belgium
+
+## FAQ
+
+### Can I change the code of my ING Banking app ?
+
+From the 'Overview' tab, press 'Services' at the bottom right of your screen. Then select the 'Settings' option in the 'Do it yourself' menu. Then choose 'Change my app code'.
+
+### Can I change the visibility of my accounts?
+
+* You can change the visibility of your accounts from your ING Banking app.
+From the 'Overview' tab, press the 'settings' icon at the top of your screen. Select 'Alias and visibility' and then indicate where your accounts should be displayed (in your ING Banking app and/or in Home'Bank).
+* Change the visibility of your accounts from your Home'Bank.
+Log in using the ING Banking app or itsme®. Click on the grey pen to the right of your current account. Then choose 'Alias and visibility' and indicate where your accounts should be displayed (in your ING Banking app and/or in Home'Bank).
+
+### How do I register a new beneficiary?
+
+Register a new beneficiary from the ING Banking app:
+1. Tap ‘Services’ at the bottom right.
+2. select ‘Settings’.
+3. choose the ‘Address book’ option.
+4. Tap the orange person in the top right to add a new beneficiary to your contact list.
+
+### How can I block my mobile profile?
+
+Block your mobile profile from the ING Banking app:
+1. Tap ‘Services’ at the bottom right.
+2. Select ‘Settings’.
+3. Choose ‘Active apps’.
+4. Tap ‘Block’. ’

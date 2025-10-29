@@ -1,0 +1,12 @@
+# Send euros easily with a bank transfer in the SEPA zone! - ING Belgium - All about sending money in euro (SEPA)
+
+## Frequently asked questions
+
+### Where can I get a proof of payment?
+
+On the ING Banking app, go to the specific transaction in your account overview and tap the share button in the top right corner to generate a proof of payment. On Home'Bank, click on the transaction in your account overview, then on "View as PDF" to download the transaction. You can use it as proof of payment.
+If you need an official proof of payment, contact us via the services section. There is a charge for this service.
+
+### What should I do if I encounter an error while transferring money?
+
+First check that the beneficiary details you entered are correct. If the transfer is not on the transaction list, wait a few minutes before entering it again to avoid making the transfer twice. Otherwise there may be a technical error. Please try on a different browser or reset the cookies on your browser.

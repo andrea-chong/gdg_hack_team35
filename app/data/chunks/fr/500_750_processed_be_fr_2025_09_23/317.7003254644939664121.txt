@@ -1,0 +1,7 @@
+# Aperçu de vos enfants - ING Belgique
+
+## Questions fréquemment posées
+
+### Pourquoi je ne vois que les comptes courants et d’épargne réglementés de mes enfants dans l’aperçu, et aucun autre produit ?
+
+Les produits, compte ING Invest, compte ING MC, compte à terme ING ou compte ING à long terme restent pour l’instant visibles dans votre propre vue, et non dans la vue d’ensemble des enfants.

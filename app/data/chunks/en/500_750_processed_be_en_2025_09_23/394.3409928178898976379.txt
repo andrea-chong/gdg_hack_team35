@@ -1,0 +1,128 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgium - Personal data protection statement for ING Belgium nv/sa
+
+## Personal data protection statement
+
+### Supplement 1 to the Personal data protection Statement of ING Belgium NV/S.A. : Main recipients and sources of your data
+
+**A) MAIN RECIPIENTS**
+Your data are processed by ING Belgium in confidential manner.
+They shall not be shared with third parties for other reasons than those mentioned in point 4 of this Statement (“Who do we share your personal data with and why?”).
+A list of the main recipients can be found hereunder:
+Persons designated by you
+These persons can be:
+• The beneficiaries of your payments;
+• Your family members
+• Organisations intervening upon your request, such as Ombudsfin, an insurance company, …
+Independent intermediaries and commercial partners
+This concerns primarily independent agents and brokers offering ING Belgium’s products and services.
+Competent authorities
+The main competent authorities receiving your personal data are the following:
+• Communications to judicial or administrative authorities (including the Data protection authority, the tax authorities, …), or an extrajudicial mediation service (in particular, Ombudsfin) or an association defending people’s interests or a specific cause;
+• Legal communications at the Central Point of Contact of the National Bank of Belgium (NBB);
+• Legal communications to the Central Individual and Corporate Credit Register of the NBB;
+• Communications to the Basic Banking Service Chamber within the FPS Economy, responsible for appointing a basic banking service provider within the framework of the basic banking service for businesses;
+• Communication to the Deposit and Consignment Office within the General Administration of the Treasury of the Federal Public Service Finance in
+the context of the management of dormant accounts and settlement of accounts,
+• Communications to public authorities or bodies in connection with combating fraud, with ING limiting itself to confirming whether or not a person is the holder of an account number, with the person’s details and associated account numbers being communicated by the public authority or body concerned, notably:
+o Federal Pensions Service
+o National Social Security Office
+o FPS Finance
+o Federal Agency for Occupational Risks (FEDRIS)
+o National Office for Annual Vacations (ONVA)
+o Horeca Social and Guarantee Fund
+o Famiris, Fons and Famiwal
+o Ministry of the German-speaking Community, Ministry of Family and Social Affairs
+o Kind & Gezin
+o Walloon Agency for Health, Social Protection, Disability and Families (Aviq)
+o Iriscare (THAB)
+Financial sector specialists and other service providers
+We also call on various companies whose involvement is necessary or useful to achieve one of the purposes pursued by us. In doing so, these companies act in principle as subcontractors of ING Belgium (and/or in some cases also as (joint) controllers of the processing of your personal data).
+They are:
+- Financial sector specialists, or
+- Other service providers.
+a) Financial sector specialists
+Financial sector specialists who also have a legal obligation to treat personal data with all due care are:
+• SWIFT SC/CV (established in Belgium) for secure financial transaction message exchange whose data are stored in the United States and are subject to US law;
+• MasterCard Europe SA/NV (established in Belgium) and VISA Europe Limited (established in the United Kingdom) for payments and credit transactions worldwide;
+• Card Stop (service of equensWorldline) to block your debit or credit card (including the ING Card);
+equensWorldline SE (established in The Netherlands) for global credit transactions and equensWorldline Group companies in Morocco and India, which operate as subcontractors; • Euroclear NV/SA (established in Belgium) for settlement / delivery of securities worldwide, for domestic and international bond and equity transactions;
+• Gemalto (established in France) for the personalisation of debit or credit cards (including the ING Card);
+• Payconiq (established in Luxembourg) to facilitate payments with smartphone;
+• EPI Company SE (established in Belgium) for the performance of Wero payments transactions via the Wero in App Services, integrated as an ING Banking Service (information available on the website of EPI : epicompany.eu).
+• Isabel NV (established in Belgium) for services via the Internet and the Zoomit service of Isabel:
+• Axepta BNP Paribas BENELUX NV/SA (established in Belgium) for the provision of payment terminals to professionals;
+• Correspondent banking/financial institutions in foreign countries;
+• Clearing and settlement institutions for payments (Centre d’Echange et de Compensation ASBL (“CEC”, established in Belgium), Systèmes technologiques d'échange et de traitement SA (“STET”, established in France), EBA Clearing SA (established in France), etc.) and for financial instruments (NBB-SSS, Euroclear Belgium and Euroclear Bank, etc.);
+• Companies involved in the mobilisation of bank claims;
+• Credit institutions, financial institutions and equivalent institutions in connection with the disclosure of information or intelligence relating to money laundering or terrorist financing, including the (possible) transmission of information to the Financial Intelligence Processing Unit (FIPU);
+• Batopin SA/NV (established in Belgium), the consortium created by the major Belgian banks to manage the ATM network and services;
+• Belgian Mobile ID NV/SA and Connective SA (established in Belgium) for the provision of identification, authentication and digital signature services;
+• The other members affiliated to the Kube platform of Isabel SA/NV (established in Belgium), a list of which is available on www.kube-kyc.be.
+Via this Kube platform, ING Belgium communicates the personal data of the legal representatives and ultimate beneficiaries owners (UBOs) of companies/corporations which are Clients of ING Belgium as well as those of self-employed persons who are Clients of ING Belgium, with the other above-mentioned members with whom these companies and self-employed persons are also Clients or wish to become Clients and which must also comply with the obligations of the anti-money laundering legislation or the legal obligations relating to the automatic exchange in connection with cross-border tax arrangements as mentioned in article 5.7 of the General Banking Regulations. The data thus communicated are those obtained during the customer acquisition process with ING Belgium as well as those subsequently updated with the latter;
+• Insurance companies authorised in Belgium (for which ING is not acting as an intermediary) in connection with combating fraud, with ING limiting itself to confirming whether or not a person is the holder of an account number, with the person’s details and associated account numbers being communicated by the insurance company concerned.
+Please read the specific data protection policies/personal data protection statements of these specialists on their respective websites.
+b) Service providers
+Some specific personal data may be shared with service providers, such as:
+Intragroup services
+• The service of ING Business Shared Services Bratislava in Bratislava, Slovakia for payment and account-related transactions,
+• The service of ING Business Shared Services Manila in Manila, Philippines for payment, credit and financial transactions (including the release of funds),
+• The service of ING Business Shared Services Bratislava in Bratislava, Slovakia, ING Business Shared Services Manila in Manila, Philippines and ING Business Shared Services Warschau in Warsaw, Poland for the identification of clients and other persons concerned, as well as the control and surveillance of their activities (in the context of the fight against terrorism and money laundering).
+Generic service providers
+• The services of Fircosoft SAS (established in the United States) for the screening and monitoring of clients and transactions.
+• IT services
+(including security) of suppliers such as Unisys Belgium SA/NV (established in Belgium), Adobe (established in Ireland), Contraste Europe VBR (established in Belgium), Salesforce Inc. (established in the US), Ricoh Nederland B.V. (established in the Netherlands), Tata Consultancy Services Belgium SA/NV (established in Belgium and India), HCL Belgium SA/NV (established in Belgium and India), Cognizant Technology Solutions Belgium SA/NV (established in Belgium and India), ING Business Shared Services Warschau (established in Poland),
+• The service of Selligent SA/NV and Social Seeder SRL/BV (established in Belgium) and, where applicable, external call centres (in particular, as part of surveys) for marketing activities,
+• The services delivered by B-Connected SA/NV, CXL SA/NV and N-Allo SA/NV (both located in Belgium) in the context of the helpdesk calls (Digital Channel Private Individuals), concerning the support of the digital channels used by our Private customers,
+• The security service of funds and securities of Securitas SA/NV / Loomis Belgium SA/NV (established in Belgium),
+• The archiving service of your banking, financial or insurance data in paper or electronic form from OASIS Group in Turnhout in Belgium,
+• The postal and correspondence management services of BPost NV/SA, Exela NV/SA, Group Joos NV/SA, Mastermail SRL/BV, Omnilevel NV/SA and Speos NV/SA (both located in Belgium),
+• The services for the management of cookies on ING’s electronic communication channels in Belgium (“third-party cookies”): Adobe (in the United States), ADMO, Doubleclick Inc, Google Ireland Ltd (in Ireland), Facebook Ireland Ltd (in Ireland), Medallia Inc (in the United States) and Tiktok Information Technologies UK Ltd. (established in the United Kingdom).
+•The digital assistance services such as chatbots, callbots and voice assistants in connection with ING Client Services of Google Ireland Ltd and Twilio Ireland Ltd (both in Ireland).
+Product of segment specific service providers
+• The service of ING Business Shared Service Colombo in Colombo, Sri Lanka for the management of wholesale banking credits,
+• The service of Finance Active SAS (established in France) for the management of the active debt management platform for Institutional Clients,
+• The service of management of the consumer credit and mortgage credit agreements of Stater Belgium SA/NV (established in Belgium),
+• The services for managing payment and credit incidents by those who carry out an amicable consumer debt recovery activity and who, for
+this purpose, in accordance with Article 4, § 1 of the Law of 20 December 2002 on amicable consumer debt recovery, are registered with the Federal Public Service Economy, SMEs, Self-employed and Energy (list available on demand), such as the company Fiducre SA,
+• The services for managing credits: Opportunity SAS (in France),
+• The custody service of foreign financial instruments and the management of their "corporate actions":
+- for foreign securities: BNP Paribas securities services (Italy, Netherlands, France, Germany), ING Luxembourg (third party funds), Bank of New York Mellon (Central/Eastern Europe and Asia) , Brown Brothers Harriman (US markets and NN Funds issued in Luxembourg ), UBS (Switzerland, Austria, Portugal, Denmark, Sweden, Norway, Finland, UK, Ireland, South Africa, Spain, Canada), CitiBank Luxembourg (South Africa), Clearstream banking Luxembourg (as international securities depositary for bonds).
+- for domestic securities: National Bank of Belgium (securities depository for government bonds), Euroclear Belgium (Belgian shares, warrants), KBC (Belgian Linear bonds), RBC Dexia Investor Services (NN Funds issued in Belgium) and Delen Private Bank, Belfius, Deutsche Bank, Fortis Bank, Beo Bank, Credit Agricole, Argenta, Axa Bank, VDK Bank, Delta Lloyd (as top of the pyramid for cash certificates).
+Insurances
+Personal data may be transmitted as part of the conclusion or execution of an insurance contract to entities outside the ING Group which are established in a Member State of the European Union and in particular:
+• NN Non-Life Insurance N.V.,
+• NN Insurance Belgium SA/NV,
+• Aon Belgium S.R.L./B.V.,
+• Inter Partner Assurance S.A./NV,
+• AXA Belgium SA/NV,
+• Cardif Assurance Vie S.A. and Cardif Assurances Risques Divers S.A.,
+• Qover SA/NV,
+• Zurich Insurance Europe AG, Belgium Branch, • And to their potential representatives in Belgium (in particular NN Insurance Services Belgium SA/NV for NN Non-Life Insurance N.V.) (list on request).
+Other partners Personal data may be transmitted to other partner companies of ING (e.g. Bancontact Payconiq Company SA/NV established in Belgium, for payment services; Athlon SA/NV, established in Belgium, for operational car lease; list available on demand), which are established in a Member State of the European Union, for and on behalf of which ING offers products or services, in the event of the people concerned subscribing to these or showing an interest in them.
+**B) MAIN SOURCES**
+A list of the public and private bodies which are the main sources for your data can be found hereunder:
+Public bodies
+• the Belgian National Register and the Belgian Social Security Crossroads Bank (via the non-profit association Identifin) for identifying the Client and other people concerned in the event of distance contracts (in connection with combating terrorism and money laundering) or dormant accounts or safe-deposit boxes;
+• Checkdoc(.be) for verifying Belgian identity documents;
+• the Belgian Official Gazette (Moniteur Belge/Belgisch Staatsblad), for identifying legally incapacitated people and their representatives or even representatives of companies in the context of ING's compliance with its legal obligations, including the fight against terrorism and money laundering. In order to identify the representatives of the companies for this purpose, ING systematically consults the Graydon Insights service of Graydon Belgium SA/NV (established in Belgium), and records, in its database which centralises the data of the Belgian Official Gazette, the data of the representatives of all companies, whether clients or not, which are published in the annexes of the Belgian Official Gazette. Similarly, in order to identify incapacitated persons and their representatives for the same purpose, ING systematically consults the Moniteur Belge and records, in its database which centralises data from the Belgian Official Gazette, the details of incapacitated persons and their representatives, whether or not they are customers, which are published in the annexes to the Belgian Official Gazette. In this database, only the data of companies, incapacitated persons and their representatives who are ING customers or who have taken steps to open a relationship with ING Belgium are accessible to any ING collaborator;
+• the Belgian register of beneficial owners (“UBO register”) for identifying the beneficial owners of companies, non-profit associations, foundations, trusts and other legal entities similar to trusts in connection with combating terrorism and money laundering;
+• the Crossroads Bank for Enterprises in connection with identifying the representatives of companies in connection with combating terrorism and money laundering;
+• the Central Individual and Enterprise Credit Register of the National Bank of Belgium in connection with combating excessive debt,
+• notably in connection with assessing the creditworthiness of the Client credited; the Central Balance Sheet Office held by the National Bank of Belgium, notably in connection with assessing the creditworthiness of the Client credited and in connection with combating terrorism and money laundering;
+• the Basic Banking Service Chamber, within the FPS Economy, responsible for appointing a basic banking service provider within the framework of the basic banking service for businesses.
+• CADGIS, notably to consult the Belgian land registry plan in connection with assessing the real estate offered as security by the person credited;
+• the Register of pledges held by the FPS Finances;
+• the mortgage registry held by the FPS Finances.
+• the Notary Deeds Database (NABAN), under the responsibility of the Manager of the Notariële Aktebank (helf by the Royal Federation of Belgian Notaries);
+• the Database of statutes and powers of representation (held by the Royal Federation of Belgian Notaries);
+• the database of the Flemish Agency for Energy and Climate (VEKA) on energy performance certificates for the analysis of the application for a mortgage or for a credit for energy-efficient renovations;
+• a database of the Federal Public Service Finance to retrieve certain data from the tax return of a self-employed credit applicant and his/her partner for the purpose of analysing his/her credit application;
+• the judicial or criminal authorities, in connection with law enforcement (including in the event of seizures) or an extrajudicial mediation service (in particular, Ombudsfin) or an association defending people’s interests or a specific cause.
+Private bodies • the World-Check risk detection service of London Stock Exchange Group plc (in the United Kingdom, collecting data both within and outside of the European Union) or of Regulatory DataCorp Ltd. (in the United Kingdom, collecting data both within and outside of the European Union), the services of PricewaterhouseCoopers Belgium SC/CV (in Belgium), Deloitte Belgium SRL (in Belgium), Graydon Belgium SA (in Belgium), Swift SC/CV (in Belgium), Isabel NV (in Belgium), Morningstar Holland B.V. (in the Netherlands), Internet search engines, press and other reliable sources in connection with combating terrorism and money laundering;
+• The other members affiliated to the Kube platform of Isabel SA/NV (established in Belgium), a list of which is available on www.kube-kyc.be.
+Via this Kube platform, ING Belgium may receive the personal data of the legal representatives and ultimate beneficiaries owners (UBOs) of companies/corporations which are Clients of these other members as well as those of self-employed persons who are Clients of these other members, from the other above-mentioned members provided that these companies and self-employed persons are also Clients of ING Belgium or wish to become Clients of ING Belgium, and this in order to also comply with the obligations of the anti-money laundering legislation or the legal obligations relating to the automatic exchange in connection with cross-border tax arrangements as mentioned in article 5.7 of the General Banking Regulations. The data thus communicated are those obtained during the customer acquisition process with these other members as well as those subsequently updated with these members;
+• the financial information services of Graydon Belgium SA, Bel-first of Bureau van Dijk Electronic Publishing SA, Dun & Bradstreet BV (information about companies and their representatives, all in Belgium), the research services of Foundation OpenStreetMap Ltd. (in the United Kingdom) and other search engines in connection with marketing;
+• the financial and commercial information services of Moody’s Investors Service Ltd (in the United Kingdom), Coface SA (in France), Creditsights Ltd (in the United Kingdom) and Bloomberg Ltd (in the United States) in connection with identifying company representatives, granting and managing loans, marketing and asset management;
+• the services of Mitek Systems B.V. (in the
+Netherlands) for the identification of the clients based on their picture, in the framework of our purpose of monitoring the regularity of transactions (including the prevention of irregularities);
+• the simulation services of Corporate Facility Partners B.V. (in the Netherlands) and Rocketestate SRL (in Belgium) for the assessment of the energetic efficiency of buildings and the works required to improve it or the risks associated with the climatic impact (e.g. flood zones) when granting a related credit with ING Belgium.

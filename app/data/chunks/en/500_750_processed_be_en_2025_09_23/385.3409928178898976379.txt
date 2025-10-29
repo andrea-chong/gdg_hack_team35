@@ -1,0 +1,22 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgium - Personal data protection statement for ING Belgium nv/sa
+
+## Personal data protection statement
+
+### What types of personal data do we process ?
+
+A) Personal data Personal data refers to any information that identifies or can be linked to a natural person. Personal data we process about you includes:
+* **Identification data** : your name, date and place of birth, ID number, email address, telephone number, title, nationality and a specimen signature, fiscal code/social security number;
+* **Transaction data** , such as your bank account number, any deposits, withdrawals and transfers made to or from your account, and when and where these took place, transaction identifiers and associated information;
+* **Financial data** , such as invoices, credit notes, payslips, payment behaviour, the value of your property or other assets, your credit history, credit capacity, tax status, income and others revenues, financial products you have with ING, whether you are registered with a credit register, payment arrears and information on your income, electronic payment instrument data such as card number, expiry date or card verification code (CVV/CVC);
+* **Socio-demographic data** , such as your gender, education, job position and marital status including whether you have children;
+* **Online behaviour and information about your devices** , such as your IP address and device ID of your mobile device or computer and the pages you visit on ING websites and apps;
+* **Data about your interests and needs** that you share with us, for example when you contact our call centre or fill in an online survey or when you use our platforms or fill in surveys;
+* **Know our customer data** as part of customer due diligence and to prevent fraudulent conduct or behaviour that contravenes national or international sanctions (including US sanctions) and to comply with regulations against money laundering, terrorism financing and tax fraud;
+* **Audio-visual data** ; where applicable and legally permissible, we process surveillance videos at ING premises *(you are informed of this by a pictogram)* or recordings of phone or video calls or chats with our offices. We can use these recordings, to verify telephone orders, for example, or for fraud prevention or staff training purposes;
+* **Your interactions with ING on social media** , such as Meta (Facebook & Instagram), Twitter, LinkedIn and YouTube. We follow public messages, posts, likes and responses to and about ING on the internet;
+* **Information related to your location** when making a payment or when accessing certain products/services for example when you withdraw cash from an ATM.
+B) Sensitive personal data Sensitive personal data is personal data relating to your health, ethnicity, *religion or philosophy, political beliefs, data relating to your union membership or sex life* , genetic or biometric data or criminal data. We may process your sensitive personal data as set out below in Section 3 (“What do we do with your personal data?”) if we have your explicit consent or when we are required or authorised to do so by applicable laws and regulations. For instance, we may process criminal data insofar as this is necessary for the management of our own disputes.
+Please note that if you instruct us to make a payment to a political party, trade union, a religious institution or health care institution, this qualifies as sensitive personal data. Therefore, ING will not process this sensitive personal data for purposes other than executing the transaction or with your explicit consent. However, it is possible that as a result of our obligation to comply with anti-money laundering and terrorism financing regulations. We may further process such data for example to verify the origin of the funds but only in the context of anti-money laundering and terrorism financing regulations.
+C) Children´s personal data We only collect personal data about children if they have an ING product or if you provide us with personal data about your own children in relation to a product you obtain from us. We will seek parental consent when it is required by applicable law.
+In relation to the offer of information society services (for example, ING Banking) directly to a child under the age of 13, we would do so only if and to the extent that we have received authorization from the person holding parental responsibility.
+Furthermore, we do not perform direct marketing aimed at children below the age of 12.

@@ -1,0 +1,16 @@
+# Verificatie van de naam van de begunstigde - ING België
+
+## FAQ
+
+### Wat doen de Belgische banken meer dan het wettelijk kader voorschrijft?
+
+Een Europese betalingsverordening (2024/886) voorziet het wettelijk kader. Om jou zo veel mogelijk te beschermen tegen fraude, gaan 16 Belgische banken [1] nog een stapje verder dan dit wettelijk kader voorschrijft:
+* Rechtspersonen: bij een fout wordt de geregistreerde wettelijke naam vermeld (indien beschikbaar);
+* De verificatie wordt niet beperkt tot betaalrekeningen, maar geldt ook voor spaarrekeningen;
+* Wanneer een rekening recent werd gesloten, wordt dit ook gemeld aan de betaler, opdat hij de overschrijving niet zou bevestigen;
+* Voor rechtspersonen wordt zowel rekening gehouden met geregistreerde benamingen bij hun bank, als met wettelijke benamingen, afkortingen en handelsnamen die zijn geregistreerd in de Kruispuntbank Ondernemingen (KBO). Dit laatste zal het geval zijn tegen uiterlijk 9 oktober 2025.
+[1] Argenta Spaarbank, Arkéa Direct Bank/Keytrade Bank, Bank Van Breda, Bank Nagelmackers, Banque CPH, Belfius Bank, Beobank, BNP Paribas Fortis, CBC Banque, Crelan, Delen Private Bank, Europabank, ING België, KBC Bank, MeDirect, vdk Bank
+
+### Welke naam moet ik invoeren wanneer ik overschrijf naar een rekening met twee titularissen?
+
+Wanneer je een overschrijving uitvoert naar een rekening op naam van twee titularissen, volstaat het om één volledige naam (voor- en achternaam) in te vullen. Het is dus niet nodig de naam van beide begunstigden in te voeren.

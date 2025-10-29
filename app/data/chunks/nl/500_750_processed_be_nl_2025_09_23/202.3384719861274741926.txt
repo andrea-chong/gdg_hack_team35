@@ -1,0 +1,16 @@
+# Apple Pay: Betaal in een handomdraai! - ING België
+
+## FAQ
+
+### Wat als je kaart met Apple Pay link, gestolen/verloren is?
+
+* Blokkeer je debetkaart via de online kanalen van ING in de doe-het-zelf-zone of bel Card Stop op het nummer +32 78 170 170
+* Je debet- of kredietkaart wordt automatisch verwijderd van al je verbonden toestellen
+Je moet daarna je nieuwe debet- of kredietkaart niet meer toevoegen aan Wallet en Apple Pay. Je kunt al na ongeveer één werkdag nadat je nieuwe debet- of kredietkaart besteld is, terug Apple Pay gebruiken. Je hoeft dus je kaart nog niet thuis ontvangen te hebben.
+
+### Wat als je iPhone of Apple Watch gestolen of verloren is?
+
+* Had je de functie ‘Zoek mijn iPhone’ ingeschakeld op je toestel?
+Meld dan aan in iCloud.com om het toestel terug te vinden en deze in de "verloren-modus" te zetten, Apple Pay tijdelijk te uit te schakelen of de gegevens op je iPhone of Apple Watch volledig te wissen.
+* Is ‘Zoek mijn iPhone’ niet ingeschakeld op je verloren/gestolen toestel?
+Bel dan onmiddellijk naar Card Stop op het nummer + 32 78 170 170 om de kaarten te blokkeren die verbonden zijn aan je Apple Pay Wallet. Je gewone debet- of kredietkaart kun je dan nog steeds verder gebruiken.

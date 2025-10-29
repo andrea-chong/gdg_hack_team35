@@ -1,0 +1,19 @@
+# Verificatie van de naam van de begunstigde - ING België
+
+## De verificatie van de naam van de begunstigde in kort
+
+* ### Preventie
+Deze functionaliteit vermijdt bepaalde vormen van fraude en fouten bij overschrijvingen
+* ### Onmiddellijk resultaat
+Zodra het rekeningnummer (IBAN) en de naam van de begunstigde ingevoerd worden, verschijnt de resultaat van de verificatie onmiddellijk.
+* ### Implementatie
+Vanaf 9 oktober 2025 op kanalen zoals ING-app en Home'Bank.
+
+## Kort overzicht
+
+Telkens alvorens een klant een SEPA transactie, instant of non-instant, gaat tekenen, zal ING een “verificatie van de naam van de begunstigde“ uitvoeren. Deze nieuwe service zal met andere woorden checken of het ingetoetste rekeningnummer (IBAN) overeenkomt met de ingetoetste naam van de begunstigde.
+Dit is deel van de Europese richtlijn omtrent Instant Payments die in voege treedt op 9 oktober 2025.
+
+## Implementatie
+
+Implementatie op **09/10/2025** : de service wordt aangeboden aan zowel retail als business klanten, bij de initiatie van SEPA overschrijvingen in Mobile Banking en Home' Bank. De service zal op die datum ook uitgebreid worden tot alle SEPA landen .

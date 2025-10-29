@@ -1,0 +1,27 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgium - Personal data protection statement for ING Belgium nv/sa
+
+## Personal data protection statement
+
+### Supplement 2 to the Personal data protection Statement of ING Belgium N.V/S.A. : use of Artificial Intelligence systems
+
+A) Use of AI by ING Belgium NV/SA and/or other ING Group entities
+ING Belgium SA/NV and/or any other ING Group company which is established within the European Union may use (including develop or test) Artificial Intelligence (AI) systems which process your personal data in accordance with the applicable legislation.
+They may, in particular, use Artificial Intelligence systems :
+• for commercial (including statistical) purposes, in order to :
+o make the processes easier and faster and enable more personalized banking, financial and insurance services, and
+o meet our customers' expectations for banking, financial and insurance services to be as instant, personal, relevant, and friendly as possible,
+• for operational (including security) purposes, including to increase the efficiency of our automated processes or to better prevent and combat (cyber)fraud, or
+• to comply with their legal obligations, in particular to prevent and combat financial crime (including money laundering, terrorist financing and tax fraud).
+B) Use of AI by ING Belgium NV/SA
+ING Belgium NV/SA may, in particular, use Artificial Intelligence systems for the following main processing activities and purposes:
+• carry out statistical studies;
+• develop predictive and non-predictive models including a machine-learning-based credit risk analysis model to improve automated lending decisions;
+• carry out customer due diligence (know your customer (KYC) processes and customer due diligence (CDD) processes, in accordance with anti-money laundering and countering terrorism financing (AML/CFT) legislation;
+• optimize internal processes (e.g. document screening);
+improve customer satisfaction by optimizing the offer of relevant products. ING Belgium NV/SA may also use generative AI systems (i.e. AI systems which are able to create original content such as new texts or images) for the following processing activities and purposes:
+• enhancement of our chatbot functionality if you use the chat, available from the ING Banking app. If you use such Chatbot, you will be informed that you are interacting with an AI system;
+• engaging marketing content creation.
+C) Use of AI by ING Bank NV
+For example, ING Bank NV, as parent company of ING Belgium NV/SA, may process customers’ personal data collected and stored for the financial crime and fraud prevention purposes of ING Belgium NV/SA, to ascertain the efficiency and effectiveness of deploying Artificial Intelligence solutions to improve ING Group’s financial crime and fraud prevention processes.
+ING Bank NV performs such testing activities based on its legitimate interest of using state of the art technology to ensure prevention, detection and containment of financial crime and fraudulent activities and to contribute to the security and stability of the financial system.
+When relying on its legitimate interest, ING Bank NV ensures that the processing remains proportionate, in respect of data protection by design principles and that the data subject’s interests, fundamental rights and freedoms are safeguarded.

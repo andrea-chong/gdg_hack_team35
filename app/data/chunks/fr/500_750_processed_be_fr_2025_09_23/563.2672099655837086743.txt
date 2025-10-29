@@ -1,0 +1,22 @@
+# Extraits de compte - Foire aux questions - ING Belgique - Extraits de compte Questions Fréquemment posées
+
+### Que faire si mes extraits de compte ou duplicatas ont disparu?
+
+Nous conservons les 10 derniers extraits générés pour chaque compte, par exemple:
+* si vous avez des extraits quotidiens : les 10 derniers jours ouvrables. • si vous avez des extraits mensuels : les 10 derniers mois.
+Vous ne pouvez télécharger les extraits de compte que lorsque la date d'échéance de ces derniers a été atteinte et qu'il y a eu un mouvement dans le compte depuis le dernier extrait de compte.
+Vérifiez la date d'échéance et la fréquence des extraits de relevé dans Home'Bank ou Business'Bank .
+Vous pouvez générer n’importe quel extrait sous l’onglet « Duplicata ». Il a la même valeur juridique que l’extrait original.
+Une fois que les duplicatas ont été demandés, vous disposez d’un délai de 7 jours calendrier pour les télécharger. Si vous ne les téléchargez pas dans ce délai, vous pouvez demander à nouveau des duplicatas dans Home'Bank ou Business'Bank.
+
+### Puis-je télécharger des anciens extraits de compte via Home'Bank ou Business'Bank (En ligne/web) ?
+
+Oui, bien sûr. Vous pouvez remonter jusqu’à dix ans dans le passé depuis votre app ING Banking. Appuyez sur l'onglet « Services » en bas à droite, sélectionnez « Paiements et cash » et choisissez « Extraits de compte ».
+
+### Puis-je télécharger des anciens extraits de compte via mon application bancaire ING ?
+
+Oui, bien sûr. Vous pouvez remonter jusqu’à dix ans dans le passé depuis votre app ING Banking. Appuyez sur l'onglet « Services » en bas à droite, sélectionnez « Paiements et cash » et choisissez « Extraits de compte ».
+
+### Pourquoi est-ce que je n'ai pas reçu tous les duplicata de la période demandée?
+
+Il est possible qu'il n'y ait aucune transaction pour cette période.

@@ -1,0 +1,26 @@
+# Payments with debit and credit card in currencies other than Euro - ING Belgium
+
+## How can I calculate the costs for payments and withdrawals in other currencies?
+
+### ING Maestro debit card
+
+* Exchange rate or exchange margin: 3.9 % on the amount
+* What exchange rate to use? ECB \*\* -> (if not in the list -> Mastercard )
+* Payment outside the SEPA zone (shop, Online): + 0,61 € / transaction
+* ATM withdrawal outside the SEPA zone(processing fee + contribution): 4.24 € + 0.30 % amount withdrawn
+
+### ING VISA Classic credit card
+
+* Exchange rate or exchange margin: 2 % on the amount
+* What exchange rate to use? ECB \*\* -> (if not in the list -> Visa )
+* Payment outside the SEPA zone (shop, Online) : no costs
+* ATM withdrawal (processing fee + contribution): \*6 € + 1 % amount withdrawn
+* Withdrawal in a bank branch outside the SEPA zone (processing fee + contribution): \*8 € + 1 % amount withdrawn
+
+### ING Mastercard Gold credit card
+
+* Exchange rate or exchange margin: 2 % on the amount
+* What exchange rate to use? ECB \*\*->(if not in the list -> Mastercard )
+* Payment outside the SEPA zone (shop, Online): no costs
+* ATM withdrawal (processing fee + contribution): \*6 € + 1 % amount withdrawn
+* Withdrawal in a bank branch outside the SEPA zone (processing fee + contribution): \*8 € + 1 % amount withdrawn

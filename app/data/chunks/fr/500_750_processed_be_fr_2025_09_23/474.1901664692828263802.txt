@@ -1,0 +1,40 @@
+# Payconiq, app intégrée à ING Banking - ING Belgique - Remboursez vos proches en un clic grâce à Payconiq !
+
+## Questions fréquentes
+
+### Mon ami n'arrive pas à me rembourser
+
+Pour pouvoir utiliser Payconiq avec vous, votre ami doit avoir préalablement activé cette option dans son app bancaire.
+Attention, certaines banques ne proposent pas encore Payconiq à leurs clients. Votre ami peut alors télécharger l'application Payconiq by Bancontact sur son smartphone via le Google Play Store ou l' Apple Store . En quelques minutes c'est fait !
+
+### Quelles sont les limites de paiement ?
+
+Les limites de paiement via la fonctionnalité Payconiq sont les mêmes que pour les virements « classiques » via l’app ING Banking. Pour plus d’infos, consultez notre tableau récapitulatif.
+
+### Comment se lancer comme commerçant ?
+
+Vous trouverez plus d'info dans notre article à ce sujet.
+
+### Payconiq n'affiche pas tous mes contacts téléphoniques
+
+Voir la réponse précédente.
+
+### Pourquoi Payconiq est-il retiré de l’application ?
+
+Payconiq est progressivement supprimé dans le cadre d’une transition vers des solutions de paiement plus modernes et intégrées. Nous introduisons Wero , une alternative innovante qui permet des paiements instantanés et une meilleure expérience utilisateur.
+
+### Jusqu’à quand pourrai-je utiliser Payconiq ?
+
+Payconiq sera désactivé d’ici la fin de l’année 2025. Après cette date, il ne sera plus possible d’envoyer ou de recevoir des paiements via Payconiq dans ING Banking app.
+
+### Est-ce que mon historique de paiements Payconiq sera toujours accessible ?
+
+Oui, vos transactions passées resteront visibles dans l’historique de vos paiements, même après la suppression de Payconiq.
+
+### Pourrai-je encore recevoir des paiements via Payconiq après sa désactivation ?
+
+Non, tous les services Payconiq prendront fin après la date de désactivation. Nous vous recommandons de passer à Wero dès que possible.
+
+### Que se passe-t-il si je ne lie pas mon numéro de téléphone à Wero ?
+
+Vous ne pourrez pas envoyer ni recevoir de paiements instantanés via Wero tant que votre numéro de téléphone n’est pas lié à votre compte.

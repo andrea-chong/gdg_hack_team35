@@ -1,0 +1,11 @@
+# ING Card questions fréquemment posées - ING Belgique - Carte de crédit ING Card
+
+### Comment modifier le mode de réception de mes relevés mensuels ING Card ?
+
+Le mode de réception des relevés mensuels ING Card est lié au mode de réception de vos extraits de compte.
+**Pour m** **odifie** **r** **le mode de réception de vos extraits de compte** **, rendez-vous :**
+* dans **l’app ING Banking** : Services > Comptes > Gérer vos extraits de compte ;
+* dans **Home’Bank** : Services > Allez vers l’Espace Self’Service > Réglages > Gérer vos extraits de compte
+Si vous choisissez le format numérique, une adresse email valide est requise.
+Vous optez pour le format papier ? Tant vos extraits de compte que les relevés mensuels de votre ING Card seront envoyés par la poste.
+Attention, si l’envoi du relevé de dépenses ING Card est gratuit, **celui des extraits de compte est soumis à tarification.**

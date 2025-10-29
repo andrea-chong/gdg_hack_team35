@@ -1,0 +1,10 @@
+# Your budget - ING Belgique - Budget détaillé
+
+## Notre conseil : utilisez-la !
+
+Si vous voulez exploiter tout le potentiel de cette fonctionnalité, assurez-vous de l'utiliser !
+Plus vous le ferez, plus vos votre aperçu deviendra précis et de meilleure qualité.
+* ### Collez à la réalité
+Ne tenez compte que de ce que vous avez réellement dépensé grâce à l'option "ajuster le montant". Imaginez que vous ayez payé pour un groupe d'amis au restaurant, vous pouvez indiquer qu'une partie de l'argent a été remboursée afin que seul le montant que vous avez réellement payé soit pris en compte dans le calcul du montant total de cette catégorie.
+* ### Rendez-le personnel
+Nous proposons une catégorisation automatique, mais vous avez la possibilité de la modifier à tout moment. Vous pouvez même décider si cette re-catégorisation s'applique aux transactions antérieures/futures ou seulement à une transaction spécifique.

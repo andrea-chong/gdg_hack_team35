@@ -1,0 +1,45 @@
+# Apple Pay: Pay fast and safe - ING Belgium
+
+## FAQ
+
+### What cards can you add to your Wallet and Apple Pay?
+
+Any ING debit or credit card linked to an ING current account.
+
+### How many cards can you add to your Wallet and Apple Pay?
+
+The newest devices accept up to 12 different cards in the Apple Wallet app. Older models only have room for 8.
+Find out more on the Apple Support website .
+
+### How do you change your default card?
+
+Go to 'Transaction preferences' and choose the option to change your default debit or credit card.
+
+### How do you remove a card from my Apple Wallet?
+
+Go to 'Wallet' on your device and tap the card you want to delete
+* Tap the blue circle with three white dots in the upper right corner
+* Select 'Delete this card' at the bottom
+* Your card is now permanently deleted
+* The transactions made with this debit card are no longer visible in the Apple Wallet app
+**Please note!** You cannot remove your ING debit or credit card through the ING Banking app, this is only possible in the Apple Wallet app itself.
+
+### How do you remove a card from your Apple Watch?
+
+Remove your ING debit or credit card from your Apple Watch. Open the Wallet app, tap the card you want to remove. Scroll down and tap 'Remove'.
+
+### Can you use Apple Pay on multiple devices at the same time?
+
+Feel free to use Apple Pay on multiple devices at once. However, you will need to add the debit or credit cards to the Apple Wallet app again on each separate device.
+
+### How do you continue to use Apple Pay on a new Apple device?
+
+You just need to re-add your debit or credit card(s) to the Apple Wallet app on that device.
+
+### Can you use Apple Pay abroad?
+
+Yes, feel free to pay with Apple Pay at any merchant outside Belgium that accepts Maestro/Visa/Mastercard and displays the Apple Pay logo and the contactless payment symbol.
+
+### Where can you pay with Apple Pay?
+
+Via Safari browser in online shops working with Apple Pay and Maestro/Visa/Mastercard.

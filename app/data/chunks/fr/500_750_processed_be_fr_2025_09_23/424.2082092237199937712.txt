@@ -1,0 +1,22 @@
+# Vous n’avez pas reçu votre carte ? - ING Belgique
+
+## Questions fréquemment posées
+
+### Que faire de mon ancienne carte ?
+
+Nous recommandons de détruire l’ancienne carte en la coupant en deux au niveau de la puce à l’aide d’une paire de ciseaux. Vous pouvez recycler la carte avec le PMD/PMC.
+
+### Comment désactiver mon ancienne carte ?
+
+Si votre nouvelle carte a été envoyée en remplacement d’une ancienne, votre ancienne carte sera automatiquement désactivée dès que votre nouvelle carte sera activée. Néanmoins, nous vous recommandons de détruire votre ancienne carte en coupant à la fois la carte et la puce en deux avec une paire de ciseaux.
+Si vous avez bloqué votre carte ING via l’application ING Banking, Home’Bank ou en appelant Card Stop, elle est totalement désactivée.
+
+### Que dois-je faire lorsque je rencontre des problèmes pour demander un nouveau code PIN ?
+
+1. Si vous n'avez pas consulté ou demandé de nouveau code secret dans les **12 jours** ou si vous ne possédez pas de smartphone, nous vous envoyons automatiquement votre code secret par courrier à la même adresse que votre carte.
+2. Vous pouvez facilement consulter votre code PIN via la section service de l’application ING Banking.
+Votre carte de débit ING ou carte de crédit ING est automatiquement activée lors de votre **première utilisation** , lorsque vous l’utilisez pour effectuer une action nécessitant la saisie de votre code PIN.
+Exemples d’actions nécessitant la saisie de votre code PIN :
+* modification de code PIN via un Self'Bank (recommandé)
+* paiement dans un magasin
+* retrait d'espèces via un Self'Bank ou un distributeur automatique

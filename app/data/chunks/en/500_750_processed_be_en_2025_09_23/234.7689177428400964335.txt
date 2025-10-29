@@ -1,0 +1,23 @@
+# Manage your power of attorney and proxies easily online. - ING Belgium - Power of attorney
+
+## How to manage the powers of attorney on your account via the ING Banking app?
+
+### How do I delete a power of attorney in the ING Banking app?
+
+1. Go to the ‘Services’ tab, tap ‘Accounts’ in the ‘Your services’ menu.
+2. Select ‘Powers of attorney’ and choose 'Remove'.
+3. Follow the steps to remove a power of attorney from your account.
+
+### How do I modify a power of attorney?
+
+* Modify your powers of attorney from your ING Banking app.
+From the "Overview" tab, press "Service" at the bottom right of your screen. Then select the "Accounts" option in the "Self-service" menu and choose "Powers of attorney". Press "Remove", follow the steps to delete a proxy and then press "Add" to add a new one.
+* Modify your powers of attorney from your Home'Bank.
+Log in using the ING Banking app or itsme®. Click on "Go to the Self-service corner" under the "Service" tab on the left of your screen. Then choose "Manage powers of Attorney" in the "Online Banking" menu. Click on ‘Remove a power of attorney’, follow the steps to delete a power of attorney or click on ‘Grant a power of attorney' to add a new person.
+
+### How do I add an account holder to my account?
+
+* You can add a second holder from your ING Banking app
+Once logged in you can select “Services” in the bottom right corner > Select “Accounts” > “Powers of attorney” at the bottom of the list > Select “Joint account” and proceed with the service and confirm!
+* If you are using Home’Bank you can add a second holder in the following manner
+Once logged in you can select “Service” on the left options menu > select the “Go to the Self-service corner” > and select the “Convert your account into a joint account” option and proceed with he services and confirm!

@@ -1,0 +1,10 @@
+# Adapt card settings - ING Belgique - Modifier les paramètres de la carte de débit/crédit
+
+## Modifier aisément les paramètres de votre carte de débit/crédit dans les canaux digitaux
+
+* ### Bloquer temporairement votre carte de débit/crédit
+Vous n'avez pas besoin temporairement de votre carte ? Vous ne la trouvez pas ? Ou vous ne savez pas si vous l'avez perdue ? Conseil utile: bloquez-la temporairement ! Vous pouvez facilement la débloquer quand vous la retrouvez ou quand vous souhaitez l'utiliser à nouveau.
+* ### Activer/désactiver les "paiements sans contact"
+Le paiement « sans contact » c'est facile: présentez votre carte quelques secondes devant un terminal avec le symbole des 4 ondes radio et c'est fait! Pas besoin d'insérer votre carte dans le terminal ou d'introduire votre code PIN pour des montants inférieurs à 50 EUR max et pour 100 EUR max de transactions « sans contact » consécutives. Par défaut, la carte de débit permet les paiements sans contact mais vous pouvez facilement désactiver cette fonction. Si vous désactivez la fonction "paiement sans contact", vous ne pourrez payer avec votre carte de débit/crédit qu'en l'introduisant dans un terminal.
+* ### Activer/désactiver les paiements en ligne
+Réserver un vol ou des places de concert, commander des vêtements, acheter un ordinateur… Vous achetez de plus en plus sur Internet ? ING vous propose plusieurs solutions pour effectuer chaque paiement en ligne rapidement et en toute sécurité. Effectuez vos paiements en ligne par défaut avec votre carte de débit/carte de crédit. Mais vous pouvez facilement désactiver cette fonctionnalité dans les canaux digitaux.

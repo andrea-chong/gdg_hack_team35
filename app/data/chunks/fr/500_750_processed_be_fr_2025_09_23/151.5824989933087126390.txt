@@ -1,0 +1,20 @@
+# La carte de débit ING, avec Bancontact/Maestro // Bancontact/Mastercard et paiement sans contact. - ING Belgique - Carte de débit ING
+
+## En général
+
+### Où puis-je utiliser ma carte de débit ?
+
+Utilisez votre carte de débit ING pour effectuer vos paiements en Belgique et en ligne, ou encore pour retirer de l'argent aux distributeurs de billets pourvus du logo Bancontact, Maestro ou Mastercard (suivant la carte dont vous disposez actuellement). **Avec votre carte de débit, vous pouvez effectuer des paiements et retraits d'espèces en Europe et dans le monde entier.**
+Attention ! Il n'y a cependant pas de garantie à 100% qu’une carte de débit soit acceptée partout. Tous les distributeurs automatiques n'acceptent par exemple pas Maestro/Mastercard en Indonésie, Malaisie, Pérou, Equateur, Bolivie, Costa Rica, USA et Japon.
+Nous vous conseillons toujours de prendre **votre carte de crédit** lors de déplacements hors Europe. Plus d'informations sur les cartes de crédit chez ING.
+
+### Comment fonctionne le paiement sans contact ?
+
+Le paiement « sans contact » c'est facile: présentez votre carte quelques secondes devant un terminal avec le symbole des 4 ondes radio et c'est fait ! Pas besoin d'insérer votre carte dans le terminal ou d'introduire votre code PIN pour des montants inférieurs à 50 EUR max et pour 100 EUR max de transactions « sans contact » consécutives. Pour les dépenses supérieures à 50 euros, placez simplement votre carte sur le terminal de paiement et tapez votre code PIN pour confirmer.
+
+### Comment activer/désactiver les paiements sans contact ?
+
+Par défaut, la carte de débit permet les paiements sans contact mais vous pouvez facilement désactiver cette fonction. Si vous désactivez la fonction "paiement sans contact", vous ne pourrez payer avec votre carte de débit/crédit qu'en l'introduisant dans un terminal.
+Pour activer/désactiver les paiements sans contact , suivez les instructions ci-dessous :
+Ouvrez votre app ING Banking ou Home'Bank. Sélectionnez « Services », puis « Cartes » et choisissez l'option « Activer ou désactiver les paiements sans contact ».
+J'active/désactive les paiements sans contact

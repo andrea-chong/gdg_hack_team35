@@ -1,0 +1,10 @@
+# Hoe digitale identiteitsverificatie te gebruiken voor het online bankieren? - ING België - Alles wat je moet weten over digitale identiteitsverificatie
+
+## Wat is digitale identiteitsverificatie?
+
+### Hoe open ik als nieuwe klant een rekening die onmiddellijk actief is?
+
+1. Ga naar de website ing.be, klik bovenaan op ‘open een rekening’ en kies je gewenste rekening.
+2. Klik op “Open mijn rekening” en volg de stappen.
+3. Selecteer “door je identiteitskaart te scannen” om de rekening te openen.
+4. Je rekening is onmiddellijk actief en onmiddellijk zichtbaar in de ING Banking-app en in Home’Bank.

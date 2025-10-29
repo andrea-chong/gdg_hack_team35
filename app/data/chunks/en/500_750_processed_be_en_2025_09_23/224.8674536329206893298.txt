@@ -1,0 +1,12 @@
+# Payments with debit and credit card in currencies other than Euro - ING Belgium
+
+## Check exchange rates online
+
+Consult the Mastercard , Visa and ECB exchange rates online.
+Make sure you have this information to obtain the correct exchange rate:
+* **Date** : Enter the date of the transaction (rates appear daily at a defined time. Before you will get the rate of the previous day. There are of course no rates available for future transactions).
+* **Currency** : Select the currency in which you want to execute a transaction – eg. Polish Zloty.
+* **Amount** : Enter the amount of the transaction eg. 100 PLN.
+* **Exchange rate surcharge** : Enter the exchange rate surcharge of the bank, eg debit card: 3.9 %
+* Enter Euro for the currency of your account.
+﻿You will then receive a result without ING treatment costs and contribution, which still needs to be added, eg a cash withdrawal at ATM outside the SEPA zone with your debit card: € 4.24 and 0.30 % on the amount withdrawn. If used inside the SEPA zone, only extra cost of 0,5€ when using a Lion Account (ING Do Basic), otherwise it is free.

@@ -1,0 +1,33 @@
+# Your online bank: 100% secure and 100% free - ING Belgium - Home'Bank
+
+## Frequently asked questions
+
+### Also for business customers
+
+For customers who run a business, Business'Bank lets you keep your business and private accounts completely separate, while offering a wide range of options and services tailored to your business needs:
+* create and manage multiple-signature payments
+* enjoy higher payment limits
+* manage mandates and open business accounts online
+* access personalised documents
+* easily link your accounting software thanks to CODA statements and and XML files.
+
+### Home'Bank operating systems and browsers
+
+In order to ensure maximum protection for your details while allowing you to navigate our sites efficiently, it is necessary to update your operating system and **browser** regularly.
+Supported internet browsers
+* Visit supported-browsers
+**Supported operating systems for smartphones and tablets**
+* iOS 15 and later
+* Android 12 or later
+Supported browsers for smartphones and tablets
+* Safari
+* Google Chrome (latest version)
+* Default browser
+
+### Do you need help to use the ING Banking app or Home'Bank?
+
+Discover the benefits of our digital solutions . Follow your account balance, make transfers, request a new card ... With the ING Banking app for smartphone or tablet or with Home'Bank on your computer you can do it in just a few clicks, 100% secure.
+
+### Access the old Home'Bank
+
+Some features are still in development. Therefore you still have the possibility to switch to the old Home’Bank.

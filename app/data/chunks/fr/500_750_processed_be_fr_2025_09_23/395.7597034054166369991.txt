@@ -1,0 +1,16 @@
+# Comment utiliser itsme® pour les services bancaires en ligne - ING Belgique - Tout savoir sur itsme®
+
+## Questions fréquemment posées
+
+### Qu'est-ce qu’itsme® et quelles sont les conditions pour créer un compte itsme® ?
+
+Belgian Mobile ID est un projet commun élaboré par les principales banques et des principaux fournisseurs de télécommunications mobiles de Belgique. Itsme® fournit à tous les citoyens belges une identité mobile unique et sécurisée. Il ne peut donc plus y avoir de doute sur l'identité de la personne qui tente d'entrer dans un site sécurisé ou de signer une transaction ou un document électronique en ligne.Pour pouvoir créer un compte, vous devez
+* avoir plus de 16 ans.
+* être en possession d’une carte d’identité électronique belge.
+* disposer d'un numéro de téléphone portable, équipé d'un système d'exploitation Apple ou Android.
+**Note** : un seul compte par personne et par numéro de téléphone mobile est autorisé.
+
+### Conseils avant d’installer itsme®
+
+1. Assurez-vous que le numéro de téléphone portable que vous avez communiqué à ING est à jour. Vous pouvez mettre à jour votre numéro et vos coordonnées via vos paramètres personnels dans l’app ING Banking, Home’Bank ou Business’Bank.
+2. Vérifiez aussi que vos données d’identité sont à jour. Par exemple, si vous avez reçu une nouvelle carte d’identité électronique (eID) belge depuis votre dernier contact avec ING, prenez un moment pour partager les informations de votre nouvelle carte d’identité via l’un des kiosques de votre agence ING locale. Le kiosque ING se trouve à l’entrée, vous n’avez donc pas à vous soucier des heures d’ouverture. Si vous disposez d’un lecteur de carte eID, vous pouvez aussi partager vos données mises à jour à distance avec ING via ce lien .

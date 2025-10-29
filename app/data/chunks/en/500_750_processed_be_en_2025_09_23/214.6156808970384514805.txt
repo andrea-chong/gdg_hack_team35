@@ -1,0 +1,24 @@
+# Free long-term savings account - ING Belgium - The classic savings account
+
+## ING Savings Account: a regulated savings account with no monthly deposit limit and an unlimited term for more flexibility
+
+Because every month is different: deposit the amount of your choice. Need that money back? Your savings stay available at any time at no extra charge.
+* More than 1 holder allowed
+* Maximum flexibility
+* No maximum amount
+
+## Interest rates
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Base rate | Fidelity premium |
+| 0,10% | 1,15% |
+END TABLE IN MARKDOWN
+The **fidelity premium** is only earned on amounts that have remained uninterruptedly in the regulated savings account for 12 months starting on the day after the deposit. The rate of the fidelity premium in force at the time of payment or the start of a new period remains unaltered for a period of 12 months. Fidelity premiums that have already been earned are paid into your account on the first day following the quarter in which they were earned or when you close your account.
+The **base rate** accrues from the day after the money is deposited to the account until the day on which it is withdrawn. The base rate is paid into your account on the value date of January 1 or when you close the account.
+Interest rates are gross and expressed on an annual basis and may be adjusted at any time. You can find the current rate online and at any ING branch. If the rate changes, we inform account holders on their account statements.
+The ING Savings Account is a regulated savings account of ING Bank Belgium LC. Belgian law alone applies.
+**Risk of bankruptcy:** your savings of up to €100,000 are protected by the guarantee on savings deposits. In the event of ING going bankrupt or in the event of a risk of bankruptcy, you may lose savings in excess of this amount or be required to reduce/convert them into shares. For more information, please consult the website
+Guarantee Fund for financial institutions (belgium.be)
+**Risk of inflation** : rising prices (inflation) can have a negative impact on your purchasing power.

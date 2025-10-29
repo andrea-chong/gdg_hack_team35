@@ -1,0 +1,28 @@
+# Je internationale overschrijvingen in een klik ! - ING België - Alles over internationale overschrijvingen
+
+## Internationale overschrijvingen met Home’Bank of de ING Banking app
+
+* ### Online betalingen
+Je doet je internationale betalingen alle dagen van de week rechtstreeks online, via Home’Bank of de ING Banking app.
+* ### Jouw veiligheid gegarandeerd
+Je logt in Home’Bank in met je ING-debetkaart en je digipass, je ING Banking app, of de ItsMe app.
+* ### Overal ter wereld
+Voor je betalingen buiten de SEPA-zone of in een andere munteenheid dan de euro.
+* ### Wanneer je het wilt
+De begunstigde ontvangt je betaling binnen de 3 werkdagen volgend op de overschrijving. Je bepaalt zelf hoe dringend de betaling is.
+
+### Buiten de SEPA-zone, wat wilt dat zeggen ?
+
+De SEPA-zone (Single Euro Payments Area of Gemeenschappelijk eurobetalingsgebied) omvat alle lidstaten van de Europese Unie, Noorwegen, Ijsland, Liechtenstein, Zwitserland, Monaco, Andorra en San Marino.
+Elke betaling naar een land dat geen deel uitmaakt van de SEPA-zone of elke betaling in de SEPA-zone maar in een andere munteenheid dan de euro wordt als een internationale betaling beschouwd.
+Wens je een betaling te doen in de SEPA-zone en in euro ? Kies dan voor een Europese overschrijving.
+
+### Wie kan een international betaling doen ?
+
+Ben je cliënt bij ING? Je kunt rechtstreeks inloggen in je beveiligde omgeving Home’Bank (met behulp van je ING-debetkaart , je ING Banking app , of de ItsMe app ) om een internationale overschrijving te doen.
+
+### Een rekeningnummer, een BIC, een klik... en het is in orde !
+
+De BIC (Bank Identification Code) is een unieke code die gebruikt wordt om banken te identificeren. Bij het maken van een internationale overschrijving moet je de BIC van de bank van de begunstigde opgeven.
+* De BIC van ING België is BBRUBEBB.
+* Je kunt de BIC van andere internationale banken vinden op de website van Swift .

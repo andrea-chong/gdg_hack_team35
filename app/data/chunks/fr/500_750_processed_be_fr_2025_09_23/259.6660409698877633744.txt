@@ -1,0 +1,37 @@
+# Wero - ING Belgique
+
+## Questions fréquemment posées
+
+### Puis-je associer mon numéro de téléphone à plusieurs comptes ?
+
+Non, un numéro de téléphone ne peut être lié qu'à un seul compte. Toutefois, si vous possédez plusieurs comptes ING, vous pouvez transférer votre numéro de téléphone d'un compte à l'autre.
+
+### Puis-je mettre à jour le numéro de compte lié à mon compte bancaire ?
+
+Oui, choisissez le compte lié au numéro de téléphone, supprimez le numéro existant et ajoutez-en un nouveau.
+
+### Comment effectuer un paiement avec mon numéro de téléphone ?
+
+* Allez dans Virement --> Payer un contact
+* Choissez le contact
+* Entrez le montant et le message (facultatif)
+* Confirmez avec un PIN et c'est fait !
+
+### Comment puis-je envoyer une demande de paiement à un contact téléphonique ?
+
+* Cliquez sur Demander un paiement --> Demander à un contact téléphonique
+* Choisissez le contact
+* Entrez le montant et le message (facultatif)
+* Envoyé !
+
+### Puis-je refuser une demande de paiement qui m'a été envoyée ?
+
+Oui, il suffit de cliquer sur "Refuser" et l'expéditeur en sera informé.
+
+### Puis-je encore scanner les codes QR de Payconiq et Bancontact à partir de l'app ING Banking ?
+
+Absolument, rien ne change en ce qui concerne les codes QR Payconiq et Bancontact. Ils peuvent être scannés comme d'habitude.
+
+### Comment puis-je voir l'historique des transactions Wero ?
+
+Allez dans Paiements Mobiles pour avoir un aperçu des transactions Wero.

@@ -1,0 +1,20 @@
+# Avec l'app d’ING, gérez vos opérations bancaires partout - ING Belgique - L'app ING Banking
+
+## FAQ
+
+### Dans quelle langue l'app ING Banking est-elle disponible ?
+
+L'application ING Banking suit les paramètres linguistiques de votre appareil en néerlandais, français et anglais à l'installation. Ceci peut ensuite être adapté indépendamment de l'OS via les paramètres (à partir d'Android 13 pour les appareils Android). Vous êtes germanophone ? Nous vous proposons toujours des conseils personnalisés et des services bancaires dans votre langue. Nos conseillers et collaborateurs germanophones sont à votre disposition par téléphone. Vous pouvez les contacter au +32 2 464 60 03 et via notre site web .
+
+### J’ai déjà Home’Bank. Pourquoi utiliser l’app ING Banking ?
+
+**Home'Bank** est accessible uniquement via notre site ing.be et est utile pour :
+* Les virements **en devises** , hors de la zone SEPA
+* Les transactions **au-delà de 5.000 euros/jour**
+* Certaines opérations plus exceptionnelles (impression d’ **extraits de compte** , ajout d’un **mandataire** par exemple).
+L’ **app ING Banking** peut s’installer sur smartphone ou tablette. Accessible en quelques secondes, elle est votre meilleure alliée pour :
+* **Gérer vos comptes au quotidien** : effectuer des virements en euros, consulter rapidement votre solde, vos investissements ou les dépenses de votre carte de crédit.
+* **Garder une vue sur votre budget** : recevoir des **alertes** lorsque votre solde passe en-dessous d’un certain montant ou que votre salaire est arrivé, envoyer des rappels à vos amis distraits pour qu’ils vous remboursent via Payconiq .
+* **Faire des économies** : bénéficiez de réductions exclusives grâce aux ING+ deals .
+* **Accéder à une multitude de services** : modifier la limite de votre carte de crédit ou de débit, (dé)bloquer les paiements sans contact ou en ligne…
+….et bien plus encore !

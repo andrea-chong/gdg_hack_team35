@@ -1,0 +1,17 @@
+# Betaal eenvoudig met Google Pay ! - ING België - Betaal eenvoudig met Google Pay!
+
+## FAQ
+
+### Is betalen met Google Pay veilig?
+
+Absoluut: veiligheid staat bij ING altijd voorop.
+
+### Welke technologie wordt gebruikt om veilig te kunnen betalen?
+
+De NFC (Near Field Communication)-technologie staat borg voor de veilige uitwisseling van gegevens. NFC werkt alleen binnen een straal van ongeveer 5 centimeter. Je moet je toestel dicht bij de terminal houden om gegevens uit te wisselen.
+
+### Wat als je kaart verbonden met Google Pay, gestolen of verloren is?
+
+* Blokkeer je debet- of kredietkaart via de online kanalen van ING in de doe-het-zelf-zone of bel Card Stop op het nummer +32 78 170 170
+* Je debet- of kredietkaart wordt automatisch verwijderd van al je verbonden toestellen
+* Je moet daarna je nieuwe debet- of kredietkaart niet meer toevoegen aan de Wallet en Google Pay (behalve als je kaart voor fraude werd geblokkeerd). Je kunt al na ongeveer één werkdag nadat je nieuwe debet- of kredietkaart besteld is, terug Google Pay gebruiken. Je hoeft dus je kaart nog niet thuis ontvangen te hebben.

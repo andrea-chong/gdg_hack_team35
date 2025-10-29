@@ -1,0 +1,12 @@
+# Cash verrichtingen cash-loket - ING België - Cash verrichtingen aan het Cash-loket van een kantoor
+
+## Geld opnemen, wisselen en storten: euro
+
+START TABLE IN MARKDOWN
+| Actie | Procedure | Goed om te weten |
+| - | - | - |
+| Eurobiljetten en \-muntstukken wisselen. | Zo maak je een afspraak aan het cash\-loket: Meld je aan in Home’Bank Gebruik de ING Banking\-app: 'Diensten' > ‘Doe\-het\-zelf’ > ‘Betalingen & cash' > 'Euro's omwisselen’ Bel +32 2 464 60 01 (ma\-vr, 8\-18 uur) | Kosten wisselen: € 3 per transactie Maximaal € 1.250 omwisselen |
+| Eurobiljetten storten (< € 10.000). | Gebruik een ING\-geldautomaat of een CASH\-punt met Cash In/Cash Out\-functie. | |
+| Eurobiljetten storten (> € 10.000). | Zo maak je een afspraak aan het cash\-loket: Meld je aan in Home’Bank Gebruik de ING Banking\-app: 'Diensten' > ‘Doe\-het\-zelf’ > ‘Betalingen & cash' > 'Euro's storten’ Bel +32 2 464 60 01 (ma\-vr, 8\-18 uur) | |
+| Euromuntstukken storten. | Zo maak je een afspraak aan het cash\-loket: Meld je aan in Home’Bank Gebruik de ING Banking\-app: 'Diensten' > ‘Doe\-het\-zelf’ > ‘Betalingen & cash' > 'Euro's storten’ Bel +32 2 464 60 01 (ma\-vr, 8\-18 uur) | Minimaal 50 muntstukken Maximaal 10 kg per beveiligde zak Stortingen kunnen tot 2 weken duren, maar we doen ons best om het snel op je rekening te krijgen! |
+END TABLE IN MARKDOWN

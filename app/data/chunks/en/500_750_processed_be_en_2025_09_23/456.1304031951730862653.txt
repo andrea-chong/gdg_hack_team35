@@ -1,0 +1,29 @@
+# Pay with Google Pay easily ! - ING Belgium
+
+## Pay fast and safe with your Android operating phone by linking your ING debit or credit card to Google Pay today.
+
+Google Pay brings a new dimension to mobile payments whether in-store, online or via apps. Switch to contactless with Google Pay now - it's simple, fast and highly secure!
+
+## About Google Pay
+
+* ### Simple
+No need for a PIN code when paying, you confirm your identity with Face ID (facial recognition) or Touch ID (fingerprint) or your PIN.
+* ### Secure
+Google Pay uses a specific number linked to your device and a unique transaction code. Your debit or credit card number is never stored on your device or on Google’s servers, nor is it shared with merchants.
+* ### Convenient
+For in-store payments, most payment terminals accept contactless payment so all you need to do is present your phone. For online or in-app payments, simply choose the Google Pay.
+
+## Set up Google pay (2 options)
+
+### Via you ING Banking app
+
+Log in > Tap Services > Choose Settings > Tap Google Pay > Select your ING debit or credit card > Follow the prompts to link your card.
+
+### Via the Google Wallet
+
+Open the wallet > Click Add to wallet > Choose Payment card > Tap New credit or debit or credit card > Enter the card n°, expiration date and CVC/CVV (if possible) > Tap Save > Accept the Issue terms > Choose Sign in to the bank app > log in > Follow the prompts to link your card
+
+## What if your card connected to Google Pay or your phone is stolen or lost?
+
+If you lose your phone, block all functions remotely via the Google website: www.google.com/android/devicemanager.
+If you just want to block your Google Pay payments without blocking your smartphone, call Card Stop + 32 78 170 170. Just ask to cancel all tokens linked to your card in Google Pay.

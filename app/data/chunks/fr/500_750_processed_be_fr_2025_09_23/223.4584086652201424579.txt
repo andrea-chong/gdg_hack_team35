@@ -1,0 +1,46 @@
+# Apple Pay: Payez en un clin d'œil - ING Belgique
+
+## FAQ
+
+### Faut-il être connecté à Internet pour payer avec Apple Pay ?
+
+Il vous suffit d'une connexion internet pour ajouter une nouvelle carte à l'app Apple Wallet.
+
+### Quelle option dois-je choisir à une caisse automatique ?
+
+Pour faire un achat avec Apple Pay à une caisse automatique, vous devez sélectionner l’option de paiement “Maestro/Carte de crédit”.
+
+### Un code PIN est-il nécessaire pour payer avec Apple Pay?
+
+Non. Si la reconnaissance d'empreinte digitale ou faciale n'est pas configurée sur votre iPhone, vous pouvez toujours approuver le paiement en utilisant le code de déverrouillage de votre iPhone.
+
+### Comment payer avec une autre carte de débit ou de crédit que celle définie par défaut ?
+
+(*Apple Watch)iPhone
+* Tenez votre iPhone à côté du terminal de paiement
+* Ne confirmez pas votre paiement, mais tapez sur l'autre carte que vous voulez utiliser en bas de page
+* Cette carte va glisser vers le haut, alors cliquez dessus.
+* Confirmez le paiement avec Touch ID ou Face ID
+* Appuyez deux fois sur le bouton situé sur le côté de votre Apple Watch.
+* Sélectionnez sur votre Apple Watch la carte avec laquelle vous souhaitez payer.
+* Tenez l'écran de votre Apple Watch à quelques centimètres du terminal de paiement (veillez à porter votre Apple Watch au poignet).
+* Attendez jusqu'à ce que vous sentiez une tape... et voilà
+
+### Apple Pay fonctionne si le paiement sans contact est désactivé ?
+
+Oui, ce n'est pas un problème du tout !
+
+### Où pouvez-vous trouver vos transactions Apple Pay ?
+
+Dans l'Apple Wallet, vous trouverez vos 10 dernières opérations.
+Dans votre app ING Banking ou dans Home'Bank sur votre ordinateur, vous pouvez retrouver toutes les opérations sur vos extraits de compte et dans les opérations sur votre compte.
+
+### Pourquoi votre paiement Apple Pay est-il refusé ?
+
+* Les fonds sur le compte lié à votre carte de débit sont insuffisants.
+ou
+* La limite journalière de votre carte de débit a été atteinte.
+or
+* La limite maximale de votre carte de crédit a été atteinte.
+or
+* La carte de débit ou de crédit associée à l'Apple Wallet a été bloquée.

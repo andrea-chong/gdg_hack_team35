@@ -1,0 +1,12 @@
+# Vérification du nom du bénéficiaire - ING Belgique
+
+## FAQ
+
+### Quel nom dois-je indiquer lors d'un virement sur un compte qui comporte deux titulaires ?
+
+Lors d'un virement sur un compte au nom de deux titulaires, il suffit d'indiquer le nom complet (prénom et nom) d’un seul des titulaires. Il n'est donc pas nécessaire d'indiquer le nom des deux bénéficiaires.
+
+### Pour quels noms la vérification est-t-elle effectuée sur le compte du bénéficiaire ?
+
+Pour les particuliers, la vérification s'effectue sur la base des noms et prénoms de tous les titulaires du compte, bien que vous ne deviez indiquer qu'un seul nom et prénom. En cas de légère différence, seul le nom enregistré du titulaire du compte dont le nom a été introduit est affiché.
+Pour les personnes morales, la vérification porte sur les dénominations légales enregistrées auprès de la banque du bénéficiaire, ainsi que sur les sigles légaux et les noms commerciaux dans la mesure où ils seront enregistrés auprès de la banque et, en Belgique, auprès de la Banque-Carrefour des Entreprises (BCE), ce qui sera le cas au plus tard le 9 octobre 2025.

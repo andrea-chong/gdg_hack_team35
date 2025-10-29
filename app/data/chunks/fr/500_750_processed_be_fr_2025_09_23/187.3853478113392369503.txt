@@ -1,0 +1,21 @@
+# Avec un virement bancaire, envoyez facilement de l'argent en euros dans la zone SEPA. - ING Belgique - Tout sur le virement en euros (SEPA)
+
+## Questions fréquemment posées
+
+### Qu'est-ce que l'IBAN, le BIC et une date mémo ?
+
+Le code IBAN (International Bank Account Number) et le code BIC (Bank Identifier Code) permettent d'identifier la banque :
+* **IBAN**
+* Découvrez le code IBAN de votre numéro de compte.
+* L'IBAN est une méthode standardisée de transcription des numéros de comptes bancaires. Il a une longueur fixe dans chaque pays. Il se compose d'un code pays (2 lettres), d'un nombre de contrôle (2 chiffres) et d'un numéro de compte national.
+* À noter : certains IBAN peuvent aussi contenir des lettres (en plus de celles présentes dans le code pays).
+* Dans un paiement électronique SEPA, mentionnez les numéros de compte corrects (IBAN) **du donneur d'ordre et du bénéficiaire** .
+* **BIC**
+* Le BIC d'ING Belgique est BBRUBEBB.
+* Le BIC (Bank Identifier Code) est un code qui permet une identification unique de chaque banque dans le monde. Lors d'un virement en euros (SEPA), il n'est **pas obligatoire** de mentionner le BIC de la banque du bénéficiaire.
+* **Date mémo ?**
+* Vous souhaitez que votre virement en euros (SEPA) soit exécuté à une date ultérieure ? Complétez une date d'exécution future. Si vous n'indiquez aucune date, votre paiement sera exécuté immédiatement.
+
+### Que dois-je faire si j’ai transféré de l’argent sur le mauvais numéro de compte ?
+
+Si le virement a déjà été débité de votre compte, contactez le bénéficiaire pour demander un remboursement. Si vous ne connaissez pas le bénéficiaire, nous pouvons effectuer une demande de retour de fonds auprès de la banque du bénéficiaire. Ce service est payant. Contactez-nous via notre page de contact pour demander un retour de fonds.

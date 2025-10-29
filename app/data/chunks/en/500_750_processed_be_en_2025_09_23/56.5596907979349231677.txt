@@ -1,0 +1,27 @@
+# Your budget - ING Belgium
+
+## The feature that gives you detailed insight in your spending behavior.
+
+What do you spend your money on? Are you curious about your monthly car costs? Or maybe you are wondering how much you spent on your groceries last month?
+Then we have something new for you: 'Your budget' is your financial partner if you want to know where your money is actually going.
+Knowing your financial habits can help you to remain in control of your budget!
+* All your income and expenses broken down into categories
+* Easy overview of your spending patterns
+* Compare categories across months
+
+## The feature
+
+### What can you expect?
+
+'Your budget' automatically distributes all your transactions in predefined categories giving you an immediate and easy overview of your budget allocation. Fixed expenses, shopping, transport, bar & restaurants, ... : we have foreseen a large set of categories for you. Sub-categories are available as well in case you want an even more detailed view.
+You can find this feature via the new ‘Insights’ tab in the bottom bar menu of our mobile banking app. You can check categorised transactions for each current account you are holder of or which you have a mandate on.
+This feature will help you to identify where you can reduce spending in case you want to start saving for example. Or you can also simply track how different categories are evolving over time.
+
+## Our tip: use it!
+
+If you want to exploit the full potential of this feature, make sure to use it!
+The more you do, the better and the more accurate your insights will become.
+* ### Stick to the reality
+Only take into consideration what you really spent via the option ‘settle an amount’. Imagine you paid for a group of friends at the restaurant, you can indicate that a part of the money was paid back so that only what you really paid is taken into account for the calculation of the total amount in that specific category.
+* ### Make it personal
+An auto-categorisation is proposed by us, however you keep the flexibility to re-categorise anytime. You can even decide wether this re-categorisation applies to past/future transactions or only for a specific one.

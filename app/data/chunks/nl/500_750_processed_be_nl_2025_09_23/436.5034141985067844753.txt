@@ -1,0 +1,36 @@
+# Payconiq by Bancontact voor uw mobiel betalingen - ING België - Payconiq by Bancontact voor jouw mobiele betalingen
+
+## Hoe betalen met Payconiq by Bancontact?
+
+### Wat zijn de betaallimieten voor Payconiq by Bancontact ?
+
+* **Voor transacties bevestigd met een kaart:**
+De kaartlimiet is van toepassing, maar er zijn aanvullende limieten voor mobiele betalingen:
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Maximale limiet voor: | | |
+| Bedrag ontvangen van of betaald aan een andere persoon | 250 | EUR |
+| Bedrag betaald aan een handelaar | 250 | EUR |
+| Limiet per dag voor bedragen ontvangen van privé\-personen | 500 | EUR |
+| Limiet per dag voor bedragen betaald aan privé\-personen | 250 | EUR |
+| Limiet per dag voor betalingen aan handelaars | 2500 | EUR |
+END TABLE IN MARKDOWN
+* **Voor transacties via jouw rekening:**
+De betaallimieten zijn dezelfde als voor de “klassieke” overschrijvingen via de ING Banking-App. Voor meer informatie, raadpleeg onze overzichtstabel
+
+### Kan ik de limiet voor mobiele betalingen verhogen?
+
+De limiet voor mobiele betalingen kan niet worden gewijzigd.
+
+### Moet je betalen voor het gebruik van Payconiq by Bancontact
+
+Nee, dit maakt deel uit van de diensten die gekoppeld zijn aan uw rekening en uw debetkaart.
+
+### Wie kan mobiel-betalen met Payconiq by Bancontact ?
+
+Iedereen die een ING-betaalkaart en/of een ING-rekening heeft met toegang tot de ING Banking-app.
+
+### Hoe kan ik de rekening wijzigen die gekoppeld is aan mijn mobiele betalingen?
+
+Ga naar het tabblad 'Overzicht' en druk op 'Diensten' rechts onderaan je scherm. Selecteer dan de optie 'Instellingen' in het menu 'Doe-het-zelf'. Kies vervolgens 'Mobiele betalingen' en tik op 'Gekoppelde rekeningen' om een andere rekening te selecteren.

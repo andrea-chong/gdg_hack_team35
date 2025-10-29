@@ -1,0 +1,24 @@
+# One card for Bancontact, Maestro/Mastercard and contactless payments - ING Belgium - ING debit card
+
+## In general
+
+### How does a contactless payment work ?
+
+“Contactless” feature is easy: present your card at a payment terminal where the 4-waves radio symbol is visible. No need to insert it into the terminal or to enter your PIN code for a maximum amount of 50 EUR per transaction. And for a maximum of 100 EUR for consecutive “contactless” transactions. For purchases over 50 euros, simply tap your card and enter your PIN to confirm.
+
+### How can I activate/deactivate contactless payments?
+
+The contactless feature is activated by default for your debit/credit card but you can easily deactivate it. Deactivate "contactless" feature means that you need to insert your card in a terminal to pay with your card.
+To activate/deactivate the contactless payments, follow the instructions hereunder:
+Open your ING Banking app or Home'Bank and select ‘Services’ , then 'Cards' and choose '(De)activate contactless payments'.
+I activate/deactivate contactless payments
+
+### How am I informed about the exchange costs when I do a non-Euro payment in a EU country?
+
+When using your debit card for a non-euro payment in a country member of the European Union, you will receive an SMS free of charge with the exchange costs. The SMS will be sent at the first usage of each non-euro currency each month.
+If you have chosen consciously not to share your mobile number with ING, you will not receive this information via SMS.
+However, you wiil be informed on your costs in your account statements, via the ING Banking app and via Home'bank / Business'Bank.
+
+### How do I get an additional debit card?
+
+ING Packs offer one debit card per holder. You can obtain an additional card for the second holder or mandate holder of your current account.

@@ -1,0 +1,38 @@
+# Vingerafdruk of gezichtsherkenning (Face-ID) - ING België - Vingerafdruk en gezichtsherkenning in de ING Banking-app
+
+## Beschikt je smartphone over vingerafdruk of gezichtsherkenning?
+
+Dan kan je ervoor kiezen om aan te melden en verrichtingen te tekenen met vingerafdruk of gezichtsherkenning in plaats van met je pincode.
+
+## Voordelen
+
+* ### Veilig
+Met biometrie kan niemand stiekem over je schouder meekijken om je code te bemachtigen
+* ### Eenvoudig
+Je hoeft geen code te onthouden
+* ### Snel
+Je hoeft geen 5 cijfers in te te voeren, leg je vinger op je smartphone of toon je gezicht
+
+## Hoe kan je dit instellen?
+
+1. 1
+
+#### Heb je vingerafdruk of gezichtsherkenning beschikbaar op je smartphone?
+
+Ja? Ga dan naar de volgende stap
+2. 2
+
+#### Ga naar de app instellingen
+
+Meld ja aan in de app > Klik op de tab 'Diensten" > Ga naar 'Doe-het-zelf' > Selecteer 'Instellingen'
+Of klik hier om meteen naar de app settings te gaan
+3. 3
+
+#### Ga naar 'Toegang en bevestigen'
+
+Scroll in de instellingen naar beneden tot 'Toegang en bevestigen'
+4. 4
+
+#### Selecteer 'Vingerafdruk' of 'Gezichtsherkenning'
+
+Activeer vingerafdruk of gezichtsherkenning om aan te melden en/of verrichtingen te tekenen

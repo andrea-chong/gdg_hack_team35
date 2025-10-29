@@ -1,0 +1,44 @@
+# Payez avec Google Pay en toute simplicité ! - ING Belgique
+
+## FAQ
+
+### Quelle carte pouvez-vous ajouter à votre portefeuille et à Google Pay ?
+
+Toute carte de débit ou de crédit ING liée à un compte à vue ING.
+
+### Comment changer votre carte par défaut ?
+
+* Allez dans "Wallet" sur votre appareil Google
+* Sélectionnez la carte que vous souhaitez mettre par défaut
+* Cliquez sur la carte
+* Choisissez « Définir comme carte par défaut pour le sans contact »
+
+### Comment supprimer une carte de mon Google Wallet ?
+
+Allez dans "Wallet" sur votre appareil et appuyez sur la carte que vous voulez supprimer.
+Une fois sur la carte cliquez dessus et sélectionnez « Supprimer le mode de paiement »
+Vous pouvez la supprimer de votre téléphone ou de votre compte Google.
+Votre carte est maintenant définitivement supprimée
+Les transactions effectuées avec cette carte de débit ou de crédit ne sont plus visibles dans l'application Google Wallet.
+Veuillez noter ! Vous ne pouvez pas retirer votre carte de débit ou de crédit ING via l'app ING Banking, mais uniquement dans l'app Google Wallet elle-même.
+
+### Peut-on utiliser Google Pay sur plusieurs appareils Androïd en même temps ?
+
+N'hésitez pas à utiliser Google Pay sur plusieurs appareils à la fois. Pour ce faire, vous devrez toutefois enroller les cartes de débit dans l'app Google Wallet sur chaque appareil.
+
+### Vous avez un nouvel appareil Androïd et vous voulez continuer à utiliser Google Pay. Comment faites-vous cela ?
+
+Il vous suffit de réinscrire votre/vos carte(s) de débit dans l'application Google Wallet de cet appareil.
+
+### Pouvez-vous utiliser Google Pay à l'étranger ?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Oui, n'hésitez pas à payer avec Google Pay chez tout commerçant en dehors de la Belgique qui accepte Maestro / Mastercard / Visa et affiche le logo Google Pay et le symbole de paiement sans contact. |
+END TABLE IN MARKDOWN
+
+### Où pouvez-vous payer avec Google Pay ?
+
+Dans tous les magasins équipés d'un terminal de paiement sans contact acceptant Maestro / Mastercard / Visa.
+Via le navigateur dans les boutiques en ligne fonctionnant avec Google Pay et Maestro / Mastercard / Visa.

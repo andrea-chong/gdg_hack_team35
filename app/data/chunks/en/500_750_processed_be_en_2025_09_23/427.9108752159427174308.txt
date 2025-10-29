@@ -1,0 +1,18 @@
+# Account statements Frequently asked questions - ING Belgium
+
+### How much do the electronic account statements cost?
+
+Electronic account statements are free of charge. Electronic duplicate account statements for transactions, which can date back up to 10 years, can also be obtained free of charge via Home'Bank or via Business'Bank .
+You can also request paper duplicate account statements for a fee of 30 euros per 12 months. Don't receive electronic account statements yet? Request to receive your account statements electronically by logging into Home'Bank or Business'Bank now.
+
+### Can copies of statements still be sent to multiple addresses when choosing e-statements?
+
+If you switch delivery method from "Post" to "Electronic", any automatic forwarding to other addresses will be cancelled. In other words, you will only be able to receive your account statements electronically in PDF format. Of course, once downloaded, you can print out or forward your statements to any recipient by post or e-mail.
+
+### Where can I find the statement number on my e-statements?
+
+As a part of limiting the number of pages and to reduce paper consumption, the statement number is not in the footer anymore but next to each transaction. That way transactions from several statements can be on the same page. In the footer remains only the page number.
+
+### How do I download a transaction overview in .csv or .txt format?
+
+Download your transaction overview in .csv or .txt format from your Home'Bank. Connect using the ING Banking app or itsme®. Click on 'Download' and choose the 'Transactions' option. Then select the account from which you wish to download transactions, enter the time period and choose the type of file you wish to obtain. Click on 'Download transactions'.

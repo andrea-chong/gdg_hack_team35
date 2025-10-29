@@ -1,0 +1,37 @@
+# Adapt card settings - ING Belgium
+
+## Frequently Asked Questions
+
+### Can I adapt my settings whenever I want?
+
+Yes, you can adapt your debit/credit card settings of your card whenever you want and the effect is immediate.
+
+### What is the impact of blocking my card temporarily?
+
+If you block your debit/credit card temporarily
+* you will not be able to use this card for withdrawals or payments anymore (including mobile payments using Apple Pay, Google Pay or Bancontact).
+* automatic recurring payments for online subscriptions (streaming, firewall, music,...) linked to the card will not be possible either.
+* if you temporarily block the only card you have, you will only be able to log in Home’Bank/Business’Bank by using itsme or the QR code.
+
+### If my card is lost/stolen, what should I do?
+
+If your debit card/credit card is lost or stolen, block it immediately via the service available in the ING Banking App or via Home'Bank/Business'Bank or via a call to CARD STOP (078 170 170). Follow the instructions for lost or stolen card. (Replacing a lost/stolen ING debit or credit card costs 9.99 euros). A new card will be sent by post within 5 working days to the postal address known by us.
+
+### What is the impact of deactivating contactless payments?
+
+If you deactivate “contactless” payment,
+* you will only be able to pay with your card by inserting it into a terminal.
+
+### Can I unblock a card that has been blocked by ING?
+
+If your card is temporarily blocked by ING (e.g. suspicion of fraud), you cannot unblock the card yourself.
+
+### What is the impact of deactivating the online payments?
+
+If you deactivate online payments,
+* you will not be able to perform online payments anymore
+* automatic recurring payments for online subscriptions (streaming, firewall, music,...) linked to the card will be refused.
+
+## Do you want to temporarily block your card or (de)activate contactless or online payments ?
+
+This is easily done in the ING Banking app or in Home'Bank/Business'Bank via the menu Services>Cards>Adapt debit card settings/Adapt credit card settings

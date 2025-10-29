@@ -1,0 +1,21 @@
+# Avec un virement bancaire, envoyez facilement de l'argent en euros dans la zone SEPA. - ING Belgique - Tout sur le virement en euros (SEPA)
+
+## Questions fréquemment posées
+
+### Qu'est-ce qu'un virement en euros (SEPA) ?
+
+Le virement en euros (SEPA) vous permet d'effectuer vos paiements en euros d'une manière uniforme dans toute la zone SEPA.
+Vous trouverez ici la liste des pays de la zone SEPA .
+
+### Comment effectuer un virement en euros (SEPA) urgent ?
+
+Un paiement urgent à réaliser ? De votre compte sur un autre compte, tenus tous les 2 dans un des États membres de l'Union européenne (ou en Norvège, en Islande, au Liechtenstein, en Suisse, à Monaco, à Saint-Marin ou en Andorre) ?
+Vous trouverez la liste des pays de la zone SEPA en cliquant sur ce lien .
+La plupart des virements SEPA sont exécutés instantanément. Pour tous les virements instantanés, ING crédite le compte du bénéficiaire en quelques secondes. Consultez les informations du virement dans votre aperçu des transactions pour voir si le virement a été exécuté sous la forme d’un virement instantané ou d'un virement SEPA normal.
+Les autres frais sont disponibles dans la brochure tarif des opérations bancaires d'ING (PDF) .
+
+### Que dois-je faire si mon virement n’est pas encore parvenu au bénéficiaire ?
+
+Vérifiez d'abord que les données du bénéficiaire que vous avez saisies sont correctes. Si c’est le cas, le délai dépend du type de virement :
+* Les virements instantanés doivent arriver en quelques secondes. **La plupart des virements SEPA sont exécutés instantanément** . Pour tous les virements instantanés, ING crédite le compte du bénéficiaire en quelques secondes. Consultez les informations du virement dans votre aperçu des transactions pour voir si le virement a été exécuté sous la forme d’un virement instantané ou d'un virement SEPA normal.
+* Les virements internationaux peuvent prendre plusieurs jours ouvrables, selon la banque bénéficiaire. Vous trouverez de plus amples informations ici .l

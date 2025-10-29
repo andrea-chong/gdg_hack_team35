@@ -1,0 +1,32 @@
+# Toutes les transactions en espèces non disponibles à un distributeur de billets (comme les pièces de monnaie et les devises étrangères) - ING Belgique - Les caisses de nos agences
+
+## Frais des transactions effectuées à la caisse
+
+### Comment commander ou déposer des billets en devises : dollar américain (USD), en livre sterling (GBP) ou en franc suisse (CHF)?
+
+Rien de plus simple ! Nous traitons les devises suivantes: **USD** , **GBP** et **CHF** .​
+Il est indispensable de détenir **déjà** un compte à vue dans la devise en question
+Prenez rendez-vous dans une de nos agences ING offrant le service devises étrangères :
+* Soit en vous connectant à Home'Bank
+* Soit en ouvrant l'app ING Banking sur votre smartphone: *Services > Paiements et cash > Cash > Devises étrangères> Commander/déposer*
+* Soit en contactant le Service Client au +32 2 464 60 02, du lundi au vendredi de 8 h à 18h
+Bon à savoir
+* Commandez vos devises au moins **2 semaines** avant d’en avoir besoin
+* Votre compte en devise est directement crédité du montant (dans le cas d'un dépôt) / débité du montant (dans le cas d'un retrait) lors de votre passage en agence, à la caisse
+* Consultez les frais des opérations de devises dans le tableau ci-dessus. Les frais sont dus même en cas d’annulation ou si vous ne venez pas reprendre vos devises. Et ceci, afin de couvrir les frais de préparation et de transport des devises
+**Liste des agences ING** **avec le service de devises étrangères** **(sur rendez-vous uniquement):**
+START TABLE IN MARKDOWN
+| Agence | Adresse |
+| - | - |
+| ING Wemmel | Markt, 54 1780 Wemmel |
+| ING Uccle Fort Jaco | Chaussée de Waterloo, 1313 1180 Uccle |
+| ING Namur(Jambes) | Place J. Charlotte, 18\-20 5100 Namur |
+| ING Barchon | Rue du Fort, 3 4671 Blegny |
+| ING Mons | Avenue des Guerites, 1 7000 Mons |
+| ING Hasselt | Welvaartstraat, 1 3500 Hasselt |
+| ING Leuven | Bondgenotenlaan, 31 3000 Leuven |
+| ING Antwerpen Metropool | Lange Gasthuisstraat, 20 2000 Antwerpen |
+| ING Oostende\-Jet\-Center | Gistelsesteenweg, 1 8400 Oostende |
+END TABLE IN MARKDOWN
+**Comment retirer des devises à l’étranger** **avec ma carte de débit ?**
+À n’importe quel distributeur automatique de billets à l’étranger, pour autant que le distributeur affiche le même logo que celui de votre carte de débit (logo Maestro, Cirrus, Visa ou MasterCard). Attention, l’opérateur de distributeurs de billets à l’étranger peut vous facturer des frais supplémentaires.

@@ -1,0 +1,8 @@
+# Log in and sign with Card Reader - ING Belgium - Looking for your card reader? There might be an easier way...
+
+## Frequently asked questions
+
+### What is the difference between the ING QR Code and itsme®?
+
+They are both ways of identifying yourself and signing payments. The ING QR code is exclusively for doing your banking as an ING customer. Itsme®, on the other hand, has other applications, such as logging into your profiles on government websites, etc.
+When you use the QR code to sign a payment, you get to see more information about the payment than when you use itsme®. This is important to guard against phishing. The more information you see, the easier it is to tell if something is not right.

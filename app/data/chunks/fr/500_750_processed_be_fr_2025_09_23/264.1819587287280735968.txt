@@ -1,0 +1,23 @@
+# Aidez-moi, je ne peux pas me connecter - ING Belgique - Aidez-moi, je n'arrive pas à me connecter
+
+Vous rencontrez des problèmes de connexion à l'app? Jetez un coup d'œil ci-dessous aux actions que vous pouvez entreprendre pour résoudre le problème.
+
+## Contrôles de base
+
+1. 1
+
+#### Avez-vous le dernier OS sur votre smartphone ?
+
+Pour s'assurer que l'app ING Banking répond à toutes les nouvelles normes de sécurité et améliorations, il est important de mettre à jour votre système d'exploitation (OS).
+Vérifier la configuration requise pour le système d'exploitation
+2. 2
+
+#### Avez-vous la dernière version de l'application ING Banking ?
+
+Vérifiez dans l'App Store ou Google Play Store si vous utilisez la dernière version de l'application. Si une application ne reçoit pas de mises à jour, sa sécurité ne sera pas à jour.
+Comment mettre à jour l'app ING Banking ?
+3. 3
+
+#### Disposez-vous d'une connexion Internet ?
+
+Pour utiliser l'app ING Banking, vous avez besoin d'une connexion Internet. Vérifiez ceci : ouvrez votre navigateur Internet et voyez si vous pouvez naviguer sur n'importe quel site. Si ce n'est pas le cas, allez dans les paramètres de votre smartphone pour activer votre connexion Internet.

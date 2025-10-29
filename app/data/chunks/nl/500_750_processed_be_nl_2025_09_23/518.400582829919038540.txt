@@ -1,0 +1,19 @@
+# Rekeninguittreksels - Veelgestelde vragen - ING België - Rekeninguittreksels Veelgestelde vragen
+
+### Wat is de standaard frequentie/datum om rekeninguittreksels te ontvangen?
+
+Als particulier krijg je je rekeninguittreksel éénmaal per maand via Home'Bank , op dezelfde dag van de maand dan dat je jouw rekening geopend hebt. Bijvoorbeeld, als je jouw rekening geopend hebt op 15 September, dan krijg je standard je elektronische uittreksels op de 15de van elke maand.
+
+### Waarom heb ik elke dag een nieuw rekeninguittreksel?
+
+Dit komt doordat de periodiciteit voor de rekening(en) ingesteld is op "Dagelijks". Om te zien wat de instelling is voor elke rekening en om de frequentie te wijzigen (naar dagelijks, wekelijks, elke twee weken of maandelijks), raadpleegt u het tabblad "Ontvangstwijze beheren".
+
+### Hoe kan ik de ontvangstwijze voor mijn afschriften aanpassen?
+
+In Home'Bank of Business'Bank : in het menu kiest u "Dagelijks bankieren > Mijn zichtrekeningen > Rekeningafschriften". Er zijn 2 manieren om de ontvangstwijze aan te passen:
+* U klikt op “Acties” naast de rekening en kiest “Wijzig ontvangstwijze afschriften”.
+* U kunt ook de ontvangstwijze voor verschillende rekeningen tegelijk wijzigen. Daartoe selecteert u de rekeningen, klikt op “Acties voor de selectie” en kiest dan “Wijzig ontvangstwijze afschriften”. Opgelet: keert u van “Elektronisch” terug naar “Papier” en u had nog niet alle afschriften opgevraagd? Dan worden de resterende afschriften automatisch opgevraagd en nog een laatste keer elektronisch aangeleverd.
+
+### Als ik de ontvangstwijze voor een uittreksel verander, is het geldig voor iedereen?
+
+Ja. Als er meerdere personen toegang hebben tot een bepaalde rekening en een van hen wijzigt in Home'Bank of Business'Bank de ontvangstwijze (bv. van verzending per post naar elektronisch), dan geldt die wijziging voor iedereen. Zelfs als dat gebeurt in het kader van een tweede verzending.

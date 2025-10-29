@@ -1,0 +1,20 @@
+# Met een overschrijving verstuur je gemakkelijk geld in euro binnen de SEPA-zone. - ING België - Alles over de overschrijving in euro (SEPA)
+
+## Veel gestelde vragen
+
+### Wat zijn IBAN, BIC en een toekomstige uitvoeringsdatum?
+
+Aan de hand van het IBAN (International Bank Account Number) en de BIC (Bank Identifier Code) wordt de bank geïdentificeerd:
+* **IBAN**
+* Bereken hier meteen het IBAN voor je rekeningnummer
+* IBAN is een gestandaardiseerde manier om bankrekeningnummers uit te schrijven, met een vast aantal tekens in elk land. Het is samengesteld uit een landcode (2 letters), een controlecijfer (2 cijfers) en een nationaal rekeningnummer. Opmerking: soms bevat een IBAN naast de landcode nog andere letters.
+* Vermeld op het elektronische SEPA-overschrijvingsformulier de correcte rekeningnummers (IBAN) **van de opdrachtgever en de begunstigde** .
+* **BIC**
+* De BIC van ING België is BBRUBEBB.
+* De BIC (Bank Identifier Code) is een code voor de unieke identificatie van elke bank ter wereld. Bij een overschrijving in euro (SEPA) is het **niet verplicht** de BIC van de bank van de begunstigde te vermelden.
+* **Toekomstige uitvoeringsdatum?**
+* Wil je de overschrijving in euro (SEPA) op een latere datum uitvoeren? Vul dan hier de gewenste datum in. Als je hier geen datum invult, dan wordt de betaling onmiddellijk uitgevoerd.
+
+### Wat kan ik doen als ik geld naar het verkeerde rekeningnummer heb overgemaakt?
+
+Als de overschrijving al van je rekening is afgeschreven, neem dan contact op met de begunstigde om een terugbetaling aan te vragen. Ken je de begunstigde niet, dan kunnen we het geld terugvragen bij de bank van de begunstigde. Aan deze dienst zijn kosten verbonden. Contacteer ons hiervoor op onze service sectie om geld terug te vragen.

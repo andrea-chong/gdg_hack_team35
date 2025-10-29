@@ -1,0 +1,41 @@
+# Betaal eenvoudig met Google Pay ! - ING België - Betaal eenvoudig met Google Pay!
+
+## FAQ
+
+### Hoe verwijder je een kaart uit je Google Wallet?
+
+* Ga naar 'Wallet' op je toestel en tik op de kaart die je wil verwijderen
+* Tik rechtsboven op drie witte puntjes
+* Kies onderaan voor ‘Verwijder deze kaart’
+* Je kaart is definitief verwijderd
+De verrichtingen met deze debet- of kredietkaart zijn vanaf dan niet meer zichtbaar in de Google Wallet-app
+Let op! Je kunt je ING debet- of kredietkaart niet verwijderen via je ING Banking-app, dit kan enkel in de Google Wallet-app zelf.
+
+### Kun je op meerdere Google toestellen tegelijkertijd Google Pay gebruiken?
+
+Gebruik Google Pay gerust op meerdere toestellen tegelijk. Hiervoor moet je wel op elk toestel de debet- of kredietkaart opnieuw toevoegen aan de Google Wallet-app.
+
+### Je hebt een nieuw toestel (Android) en je wil Google Pay blijven gebruiken. Hoe doe je dat?
+
+Je moet gewoon je debet- of kredietkaart(en) opnieuw toevoegen aan de Google Wallet-app van dat toestel.
+
+### Kun je Google Pay gebruiken in het buitenland?
+
+START TABLE IN MARKDOWN
+| |
+| - |
+| Ja, betaal gerust met Google Pay bij alle handelaars buiten België, die Maestro / Mastercard / Visa aanvaarden en waar je het Google Pay\-logo en het symbool voor contactloos betalen ziet. |
+END TABLE IN MARKDOWN
+
+### Waar kun je betalen met Google Pay?
+
+* In alle winkels met een betaalterminal voor contactloos betalen die Maestro / Mastercard / Visa accepteren
+
+### Hoe betaal je met je gsm in een winkel?
+
+Open uw telefoon.Houd je telefoon tegen de terminal.Het is betaald.
+
+### Moet je verbonden zijn met het internet om te kunnen betalen met Google Pay?
+
+Om te betalen met een debet- of kredietkaart die al toegevoegd is aan je Google Wallet, heb je geen internetverbinding nodig.
+Je hebt enkel een internetverbinding nodig om een nieuwe kaart toe te voegen aan de Google Wallet-app.

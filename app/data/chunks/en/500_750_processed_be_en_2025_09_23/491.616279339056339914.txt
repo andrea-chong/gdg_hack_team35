@@ -1,0 +1,32 @@
+# With the ING Banking app, manage your banking operations anywhere - ING Belgium
+
+## FAQ
+
+### I already have Home'Bank. Why use the ING Banking app?
+
+**Home'Bank** is only accessible via our website ing.be. It’s still useful if you want to:
+* Send money in **foreign currency** , outside the SEPA zone
+* Carry out transactions for **more than 5,000 euros** per day
+* Do more specialised actions like **printing account statements** , adding a **mandate holder** , etc.
+The **ING Banking app** can be installed on a smartphone or tablet. Accessible in a few seconds, it is your best option when it comes to:
+* **Your daily banking:** sending money in euros or checking your balance, investments or credit card payments.
+* **Your budget** : get **alerts** when your balance falls below a certain amount or when your salary has arrived. And use Payconiq to remind friends who “forget” to pay you back.
+* **Saving money:** get exclusive discounts thanks to ING+ deals .
+* **Extra services** : increase your credit or debit card limits, (de)activate contactless or online payments…
+… and so much more!
+
+### Is ING working on new features for the ING Banking app?
+
+Of course! The ING Banking app is constantly being improved taking into account user feedback. New features are being added all the time.
+
+### How can I update the ING Banking app?
+
+All information on how to update your ING Banking app can be found in this article: Updating your ING Banking App .
+
+### Why can't I download or update the ING Banking app?
+
+There are a couple of reasons why you can't download or update the ING Banking app. Learn all about it in this article: Why can't I download or update my ING Banking app .
+
+### I have blocked my ING Banking app by entering 3 times the wrong access code. What should I do?
+
+From the login screen, tap the small orange "i" at the top right of your screen. Then select 'Forgot your code?' and follow the steps to reset the code of your ING Banking app.

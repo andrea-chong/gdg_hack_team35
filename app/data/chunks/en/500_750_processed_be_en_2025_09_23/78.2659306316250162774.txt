@@ -1,0 +1,34 @@
+# Click to Pay, the future of online payments - ING Belgium - Click to PayClick, pay, enjoy
+
+## Frequently Asked Questions
+
+### How do I delete all my information from Mastercard Click to Pay?
+
+Sign in with your email address or mobile number at Mastercard Click to Pay . Once signed in you can manage your information and profile, including deleting it.
+
+### How do I update my Mastercard Click to Pay information?
+
+Visit Mastercard Click to Pay and enter your email or mobile number to sign in and update your information. You can delete cards, change your shipping addresses, change your mobile number, and more.
+
+### How does Click to Pay protect my information?
+
+Securing your information is our top priority and Click to Pay protects you in many ways:
+1. Your payment information is encrypted to prevent fraud and identity theft.
+2. Click to Pay’s smart security alerts us to suspicious behavior and distinguishes you from malicious bots.
+3. Click to Pay sends a verification code to your email or mobile number to make sure only you use your Click to Pay information
+
+### Does Mastercard Click to Pay share my information?
+
+Your privacy and security are important to us. Mastercard shares your information only to facilitate checkout with participating card networks, service providers and merchants. For more information on how Mastercard protects your information and privacy, read our Privacy Policy.
+
+### What is a verification code?
+
+Verification codes are a one-time code sent to your email or mobile number to confirm it’s you. Verification codes may be sent when you access your payment information at Mastercard Click to Pay, during checkout or through your bank.
+
+### Will I be charged for the transaction multiple times if I receive multiple verification codes?
+
+You’re not charged when you receive or enter verification codes. You’re only charged the amount for the transaction once a purchase is completed.
+
+### Why are verification codes sometimes sent to my mobile number and other times sent to email?
+
+Verification codes are sent to either your mobile number or email, depending on which best protects your payment information. Generally, verification codes are sent to your mobile number during checkout and to your email when you sign in at Mastercard Click to Pay, but it can vary.

@@ -1,0 +1,7 @@
+# Wero - ING Belgium
+
+## Frequently Asked Questions
+
+### Can I remove a Wero wallet?
+
+Yes, go to Services --> Settings --> Payments --> Wero --> “Remove Wero”.

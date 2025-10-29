@@ -1,0 +1,14 @@
+# Privacy Statement for ING Belgium nv/sa - ING Belgium - Personal data protection statement for ING Belgium nv/sa
+
+## Personal data protection statement
+
+### Under what conditions do we transfer personal data outside the EEA ?
+
+Whenever we share your personal data (if EU data protection laws apply) with third parties or other ING entities located in countries outside of the European Economic Area (EEA) that do not offer an adequate level of data protection, we will make sure there are adequate measures in place to ensure that your personal data is sufficiently protected.
+For this purpose, we rely on so-called transfer tools, such as:
+• EU Model clauses or Standard Contractual Clauses; these are contractual clauses we agree with any external service providers located in a non-adequate country to ensure that such a provider is contractually obliged to provide an adequate level of data protection.
+• Binding Corporate Rules; for personal data transfers within ING Group, we could also rely on binding internal Group policies (i.e. the Binding Corporate Rules) to ensure that ING entities located in a non-adequate country adhere to an adequate level of data protection when processing personal data c as set out in Section 4 (“Who do we share your personal data with and why ?”).
+ING may also rely upon, amongst others:
+• the respect of the EU-US Data Privacy Framework:
+• the conclusion or the execution of an agreement, a transaction or a third-party transaction in your favour; • requirements based on applicable local laws and regulations; • data transfer that are necessary for reasons of public interests; • your explicit consent; • the respect of international treaties.
+Furthermore, we will assess on a case-by-case basis whether any organisational, technical (such as encryption) and/ or contractual safeguards need to be implemented to ensure your personal data is adequately protected, taking into account the legal framework of the country where the data importer is located.

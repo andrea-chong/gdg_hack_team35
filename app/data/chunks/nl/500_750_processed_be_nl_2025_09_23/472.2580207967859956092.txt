@@ -1,0 +1,23 @@
+# Geld opnemen bij een geldautomaat, overal in België - ING België - Eurobiljetten opnemen aan elke geldautomaat van jouw keuze!
+
+## Welke coupures zijn er beschikbaar?
+
+De meeste CASH-punten bieden biljetten van € 20 en € 50 aan. Sommige locaties bieden ook biljetten van € 5, € 10 of € 100 aan, afhankelijk van de beschikbaarheid.
+Je kan op de **cash.be** website eenvoudig filteren op coupures via hun **interactieve locator** .
+🔍 Zo filter je op coupures:
+1. **Ga naar de locator op** cash.be .
+2. Klik op de **zoekfunctie voor CASH-punten** .
+3. Gebruik de **filters** :
+   * Je kan specifiek filteren op automaten die **kleine coupures** (€5, €10) aanbieden.
+   * Of op automaten met **grote coupures** (€100).
+   * Standaard bieden alle CASH-punten sowieso **€20 en €50** biljetten aan
+
+## Wat kost geld opnemen aan een geldautomaat in België met je ING-debetkaart?
+
+START TABLE IN MARKDOWN
+| Bank\-Pack | Aantal gratis opnames | Daarna | Waar |
+| - | - | - | - |
+| ING Do Basic | 36/jaar | €0,50 per opname | Alle automaten in België |
+| ING Do More | Onbeperkt | Gratis | Alle automaten in België |
+| ING Do More 18\-25 | Onbeperkt | Gratis | Alle automaten in België |
+END TABLE IN MARKDOWN

@@ -1,0 +1,5 @@
+# Extraits de compte - Foire aux questions - ING Belgique - Extraits de compte Questions Fréquemment posées
+
+### Comment télécharger l’aperçu des transactions au format .csv ou .txt ?
+
+Téléchargez l'aperçu de vos transactions au format .csv ou .txt depuis votre Home'Bank. Connectez-vous à l’aide de l’app ING Banking ou d’itsme®. Cliquez sur « Téléchargement » et choisissez l’option « Transactions ». Sélectionnez ensuite le compte avec lequel vous souhaitez télécharger les transactions, indiquez les dates et choisissez le type de fichier que vous voulez obtenir. Cliquez sur « Télécharger transactions ».

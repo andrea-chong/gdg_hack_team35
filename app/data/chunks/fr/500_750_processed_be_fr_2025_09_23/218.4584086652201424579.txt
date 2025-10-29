@@ -1,0 +1,15 @@
+# Apple Pay: Payez en un clin d'œil - ING Belgique
+
+## Payez en un clin d'œil avec votre iPhone ou votre Apple Watch !
+
+Apple Pay donne une nouvelle dimension aux paiements mobiles que ce soit en magasin, en ligne ou via des applications. En effet, vous payez sans contact et c’est simple, rapide et hautement sécurisé !
+
+## Tout savoir sur Apple Pay
+
+* ### Facile
+Pas besoin de code PIN lors du paiement, vous confirmez votre identité avec Face ID (reconnaissance faciale) ou Touch ID (empreinte digitale).
+* ### Sécurisé
+Apple Pay utilise un numéro propre à votre appareil ainsi qu'un code de transaction unique. Le numéro de votre carte de débit ou de crédit n'est jamais enregistré sur votre appareil ou sur les serveurs d'Apple, ni transmis aux commerçants.
+* ### Accepté partout
+En magasin, la majorité des terminaux de paiement¹ accepte le paiement sans contact, il vous suffit alors d’y présenter votre iPhone/Apple Watch. En ligne ou via des "app's", vous choisissez l’option Apple Pay¹ depuis votre iPhone/iPad. De plus, les paiements de plus de 50 euros sont acceptés !
+¹ Accepté dans les commerces qui présentent le logo des paiements sans contact. Accepté sur les sites et applications qui présentent le logo Apple Pay.

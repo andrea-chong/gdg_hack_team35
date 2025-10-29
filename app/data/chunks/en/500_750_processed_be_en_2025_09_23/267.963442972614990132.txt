@@ -1,0 +1,33 @@
+# Switch to ING as Your Primary Bank - Easy and Free Bank Switching Service - ING Belgium - Switching banks to ING?
+
+## FAQ
+
+### What does the bank switching service include?
+
+Using the bank switching service, the holder of a bank account or accounts can **transfer their payment orders** , which are executed on the former payment account, **to the new payment account** .
+The holder of a bank account or accounts **can also request the settlement of the former payment account** .
+**The holder of** a bank account or accounts **can choose from the following options** as part of the bank switching service:
+* the transfer of all payment orders.
+* the transfer of all payment orders and the settlement of the former payment account.
+* the provision of information to creditors of direct debits in euro (SEPA) and/or payers of recurring incoming money transfers in euro (SEPA).
+* the settlement of the former payment account (without transferring the payment orders).
+
+### Should I transfer my income to ING?
+
+**In theory, this is covered by the bank switching service (see "payment order").**
+However, if you wish, you can make the switch yourself by communicating the number of your ING current account to your employer or payment agency.
+You can also use this form .
+
+### Will I have any administration to do?
+
+No. The new bank will implement the bank switching service and get in contact with the former bank.
+
+### What is a ‘payment order’?
+
+In the context of bank switching, this refers to payment orders that have to be executed on the former payment account and that belong to one of the categories listed below:
+* active direct debits in euro (SEPA) for which at least one effective direct debit has been executed within the last thirteen months before the starting date.
+* standing payment orders.
+* sending money in euro (SEPA) set up for a future execution date.
+* recurring incoming money transfers in euro (SEPA): i.e. transfers that meet one of the following criteria within the last thirteen months before the starting date:
+  + the reference in the money transfer begins with /A/, /B/ or /C/; or
+  + at least six money transfers, effected by the same payer, within the last thirteen months before the starting date, except for transfers from a current account in the account holder’s name.

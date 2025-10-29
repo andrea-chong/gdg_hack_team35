@@ -1,0 +1,21 @@
+# Hoe gebruik ik itsme® voor digitaal bankieren? - ING België - Alles over itsme®
+
+## Veelgestelde vragen
+
+### Hoe activeer ik itsme® voor de eerste keer?
+
+1. Controleer of je persoonlijke gegevens up-to-date zijn voordat je itsme® activeert.
+2. Download de itsme® app op je smartphone.
+3. Geef je Gsm-nummer in en kies ING bij de identificatiemethode.
+4. Accepteer de uitwisseling van je identiteitsgegevens met ING.
+5. Rond het aanmaken van je itsme® profiel af vanuit de ING Banking app.
+
+### Hoe veilig is itsme® en wat gebeurt er met mijn persoonlijke gegevens?
+
+Itsme® is een uiterst veilige manier om je digitale identiteit te bevestigen. Het systeem werkt door de unieke gegevens op je elektronische identiteitskaart te koppelen aan die van de SIM-kaart in je smartphone. Samen met de 5-cijferige itsme-pincode, die alleen jij kent, zorgt deze unieke mobiele identiteit voor maximale beveiliging van je e-banking en andere online diensten.
+Er wordt geen informatie doorgegeven zonder je uitdrukkelijke toestemming. Je kunt in de app precies zien welke gegevens je deelt, wat je doet en met welke partner!
+
+### Ik ben 16 of 18 jaar geworden en wil graag itsme® gebruiken. Het werkt niet, wat moet ik doen?
+
+Als je 16 bent en problemen ondervindt bij het installeren van itsme®, komt dat waarschijnlijk omdat je de laatste versie van je eID-kaart nog moet delen met ING. Dat kan door je eID-kaart voor te leggen aan het loket van je ING-kantoor.
+Als je geen nieuwe eID-kaart hebt gekregen toen je 18 werd en je oude kaart is nog geldig, moet je naar de plaatselijke overheid gaan om de elektronische handtekening te activeren. Daarna zou je een itsme®-account moeten kunnen aanmaken.

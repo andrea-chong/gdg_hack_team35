@@ -1,0 +1,28 @@
+# Compare our savings accounts - ING Belgium
+
+## Because it’s always a good idea to put money aside!
+
+Whether you’re saving up for something big, or simply putting surplus cash aside, you’ll find a regulated savings account to meet your needs.
+Our regulated savings accounts are offered by ING Belgium SA/NV, a Belgian financial institution. You’ll find the applicable interest rates on ing.be and in all our branches. If the rates change, we’ll let you know on your statements.
+START TABLE IN MARKDOWN
+| | ING Savings Account (cat. A¹) | ING Tempo Savings (cat. B¹) |
+| - | - | - |
+| Savings goal | Manage savings your way | Save regularly with this online account |
+| Base rate² | 0.10% annually | 0.75% annually |
+| Fidelity premium³ | 1.15% annually | 1.50% annually |
+| Charges | Opening, closing & online transfers = Free | Opening, closing & online transfers = Free |
+| Account holder(s) | You or other joint holder(s) | Open in your name only |
+| Number of accounts | Multiple accounts allowed per holder | 1 account per holder |
+| Maximum deposit amount | ✅ No limit | ❌ Max €500/month |
+| Minimum deposit amount | ✅ No limit | ✅ No limit |
+| Duration | Opening and closing at any time | Opening and closing at any time |
+| Cash deposit / withdrawal | ✅ Included | ❌ Not included |
+| | | |
+| Taxation(Withholding tax on the interest) | ◽Up to €1.050 : \ \| From €1.050 : 15% In the name of a married couple\|civil union:◽Up to €2.100 : \ \| From €2.100 : 15% | ◽Up to €1.050 : \ \| From €1.050 : 15% |
+| Save your spare change | Eligible with ING Save Up | Not eligible with ING Save Up |
+| Risks | Bankruptcy⁴ & Inflation⁵ | Bankruptcy⁴ & Inflation⁵ |
+| | | |
+| | Key information for savers | Key information for savers |
+| | Continue | Continue |
+| | | |
+END TABLE IN MARKDOWN

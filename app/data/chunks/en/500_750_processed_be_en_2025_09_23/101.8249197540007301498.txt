@@ -1,0 +1,26 @@
+# One card for Bancontact, Maestro/Mastercard and contactless payments - ING Belgium - ING debit card
+
+## In general
+
+### How can I block/unblock temporarily my card?
+
+You don't need your card temporarily? You cannot find your card? You don't know if it is lost? Useful tip: you can temporarily block you card! You can easily unblock it once you find it back or you need it again.
+**In the event of loss or theft** , always directly block your card via the service available in the ING Banking App or via Home'Bank/Business'Bank or via a call to Card Stop on +32 78 170 170 (Sending a new ING debit card costs 9,99 euros).
+**Please note** : if you temporarily block your card, you cannot use it for:
+* withdrawals, payments (including mobile payments using Apple Pay, Google Pay or Bancontact),
+* automatic recurring payments for online subscriptions (streaming, firewall, music, …) linked to your card or
+* connecting to Home'Bank/Business'Bank with your ING card reader
+For blocking your card temporarily, please follow the instructions hereunder.
+I block my card temporarily
+
+### What are the payment, transfer and withdrawal limits ?
+
+**For small purchases below 50 euros** , it is possible to make payments without entering your PIN.
+After making a total 100 euros of payments without entering your PIN, you will have to confirm any subsequent payments with your PIN before you can make payments again without entering your PIN.
+**For larger amounts,** view the payment, sending money and cash withdraw in euro limits related to your ING debit card .
+
+### Where can I use my debit card ?
+
+Use your ING debit card to make payments in Belgium, abroad and online or to withdraw cash at any ATM displaying the Bancontact-, Maestro- or Mastercard- logo. **You can also use your card to make payments and withdrawals all over the world.**
+Caution ! However, there is no 100% guarantee that the debit card will be accepted everywhere. For example, some ATMs do not accept Maestro/Mastercard in Indonesia, Malaysia, Peru, Ecuador, Bolivia, Costa Rica, USA and Japan.
+We still advise the client to use his credit card when traveling outside Europe.

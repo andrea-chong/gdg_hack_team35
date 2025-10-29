@@ -1,0 +1,7 @@
+# Apple Pay: Payez en un clin d'œil - ING Belgique
+
+## FAQ
+
+### Que se passe-t-il si vous déconnectez l'Apple Watch de votre iPhone ?
+
+Dans ce cas, les données d'Apple Pay seront automatiquement effacées de votre Apple Watch.

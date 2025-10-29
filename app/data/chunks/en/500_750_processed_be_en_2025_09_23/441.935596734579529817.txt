@@ -1,0 +1,23 @@
+# Current account- ING Do More pack - ING Belgium - A bank account to simplify your daily life
+
+## Detailed information on the insurance products included in the ING Do More pack
+
+The ING Do More pack includes two insurance products:
+* **Purchase Protection Insurance**
+AIG insurance will refund you in the event of aggravated theft or accidental damage of certain purchases made via your bank account. A minimum value of €50 incl VAT per item applies. Consult the General Terms & Conditions (PDF).
+* **Ticket Cancellation Insurance**
+AIG insurance will refund you the cost of event tickets purchased via your bank account if you are unable to attend for medical reasons, theft or public transportation failure. A minimum of €25 incl VAT per ticket applies. Consult the General Terms & Conditions (PDF).
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| INSURED AMOUNT The indemnity will not exceed €3,000 per claim and per period of 12 consecutive months following the first claim. | INSURED AMOUNT The indemnity will not exceed €500 per claim and per period of 12 consecutive months following the first claim. |
+END TABLE IN MARKDOWN
+When does the cover start and when does it end? The cover starts for the new ING Green Account (with the ING Do More pack), from the opening of the account when the insurance cover is included in the account or for the existing ING Green Account (with the ING Do More pack), from the date communicated to the account holder when the insurance cover is included in the ING Green Account (with the ING Do More pack). All cover terminates immediately and expires automatically in the event of non-renewal or withdrawal from the ING Green Account (with the ING Do More pack) or if the present insurance/guarantee contract between ING and AIG is terminated for any reason whatsoever. If the group contract is terminated for any reason whatsoever, no further cover will be granted to the holder of an ING Green Account (with the ING Do More pack). By way of example, this means that: for purchase insurance, no additional cover will be granted after termination, even if the items were purchased before the cover was terminated and for ticket cancellation insurance, no additional cover will be granted after termination, even if the tickets were purchased before the cover was terminated.
+How do I submit a claim? You can submit a claim online via Qover: ingdomoreinsurances.qover.com. You will be redirected to the Qover website where you can submit your claim and upload the necessary documents/evidence.
+Do you have any comments or complaints? For questions about the product and the coverage, please contact Qover via:
+- contact form: https://ing-insurances.zendesk.com/hc/en-be/requests/new
+- email: ing@qover.com - phone: +32 2 808 35 14More information? **You are not satisfied and want to file a complaint?**
+Contact Qover SA, **Mediation Department** , Rue du Commerce 31, 1000 Brussels Belgium - Tel: +32 2 588 25 50 via the complaint form or by e-mail: mediation@qover.com .
+**Still not satisfied with how your complaint has been handled?**
+Contact the **Insurance Ombudsman** , Square De Meeûs 35, B-1000 Brussels – Tel.: +32 2 547 58 71 - Fax : +32 2 547 59 75 - info@ombudsmaninsurance.be - www.ombudsman-insurance.be
+What type of insurance is it? This product is a group insurance policy taken out by ING as policyholder, with automatic membership granted to ING customers who have a Do More Pack (included in the ING Green Account).

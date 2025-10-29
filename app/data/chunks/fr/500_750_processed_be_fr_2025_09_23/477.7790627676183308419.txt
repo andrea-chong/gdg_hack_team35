@@ -1,0 +1,12 @@
+# Transfer de devises entre comptes propres - ING Belgique - Comment convertir des devises entre vos comptes ?
+
+## Bon à savoir
+
+### Qui peut accéder à ce service?
+
+Tous les clients qui possèdent un compte en devise.
+Notez que vous ne pouvez pas en ouvrir un en ligne. Le compte en devise s’ouvre automatiquement dès la reception du virement dans cette même devise. Assurez-vous d'avoir au préalable un compte dans la devise que vous souhaitez recevoir avant d'initier l'échange.
+
+### Comment effectuer un virement depuis votre compte en devises vers votre compte en euros ?
+
+Effectuez un virement depuis votre compte en devises vers votre compte en euros depuis Home'Bank. Connectez-vous à l’aide de l’app ING Banking ou d’itsme®. Cliquez sur « Nouveau virement » sous l’onglet « Aperçu ». Dans la zone 'De', sélectionnez le compte en devises à partir duquel vous souhaitez envoyer de l'argent. Dans la zone 'Vers', choisissez votre compte à vue en euros. Indiquez ensuite les informations manquantes : le montant, la communication (si nécessaire) et validez votre virement.

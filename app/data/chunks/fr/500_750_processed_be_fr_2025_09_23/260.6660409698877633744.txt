@@ -1,0 +1,7 @@
+# Wero - ING Belgique
+
+## Questions fréquemment posées
+
+### Puis-je supprimer le portefeuille Wero ?
+
+Oui, allez dans Services -> Paramètres -> Paiements -> Wero -> "Supprimer Wero".

@@ -1,0 +1,7 @@
+# Verification of payee - ING Belgium - Verification of the name of the payee
+
+## FAQ
+
+### Does verifying the beneficiary name incur an additional cost ?
+
+No, verification when initiating a transfer is free.

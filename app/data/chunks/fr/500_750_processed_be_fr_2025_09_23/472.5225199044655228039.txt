@@ -1,0 +1,7 @@
+# Payconiq by Bancontact pour vos paiements mobiles - ING Belgique
+
+## Comment payer avec Payconig by Bancontact ?
+
+### Mon ami a effectué un paiement en ma faveur via Payconiq by Bancontact et je ne l'ai pas encore reçu
+
+Les paiement effectués via Payconiq by Bancontact ne sont pas exécutés instantanément. Si vous n'avez pas reçu le paiement après 48 heures ouvrables, contactez l'expéditeur et demandez la preuve du paiement. Si l'expéditeur vous envoie la preuve du paiement, mais que les fonds n'apparaissent toujours pas sur votre compte, demandez à l'expéditeur de se renseigner auprès de sa banque.

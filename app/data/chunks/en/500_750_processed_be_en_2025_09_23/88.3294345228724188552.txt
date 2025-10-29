@@ -1,0 +1,9 @@
+# Sending money in euro (SEPA) without signing - ING Belgium
+
+Reading time: 2 min 30 June 2022 In some cases you can send money in euro (SEPA) without signing them using your ING Card Reader.
+* Sending money in euro (SEPA) between your own ING accounts, on an unlimited basis.
+* Sending money in euro (SEPA) to accounts for which you have a mandate, on an unlimited basis.
+* Sending money in euro (SEPA) to your saved beneficiaries, if the total sum of your transfers does not exceed 750,00 € per day.
+If you prefer to sign your transfers with your ING Card Reader you can turn this option off.
+**Attention!** You will not be able to reactivate this option yourself. In order to be able to pay without signing again, you will have to contact your ING branch.
+Deactivate

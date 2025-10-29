@@ -1,0 +1,28 @@
+# Privacy Statement for ING Belgium nv/sa - ING België - Verklaring van ING België inzake de bescherming van de persoonsgegevens
+
+## Verklaring van ING België inzake de bescherming van de persoonsgegevens
+
+### Aanvulling 2 op de Verklaring van ING België N.V: gebruik van AI-systemen
+
+**A) Gebruik van AI door ING België NV en/of andere entiteiten van de ING Groep**
+ING België NV en/of elke andere vennootschap van ING Groep die in de Europese Unie gevestigd is, kan Artificiële intelligentie (AI) -systemen gebruiken (waaronder ontwikkelen of testen) die uw persoonsgegevens verwerken in overeenstemming met de toepasselijke wetgeving.
+Zij kunnen met name AI-systemen gebruiken (inclusief ontwikkelen of testen):
+• voor commerciële (inbegrepen statistische) doeleinden om:
+• processen eenvoudiger en sneller te maken en gepersonaliseerde bank-, financiële en verzekeringsdiensten mogelijk te maken en
+• voldoen aan verwachtingen van klanten om de bank-, financiële en verzekeringsdiensten (?) zo actueel, persoonlijk, relevant en gebruiksvriendelijk mogelijk te maken of
+• voor operationele doeleinden (waaronder beveiliging), met name om de doeltreffendheid van onze geautomatiseerde processen te verhogen of om (cyber)fraude beter te voorkomen en te bestrijden, of
+• om te voldoen aan wettelijke verplichtingen, met name het voorkomen en bestrijden van financiële criminaliteit (waaronder witwassen van geld, financiering van terrorisme en belastingfraude).
+**B) Gebruik van AI door ING België NV**
+ING België NV kan AI systemen gebruiken in het bijzonder voor de volgende hoofdverwerkingsactiviteiten en -doeleinden:
+• het uitvoeren van statistische studies;
+• het ontwikkelen van voorspellende en niet-voorspellende modellen, met inbegrip van een op automatisch leren gebaseerd kredietrisicoanalysemodel, om geautomatiseerde kredietbeslissingen te verbeteren;
+• het uitvoeren van KYC-procedures (know your customer) en de procedures tot waakzaamheid ten aanzien van de cliënten (customer due diligence) overeenkomstig de wetgeving inzake de bestrijding van witwassen en terrorismefinanciering;
+• het optimaliseren van interne processen (bv. documenten controleren);
+• de klanttevredenheid verbeteren door het aanbod van relevante producten te optimaliseren.
+ING België NV kan ook informatie over generatieve AI-systemen (d.w.z. AI-systemen die originele inhoud kunnen creëren zoals nieuwe tekst of afbeeldingen) gebruiken voor de volgende verwerkingsactiviteiten en doeleinden:
+• het verbeteren van chatbot-functionaliteit, beschikbaar via ING Banking. Als je zo'n Chatbot gebruikt, krijg je het bericht dat je interageert met een AI-systeem;
+• het genereren van marketingmateriaal.
+**C) Gebruik van AI door ING Bank NV**
+ING Bank NV, mag bijvoorbeeld als moedermaatschappij van ING België NV/SA, persoonsgegevens verwerken van klanten die verzameld en opgeslagen worden in het kader van preventie van fraude en financiële criminaliteit, met als doel om de efficiëntie en effectiviteit van de inzet van Artificiële Intelligentie vast te kunnen stellen, ter verbetering van de processen van ING Group in het kader van preventie van fraude en financiële criminaliteit.
+ING Bank NV voert zulke testactiviteiten uit op basis van haar legitieme belang om nieuwe technologieën in te zetten ter preventie, detectie en beheersing van financiële criminaliteit en fraudeleuze activiteiten en bij te dragen aan de veiligheid en stabiliteit van het financiële systeem.
+Bij het beroepen op haar legitieme belang draagt ING Bank NV er zorg voor dat de verwerking evenredig blijft, met inachtneming van de beginselen van gegevensbescherming door ontwerp en dat de belangen en fundamentele rechten van de betrokkenen worden gewaarborgd.

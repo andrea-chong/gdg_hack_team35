@@ -1,0 +1,27 @@
+# Verification of payee - ING Belgium - Verification of the name of the payee
+
+## FAQ
+
+### What are the benefits for customers ?
+
+* Increases confidence that your money reaches the right person.
+* Automatic verification by the bank saves time and avoids errors.
+* Helps preventing fraud, such as invoice fraud.
+
+### How does it work ?
+
+* When you submit a transfer order, your bank checks with the beneficiary's bank to ensure that the account number (IBAN) and the beneficiary's name match. As a customer, you don't need to take any additional steps, as this verification is automatic.
+* If the name and account number do not (completely) match, your bank will notify you.
+* After notification, you can decide whether to make the transfer with or without the adjustments. Nothing changes in this regard, and, as is already the case today, you are responsible for the transfers you make. This notification serves as a warning. If the data does not (completely) match, we recommend that you always verify the beneficiary to avoid fraud and incorrect transfers.
+
+### Possible Verification Results
+
+* The name entered **matches** the beneficiary's name.
+* The name entered **almost matches** the beneficiary's name: you may have made a typo, or the name entered is slightly different from the correct one. In this case, the bank will always provide the correct beneficiary's name.
+* The name entered **does not match** the beneficiary's name. If you decide to continue without making any changes, the amount may end up with the wrong beneficiary. If the beneficiary is a legal entity, the bank will also provide the correct beneficiary's name.
+* In exceptional cases, verification **may not be possible** due to a technical malfunction or because the beneficiary's bank was unable to respond (in time). Your bank will inform you of this.
+
+### What notification do I receive when I enter the correct name ?
+
+When the name entered and the account match, you'll see a green checkbox (✅) or a message such as:
+"The name entered matches the beneficiary's name."

@@ -1,0 +1,14 @@
+# Simuleer de verwachte groei van je spaargeld! - ING België - Simuleer de potentiële groei van je spaargeld!
+
+## Geïnteresseerd in onze gereglementeerde spaarrekeningen?
+
+### Kosten
+
+Het openen en sluiten van de spaarrekening is geheel gratis, net als overschrijvingen. Online transacties en rekeninguittreksels via Home’Bank zijn gratis. De kosten om rekeninguittreksels van de ING Spaarrekening per post te versturen, bedragen €5/jaar + portokosten (zie geldende tarieven ).
+
+### Fiscaliteit
+
+Je betaalt geen roerende voorheffing als de rente op je ING Spaarrekening minder dan 1.050 euro bedraagt. Dit bedrag wordt verdubbeld voor rekeningen op naam van gehuwden of wettelijk samenwonenden, d.w.z. een maximum van 2.100 euro (voor aanslagjaar 2026 - inkomsten 2025).
+Als je rente hoger is dan 1.050 euro (2.100 euro voor gehuwden of wettelijk samenwonenden), betaal je 15% roerende voorheffing op de rente boven dit bedrag (voor aanslagjaar 2026 - inkomsten 2025).
+Dit fiscaal stelsel is van toepassing op natuurlijke personen die in België wonen. Voor anderen kan een andere fiscale behandeling gelden.
+Er wordt geen rekening gehouden met belastingen in de bovenstaande simulator.

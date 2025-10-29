@@ -1,0 +1,21 @@
+# Vergelijk onze spaarrekeningen - ING België - Vergelijk onze spaarrekeningen voor je kind
+
+## Een financiële toekomst opbouwen voor je kind? Daar dient een spaarrekening voor.
+
+Maandelijks sparen of op momenten die je uitkomen? Jij bepaalt hoeveel en wanneer!
+Onze gereglementeerde spaarrekeningen worden aangeboden door ING België NV, een Belgische financiële instelling. Je vindt de rentevoeten die van toepassing zijn online op ing.be en in alle ING-kantoren. Als de rente wijzigt, brengen we je als rekeninghouder op de hoogte via je rekeninguittreksels.
+START TABLE IN MARKDOWN
+| | ING Spaarrekening voor je kind (cat. A¹) | ING Tempo Sparen voor je kind (cat. B¹) |
+| - | - | - |
+| Spaardoel | Spaar zoals je wenst | Spaar op een recurrente manier |
+| Basisrentevoet² | 0.10% op jaarbasis | 0.75% op jaarbasis |
+| Getrouwheidspremie³ | 1.15% op jaarbasis | 1.50% op jaarbasis |
+| Kosten | Openen, sluiten & online verrichtingen➡️ Gratis | Openen, sluiten & online verrichtingen➡️ Gratis |
+| Rekeninghouder(s) | Openen op naam van je kind | Openen op naam van je kind |
+| Aantal | ✅ Geen limiet | ❌ Maximaal 1 per kind |
+| Maximale storting | ✅ Geen limiet | ❌ Maximaal €500/maand |
+| Minimale storting | ✅ Geen limiet | ✅ Geen limiet |
+END TABLE IN MARKDOWN
+¹ Meer informatie over de categorieën .
+² De **basisrente** wordt opgebouwd vanaf de dag nadat het geld op de rekening is gestort tot de dag dat het wordt opgenomen. De basisrente wordt op je rekening gestort op de valutadatum 1 januari of wanneer je je rekening sluit.
+³ De **getrouwheidspremie** wordt enkel verworven op bedragen die ononderbroken op de gereglementeerde spaarrekening zijn gebleven gedurende 12 maanden vanaf de dag na storting. De getrouwheidspremie die geldig is op het moment van de storting blijft gedurende een periode van 12 maanden ongewijzigd. De premie wordt gestort op de eerste dag na ieder kwartaal waarin de getrouwheidspremie is verworven, of bij het sluiten van de rekening.

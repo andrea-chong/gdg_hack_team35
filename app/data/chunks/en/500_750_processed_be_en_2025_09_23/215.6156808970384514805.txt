@@ -1,0 +1,12 @@
+# Free long-term savings account - ING Belgium - The classic savings account
+
+## Now is the moment to start saving
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Accessible to anyone | Already a customer? Open your ING Savings Account easily on your preferred digital channel or in an ING branch. Not a customer yet? Become an ING client & open your ING Savings Account online or via an ING branch |
+| Save at your own pace | Manage your funds with flexibility. Credit your ING Savings account freely from any account with no deposit limit. |
+| Access your funds when needed | You can transfer the necessary funds at any time to a current account with the same account holder(s) as the savings account. For customers who do not have a current account with ING, it is possible to add a reference account at another Belgian bank, via this online form . This external reference account will be the only current account to which you can transfer money from your ING Savings Account. |
+| No extra fees | Opening/closing/annual statement is for free. The cost of sending the account statements of the ING Savings Account and the ING Green Savings Account by post is €5/year + postal charges ( list of current rates ). |
+END TABLE IN MARKDOWN
