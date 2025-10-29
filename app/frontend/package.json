@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "ing-voice-frontend",
   "private": true,
   "version": "0.0.1",
@@ -13,9 +13,10 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "typescript": "^5.6.3",
-    "vite": "^5.4.10",
     "@types/react": "^18.3.5",
-    "@types/react-dom": "^18.3.0"
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
   }
 }
