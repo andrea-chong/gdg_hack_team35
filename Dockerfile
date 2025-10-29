@@ -1,32 +1,42 @@
-# --- Frontend build stage ---
+# --- Frontend build (Vite/React) ---
 FROM node:20-alpine AS frontend
-WORKDIR /frontend
-COPY frontend/package*.json ./
+WORKDIR /app/frontend
+
+# Copy only package files first for better caching
+COPY app/frontend/package*.json ./
 RUN npm ci
-COPY frontend/ .
+
+# Copy the rest of the frontend and build
+COPY app/frontend/ ./
 RUN npm run build
 
-# --- Backend runtime stage ---
-FROM python:3.11-slim
+# --- Backend runtime (FastAPI) ---
+FROM python:3.11-slim AS backend
+
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
-    PIP_NO_CACHE_DIR=1 \
-    PORT=8080
+    PIP_NO_CACHE_DIR=1
+
 WORKDIR /app
 
-# If you need system deps, uncomment and add them
-# RUN apt-get update && apt-get install -y --no-install-recommends \
-#     build-essential && rm -rf /var/lib/apt/lists/*
+# System deps for Google SDKs (grpc, build essentials)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+      build-essential ca-certificates curl \
+    && rm -rf /var/lib/apt/lists/*
 
-# Install Python deps
-COPY backend/requirements.txt /app/requirements.txt
-RUN pip install -r /app/requirements.txt
+# Python deps
+COPY requirements.txt .
+RUN pip install -r requirements.txt
 
-# Copy backend code
-COPY backend/ /app/
+# Copy backend code and data
+COPY app/backend ./app/backend
+COPY app/data ./app/data
 
-# Copy built frontend to be served as static files
-COPY --from=frontend /frontend/dist /app/static
+# Copy built frontend (served as static files by backend if you do that),
+# or just to keep in the image for Nginx/static middleware later.
+COPY --from=frontend /app/frontend/dist ./app/frontend/dist
 
+# If your FastAPI app file is app/backend/main.py:
 EXPOSE 8080
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["uvicorn", "app.backend.main:app", "--host", "0.0.0.0", "--port", "8080"]
+
