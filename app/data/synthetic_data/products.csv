@@ -1,0 +1,51 @@
+product_id,customer_id,product_type,product_name,opened_date,status
+2001,1001,Current Account,ING Lion Account,2010-05-01,Active
+2002,1001,Savings Account,ING Savings,2012-09-15,Active
+2003,1001,Credit Card,ING Visa Classic,2015-03-10,Blocked by ING
+2004,1001,Debit Card,ING Debit,2018-07-22,Active
+2005,1002,Current Account,ING Lion Account,2008-03-20,Active
+2006,1002,Savings Account,ING Savings,2015-11-10,Active
+2007,1002,Credit Card,ING Visa Gold,2016-04-18,Blocked by Customer
+2008,1002,Debit Card,ING Debit,2019-09-30,Active
+2009,1003,Current Account,ING Lion Account,2017-02-28,Active
+2010,1003,Credit Card,ING Visa Classic,2018-06-12,Active
+2011,1003,Debit Card,ING Debit,2019-01-15,Blocked by Customer
+2012,1004,Current Account,ING Lion Account,2005-07-19,Active
+2013,1004,Credit Card,ING Visa Classic,2010-10-10,Active
+2014,1004,Debit Card,ING Debit,2012-12-12,Active
+2015,1004,Investment Account,ING Invest,2015-05-05,Active
+2016,1005,Current Account,ING Lion Account,2020-01-05,Active
+2017,1005,Savings Account,ING Savings,2020-01-05,Active
+2018,1005,Credit Card,ING Visa Gold,2021-03-03,Active
+2019,1005,Debit Card,ING Debit,2022-04-04,Active
+2020,1006,Youth Account,ING Lion Junior,2020-04-15,Active
+2021,1006,Debit Card,ING Debit Junior,2020-04-15,Active
+2022,1007,Youth Account,ING Lion Junior,2019-09-22,Active
+2023,1007,Debit Card,ING Debit Junior,2019-09-22,Active
+2024,1008,Current Account,ING Lion Account,2018-01-01,Active
+2025,1008,Credit Card,ING Visa Classic,2018-02-15,Active
+2026,1008,Debit Card,ING Debit,2018-01-01,Blocked by Customer
+2027,1009,Current Account,ING Lion Account,2015-03-10,Active
+2028,1009,Savings Account,ING Savings,2015-04-20,Active
+2029,1009,Investment Account,ING Invest,2016-05-15,Active
+2030,1009,Credit Card,ING Visa Gold,2015-03-10,Active
+2031,1010,Current Account,ING Lion Account,2012-07-01,Active
+2032,1010,Credit Card,ING Visa Classic,2013-08-15,Blocked by ING
+2033,1010,Debit Card,ING Debit,2012-07-01,Active
+2034,1031,Current Account,ING Lion Account,2015-08-01,Active
+2035,1031,Savings Account,ING Savings,2015-09-15,Active
+2036,1031,Credit Card,ING Visa Gold,2016-01-10,Active
+2037,1032,Current Account,ING Lion Account,2018-02-20,Active
+2038,1032,Investment Account,ING Invest,2018-03-15,Active
+2039,1032,Credit Card,ING Visa Classic,2018-04-01,Blocked by Customer
+2040,1033,Current Account,ING Lion Account,2019-05-10,Active
+2041,1033,Savings Account,ING Savings,2019-06-15,Active
+2042,1034,Current Account,ING Lion Account,2017-07-20,Active
+2043,1034,Credit Card,ING Visa Gold,2017-08-25,Active
+2044,1035,Current Account,ING Lion Account,2020-09-01,Active
+2045,1035,Savings Account,ING Savings,2020-10-15,Active
+2046,1036,Youth Account,ING Lion Junior,2021-11-01,Active
+2047,1036,Debit Card,ING Debit Junior,2021-11-01,Active
+2048,1037,Youth Account,ING Lion Junior,2022-01-10,Active
+2049,1037,Debit Card,ING Debit Junior,2022-01-10,Active
+2050,1038,Current Account,ING Lion Account,2016-02-15,Active

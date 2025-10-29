@@ -1,0 +1,52 @@
+customer_id,name,birthdate,email,phone,address,segment_code
+1001,Anna Janssens,1985-03-12,anna.janssens@example.com,+32470123456,"Rue de la Loi 12, 1000 Brussels",ADULT
+1002,Bart Peeters,1978-07-25,bart.peeters@example.com,+32470123457,"Koning Albertlaan 5, 9000 Gent",ADULT
+1003,Chantal De Smet,1992-11-03,chantal.desmet@example.com,+32470123458,"Meir 22, 2000 Antwerpen",ADULT
+1004,David Vermeulen,1969-01-17,david.vermeulen@example.com,+32470123459,"Place du Luxembourg 8, 1050 Brussels",ADULT
+1005,Eva Maes,1999-06-30,eva.maes@example.com,+32470123460,"Groenplaats 1, 2000 Antwerpen",ADULT
+1006,Lucas Janssens,2012-04-15,lucas.janssens@example.com,+32470123461,"Rue de la Loi 12, 1000 Brussels",CHILD
+1007,Marie Peeters,2010-09-22,marie.peeters@example.com,+32470123462,"Koning Albertlaan 5, 9000 Gent",CHILD
+1008,Sophie Van den Berg,2000-01-01,sophie.vandenberg@example.com,+32470123463,"Nieuwstraat 10, 1000 Brussels",ADULT
+1009,Thomas Wouters,1995-02-02,thomas.wouters@example.com,+32470123464,"Veldstraat 15, 9000 Gent",ADULT
+1010,Julie De Vries,1988-03-03,julie.devries@example.com,+32470123465,"Steenweg 20, 2000 Antwerpen",ADULT
+1011,Emma Janssens,2015-05-05,emma.janssens@example.com,+32470123466,"Groenplaats 1, 2000 Antwerpen",CHILD
+1012,Noah Peeters,2013-07-07,noah.peeters@example.com,+32470123467,"Place du Luxembourg 8, 1050 Brussels",CHILD
+1013,Lisa Maertens,1982-04-04,lisa.maertens@example.com,+32470123468,"Meir 22, 2000 Antwerpen",ADULT
+1014,Marc Dubois,1973-05-05,marc.dubois@example.com,+32470123469,"Nieuwstraat 10, 1000 Brussels",ADULT
+1015,Sarah De Vos,2011-06-06,sarah.devos@example.com,+32470123470,"Koning Albertlaan 5, 9000 Gent",CHILD
+1016,Lucas Van Hove,2014-08-08,lucas.vanhove@example.com,+32470123471,"Steenweg 20, 2000 Antwerpen",CHILD
+1017,Prospect One,1990-06-06,prospect.one@example.com,+32470123472,"Veldstraat 15, 9000 Gent",PROSPECT
+1018,Prospect Two,1987-07-07,prospect.two@example.com,+32470123473,"Groenplaats 1, 2000 Antwerpen",PROSPECT
+1019,Liam De Sutter,2012-09-09,liam.desutter@example.com,+32470123474,"Place du Luxembourg 8, 1050 Brussels",CHILD
+1020,Olivia Claes,2013-10-10,olivia.claes@example.com,+32470123475,"Meir 22, 2000 Antwerpen",CHILD
+1021,Prospect Three,1993-08-08,prospect.three@example.com,+32470123476,"Nieuwstraat 10, 1000 Brussels",PROSPECT
+1022,Prospect Four,1989-09-09,prospect.four@example.com,+32470123477,"Koning Albertlaan 5, 9000 Gent",PROSPECT
+1023,Mila De Bakker,2014-11-11,mila.debakker@example.com,+32470123478,"Steenweg 20, 2000 Antwerpen",CHILD
+1024,Arthur Jacobs,2015-12-12,arthur.jacobs@example.com,+32470123479,"Veldstraat 15, 9000 Gent",CHILD
+1025,Sofia Martens,1991-10-10,sofia.martens@example.com,+32470123480,"Groenplaats 1, 2000 Antwerpen",ADULT
+1026,Vincent De Clercq,1988-02-12,vincent.declercq@example.com,+32470123481,"Nieuwstraat 10, 1000 Brussels",ADULT
+1027,Laura Van Damme,1983-03-13,laura.vandamme@example.com,+32470123482,"Koning Albertlaan 5, 9000 Gent",ADULT
+1028,Michael Stevens,1990-04-14,michael.stevens@example.com,+32470123483,"Meir 22, 2000 Antwerpen",ADULT
+1029,Emma Vandenberghe,1975-05-15,emma.vandenberghe@example.com,+32470123484,"Place du Luxembourg 8, 1050 Brussels",ADULT
+1030,Louis Verstraete,1995-06-16,louis.verstraete@example.com,+32470123485,"Groenplaats 1, 2000 Antwerpen",ADULT
+customer_id,name,birthdate,email,phone,address,segment_code
+1031,Nina Willems,1989-07-17,nina.willems@example.com,+32470123486,"Kortrijksesteenweg 45, 9000 Gent",ADULT
+1032,Karel Janssen,1994-08-18,karel.janssen@example.com,+32470123487,"Leopoldlaan 22, 8300 Knokke",ADULT
+1033,Elena Petrova,1991-09-19,elena.petrova@example.com,+32470123488,"Avenue Louise 250, 1050 Brussels",ADULT
+1034,Simon De Groot,1984-10-20,simon.degroot@example.com,+32470123489,"Turnhoutsebaan 88, 2140 Antwerpen",ADULT
+1035,Clara Vermeersch,1997-11-21,clara.vermeersch@example.com,+32470123490,"Sint-Pietersnieuwstraat 12, 9000 Gent",ADULT
+1036,Max Thijs,2013-12-22,max.thijs@example.com,+32470123491,"Bondgenotenlaan 15, 3000 Leuven",CHILD
+1037,Luna De Smet,2014-01-23,luna.desmet@example.com,+32470123492,"Meir 50, 2000 Antwerpen",CHILD
+1038,Oliver Lambert,1986-02-24,oliver.lambert@example.com,+32470123493,"Rue Royale 100, 1000 Brussels",ADULT
+1039,Emma Verbeke,1993-03-25,emma.verbeke@example.com,+32470123494,"Veldstraat 88, 9000 Gent",ADULT
+1040,Prospect Five,1992-04-26,prospect.five@example.com,+32470123495,"Kerkstraat 55, 8500 Kortrijk",PROSPECT
+1041,Liam Coppens,2012-05-27,liam.coppens@example.com,+32470123496,"Brusselsestraat 40, 3000 Leuven",CHILD
+1042,Sophie Martens,1988-06-28,sophie.martens@example.com,+32470123497,"Noorderlaan 75, 2030 Antwerpen",ADULT
+1043,Thomas Van Hoof,1995-07-29,thomas.vanhoof@example.com,+32470123498,"Groenkruidlaan 20, 1020 Brussels",ADULT
+1044,Prospect Six,1990-08-30,prospect.six@example.com,+32470123499,"Koning Albertlaan 100, 9000 Gent",PROSPECT
+1045,Mila Dubois,2015-09-01,mila.dubois@example.com,+32470123500,"Sint-Jacobsmarkt 5, 2000 Antwerpen",CHILD
+1046,Lucas Peeters,1987-10-02,lucas.peeters@example.com,+32470123501,"Avenue des Arts 10, 1210 Brussels",ADULT
+1047,Emma De Vos,1996-11-03,emma.devos@example.com,+32470123502,"Korenmarkt 8, 9000 Gent",ADULT
+1048,Arthur Claes,2014-12-04,arthur.claes@example.com,+32470123503,"Nationalestraat 15, 2000 Antwerpen",CHILD
+1049,Noah Van Dyck,2013-01-05,noah.vandyck@example.com,+32470123504,"Nieuwstraat 30, 1000 Brussels",CHILD
+1050,Prospect Seven,1991-02-06,prospect.seven@example.com,+32470123505,"Overpoortstraat 25, 9000 Gent",PROSPECT

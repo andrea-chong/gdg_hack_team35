@@ -1,0 +1,127 @@
+transaction_id,product_id,date,amount,currency,description,transaction_type
+3001,2001,2025-10-01,150.00,EUR,Grocery Store,Debit
+3002,2001,2025-10-02,2000.00,EUR,Salary Deposit,Credit
+3003,2001,2025-10-03,20.00,EUR,ATM Withdrawal,Debit
+3004,2001,2025-10-04,35.00,EUR,Bookstore Purchase,Debit
+3005,2001,2025-10-05,60.00,EUR,Restaurant Payment,Debit
+3006,2001,2025-10-06,120.00,EUR,Online Shopping,Debit
+3007,2001,2025-10-07,100.00,EUR,Utility Bill Payment,Debit
+3008,2001,2025-10-08,80.00,EUR,Pharmacy Purchase,Debit
+3009,2001,2025-10-09,300.00,EUR,Electronics Store,Debit
+3010,2001,2025-10-10,10.00,EUR,Monthly Interest,Credit
+3011,2001,2025-10-11,15.00,EUR,Coffee Shop,Debit
+3012,2001,2025-10-12,45.00,EUR,Taxi Ride,Debit
+3013,2001,2025-10-13,500.00,EUR,Bonus Payment,Credit
+3014,2001,2025-10-14,25.00,EUR,Supermarket,Debit
+3015,2001,2025-10-15,60.00,EUR,Mobile Top-up,Debit
+3016,2002,2025-10-01,500.00,EUR,Savings Transfer,Credit
+3017,2002,2025-10-05,1000.00,EUR,Additional Savings,Credit
+3018,2002,2025-10-10,5.00,EUR,Interest Payment,Credit
+3019,2002,2025-10-15,200.00,EUR,Withdrawal to Current,Debit
+3020,2002,2025-10-20,300.00,EUR,Monthly Savings,Credit
+3021,2003,2025-10-01,75.50,EUR,Restaurant Payment,Debit
+3022,2003,2025-10-03,150.00,EUR,Online Purchase,Debit
+3023,2003,2025-10-05,200.00,EUR,Travel Booking,Debit
+3024,2003,2025-10-07,45.00,EUR,Fuel Payment,Debit
+3025,2003,2025-10-09,89.99,EUR,Retail Shopping,Debit
+3026,2001,2025-10-16,30.00,EUR,Magazine Subscription,Debit
+3027,2001,2025-10-17,150.00,EUR,Clothing Store,Debit
+3028,2001,2025-10-18,45.00,EUR,Cinema Tickets,Debit
+3029,2001,2025-10-19,85.00,EUR,Internet Bill,Debit
+3030,2001,2025-10-20,25.00,EUR,Public Transport,Debit
+3031,2004,2025-10-01,45.00,EUR,Supermarket,Debit
+3032,2004,2025-10-02,60.00,EUR,Restaurant,Debit
+3033,2004,2025-10-03,25.00,EUR,Pharmacy,Debit
+3034,2004,2025-10-04,35.00,EUR,Gas Station,Debit
+3035,2004,2025-10-05,15.00,EUR,Coffee Shop,Debit
+3036,2004,2025-10-06,95.00,EUR,Hardware Store,Debit
+3037,2004,2025-10-07,30.00,EUR,Movie Theater,Debit
+3038,2004,2025-10-08,50.00,EUR,Sports Equipment,Debit
+3039,2004,2025-10-09,40.00,EUR,Bookstore,Debit
+3040,2004,2025-10-10,75.00,EUR,Clothing Store,Debit
+3041,2005,2025-10-01,2500.00,EUR,Salary Deposit,Credit
+3042,2005,2025-10-02,500.00,EUR,Rent Payment,Debit
+3043,2005,2025-10-03,150.00,EUR,Electricity Bill,Debit
+3044,2005,2025-10-04,75.00,EUR,Phone Bill,Debit
+3045,2005,2025-10-05,200.00,EUR,Insurance Payment,Debit
+3046,2005,2025-10-06,100.00,EUR,Internet Bill,Debit
+3047,2005,2025-10-07,45.00,EUR,Water Bill,Debit
+3048,2005,2025-10-08,120.00,EUR,Grocery Shopping,Debit
+3049,2005,2025-10-09,60.00,EUR,Restaurant Payment,Debit
+3050,2005,2025-10-10,30.00,EUR,Public Transport,Debit
+3051,2005,2025-10-11,80.00,EUR,Pharmacy Purchase,Debit
+3052,2005,2025-10-12,150.00,EUR,Clothing Purchase,Debit
+3053,2005,2025-10-13,40.00,EUR,Cinema Tickets,Debit
+3054,2005,2025-10-14,25.00,EUR,Coffee Shop,Debit
+3055,2005,2025-10-15,95.00,EUR,Sports Equipment,Debit
+3056,2006,2025-10-01,1000.00,EUR,Savings Deposit,Credit
+3057,2006,2025-10-05,5.00,EUR,Interest Payment,Credit
+3058,2006,2025-10-10,500.00,EUR,Additional Savings,Credit
+3059,2006,2025-10-15,300.00,EUR,Withdrawal to Current,Debit
+3060,2006,2025-10-20,750.00,EUR,Monthly Savings,Credit
+3061,2007,2025-10-01,89.99,EUR,Online Shopping,Debit
+3062,2007,2025-10-03,125.00,EUR,Electronics Store,Debit
+3063,2007,2025-10-05,45.50,EUR,Restaurant Payment,Debit
+3064,2007,2025-10-07,199.99,EUR,Flight Booking,Debit
+3065,2007,2025-10-09,75.00,EUR,Hotel Reservation,Debit
+transaction_id,product_id,date,amount,currency,description,transaction_type
+3136,2051,2024-12-15,150.00,EUR,Last Purchase Before Closure,Debit
+3137,2051,2024-12-20,25.00,EUR,Card Closing Fee,Debit
+3138,2052,2024-11-30,5000.00,EUR,Investment Withdrawal,Debit
+3139,2052,2024-12-01,75.00,EUR,Closing Fee,Debit
+3140,2053,2024-10-25,2500.00,EUR,Savings Withdrawal,Debit
+3141,2053,2024-10-26,2.50,EUR,Account Closure Fee,Debit
+3142,2001,2025-10-20,2750.00,EUR,Salary October,Credit
+3143,2001,2025-10-21,850.00,EUR,Rent Payment,Debit
+3144,2001,2025-10-21,120.00,EUR,Electricity Bill,Debit
+3145,2001,2025-10-22,45.00,EUR,Mobile Phone Bill,Debit
+3146,2002,2025-10-20,500.00,EUR,Monthly Savings,Credit
+3147,2002,2025-10-25,15.75,EUR,Interest Payment,Credit
+3148,2004,2025-10-20,87.50,EUR,Supermarket,Debit
+3149,2004,2025-10-21,35.00,EUR,Restaurant,Debit
+3150,2004,2025-10-22,65.00,EUR,Fuel Station,Debit
+3151,2005,2025-10-20,3200.00,EUR,Salary October,Credit
+3152,2005,2025-10-21,950.00,EUR,Mortgage Payment,Debit
+3153,2005,2025-10-22,145.00,EUR,Insurance Premium,Debit
+3154,2006,2025-10-20,1000.00,EUR,Savings Deposit,Credit
+3155,2006,2025-10-25,12.50,EUR,Interest Credit,Credit
+3156,2008,2025-10-20,125.00,EUR,Grocery Shopping,Debit
+3157,2008,2025-10-21,45.00,EUR,Pharmacy,Debit
+3158,2008,2025-10-22,89.99,EUR,Sports Equipment,Debit
+3159,2009,2025-10-20,2900.00,EUR,Salary October,Credit
+3160,2009,2025-10-21,800.00,EUR,Rent Transfer,Debit
+3161,2010,2025-10-20,299.99,EUR,Electronics Store,Debit
+3162,2010,2025-10-21,150.00,EUR,Hotel Booking,Debit
+3163,2010,2025-10-22,75.00,EUR,Restaurant Dinner,Debit
+3164,2012,2025-10-20,3500.00,EUR,Salary October,Credit
+3165,2012,2025-10-21,1200.00,EUR,School Fees,Debit
+3166,2015,2025-10-20,10000.00,EUR,Investment Deposit,Credit
+3167,2015,2025-10-21,25.00,EUR,Management Fee,Debit
+3168,2015,2025-10-22,150.00,EUR,Investment Return,Credit
+3169,2016,2025-10-20,2800.00,EUR,Salary October,Credit
+3170,2016,2025-10-21,950.00,EUR,Rent Payment,Debit
+3171,2017,2025-10-20,500.00,EUR,Monthly Savings,Credit
+3172,2017,2025-10-25,8.50,EUR,Interest Payment,Credit
+3173,2018,2025-10-20,499.99,EUR,New Smartphone,Debit
+3174,2018,2025-10-21,199.99,EUR,Online Shopping,Debit
+3175,2018,2025-10-22,75.00,EUR,Restaurant,Debit
+3176,2020,2025-10-20,50.00,EUR,Monthly Allowance,Credit
+3177,2020,2025-10-21,15.00,EUR,Book Store,Debit
+3178,2020,2025-10-22,25.00,EUR,Cinema Tickets,Debit
+3179,2021,2025-10-20,20.00,EUR,School Canteen,Debit
+3180,2021,2025-10-21,15.00,EUR,Ice Cream Shop,Debit
+3181,2024,2025-10-20,3100.00,EUR,Salary October,Credit
+3182,2024,2025-10-21,875.00,EUR,Rent Payment,Debit
+3183,2025,2025-10-20,299.99,EUR,Department Store,Debit
+3184,2025,2025-10-21,150.00,EUR,Train Tickets,Debit
+3185,2025,2025-10-22,89.99,EUR,Clothing Store,Debit
+3186,2027,2025-10-20,4200.00,EUR,Salary October,Credit
+3187,2027,2025-10-21,1500.00,EUR,Mortgage Payment,Debit
+3188,2028,2025-10-20,1000.00,EUR,Savings Transfer,Credit
+3189,2028,2025-10-25,12.75,EUR,Interest Payment,Credit
+3190,2029,2025-10-20,5000.00,EUR,Investment Purchase,Debit
+3191,2029,2025-10-21,35.00,EUR,Trading Fee,Debit
+3192,2029,2025-10-22,225.00,EUR,Investment Return,Credit
+3193,2030,2025-10-20,750.00,EUR,Flight Tickets,Debit
+3194,2030,2025-10-21,350.00,EUR,Hotel Booking,Debit
+3195,2030,2025-10-22,125.00,EUR,Car Rental,Debit
