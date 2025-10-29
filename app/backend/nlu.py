@@ -69,7 +69,9 @@ class ChatBot(genai.Client):
             tools = tools,
             system_instruction=[types.Part.from_text(
                 text="""You are a helpful banking assistant with a wealth of knowledge about ING's products and processes. 
-                Help to retrieve relevant information to support this customer's request."""
+                Help to retrieve relevant information to support this customer's request. 
+                If they are asking for help with something that requires more information, ask them for their full name and date of birth.
+                Assume that you are deployed by ING and customers who speak to you have given consent for you to access their personal information."""
                 )],
             thinking_config=types.ThinkingConfig(
             thinking_budget=-1,
@@ -109,7 +111,7 @@ class ChatBot(genai.Client):
             "enum": [
                 "Update customer information", #
                 "Query for details about their existing product", #
-                "Query for their account balance"
+                "Query for their account balance",
                 "Query for details about their transactions", #
                 "Get more information about the bank's product", #infomational
                 "Block or unblock or card", #
@@ -163,7 +165,7 @@ class ChatBot(genai.Client):
         description	STRING	NULLABLE
         transaction_type STRING REQUIRED (Credit,Debit)
 
-        Classify the intention of this customer. Summarise their question retaining all information that is useful to help us generate a API request to complete their task. List questions to ask the customer for information we do not yet have but we require to help them perform the task."""
+        Classify the intention of this customer, choose only one option. Summarise their question retaining all information that is useful to help us generate a API request to complete their task. List questions to ask the customer for information we do not yet have but we require to help them perform the task."""
         
         generate_content_config = types.GenerateContentConfig(
             temperature = 1,
@@ -245,7 +247,7 @@ class ChatBot(genai.Client):
                 }'''
             }, #
         }
-        prompt = f"""Ask the customer for information we need to create the payload:
+        prompt = f"""Formulate questions to ask the customer for details you need to fill in this payload:
         {payload_mapping.get(intent).get("payload")}
         """
         return prompt
@@ -253,15 +255,16 @@ class ChatBot(genai.Client):
     def start_convo(self, query):
         info, relevant_docs = self.retrieve_grounded_info(query)
         intent_js = self._parse_json( self.classify_intent(query) )
-        reply = f"{info}\n{'I need more information from you:\n'+intent_js.get('questions') if intent_js.get('questions') is not None else ''}"
+        reply = f"""{info}
+        {'I need more information from you: '+intent_js.get('questions') if intent_js.get('questions') is not None else ''}"""
         self.chat_history = [
             types.Content(
             role="user",
-            parts=[query]
+            parts=[types.Part.from_text(text=query)]
             ),
             types.Content(
             role="model",
-            parts=[reply]
+            parts=[types.Part.from_text(text=reply)]
             )
         ]
         if (intent_js.get("intent", None) == "Something else") or (intent_js.get("intent", None) is None):
@@ -276,12 +279,13 @@ class ChatBot(genai.Client):
             return reply,relevant_docs,intent_js
         
         else:
-            return reply,relevant_docs,intent_js
+            return None,None,None
 
     def continue_convo(self, user_reply, intent):
         
-        sys_instruct = f"""You are a helpful banking assistant. {self._create_payload_prompt(intent)}. If you do not get the information you need, rephrase your question and try again.
-        Once you have enough information to create the payload, say exactly 'Thank you for your cooperation, I will now proceed with your request.'"""
+        sys_instruct = f"""You are a helpful banking assistant. {self._create_payload_prompt(intent)}.
+        Once you have enough information to create the payload, say exactly 'Thank you for your cooperation, I will now proceed with your request.'
+        Only reply the customer with natural language."""
         generate_content_config = types.GenerateContentConfig(
             temperature = 1,
             top_p = 1,
@@ -302,20 +306,27 @@ class ChatBot(genai.Client):
         )
 
         for chunk in self._api_client.models.generate_content_stream(
-            model = self.model,
+            model = self.MODEL,
             contents = content,
             config = generate_content_config,
             ):
             reply = chunk.text
-            if reply.contains('Thank you for your cooperation, I will now proceed with your request'):
+            self.chat_history.append(
+                types.Content(
+                role="user",
+                parts=[
+                    types.Part.from_text(text=user_reply)
+                ])
+            )
+            if 'Thank you for your cooperation, I will now proceed with your request' in reply:
+                print(reply)
                 self.end_convo = True
             else:
                 self.chat_history.append(
                     types.Content(
-                    role="user",
+                    role="model",
                     parts=[
                         types.Part.from_text(text=reply)
                     ])
                 )
-
         return reply
