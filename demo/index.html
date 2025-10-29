@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>ING Voice — TTS Demo</title>
+  <style>
+    body { font-family: ui-sans-serif, system-ui; max-width: 680px; margin: 40px auto; }
+    label, input, select, button { font-size: 16px; }
+    .row { margin: 12px 0; }
+  </style>
+</head>
+<body>
+  <h1>ING Voice — TTS Demo</h1>
+  <div class="row">
+    <label>Text</label><br/>
+    <input id="text" value="Hello judges" style="width:100%"/>
+  </div>
+  <div class="row">
+    <label>Language</label><br/>
+    <select id="lang">
+      <option value="en-GB">English (GB)</option>
+      <option value="nl-BE">Dutch (BE)</option>
+      <option value="fr-BE">French (BE)</option>
+    </select>
+  </div>
+  <div class="row">
+    <button id="go">Speak</button>
+  </div>
+  <audio id="player" controls></audio>
+
+  <script>
+    const API = "<PUT YOUR CLOUD RUN URL HERE>"; // e.g. https://ing-voice-xxxxx-uw.a.run.app
+    document.getElementById("go").onclick = async () => {
+      const text = document.getElementById("text").value;
+      const lang = document.getElementById("lang").value;
+      const res = await fetch(`${API}/tts`, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({ text, lang })
+      });
+      const data = await res.json();
+      const mp3 = "data:audio/mpeg;base64," + data.audio;
+      const player = document.getElementById("player");
+      player.src = mp3;
+      player.play();
+    };
+  </script>
+</body>
+</html>
